@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta property="og:image" content="{{ site.baseurl }}/images/logos/engineroom.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://library.theengineroom.org/" />
+    <meta property="og:title" content="" />
+    
+    <link href="{{site.baseurl}}/images/favicon.png" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/styles/main.css?v={{site.time | date: '%s'}}" />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="{{site.baseurl}}/scripts/site.js"></script>
+
+    <title>Engine Room Library {% if page.title %} - {{page.title}}{% endif %}</title>
+    {% if page.scripts %}{{page.scripts}}{% endif %}
+  </head>
+
+  <body class="row {%if page.body_class%}{{page.body_class}}"{%endif%}>
+    <nav class="three columns">
+      <div class="logo">
+        <a href="http://theengineroom.org"><img src="{{site.baseurl}}/images/logos/engineroom.png" alt="Engine Room" /></a>
+      </div>
+      {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+      {% include navbar.html %}
+    </nav>
+
+    <section class="content nine columns offset-by-three">
+      {{ content }}
+    </section>
+
+    <footer class="twelve columns row">
+      <div class="nine columns offset-by-three">
+        <div class="logo-flex">
+          <div class="logo two columns"><a href="http://theengineroom.org"><img src="{{site.baseurl}}/images/logos/engineroom.png" alt="Engine Room" /></a></div>
+          {% if page.funder_logo %}
+            <div class="logo two columns"><a href="{{page.funder_link}}"><img src="{{page.funder_logo}}" alt="{{page.funder_name}}" /></a></div>
+          {% endif %}
+        </div>
+        <div class="text six columns">
+          <p>{% if page.footer_text%}{{page.footer_text}}{%else%}
+            This site was created by the engine room to advance open knowledge and open standards.
+            {% endif %}
+          </p>
+          <div class="logo license u-center"><img src="{{site.baseurl}}/images/license.png"/></div>
+        </div>
+      </div>
+    </footer>
+
+      {% include analytics.html %}
+  </body>
+</html>

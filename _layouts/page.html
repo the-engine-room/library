@@ -1,0 +1,32 @@
+---
+layout: default
+body_class: page
+---
+
+<div class="page">
+
+  <div class="headlines">
+    <div class="icon"><img src="{{page.icon}}"></div>
+    <div class="text">
+      <h2> {{ page.headline }} </h2>
+      <h3> {{ page.subhead }} </h3>
+    </div>
+  </div>
+
+  <div class="text">
+    {{ content }}
+  </div>
+
+  <div class="next-prev-nav">
+    {% if page.next.url %}
+      &laquo;&nbsp;<a href="{{ page.next.url }}" rel="next" title="{{ page.next.title }}">{{ page.next.title }}</a>
+      &nbsp;|&nbsp;
+    {% endif %}
+    
+    {% if page.previous.url %}
+      &nbsp;|&nbsp;
+      <a href="{{ page.previous.url }}" rel="previous" title="{{ page.previous.title }}">{{ page.previous.title }}</a>&nbsp;&raquo;
+    {% endif %}
+  </div>
+
+</div>
