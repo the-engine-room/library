@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
 
 h1 {
-  font-size: 3.0rem;
+  font-size: 2.25rem;
+  @media (#{$bp-larger-than-mobile}) { font-size: 3rem; }
   line-height: 1.2; 
   letter-spacing: -.1rem;
 }
