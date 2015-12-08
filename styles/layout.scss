@@ -73,6 +73,9 @@ nav {
     margin: 0;
     position: relative;
 
+    overflow-y: scroll;
+    height: calc(100% - 140px);
+
     // initially hidden on mobile
     display: none;
 
