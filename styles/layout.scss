@@ -31,6 +31,11 @@ nav {
       height: auto;
       width: 50%;
     }
+
+    img {
+      width: 100%;
+      height: 100%;
+    }
   }
 
   h1 {
@@ -102,13 +107,6 @@ nav {
   }
 }
 
-.logo {
-  img {
-    width: 100%;
-    height: 100%;
-  }
-}
-
 body.page > .content {
   padding-top: 50px; // make space for navbar
   @media (#{$bp-larger-than-phablet}) { padding-top: 0; }
@@ -120,15 +118,47 @@ footer {
   background: $light-grey;
   color: $white;
 
-  .logo-flex .logo {
-    display: flex;
-    align-items: center;
+  .logo {
+    &.half-width {
+      // keep logos on same line in mobile footer
+      float: left;
+      width: 45%;
+      &:first-child { margin-right: 10%; }
+      vertical-align: middle;
+      img {
+        width: 75%;
+        height: 75%;
+        left: 15%;
+      }
+      @media (#{$bp-larger-than-phablet}) {
+        img { width: 100%; height: 100%; left: 0; }
+      }
+    }
+
+    img {
+      width: 50%;
+      height: 50%;
+      position: relative;
+      left: 25%;
+      @media (#{$bp-larger-than-phablet}) {
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+      vertical-align: middle;
+    }
   }
 
   .text {
     text-align: center;
-    .license.logo {
-      width: 100px;
+    p {
+      margin: 2.5rem 0;
+      @media (#{$bp-larger-than-phablet}) { margin: 0; }
     }
+  }
+  .license img {
+    width: 25%;
+    left: 37.5%;
+    @media (#{$bp-larger-than-phablet}) { width: 200%; }
   }
 }

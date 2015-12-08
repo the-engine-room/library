@@ -6,11 +6,15 @@ funder_logo: /images/logos/amnesty.png
 funder_link: http://www.amnestyusa.org
 ---
 
+# Microtasking
+
 ## Definition
 
-Microtasking is the process of splitting a large job into small tasks that can be distributed, over the Internet, to many people. Machines and algorithms are very efficient at certain functions, such as identifying patterns in an image or performing advanced calculations, but other tasks, including identifying the contents of an image or recognizing obscure text, are still best performed by humans.
+Microtasking is the process of splitting a large job into small tasks that can be distributed, over the Internet, to many people. 
 
 ![Microtasking](../media/microtasking/microtasking.png)
+
+Machines and algorithms are very efficient at certain functions, such as identifying patterns in an image or performing advanced calculations, but other tasks, including identifying the contents of an image or recognizing obscure text, are still best performed by humans.
 
 ---
 

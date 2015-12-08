@@ -1,4 +1,5 @@
 permalink: /:title/
+baseurl: 'http://the-engine-room.github.io/library'
 
 sass:
     sass_dir: styles

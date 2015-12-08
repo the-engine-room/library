@@ -20,13 +20,13 @@ h2 {
         height: 50px;
         margin-right: 15px;
     }
-    &#about:before { background-image: url('/images/icons/about.svg'); }
-    &#definition:before { background-image: url('/images/icons/definition.svg'); }
-    &#examples:before { background-image: url('/images/icons/examples.svg'); }
-    &#tools-and-platforms:before { background-image: url('/images/icons/tools.svg'); }
-    &#implementation:before { background-image: url('/images/icons/implementation.svg'); }
-    &#planning:before { background-image: url('/images/icons/planning.svg'); }
-    &#pros-and-cons:before { background-image: url('/images/icons/procon.svg'); }
+    &#about:before { background-image: url('../images/icons/about.svg'); }
+    &#definition:before { background-image: url('../images/icons/definition.svg'); }
+    &#examples:before { background-image: url('../images/icons/examples.svg'); }
+    &#tools-and-platforms:before { background-image: url('../images/icons/tools.svg'); }
+    &#implementation:before { background-image: url('../images/icons/implementation.svg'); }
+    &#planning:before { background-image: url('../images/icons/planning.svg'); }
+    &#pros-and-cons:before { background-image: url('../images/icons/procon.svg'); }
 }
 
 section ul, ol {
