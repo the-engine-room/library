@@ -3,51 +3,52 @@ layout: page
 title: Microtasking
 
 funder_logo: /images/logos/amnesty.png
-funder_link: http://www.amnestyusa.org
+funder_link: //www.amnestyusa.org
 ---
 
 # Microtasking
 
 ## Definition
 
-Microtasking is the process of splitting a large job into small tasks that can be distributed, over the Internet, to many people. 
+Microtasking is the process of splitting a large job into small tasks that can be distributed, over the Internet, to many people. Machines and algorithms are very efficient at certain functions, such as identifying patterns in an image or performing advanced calculations, but other tasks, including identifying the contents of an image or recognizing obscure text, are still best performed by humans.
 
 ![Microtasking](../media/microtasking/microtasking.png)
-
-Machines and algorithms are very efficient at certain functions, such as identifying patterns in an image or performing advanced calculations, but other tasks, including identifying the contents of an image or recognizing obscure text, are still best performed by humans.
 
 ---
 
 ## Examples
 
-This process has been used for over ten years in the commercial sector. Microtasking workplaces like [Mechanical Turk](https://www.mturk.com) or [ClickWorker](http://www.clickworker.com/) connect businesses with people around the world to outsource small tasks for pay. Example tasks include tagging photos from social media, typing out business card information from a photo, and digitising receipts and invoices.
+This process has been used for over ten years in the commercial sector. Microtasking workplaces like [Mechanical Turk](//www.mturk.com) or [ClickWorker](//www.clickworker.com/) connect businesses with people around the world to outsource small tasks for pay. Example tasks include tagging photos from social media, typing out business card information from a photo, and digitising receipts and invoices.
 
-Increasingly, this technology is being used by the not for profit sector. Examples include:
+Increasingly, this technology is being used by the not for profit sector. The following initiatives have successfully applied microtasking for humanitarian or social purposes, and their staff were interviewed for the creation of this report. They represent projects with a wide range of sophistication and volunteer engagement, from tens to tens of thousands. Some were large organizations with dedicated communications teams, while others recruited a volunteer developer to build their platform.
 
-* extracting data from images of disaster and accelerate damage assessments ([GeotagX](geotagx.org), [Micromappers](http://micromappers.org/), [Planetary Response Network](http://www.planetaryresponsenetwork.com/beta/))
-* identifying deforestation, forest degradation, or fire haze ([Global Forest Watch Fires](http://fires.globalforestwatch.org/))
-* digitising government documents into open data ([La Nacion’s VozData](http://vozdata.lanacion.com.ar)). 
+- [Planetary Response Network](//irevolution.net/2014/06/03/zoomanitarians/). Tagging satellite/aerial imagery to accelerate disaster damage assessments, using Zooniverse. 
+- [Geotag-X](//geotagx.org/about). Extracting data from images of disasters, using Pybossa. 
+- [Greenpeace Guardianes](//www.guardianes.greenpeace.org.ar). Identifying deforestation/forest degradation from Landsat satellite imagery. Previously used Silverlight, currently building a new version. 
+- [Global Forest Watch Fires](//fires.globalforestwatch.org). Identifying fires and haze from satellite imagery, using Tomnod. 
+- [Fairplay Alliance](//www.fair-play.sk/). Pulling out data from contracts, using a system built independently. 
+- [Vozdata](//blogs.lanacion.com.ar/projects/data/vozdata/). Transcribing information on expenses from PDFs, using Crowdata.
 
 ---
 
 ## Tools and Platforms
 
-The experiences and lessons shared here were gathered through interviews with ten people who represented the following microtasking platforms and initiatives. These projects covered a wide range of levels of sophistication and volunteer engagement, ranging from tens of volunteers to tens of thousands. Some were large organisations with dedicated communications teams, while others were small initiatives who recruited a volunteer developer for a week to build a platform.
+Several existing tools allow organizations to create and launch their own microtasking project. The table below compares key functional differences between the platforms used by the example initiatives above.
 
-### Microtasking Platforms
-- [Pybossa](http://pybossa.com/features/)/[Crowdcrafting](http://crowdcrafting.org/about) 
-- [Crowdata](https://github.com/crowdata/crowdata) 
-- [Zooniverse](https://www.zooniverse.org/about/) 
-- [Tomnod](http://www.tomnod.com) (part of Digital Globe) 
-- [Checkdesk](http://meedan.com/checkdesk-en/)
-
-### Microtasking Initiatives
-- [Planetary Response Network](http://irevolution.net/2014/06/03/zoomanitarians/). Tagging satellite/aerial imagery to accelerate disaster damage assessments, using Zooniverse. 
-- [Geotag-X](http://geotagx.org/about). Extracting data from images of disasters, using Pybossa. 
-- [Greenpeace Guardianes](http://www.guardianes.greenpeace.org.ar). Identifying deforestation/forest degradation from Landsat satellite imagery. Previously used Silverlight, currently building a new version. 
-- [Global Forest Watch Fires](http://fires.globalforestwatch.org). Identifying fires and haze from satellite imagery, using Tomnod. 
-- [Fairplay Alliance](http://www.fair-play.sk/). Pulling out data from contracts, using a system built independently. 
-- [Vozdata](http://blogs.lanacion.com.ar/projects/data/vozdata/). Transcribing information on expenses from PDFs, using Crowdata.
+Platform | [Tomnod](//www.tomnod.com) | [Zooniverse](//www.zooniverse.org) | [Checkdesk](//checkdesk.org) | [Crowdcrafting + Pybossa](//crowdcrafting.org) | [Pybossa](//pybossa.com) | [Crowdata](crowdata.github.com) |
+-------- | -------- | -------- | -------- | -------- | -------- | -------- | 
+__Location__ | Colorado, USA | Chicago, USA and Oxford, England | San Francisco, USA | Unknown | Madrid, Spain | Uruguay, Argentina |
+__Created__ | 2011 | 2009 | 2011 | 2011 | 2011 | 2013 |
+__Allowed Data Formats__ | Visual | Visual | Visual and Text | Visual and Text | Visual and Text | Text |
+__Allowed Microtasks__ | Discovery | Discovery, Verification | Verification | Discovery, Verification | Varies | Verification, Data Release |
+__Allows Custom Data Fields__ | Yes | Yes | No | Yes | Yes | Yes |
+__Allows Anonymous Users__ | Yes | Yes | No | Yes | Yes | No |
+__Allows Private Projects__ | No | Yes | Yes | No | Yes | Yes |
+__Allows Gamification__ | Yes | No | No | Yes | Yes | Yes |
+__Data Hosting__ | Amazon Web Services | Zooniverse Server | Project's own server | Crowdcrafting Server | Project's own server | Project's own server |
+__Languages__ | English | English, German, Polish | English, Arabic | English, Spanish | English, Spanish, Italian, French, German, Greek, Japanese | English, Spanish |
+__Mobile Compatible__ | No | Yes | No | No | Yes | Yes |
+__License__ | Property of Digital Globe | Apache 2 License | GNU General Public License | GNU Affero General Public License | GNU Affero General Public License | MIT License |
 
 ---
 
@@ -142,7 +143,7 @@ Organisations made project planning decisions for reasons related to their own s
 * __Project timelines.__ Fairplay Alliance’s project manager said that they put less time into the design of the app in advance; their main focus was getting the platform working quickly and cheaply because they didn't have the time and money to fine-tune it.     
 * __Need for specialist information.__ Global Forest Watch Fires chose to work with Tomnod partly because it gave them access to high-quality cloud-free satellite imagery (something that they had previously found hard to access) provided by Digital Globe.
 
-For more on tool selection, read about the engine room's own experience [selecting a microtasking platform](https://www.theengineroom.org/behind-the-scenes-how-we-helped-kick-start-a-microtasking-site/).
+For more on tool selection, read about the engine room's own experience [selecting a microtasking platform](//www.theengineroom.org/behind-the-scenes-how-we-helped-kick-start-a-microtasking-site/).
 
 ### Special Considerations
 
@@ -156,7 +157,7 @@ Arguments for gamification included:
 
 * __Gamification can make the activity more engaging.__ For platforms where the tasks were repetitive, gamification was seen as a way to “reduce the tediousness of the activity”, to quote Greenpeace Guardianes. These organizations did not actually attempt to create real games, but used gaming mechanisms to make the activity more engaging and fun. For one project, Zooniverse made their classification work more engaging by adding elements of play that didn’t interfere with core tasks: when their Galaxy Zoo volunteers identified galaxies that looked like letters, the platform pulled these out and created an ‘alphabet’ that allowed volunteers to write messages to others.
 * __Gamification can create opportunities to reward or praise volunteers for their contributions.__ Some projects used information on how volunteers were contributing to give them physical rewards (which included 3D-printed items, shopping coupons, t-shirts, books and exclusive access to comedy gigs). Others focused on public recognition: a member of the Vozdata team said: “sometimes we mention volunteers on twitter if we know their username.” One smaller project was able to mitigate the risk of favouritism by finding a way to praise each of their 120 volunteers for some element of their contribution.
-* __Competition can be a motivating factor__ for some projects that aim to find a small number of very effective contributors, like [FoldIt](http://fold.it/portal/info/about), an initiative where contributors fold proteins to generate evidence that humans can contribute to predicting their structure more effectively than computers.
+* __Competition can be a motivating factor__ for some projects that aim to find a small number of very effective contributors, like [FoldIt](//fold.it/portal/info/about), an initiative where contributors fold proteins to generate evidence that humans can contribute to predicting their structure more effectively than computers.
 
 Arguments against gamification included: 
 
@@ -198,12 +199,12 @@ Once a microtasking project has launched, there is a natural limit to the length
 ## About 
 This site was created by the engine room and Amnesty International to understand the ins and outs of micro-tasking to support Amnesty’s Alt Click project. 
 
-Alt Click is a two-year project funded by the [Swedish Postcode Lottery](https://www.postkodlotteriet.se) that aims to inspire a new generation of tech savvy human rights activists to take part in documenting, verifying and collating evidence of human rights abuse. In this context, Amnesty is planning to use micro-tasking to invite people to analyse satellite images, verify video footage and classify large amounts of social media data. 
+Alt Click is a two-year project funded by the [Swedish Postcode Lottery](//www.postkodlotteriet.se) that aims to inspire a new generation of tech savvy human rights activists to take part in documenting, verifying and collating evidence of human rights abuse. In this context, Amnesty is planning to use micro-tasking to invite people to analyse satellite images, verify video footage and classify large amounts of social media data. 
 
 ### Researchers 
-__Milena Marin__ is the Senior Innovations Campaigner at Amnesty International and project manager of Alt Click. Get in touch to know more about Amnesty's efforts to use microtasking [@milena_iul](https://twitter.com/milena_iul).
+__Milena Marin__ is the Senior Innovations Campaigner at Amnesty International and project manager of Alt Click. Get in touch to know more about Amnesty's efforts to use microtasking [@milena_iul](//twitter.com/milena_iul).
 
-__Tom Walker__ is a Research Lead at the engine room. He works on projects that investigate and document topics that are useful for activists and organizations using data and technology in their work. [@thomwithoutanh](https://twitter.com/thomwithoutanh)
+__The engine room__ is an applied research and support organization dedicated to improving the safe and effective use of technology in advocacy. The engine room partners with activists and advocacy organizations to help them plan and implement activities that use technological tools. The engine room also conducts applied research on the same dynamics, to inform project design, support activities and funding decisions for social good and accountability programming. Read more at [theengineroom.org](//www.theengineroom.org).
 
 
 
