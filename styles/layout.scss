@@ -33,7 +33,7 @@ nav {
   }
 
   h1 {
-    padding: 10px 0;
+    padding: 10px 0 15px 0;
     margin: 0;
     
     background: $green;
@@ -53,8 +53,8 @@ nav {
   a#toggle {
     float: left;
     position: relative;
-    top: -52px;
-    left: 20px;
+    margin-top: -55px;
+    margin-left: 20px;
     font-size: 2em;
     color: $white;
 
@@ -64,25 +64,32 @@ nav {
   ul.nav {
     list-style-type: none;
     margin: 0;
+    position: relative;
 
     // initially hidden on mobile
     display: none;
-    //
 
+    // nav at top
     &.visible {
-      display: block;
-      width: 80%;
+      float: none;
+      width: calc(80% - 20px);
       background: $green;
     }
-    li { margin-bottom: 0; }
+    li {
+      padding: 10px 0;
+      margin-bottom: 0;
+      font-weight: bold;
+      a { color: $white; }
+    }
     li.active, li:hover {
       background: $dark-grey;
       color: $white;
-      a { color: $white; }
     }
 
+    // nav to side
     @media (#{$bp-larger-than-phablet}) {
       display: block;
+      width: 100%;
 
       a {
         // fill nav li
