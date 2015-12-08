@@ -33,11 +33,11 @@
     </div>
 
     <footer class="twelve columns row">
-      <div class="nine columns offset-by-three">
-        <div class="logo-flex">
-          <div class="logo two columns"><a href="http://theengineroom.org"><img src="{{site.baseurl}}/images/logos/engineroom.png" alt="Engine Room" /></a></div>
+      <div class="nine columns offset-by-three u-flex-center">
+        <div class="logos four columns">
+          <div class="logo half-width"><a href="http://theengineroom.org"><img src="{{site.baseurl}}/images/logos/engineroom.png" alt="Engine Room" /></a></div>
           {% if page.funder_logo %}
-            <div class="logo two columns"><a href="{{page.funder_link}}"><img src="{{site.baseurl}}{{page.funder_logo}}" alt="{{page.funder_name}}" /></a></div>
+          <div class="logo half-width"><a href="{{page.funder_link}}"><img src="{{site.baseurl}}{{page.funder_logo}}" alt="{{page.funder_name}}" /></a></div>
           {% endif %}
         </div>
         <div class="text six columns">
@@ -45,7 +45,11 @@
             This site was created by the engine room to advance open knowledge and open standards.
             {% endif %}
           </p>
-          <div class="logo license u-center"><img src="{{site.baseurl}}/images/license.png"/></div>
+        </div>
+        <div class="logo license one column">
+          <a href="http://creativecommons.org/licenses/by-nc/4.0/legalcode">
+            <img src="{{site.baseurl}}/images/license.png"/>
+          </a>
         </div>
       </div>
     </footer>
