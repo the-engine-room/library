@@ -17,8 +17,9 @@ $(document).ready(function() {
         // animate scroll to top
         var href = $(this).children('a').attr('href');
         var element = $(href);
+        var offsetTop = -25;
         $('html, body').animate({
-            scrollTop: element.offset().top - element.outerHeight()
+            scrollTop: element.offset().top - element.outerHeight() - offsetTop
         }, 1000);
 
         // hide mobile nav if visible
