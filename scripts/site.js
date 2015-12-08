@@ -33,7 +33,11 @@ $(document).ready(function() {
     // if resize, hide mobile nav
     $(window).resize(function() {
         $('nav ul.nav').removeClass('visible');
-        $('nav ul.nav').css({'display': 'block'});
+        if (window.innerWidth > 550) { // desktop
+            $('nav ul.nav').css({'display': 'block'});
+        } else { // phablet or smaller
+            $('nav ul.nav').css({'display': 'none'});
+        }
     });
 
     $('body').scrollspy({
