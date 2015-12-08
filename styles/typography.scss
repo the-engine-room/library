@@ -1,3 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
 
 h1 { font-size: 3.0rem; line-height: 1.2;  letter-spacing: -.1rem;  }
+
+h2 {
+    &:before {
+        float: left;
+        content: '';
+        width: 50px;
+        height: 50px;
+        margin-right: 5px;
+    }
+    &#about:before { background-image: url('/images/icons/about.svg'); }
+    &#definition:before { background-image: url('/images/icons/definition.svg'); }
+    &#examples:before { background-image: url('/images/icons/examples.svg'); }
+    &#tools-and-platforms:before { background-image: url('/images/icons/tools.svg'); }
+    &#implementation:before { background-image: url('/images/icons/implementation.svg'); }
+    &#planning:before { background-image: url('/images/icons/planning.svg'); }
+    &#pros-and-cons:before { background-image: url('/images/icons/procon.svg'); }
+
+}
