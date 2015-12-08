@@ -134,6 +134,15 @@ All projects agreed that verifying and validating data was a crucial part of a s
   * After a data point receives the required 30 confirmations, a Greenpeace Guardianes campaigner has the opportunity to review it. 
   * Vozdata gives some more trusted users (mainly people from peer NGOs) special permissions to review content submitted by others.
 
+### Tool Selection
+
+Organisations made project planning decisions for reasons related to their own specific organisational needs. These included the following.
+
+* __Minimising time spent on development.__ Global Forest Watch Fires and Geotag-X chose Tomnod and Pybossa, respectively, because they were looking for platforms that were already developed and had features that met their needs. As Geotag-X’s manager put it: “We needed something already ready to go because we had no developer at the time.”
+* __Project timelines.__ Fairplay Alliance’s project manager said that they put less time into the design of the app in advance; their main focus was getting the platform working quickly and cheaply because they didn't have the time and money to fine-tune it.     
+* __Need for specialist information.__ Global Forest Watch Fires chose to work with Tomnod partly because it gave them access to high-quality cloud-free satellite imagery (something that they had previously found hard to access) provided by Digital Globe.
+
+For more on tool selection, read about the engine room's own experience [selecting a microtasking platform](https://www.theengineroom.org/behind-the-scenes-how-we-helped-kick-start-a-microtasking-site/).
 
 ### Special Considerations
 
@@ -161,21 +170,13 @@ Arguments against gamification included:
 
 ## Implementation
 
-### Tool Selection
-
-Organisations made project planning decisions for reasons related to their own specific organisational needs. These included the following.
-
-* __Minimising time spent on development.__ Global Forest Watch Fires and Geotag-X chose Tomnod and Pybossa, respectively, because they were looking for platforms that were already developed and had features that met their needs. As Geotag-X’s manager put it: “We needed something already ready to go because we had no developer at the time.”
-* __Project timelines.__ Fairplay Alliance’s project manager said that they put less time into the design of the app in advance; their main focus was getting the platform working quickly and cheaply because they didn't have the time and money to fine-tune it.     
-* __Need for specialist information.__ Global Forest Watch Fires chose to work with Tomnod partly because it gave them access to high-quality cloud-free satellite imagery (something that they had previously found hard to access) provided by Digital Globe.
-
 ### Attracting Volunteers 
 
 * __Altruistic motivations.__ Interviewees said that most volunteers were mainly motivated by the idea of helping or making an authentic contribution to an organisation’s work. Interestingly, Tomnod said that they had found the quality of data submitted by volunteers was “far superior” to the data from paid contributions (from the digital labour service Mechanical Turk): “People who are engaged are doing it because they want to. We find again and again that they’re much more motivated.”
 * __Communicate how the data will be used.__ Almost all projects said that it is essential to make it clear who the end user of the data is, and how they will use the volunteers’ data in their work. “The biggest thing that drives engagement is knowing that there is somebody at the end of the tunnel – and not too far from the end – who really wants that data.”
 * __Supporting the volunteer community.__ Interviewees suggested that those end users need to play a prominent, active role in any online community that the project creates. Whether that is newsletters, blogs, social media or online forums. Key elements of this role were making themselves available for questions from volunteers and providing feedback on how the data would be used to help them. 
 * __Early involvement.__ Volunteer engagement can be particularly important in the early stages of a project. When the community is starting up, Zooniverse noted that some projects had found it helpful to have people on hand “almost 24/7” to answer questions and encourage new users. Several projects highlighted the importance of meeting people where they already were - for example, Fairplay Alliance answered questions about the platform on a private Facebook group because it was the most widely used format in Slovakia.
-* __High-profile users.__ Volunteer engagement can increase when joined by a recognisable or senior figure in the field. For example, crowdsourcing verification platform CheckDesk suggested that the involvement of prominent citizen journalists such as Eliot Higgins on specific issues bolstered volunteers’ sense that they were contributing to a high-quality endeavour.
+* __High-profile users.__ Volunteer engagement can increase when joined by a recognisable or senior figure in the field. For example, crowdsourcing verification platform CheckDesk suggested that the involvement of prominent citizen journalists such as Eliot Higgins on specific tasks bolstered volunteers’ sense that they were contributing to a high-quality endeavour.
 * __Novelty.__ Greenpeace noticed that far fewer people registered for the second version of their Guardianes platform when it re-launched, and suggested that this was because the idea was no longer so new to them. Another interviewee said that most microtasking projects they had seen experienced a high number of ‘tourists’: people who were more interested in simply viewing the data than contributing themselves.
 * __Social capital.__ The manager of Vozdata (at the Argentinian paper La Nacion) said that they were able to attract recruits by using their strong national reputation: “[people] feel that if we are saying and asking for this, it has to be for something good.” She also described ways in which she had responded to students who asked her questions on other topics: “I say, go liberate some documents on Vozdata first, and then I will answer one question.”
 * __Timing.__ Several projects found that participation was particularly high when media coverage gave greater prominence to a project’s subject matter. Tomnod recorded 8 million visits in the space of two weeks in 2014, as users searched satellite imagery for evidence of the disappeared Malaysian Airlines plane MH370, while – on a smaller scale – Vozdata typically times its campaigns around specific political events. Other examples include:
@@ -201,6 +202,8 @@ Alt Click is a two-year project funded by the [Swedish Postcode Lottery](https:/
 
 ### Researchers 
 __Milena Marin__ is the Senior Innovations Campaigner at Amnesty International and project manager of Alt Click. Get in touch to know more about Amnesty's efforts to use microtasking [@milena_iul](https://twitter.com/milena_iul).
+
+__Tom Walker__ is a Research Lead at the engine room. He works on projects that investigate and document topics that are useful for activists and organizations using data and technology in their work. [@thomwithoutanh](https://twitter.com/thomwithoutanh)
 
 
 
