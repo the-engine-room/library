@@ -12,6 +12,8 @@ funder_link: http://www.amnestyusa.org
 
 Microtasking is the process of splitting a large job into small tasks that can be distributed, over the Internet, to many people. Machines and algorithms are very efficient at certain functions, such as identifying patterns in an image or performing advanced calculations, but other tasks, including identifying the contents of an image or recognizing obscure text, are still best performed by humans.
 
+![Microtasking](../media/microtasking/microtasking.png)
+
 ## Examples
 
 This process has been used for over ten years in the commercial sector. Microtasking workplaces like [Mechanical Turk](https://www.mturk.com) or [ClickWorker](http://www.clickworker.com/) connect businesses with people around the world to outsource small tasks for pay. Example tasks include tagging photos from social media, typing out business card information from a photo, and digitising receipts and invoices.
@@ -81,7 +83,7 @@ Our interviewees represented projects and platforms that varied widely in terms 
 * Volunteers are most likely to complete tasks that are comprehensible in a short space of time. Interviewees said that projects often struggled with simplifying tasks down into the base unit of analysis. As the founder of Pybossa put it: “‘simple’ doesn’t mean ‘not complex,’ but volunteers shouldn’t need to spend a lot of time trying to understand the task.” 
 * ‘Divide and conquer’: volunteers should only be asked to complete one type of task at a time. Zooniverse’s co-founder noted: “research teams tend to want to milk everything possible out of a task sequence, but experience has demonstrated that it’s always possible to go back and ask questions later on.” Pybossa’s founder added that some organisations were now successfully running 3-5 projects in parallel, with sets of volunteers each conducting a discrete, separate task to collect data that contributed to the project’s overall goal.
 * Volunteers are likely to contribute more effectively when they can access information about the context of a task. Tomnod started by giving volunteers access to a small, 400-pixel satellite image, but found that they contributed much more effectively when they could see the wider region of which that image was a part. As the project lead of the Planetary Response Network said: “any project will have complete beginners and near-experts. The idea is to train people so they can become experts [by providing the right guidance].”
-*There is a natural limit to the length of time that most volunteers will contribute. As Fairplay Alliance found: “Most of the volunteers were really active for 4-6 weeks – we could sustain it a bit longer with gamification (encouraging competition between users), but not much longer.”
+* There is a natural limit to the length of time that most volunteers will contribute. As Fairplay Alliance found: “Most of the volunteers were really active for 4-6 weeks – we could sustain it a bit longer with gamification (encouraging competition between users), but not much longer.”
 
 
 ### Requirements 
@@ -162,7 +164,7 @@ Organisations made project planning decisions for reasons related to their own s
 * Project timelines. Fairplay Alliance’s project manager said that they put less time into the design of the app in advance; their main focus was getting the platform working quickly and cheaply because they didn't have the time and money to fine-tune it.     
 * Need for specialist information. Global Forest Watch Fires chose to work with Tomnod partly because it gave them access to high-quality cloud-free satellite imagery (something that they had previously found hard to access) provided by Digital Globe.
 
-### Engaging Volunteers 
+### Attracting Volunteers 
 
 * Interviewees said that most volunteers were mainly motivated by the idea of helping or making an authentic contribution to an organisation’s work. Interestingly, Tomnod said that they had found the quality of data submitted by volunteers was “far superior” to the data from paid contributions (from the digital labour service Mechanical Turk): “People who are engaged are doing it because they want to. We find again and again that they’re much more motivated.”
 * Almost all projects said that it is essential to make it clear who the end user of the data is, and how they will use the volunteers’ data in their work. “The biggest thing that drives engagement is knowing that there is somebody at the end of the tunnel – and not too far from the end – who really wants that data.”
@@ -175,6 +177,8 @@ Organisations made project planning decisions for reasons related to their own s
   * Global Forest Watch Fires bases its campaigns around the fire season in south-east Asia.
   * Geotag-X organises activities focused on particular humanitarian crises.
   * Vozdata bases its campaigns around specific political events, such as the release of politicians’ expense records.
+
+### Retaining Volunteers 
 
 Once a microtasking project has launched, there is a natural limit to the length of time that most volunteers will contribute. The following tactics can extend that volunteer engagement period.
 
