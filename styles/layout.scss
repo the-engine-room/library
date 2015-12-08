@@ -44,7 +44,7 @@ nav {
       }
     }
 
-    li:hover {
+    li.active, li:hover {
       background: $dark-grey;
       color: $light-gray;
       a { color: $light-gray; }
@@ -61,8 +61,31 @@ nav {
   }
 }
 
-section.content {
+article.page {
   padding: 20px 40px 20px 0;
+
+  header {
+    .icon {
+      float: left;
+      img { width: 50px; }
+    }
+    .text {
+      float: left;
+    }
+
+    h2 { margin-bottom: 5px; }
+    h3 { margin-bottom: 10px; }
+  }
+
+  section.text {
+    clear: both;
+
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    width: 100%;
+    clear: both;
+  }
 }
 
 footer {
