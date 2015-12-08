@@ -1,3 +1,8 @@
+html {
+  height: 100%;
+  position: relative; // required for scrollspy
+}
+
 body {
   background: $light-gray;
 }
@@ -38,9 +43,13 @@ nav {
     @media (#{$bp-larger-than-mobile}) {
       li {
         display: block;
-        padding: 10px 0;
 
-        a { width: 100%; }
+        a {
+          // fill nav li
+          position: relative;
+          display: block;
+          padding: 10px 0;
+        }
       }
     }
 
