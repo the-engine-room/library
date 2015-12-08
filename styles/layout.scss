@@ -4,61 +4,93 @@ html {
 }
 
 body {
-  background: $light-gray;
+  background: $white;
 }
 
 nav {
   position: fixed;
-  height: 100%;
   width: 100%;
-  padding: 20px 0;
-
   text-align: center;
-  background: $green;
+
+  @media (#{$bp-larger-than-phablet}) {
+    height: 100%;
+    background: $green;
+    padding: 20px 0 0;
+  }
 
   .logo {
-    padding: 0 20px;
+    padding: 0 20px; 
+
+    margin: 0 auto;
+    float: right; 
+    width: 20%;
+
+    @media (#{$bp-larger-than-phablet}) {
+      float: none;
+      height: auto;
+      width: 50%;
+    }
   }
 
   h1 {
-    background: $light-gray;
-    font-weight: bold;
     padding: 10px 0;
-    margin-bottom: 20px;
+    margin: 0;
+    
+    background: $green;
+    color: $white;
+    font-weight: bold;
+    
+    @media (#{$bp-larger-than-phablet}) {
+      background: $white;
+      color: $dark-grey;
+      margin-bottom: 20px; }
   }
 
   a {
     text-decoration: none;
   }
 
-  a#bars {
+  a#toggle {
     float: left;
-    @media (#{$bp-larger-than-mobile}) { display: none; }
+    position: relative;
+    top: -52px;
+    left: 20px;
+    font-size: 2em;
+    color: $white;
+
+    @media (#{$bp-larger-than-phablet}) { display: none; }
   }
 
-  ul {
+  ul.nav {
     list-style-type: none;
+    margin: 0;
 
-    li { display: none; }
-    @media (#{$bp-larger-than-mobile}) {
-      li {
-        display: block;
+    // initially hidden on mobile
+    display: none;
+    //
 
-        a {
-          // fill nav li
-          position: relative;
-          display: block;
-          padding: 10px 0;
-        }
-      }
+    &.visible {
+      display: block;
+      width: 80%;
+      background: $green;
     }
-
+    li { margin-bottom: 0; }
     li.active, li:hover {
       background: $dark-grey;
-      color: $light-gray;
-      a { color: $light-gray; }
+      color: $white;
+      a { color: $white; }
     }
 
+    @media (#{$bp-larger-than-phablet}) {
+      display: block;
+
+      a {
+        // fill nav li
+        position: relative;
+        display: block;
+        padding: 10px 0;
+      }
+    }
   }
 }
 
@@ -70,8 +102,14 @@ nav {
   }
 }
 
+body.page > .content {
+  padding-top: 50px; // make space for navbar
+  @media (#{$bp-larger-than-phablet}) { padding-top: 0; }
+}
+
 article.page {
-  padding: 20px 40px 20px 0;
+  padding: 20px 40px 20px 20px;
+  @media (#{$bp-larger-than-phablet}) { padding-left: 0; }
 
   header {
     .icon {
@@ -80,6 +118,8 @@ article.page {
     }
     .text {
       float: left;
+      padding-left: 20px;
+      width: calc(100% - 50px - 20px);
     }
 
     h2 { margin-bottom: 5px; }
@@ -100,8 +140,8 @@ article.page {
 footer {
   padding: 30px 0;
 
-  background: $dark-gray;
-  color: $light-gray;
+  background: $light-grey;
+  color: $white;
 
   .logo-flex .logo {
     display: flex;
