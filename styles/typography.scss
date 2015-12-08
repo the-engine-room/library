@@ -1,17 +1,27 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
 
-h1 { font-size: 3.0rem; line-height: 1.2;  letter-spacing: -.1rem;  }
+h1 {
+  font-size: 3.0rem;
+  line-height: 1.2; 
+  letter-spacing: -.1rem;
+}
 
-h3 { font-size: 22pt; }
+section.content {
+  ul, ol {
+    list-style-position: outside;
+    margin-left: 0; 
+    padding-left: 1em;
+    li {
+      padding-left: 1em;
+    }
+  }
+  
+  li { margin-bottom: 1.2rem; margin-left: 30px; }
 
-h4 { font-size: 16pt; }
+  p { margin-bottom: 1.5rem; }
 
-li { margin-bottom: 1.2rem; margin-left: 30px; }
-
-p { margin-bottom: 1.5rem; }
-
-h2 {
-	font-weight: bold;
+  h2 {
+  	font-weight: bold;
 
     &:before {
         float: left;
@@ -27,13 +37,11 @@ h2 {
     &#implementation:before { background-image: url('../images/icons/implementation.svg'); }
     &#planning:before { background-image: url('../images/icons/planning.svg'); }
     &#pros-and-cons:before { background-image: url('../images/icons/procon.svg'); }
-}
-
-section ul, ol {
-  list-style-position: outside;
-  margin-left: 0; 
-  padding-left: 1em;
-  li {
-    padding-left: 1em;
   }
+
+  h3 { font-size: 22pt; }
+
+  h4 { font-size: 16pt; }
+
+  
 }
