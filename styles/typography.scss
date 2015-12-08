@@ -6,6 +6,7 @@ h1 {
   letter-spacing: -.1rem;
 }
 
+
 section.content {
   ul, ol {
     list-style-position: outside;
@@ -19,6 +20,11 @@ section.content {
   li { margin-bottom: 1.2rem; margin-left: 30px; }
 
   p { margin-bottom: 1.5rem; }
+
+  h1 {
+    font-style: italic;
+    font-size: 4rem;
+  }
 
   h2 {
   	font-weight: bold;
