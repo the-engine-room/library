@@ -17,7 +17,7 @@ $(document).ready(function() {
         // animate scroll to top
         var href = $(this).children('a').attr('href');
         var element = $(href);
-        var offsetTop = -25;
+        var offsetTop = $('nav ul.nav').hasClass('visible') ? 25 : -25;
         $('html, body').animate({
             scrollTop: element.offset().top - element.outerHeight() - offsetTop
         }, 1000);
@@ -33,6 +33,7 @@ $(document).ready(function() {
     // if resize, hide mobile nav
     $(window).resize(function() {
         $('nav ul.nav').removeClass('visible');
+        $('nav ul.nav').css({'display': 'block'});
     });
 
     $('body').scrollspy({
