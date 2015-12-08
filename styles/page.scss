@@ -15,5 +15,11 @@ article.page {
       position: relative;
       left: 20%;
     }
+
+    table {
+      display: block;
+      overflow-x: auto;
+      width: 100%;
+    }
   }
 }
