@@ -17,20 +17,23 @@ $(document).ready(function() {
         // animate scroll to top
         var href = $(this).children('a').attr('href');
         var element = $(href);
-        var paddingTop = 20;
+        var offsetTop = $('nav ul.nav').hasClass('visible') ? 25 : -25;
         $('html, body').animate({
-            scrollTop: element.offset().top - element.outerHeight() - paddingTop
+            scrollTop: element.offset().top - element.outerHeight() - offsetTop
         }, 1000);
 
-        // hide nav if visible
-        $('nav ul.nav').slideToggle().removeClass('visible');
-        // reset content to triple bars
-        $('a#toggle').html("&#8801;");
+        // hide mobile nav if visible
+        if ($('nav ul.nav').hasClass('visible')) {
+            $('nav ul.nav').slideToggle().removeClass('visible');
+            // reset content to triple bars
+            $('a#toggle').html("&#8801;");
+        }
     });
 
     // if resize, hide mobile nav
     $(window).resize(function() {
         $('nav ul.nav').removeClass('visible');
+        $('nav ul.nav').css({'display': 'block'});
     });
 
     $('body').scrollspy({

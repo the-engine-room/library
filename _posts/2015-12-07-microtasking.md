@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Microtasking
-headline: What is Microtasking?
-subhead: What is it, and what questions can it answer?
 
 funder_logo: /images/logos/amnesty.png
 funder_link: http://www.amnestyusa.org
