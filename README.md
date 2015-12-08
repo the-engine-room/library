@@ -6,9 +6,8 @@ To add new pages, create a markdown (.md) file in the `_posts` directory with a 
 
 ``` markdown
 ---
-    title: 
-    headline:
-    subhead: 
+    layout: page
+    title: PAGE TITLE
 ---
 
 page content
