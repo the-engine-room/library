@@ -18,3 +18,12 @@ h2 {
     &#planning:before { background-image: url('/images/icons/planning.svg'); }
     &#pros-and-cons:before { background-image: url('/images/icons/procon.svg'); }
 }
+
+section ul, ol {
+  list-style-position: outside;
+  margin-left: 0; 
+  padding-left: 1em;
+  li {
+    padding-left: 1em;
+  }
+}
