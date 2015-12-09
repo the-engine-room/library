@@ -20,6 +20,10 @@ article.page {
       display: block;
       overflow-x: auto;
       width: 100%;
+
+      tr:last-child td {
+        border-bottom: 0;
+      }
     }
   }
 }
