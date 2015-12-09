@@ -38,7 +38,7 @@ Several existing tools allow organizations to create and launch their own microt
 
 Platform | [Tomnod](//www.tomnod.com) | [Zooniverse](//www.zooniverse.org) | [Checkdesk](//checkdesk.org) | [Crowdcrafting + Pybossa](//crowdcrafting.org) | [Pybossa](//pybossa.com) | [Crowdata](crowdata.github.com) |
 -------- | -------- | -------- | -------- | -------- | -------- | -------- | 
-__Location__ | Colorado, USA | Chicago, USA and Oxford, England | San Francisco, USA | Unknown | Madrid, Spain | Uruguay, Argentina |
+__Location__ | Colorado, USA | Chicago, USA and Oxford, England | San Francisco, USA | Unknown | Madrid, Spain | South America |
 __Created__ | 2011 | 2009 | 2011 | 2011 | 2011 | 2013 |
 __Allowed Data Formats__ | Visual | Visual | Visual and Text | Visual and Text | Visual and Text | Text |
 __Allowed Microtasks__ | Discovery | Discovery, Verification | Verification | Discovery, Verification | Varies | Verification, Data Release |
