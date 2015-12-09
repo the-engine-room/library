@@ -28,7 +28,7 @@ Increasingly, this technology is being used by the not for profit sector. The fo
 - [Global Forest Watch Fires](//fires.globalforestwatch.org). Identifying fires and haze from satellite imagery, using Tomnod. 
 - [Fairplay Alliance](//www.fair-play.sk/). Pulling out data from contracts, using a system built independently. 
 - [Vozdata](//blogs.lanacion.com.ar/projects/data/vozdata/). Transcribing information on expenses from PDFs, using Crowdata.
-- [Micromappers](http://micromappers.org/). Combining the extraction of data from images and social media with machine learning.
+- [Micromappers](http://micromappers.org/). Combining the extraction of data from images and social media with machine learning, using Pybossa.
 
 ---
 
