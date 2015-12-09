@@ -28,6 +28,7 @@ Increasingly, this technology is being used by the not for profit sector. The fo
 - [Global Forest Watch Fires](//fires.globalforestwatch.org). Identifying fires and haze from satellite imagery, using Tomnod. 
 - [Fairplay Alliance](//www.fair-play.sk/). Pulling out data from contracts, using a system built independently. 
 - [Vozdata](//blogs.lanacion.com.ar/projects/data/vozdata/). Transcribing information on expenses from PDFs, using Crowdata.
+- [Micromappers](http://micromappers.org/). Combining the extraction of data from images and social media with machine learning.
 
 ---
 
@@ -87,7 +88,7 @@ Our interviewees represented projects and platforms that varied widely in terms 
 * __Most volunteers will contribute for a maximum of 5-10 minutes, with a minority contributing over a longer period.__ However, this minority typically contributes most of the data that microtasking platforms receive. For example, Greenpeace Guardianes said that about 10% of its 30,000 users make 90% of the total contributions to the site.
 * __Volunteers are most likely to complete tasks that are comprehensible in a short space of time.__ Interviewees said that projects often struggled with simplifying tasks down into the base unit of analysis. As the founder of Pybossa put it: “‘simple’ doesn’t mean ‘not complex,’ but volunteers shouldn’t need to spend a lot of time trying to understand the task.” 
 * __‘Divide and conquer’: volunteers should only be asked to complete one type of task at a time.__ Zooniverse’s co-founder noted: “research teams tend to want to milk everything possible out of a task sequence, but experience has demonstrated that it’s always possible to go back and ask questions later on.” Pybossa’s founder added that some organisations were now successfully running 3-5 projects in parallel, with sets of volunteers each conducting a discrete, separate task to collect data that contributed to the project’s overall goal.
-* __Volunteers are likely to contribute more effectively when they can access information about the context of a task.__ Tomnod started by giving volunteers access to a small, 400-pixel satellite image, but found that they contributed much more effectively when they could see the wider region of which that image was a part. As the project lead of the Planetary Response Network said: “any project will have complete beginners and near-experts. The idea is to train people so they can become experts [by providing the right guidance].”
+* __Volunteers are likely to contribute more effectively when they can access information about the context of a task.__ Tomnod started by giving volunteers access to a small, 400-pixel satellite image, but found that they contributed much more effectively when they could see the wider region of which that image was a part (using satellite imagery from Digital Globe, which runs Tomnod). As the project lead of the Planetary Response Network said: “any project will have complete beginners and near-experts. The idea is to train people so they can become experts [by providing the right guidance].”
 * __There is a natural limit to the length of time that most volunteers will contribute.__ As Fairplay Alliance found: “Most of the volunteers were really active for 4-6 weeks – we could sustain it a bit longer with gamification (encouraging competition between users), but not much longer.”
 
 
@@ -98,7 +99,7 @@ These are the most commonly cited responsibilities for a successful microtasking
 * Someone responsible for __attracting new volunteers__ and building momentum around a campaign.
 * Someone responsible for __retaining and coordinating volunteers__, including answering queries with basic information about how the platform worked.
 * Someone who __understands the subject matter__ and the end use to which the data will be applied. This person should be able to communicate with non-expert users.
-* Someone with __web development skills__, with specifics varying depending on the project.
+* Someone with __web development skills__, with specifics varying depending on the project. For example, working with Micromappers' machine learning capabilities requires someone who has experience with Java.
 * Someone with __skills in accessing and processing data__ in the relevant formats for that project – both for designing the platform and monitoring the inputs. For example, several projects using satellite imagery noted that having someone who understands remote sensing and the tasks required to process satellite data was useful.
 * Someone with __statistical analysis skills__ for projects that involve dealing with large quantities of data.
 * Someone who __understands user experience (UX) design__ to optimize the workflow for maintained and effective engagement.
@@ -128,6 +129,7 @@ All projects agreed that verifying and validating data was a crucial part of a s
 * __Build verification into project design.__ These can range from detailed statistical procedures to a consensus model, where a pre-set number of people who need to agree before a report can be accepted.
   * Greenpeace Guardianes requires 30 confirmations for each hexagon (unit of analysis).
   * Pybossa allows for the number of confirmations to be preset within each instance: for example, a classification might not be added to a project’s database until 10 other users have entered the same classification.
+  * Micromappers requires each piece of content to be reviewed by a minimum of three people, and considers it validated if 80% of participants agree with the classification.
   * Tomnod uses ‘Crowdrank’: a method in which a volunteer’s reputation increases as they develop a track record of contributions that a majority of other users agree with. The higher their reputation, the greater weight Tomnod gives to their data.
   * CheckDesk (explicitly a platform for verifying social media reports) adopts a highly transparent verification process in which volunteers use a free-text field to describe their reasons for judging a piece of data to be false (in the style of a comment thread).
 * __Reduce ambiguity.__ The more structure is given to volunteers, the less cleaning of the data is likely be required. Fairplay discovered through their pilot stage that providing structured fields rather than free text was a better way to collect useful data. 
@@ -182,7 +184,7 @@ Arguments against gamification included:
 * __Social capital.__ The manager of Vozdata (at the Argentinian paper La Nacion) said that they were able to attract recruits by using their strong national reputation: “[people] feel that if we are saying and asking for this, it has to be for something good.” She also described ways in which she had responded to students who asked her questions on other topics: “I say, go liberate some documents on Vozdata first, and then I will answer one question.”
 * __Timing.__ Several projects found that participation was particularly high when media coverage gave greater prominence to a project’s subject matter. Tomnod recorded 8 million visits in the space of two weeks in 2014, as users searched satellite imagery for evidence of the disappeared Malaysian Airlines plane MH370, while – on a smaller scale – Vozdata typically times its campaigns around specific political events. Other examples include:
   * Global Forest Watch Fires bases its campaigns around the fire season in south-east Asia.
-  * Geotag-X organises activities focused on particular humanitarian crises.
+  * Geotag-X and Micromappers organise activities focused on particular humanitarian crises.
   * Vozdata bases its campaigns around specific political events, such as the release of politicians’ expense records.
 
 ### Retaining Volunteers 
@@ -190,9 +192,9 @@ Arguments against gamification included:
 Once a microtasking project has launched, there is a natural limit to the length of time that most volunteers will contribute. The following tactics can extend that volunteer engagement period.
 
 * __Keeping up momentum.__ Several interviewees found that excitement and pressure were key motivators for encouraging people to keep engaging. Some Zooniverse projects recorded significant spikes in activity after sending out a newsletter asking their community to reach 1 million classifications in a week. Another project noticed that when their communications “went into autopilot” and failed to communicate urgency, volunteer participation dropped off.
-* __Constant contact.__ The team working on Tomnod realised that “you can’t over-communicate” with volunteers. They use multiple channels to reach their audience, including Twitter, Facebook, a discussion forum and their primary tool: email.
+* __Constant contact.__ The team working on Tomnod realised that “you can’t over-communicate” with volunteers. They use multiple channels to reach their audience, including Twitter, Facebook, a discussion forum and their primary tool: email. Micromappers set up a chatroom each time their tool was used, and found that volunteers would often enjoy interacting with each other - even on issues that had nothing to do with microtasking or the disaster in question.
 * __In-person contact.__ Fairplay Alliance began publishing lists of most successful volunteers, giving extra praise to those processed most contracts over which time period. They thought carefully about how to praise and recognise the work of each volunteer, as they found out that this was very valued; in effect, being part of a community seemed to really matter to the volunteers. Over time, Fairplay started organising events for them, inviting them to their office, then for bigger groups of 30-40 people, providing drinks and organising discussions. “These are the real things that really matter to the people; that they’re taking part with the sense of contributing to something bigger, that you show them what you’re able to do with their help.”
-* __Linking volunteer effort to results.__ Some organisations, such as Fairplay, focused a lot of energy on launching the results of their platform publicly. Before they did the public launch of their data, they had a big event where all volunteers were invited, with semi-famous people present, as well as a local comic with private show. They awarded the most active volunteers, with gifts and printed diplomas showing how many contracts they processed.
+* __Linking volunteer effort to results.__ Some organisations, such as Fairplay, focused a lot of energy on launching the results of their platform publicly. Before they did the public launch of their data, they had a big event where all volunteers were invited, with semi-famous people present, as well as a local comic with private show. They awarded the most active volunteers, with gifts and printed diplomas showing how many contracts they processed. Micromappers highlights top contributors in emails to their mailing list.
 
 ---
 
@@ -203,6 +205,8 @@ Alt Click is a two-year project funded by the [Swedish Postcode Lottery](//www.p
 
 ### Researchers 
 __Milena Marin__ is the Senior Innovations Campaigner at Amnesty International and project manager of Alt Click. Get in touch to know more about Amnesty's efforts to use microtasking [@milena_iul](//twitter.com/milena_iul).
+
+__Tom Walker__ is a Research Lead at the engine room. He works on projects that investigate and document topics that are useful for activists and organizations using data and technology in their work. [@thomwithoutanh](//twitter.com/thomwithoutanh).
 
 __The engine room__ is an applied research and support organization dedicated to improving the safe and effective use of technology in advocacy. The engine room partners with activists and advocacy organizations to help them plan and implement activities that use technological tools. The engine room also conducts applied research on the same dynamics, to inform project design, support activities and funding decisions for social good and accountability programming. Read more at [theengineroom.org](//www.theengineroom.org).
 
