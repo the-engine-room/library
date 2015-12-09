@@ -36,9 +36,9 @@ Increasingly, this technology is being used by the not for profit sector. The fo
 
 Several existing tools allow organizations to create and launch their own microtasking project. The table below compares key functional differences between the platforms used by the example initiatives above.
 
-Platform | [Tomnod](//www.tomnod.com) | [Zooniverse](//www.zooniverse.org) | [Checkdesk](//checkdesk.org) | [Crowdcrafting + Pybossa](//crowdcrafting.org) | [Pybossa](//pybossa.com) | [Crowdata](crowdata.github.com) |
+Platform | [Tomnod](//www.tomnod.com) | [Zooniverse](//www.zooniverse.org) | [Checkdesk](//checkdesk.org) | [Crowdcrafting + Pybossa](//crowdcrafting.org) | [Pybossa](//pybossa.com) | [Crowdata](//crowdata.github.com) |
 -------- | -------- | -------- | -------- | -------- | -------- | -------- | 
-__Location__ | Colorado, USA | Chicago, USA and Oxford, England | San Francisco, USA | Unknown | Madrid, Spain | South America |
+__Location__ | Colorado, USA | Chicago, USA and Oxford, England | San Francisco, USA | Unknown | Madrid, Spain | Buenos Aires, Argentina |
 __Created__ | 2011 | 2009 | 2011 | 2011 | 2011 | 2013 |
 __Allowed Data Formats__ | Visual | Visual, Audio | Visual and Text | Visual, Text, Audio | Visual, Text, Audio | Text |
 __Allowed Microtasks__ | Discovery | Discovery, Verification | Verification | Discovery, Verification | Varies | Verification, Data Release |
@@ -61,7 +61,6 @@ Microtasking has two principal benefits.
 
 * __Getting data that would otherwise be time-consuming to process or impossible to access.__ Any problem that can be broken into small tasks can potentially be crowdsourced to volunteers. Popular microtasking mechanisms include answering questions, transcribing information, identifying points, drawing shapes, and comparing two pieces of data.
 * __Engaging volunteers actively in an issue.__ A major challenge for many member-driven organizations is turning web-based support into real world action. Beyond sharing information or providing financial support (often derided as “clicktivism”), microtasking offers volunteers the opportunity to be actively involved, learn more about an issue, and make a meaningful contribution.
-
 
 ### Disadvantages
 
@@ -91,11 +90,16 @@ Our interviewees represented projects and platforms that varied widely in terms 
 Microtasking isn't magic. Recognizing its limitations early in the planning process can allow an initiative to use it as effectively as possible.
 
 * __Most volunteers will contribute for a maximum of 5-10 minutes, with a minority contributing over a longer period.__ However, this minority typically contributes most of the data that microtasking platforms receive. For example, Greenpeace Guardianes said that about 10% of its 30,000 users make 90% of the total contributions to the site.
+
+![Superusers](../media/microtasking/superusers.png)
+
 * __Volunteers are most likely to complete tasks that are comprehensible in a short space of time.__ Interviewees said that projects often struggled with simplifying tasks down into the base unit of analysis. As the founder of Pybossa put it: “‘simple’ doesn’t mean ‘not complex,’ but volunteers shouldn’t need to spend a lot of time trying to understand the task.” 
 * __‘Divide and conquer’: volunteers should only be asked to complete one type of task at a time.__ Zooniverse’s co-founder noted: “research teams tend to want to milk everything possible out of a task sequence, but experience has demonstrated that it’s always possible to go back and ask questions later on.” Pybossa’s founder added that some organisations were now successfully running 3-5 projects in parallel, with sets of volunteers each conducting a discrete, separate task to collect data that contributed to the project’s overall goal.
 * __Volunteers are likely to contribute more effectively when they can access information about the context of a task.__ Tomnod started by giving volunteers access to a small, 400-pixel satellite image, but found that they contributed much more effectively when they could see the wider region of which that image was a part (using satellite imagery from Digital Globe, which runs Tomnod). As the project lead of the Planetary Response Network said: “any project will have complete beginners and near-experts. The idea is to train people so they can become experts [by providing the right guidance].”
 * __There is a natural limit to the length of time that most volunteers will contribute.__ As Fairplay Alliance found: “Most of the volunteers were really active for 4-6 weeks – we could sustain it a bit longer with gamification (encouraging competition between users), but not much longer.”
+* __Acceptable data formats.__ Microtasking can work well when applied to the division and distribution tasks related to imagery (such as maps or photos), audio, or text. 
 
+![Data Formats](../media/microtasking/data_formats.png)
 
 ### Requirements 
 
@@ -161,6 +165,8 @@ Interviewees held differing opinions on whether gamification was useful or appro
 #### Gamification
 
 When designing an activity that is intended to encourage repeated participation, designers can add elements more typical of game play (keeping score, creating competition, animations and other friendly interactions). This is called “gamification,” and it can encourage further engagement with a product or service. 
+
+![Gamification](../media/microtasking/gamification.png)
 
 Arguments for gamification included: 
 
