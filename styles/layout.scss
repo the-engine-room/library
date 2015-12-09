@@ -72,9 +72,11 @@ nav {
     list-style-type: none;
     margin: 0;
     position: relative;
+    top: -20px;
 
+    // allow vertical scroll on small screens
     overflow-y: scroll;
-    height: calc(100% - 140px);
+    height: calc(100% - 160px);
 
     // initially hidden on mobile
     display: none;
@@ -100,6 +102,7 @@ nav {
     @media (#{$bp-larger-than-phablet}) {
       display: block;
       width: 100%;
+      top: 0;
 
       a {
         // fill nav li
