@@ -40,7 +40,7 @@ Platform | [Tomnod](//www.tomnod.com) | [Zooniverse](//www.zooniverse.org) | [Ch
 -------- | -------- | -------- | -------- | -------- | -------- | -------- | 
 __Location__ | Colorado, USA | Chicago, USA and Oxford, England | San Francisco, USA | Unknown | Madrid, Spain | South America |
 __Created__ | 2011 | 2009 | 2011 | 2011 | 2011 | 2013 |
-__Allowed Data Formats__ | Visual | Visual | Visual and Text | Visual and Text | Visual and Text | Text |
+__Allowed Data Formats__ | Visual | Visual, Audio | Visual and Text | Visual, Text, Audio | Visual, Text, Audio | Text |
 __Allowed Microtasks__ | Discovery | Discovery, Verification | Verification | Discovery, Verification | Varies | Verification, Data Release |
 __Allows Custom Data Fields__ | Yes | Yes | No | Yes | Yes | Yes |
 __Allows Anonymous Users__ | Yes | Yes | No | Yes | Yes | No |
