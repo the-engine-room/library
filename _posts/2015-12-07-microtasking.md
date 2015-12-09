@@ -55,6 +55,7 @@ __License__ | Property of Digital Globe | Apache 2 License | GNU General Public 
 ## Pros and Cons
 
 ### Advantages
+
 Microtasking has two principal benefits.
 
 * __Getting data that would otherwise be time-consuming to process or impossible to access.__ Any problem that can be broken into small tasks can potentially be crowdsourced to volunteers. Popular microtasking mechanisms include answering questions, transcribing information, identifying points, drawing shapes, and comparing two pieces of data.
@@ -68,6 +69,8 @@ Microtasking won’t be an effective solution for some organizations or projects
 * __Stretching resource-constrained organizations.__ Significant staff time may be required to engage volunteers, monitor the quality of their work, and keep them motivated. Resource-constrained organizations may not be able to undertake microtasking easily.
 * __Skewing results for nefarious or benign reasons.__ Microtasking creates the potential that a small number of contributors could skew the data produced by the platform. This could be for political and commercial reasons, or because users were not using the platform in that way that was intended.
 * __Dividing opinions on data reliability.__ Because microtasking is a radical departure from existing research methods, it will draw doubt. Some will question the quality of data submitted by volunteers. Others may view it as an unnecessary disruption to existing workflows from untrusted individuals. 
+
+#### Responsible Data Issues
 
 Interviewees also noted the following more general risks.
 
@@ -83,6 +86,8 @@ Interviewees also noted the following more general risks.
 Our interviewees represented projects and platforms that varied widely in terms of size, subject matter and levels of volunteer engagement. For some, planning and launching a microtasking project was a multi-year process involving many incremental improvements and iterations, while others built and launched their project in relatively short time. 
 
 ### Managing Expectations 
+
+Microtasking isn't magic. Recognizing its limitations early in the planning process can allow an initiative to use it as effectively as possible.
 
 * __Most volunteers will contribute for a maximum of 5-10 minutes, with a minority contributing over a longer period.__ However, this minority typically contributes most of the data that microtasking platforms receive. For example, Greenpeace Guardianes said that about 10% of its 30,000 users make 90% of the total contributions to the site.
 * __Volunteers are most likely to complete tasks that are comprehensible in a short space of time.__ Interviewees said that projects often struggled with simplifying tasks down into the base unit of analysis. As the founder of Pybossa put it: “‘simple’ doesn’t mean ‘not complex,’ but volunteers shouldn’t need to spend a lot of time trying to understand the task.” 
@@ -117,9 +122,11 @@ Interviewees revealed two strategies to improve the integrity of microtasked dat
 
 #### Training Volunteers
 
+Every project recognized the need to get volunteers up to speed on the task, and reported different approaches to doing so.
+
 * Most organisations agreed that instructions on using a platform worked best when they were integrated into the task itself. Several interviewees who had developed platforms had modified their user interface so that users were given a task immediately after starting to use the tool, combined with instructions on how to complete it. Depending on the sensitivity of the information, this training task could be presented using synthetic (or test) data, while others used real project data from the outset. 
 * Several organisations found that tutorials presented as a separate manual were rarely used.
-  * In-person meetings were successful, but might be impractical for projects that aim to engage large numbers. For example, Fairplay Alliance, working with groups of around 30 volunteers, invited them to a two-hour meeting where they were trained to use the tool and asked to sign a volunteer contract and non-disclosure agreement.
+* In-person meetings were successful, but might be impractical for projects that aim to engage large numbers. For example, Fairplay Alliance, working with groups of around 30 volunteers, invited them to a two-hour meeting where they were trained to use the tool and asked to sign a volunteer contract and non-disclosure agreement.
 
 #### Verification by Design
 
@@ -173,6 +180,8 @@ Arguments against gamification included:
 
 ### Attracting Volunteers 
 
+Positioning a project early to attract volunteers will increase the quantity and quality of work that can ultimately be microtasked.
+
 * __Altruistic motivations.__ Interviewees said that most volunteers were mainly motivated by the idea of helping or making an authentic contribution to an organisation’s work. Interestingly, Tomnod said that they had found the quality of data submitted by volunteers was “far superior” to the data from paid contributions (from the digital labour service Mechanical Turk): “People who are engaged are doing it because they want to. We find again and again that they’re much more motivated.”
 * __Communicate how the data will be used.__ Almost all projects said that it is essential to make it clear who the end user of the data is, and how they will use the volunteers’ data in their work. “The biggest thing that drives engagement is knowing that there is somebody at the end of the tunnel – and not too far from the end – who really wants that data.”
 * __Supporting the volunteer community.__ Interviewees suggested that those end users need to play a prominent, active role in any online community that the project creates. Whether that is newsletters, blogs, social media or online forums. Key elements of this role were making themselves available for questions from volunteers and providing feedback on how the data would be used to help them. 
@@ -197,14 +206,14 @@ Once a microtasking project has launched, there is a natural limit to the length
 ---
 
 ## About 
-This site was created by the engine room and Amnesty International to understand the ins and outs of micro-tasking to support Amnesty’s Alt Click project. 
+This site was created by the engine room and Amnesty International to understand the ins and outs of micro-tasking to support Amnesty’s Alt Click project. Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org).
 
 Alt Click is a two-year project funded by the [Swedish Postcode Lottery](//www.postkodlotteriet.se) that aims to inspire a new generation of tech savvy human rights activists to take part in documenting, verifying and collating evidence of human rights abuse. In this context, Amnesty is planning to use micro-tasking to invite people to analyse satellite images, verify video footage and classify large amounts of social media data. 
 
 ### Researchers 
 __Milena Marin__ is the Senior Innovations Campaigner at Amnesty International and project manager of Alt Click. Get in touch to know more about Amnesty's efforts to use microtasking [@milena_iul](//twitter.com/milena_iul).
 
-__The engine room__ is an applied research and support organization dedicated to improving the safe and effective use of technology in advocacy. The engine room partners with activists and advocacy organizations to help them plan and implement activities that use technological tools. The engine room also conducts applied research on the same dynamics, to inform project design, support activities and funding decisions for social good and accountability programming. Read more at [theengineroom.org](//www.theengineroom.org).
+__The engine room__ is an applied research and support organization dedicated to improving the safe and effective use of technology in advocacy. The engine room partners with activists and advocacy organizations to help them plan and implement activities that use technological tools. The engine room also conducts applied research on the same dynamics, to inform project design, support activities and funding decisions for social good and accountability programming. Read more at [theengineroom.org](//www.theengineroom.org). 
 
 
 
