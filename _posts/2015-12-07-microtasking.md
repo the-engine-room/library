@@ -215,12 +215,10 @@ Alt Click is a two-year project funded by the [Swedish Postcode Lottery](//www.p
 ### Researchers 
 __Milena Marin__ is the Senior Innovations Campaigner at Amnesty International and project manager of Alt Click. Get in touch to know more about Amnesty's efforts to use microtasking [@milena_iul](//twitter.com/milena_iul).
 
-<<<<<<< HEAD
-__The engine room__ is an applied research and support organization dedicated to improving the safe and effective use of technology in advocacy. The engine room partners with activists and advocacy organizations to help them plan and implement activities that use technological tools. The engine room also conducts applied research on the same dynamics, to inform project design, support activities and funding decisions for social good and accountability programming. Read more at [theengineroom.org](//www.theengineroom.org). 
-=======
 __Tom Walker__ is a Research Lead at the engine room. He works on projects that investigate and document topics that are useful for activists and organizations using data and technology in their work. [@thomwithoutanh](//twitter.com/thomwithoutanh).
 
 __The engine room__ is an applied research and support organization dedicated to improving the safe and effective use of technology in advocacy. The engine room partners with activists and advocacy organizations to help them plan and implement activities that use technological tools. The engine room also conducts applied research on the same dynamics, to inform project design, support activities and funding decisions for social good and accountability programming. Read more at [theengineroom.org](//www.theengineroom.org).
+
 >>>>>>> 357ef99a07b67d2f06264d87dc814e3fc68ecf21
 
 
