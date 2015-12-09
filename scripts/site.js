@@ -21,6 +21,7 @@ $(document).ready(function() {
         $('html, body').animate({
             scrollTop: element.offset().top - element.outerHeight() - offsetTop
         }, 1000);
+        window.location.hash = href;
 
         // hide mobile nav if visible
         if ($('nav ul.nav').hasClass('visible')) {
