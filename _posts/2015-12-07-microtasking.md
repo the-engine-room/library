@@ -36,20 +36,20 @@ Increasingly, this technology is being used by the not for profit sector. The fo
 
 Several existing tools allow organizations to create and launch their own microtasking project. The table below compares key functional differences between the platforms used by the example initiatives above.
 
-Platform | [Tomnod](//www.tomnod.com) | [Zooniverse](//www.zooniverse.org) | [Checkdesk](//checkdesk.org) | [Crowdcrafting + Pybossa](//crowdcrafting.org) | [Pybossa](//pybossa.com) | [Crowdata](//crowdata.github.com) |
+Platform | [Tomnod](//www.tomnod.com) | [Zooniverse](//www.zooniverse.org) | [Checkdesk](//checkdesk.org) | [Crowdcrafting + Pybossa](//crowdcrafting.org) | [Pybossa](//pybossa.com) | [Crowdata](//crowdata.github.com) | [Micromappers](//github.com/micromappers) |
 -------- | -------- | -------- | -------- | -------- | -------- | -------- | 
-__Location__ | Colorado, USA | Chicago, USA and Oxford, England | San Francisco, USA | Unknown | Madrid, Spain | Buenos Aires, Argentina |
-__Created__ | 2011 | 2009 | 2011 | 2011 | 2011 | 2013 |
-__Allowed Data Formats__ | Visual | Visual, Audio | Visual and Text | Visual, Text, Audio | Visual, Text, Audio | Text |
-__Allowed Microtasks__ | Discovery | Discovery, Verification | Verification | Discovery, Verification | Varies | Verification, Data Release |
-__Allows Custom Data Fields__ | Yes | Yes | No | Yes | Yes | Yes |
-__Allows Anonymous Users__ | Yes | Yes | No | Yes | Yes | No |
-__Allows Private Projects__ | No | Yes | Yes | No | Yes | Yes |
-__Allows Gamification__ | Yes | No | No | Yes | Yes | Yes |
-__Data Hosting__ | Amazon Web Services | Zooniverse Server | Project's own server | Crowdcrafting Server | Project's own server | Project's own server |
-__Languages__ | English | English, German, Polish | English, Arabic | English, Spanish | English, Spanish, Italian, French, German, Greek, Japanese | English, Spanish |
-__Mobile Compatible__ | No | Yes | No | No | Yes | Yes |
-__License__ | Property of Digital Globe | Apache 2 License | GNU General Public License | GNU Affero General Public License | GNU Affero General Public License | MIT License |
+__Location__ | Colorado, USA | Chicago, USA and Oxford, England | San Francisco, USA | Unknown | Madrid, Spain | Buenos Aires, Argentina | Doha, Qatar |
+__Created__ | 2011 | 2009 | 2011 | 2011 | 2011 | 2013 | 2013
+__Allowed Data Formats__ | Visual | Visual, Audio | Visual and Text | Visual, Text, Audio | Visual, Text, Audio | Text | Visual, Text, Audio |
+__Allowed Microtasks__ | Discovery | Discovery, Verification | Verification | Discovery, Verification | Varies | Verification, Data Release | Discovery, Verification |
+__Allows Custom Data Fields__ | Yes | Yes | No | Yes | Yes | Yes | Yes |
+__Allows Anonymous Users__ | Yes | Yes | No | Yes | Yes | No | Yes |
+__Allows Private Projects__ | No | Yes | Yes | No | Yes | Yes | Forthcoming |
+__Allows Gamification__ | Yes | No | No | Yes | Yes | Yes | No |
+__Data Hosting__ | Amazon Web Services | Zooniverse Server | Project's own server | Crowdcrafting Server | Project's own server | Project's own server | Project's own server |
+__Languages__ | English | English, German, Polish | English, Arabic | English, Spanish | English, Spanish, Italian, French, German, Greek, Japanese | English, Spanish | English (links with Translators without Borders |
+__Mobile Compatible__ | No | Yes | No | No | Yes | Yes | Yes |
+__License__ | Property of Digital Globe | Apache 2 License | GNU General Public License | GNU Affero General Public License | GNU Affero General Public License | MIT License | GNU Affero General Public License | 
 
 ---
 
