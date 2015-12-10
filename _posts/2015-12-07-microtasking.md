@@ -89,7 +89,7 @@ Our interviewees represented projects and platforms that varied widely in terms 
 
 Microtasking isn't magic. Recognizing its limitations early in the planning process can allow an initiative to use it as effectively as possible.
 
-* __Most volunteers will contribute for a maximum of 5-10 minutes, with a minority contributing over a longer period.__ However, this minority typically contributes most of the data that microtasking platforms receive. For example, Greenpeace Guardianes said that about 10% of its 30,000 users make 90% of the total contributions to the site.
+* __Most volunteers will contribute for a maximum of 5-10 minutes per week, with a minority contributing more than that.__ However, this minority typically contributes most of the data that microtasking platforms receive. For example, Greenpeace Guardianes said that about 10% of its 30,000 users make 90% of the total contributions to the site.
 
 ![Superusers](../media/microtasking/superusers.png)
 
@@ -224,8 +224,6 @@ __Milena Marin__ is the Senior Innovations Campaigner at Amnesty International a
 __Tom Walker__ is a Research Lead at the engine room. He works on projects that investigate and document topics that are useful for activists and organizations using data and technology in their work. [@thomwithoutanh](//twitter.com/thomwithoutanh).
 
 __The engine room__ is an applied research and support organization dedicated to improving the safe and effective use of technology in advocacy. The engine room partners with activists and advocacy organizations to help them plan and implement activities that use technological tools. The engine room also conducts applied research on the same dynamics, to inform project design, support activities and funding decisions for social good and accountability programming. Read more at [theengineroom.org](//www.theengineroom.org).
-
->>>>>>> 357ef99a07b67d2f06264d87dc814e3fc68ecf21
 
 
 
