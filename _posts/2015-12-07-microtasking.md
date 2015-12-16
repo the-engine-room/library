@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Microtasking
-
 funder_logo: /images/logos/amnesty.png
 funder_link: //www.amnestyusa.org
+published: true
 ---
+
 
 # Microtasking
 
@@ -196,7 +197,7 @@ Positioning a project early to attract volunteers will increase the quantity and
 * __Early involvement.__ Volunteer engagement can be particularly important in the early stages of a project. When the community is starting up, Zooniverse noted that some projects had found it helpful to have people on hand “almost 24/7” to answer questions and encourage new users. Several projects highlighted the importance of meeting people where they already were - for example, Fairplay Alliance answered questions about the platform on a private Facebook group because it was the most widely used format in Slovakia.
 * __High-profile users.__ Volunteer engagement can increase when joined by a recognisable or senior figure in the field. For example, crowdsourcing verification platform CheckDesk suggested that the involvement of prominent citizen journalists such as Eliot Higgins on specific tasks bolstered volunteers’ sense that they were contributing to a high-quality endeavour.
 * __Keeping the platform consistent__: Greenpeace’s Innovation Lab noticed that far fewer people registered for the second version of their Guardianes platform when it re-launched. They suggested that this could be because the Chrome browser (which a large proportion of their users used) no longer supported the Silverlight plugin on which Guardianes was built. Although Guardianes still worked on other browsers, few users were willing to switch to another one in order to continue their microtasking.
-* __Social capital.__ The manager of Vozdata (at the Argentinian paper La Nacion) said that they were able to attract recruits by using their strong national reputation: “[people] feel that if we are saying and asking for this, it has to be for something good.” She also described ways in which she had responded to students who asked her questions on other topics: “I say, go liberate some documents on Vozdata first, and then I will answer one question.”
+* __Social capital.__ A member of the Vozdata team (at the Argentinian paper La Nacion) said that they were able to attract recruits by using their strong national reputation: “[people] feel that if we are saying and asking for this, it has to be for something good.” She also described ways in which she had responded to students who asked her questions on other topics: “I say, go liberate some documents on Vozdata first, and then I will answer one question.”
 * __Timing.__ Several projects found that participation was particularly high when media coverage gave greater prominence to a project’s subject matter. Tomnod recorded 8 million visits in the space of two weeks in 2014, as users searched satellite imagery for evidence of the disappeared Malaysian Airlines plane MH370, while – on a smaller scale – Vozdata typically times its campaigns around specific political events. Other examples include:
   * Global Forest Watch Fires bases its campaigns around the fire season in south-east Asia.
   * Geotag-X and Micromappers organise activities focused on particular humanitarian crises.
@@ -214,7 +215,7 @@ Once a microtasking project has launched, there is a natural limit to the length
 ---
 
 ## About 
-This site was created by the engine room and Amnesty International to understand the ins and outs of micro-tasking to support Amnesty’s Alt Click project. Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org).
+This site was created by the engine room and Amnesty International to understand the ins and outs of micro-tasking, to support Amnesty’s Alt Click project. Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org).
 
 Alt Click is a two-year project funded by the [Swedish Postcode Lottery](//www.postkodlotteriet.se) that aims to inspire a new generation of tech savvy human rights activists to take part in documenting, verifying and collating evidence of human rights abuse. In this context, Amnesty is planning to use micro-tasking to invite people to analyse satellite images, verify video footage and classify large amounts of social media data. 
 
