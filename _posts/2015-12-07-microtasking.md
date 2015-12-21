@@ -219,9 +219,12 @@ This site was created by the engine room and Amnesty International to understand
 
 Alt Click is a two-year project funded by the [Swedish Postcode Lottery](//www.postkodlotteriet.se) that aims to inspire a new generation of tech savvy human rights activists to take part in documenting, verifying and collating evidence of human rights abuse. In this context, Amnesty is planning to use micro-tasking to invite people to analyse satellite images, verify video footage and classify large amounts of social media data. 
 
-### Researchers 
+### Contributors 
+
 __Milena Marin__ is the Senior Innovations Campaigner at Amnesty International and project manager of Alt Click. Get in touch to know more about Amnesty's efforts to use microtasking [@milena_iul](//twitter.com/milena_iul).
 
-__Tom Walker__ is a Research Lead at the engine room. He works on projects that investigate and document topics that are useful for activists and organizations using data and technology in their work. [@thomwithoutanh](//twitter.com/thomwithoutanh).
+__[The engine room](//theengineroom.org)__ is an applied research and support organization dedicated to improving the safe and effective use of technology in advocacy. The engine room partners with activists and advocacy organizations to help them plan and implement activities that use technological tools. The engine room also conducts applied research on the same dynamics, to inform project design, support activities and funding decisions for social good and accountability programming. 
 
-__The engine room__ is an applied research and support organization dedicated to improving the safe and effective use of technology in advocacy. The engine room partners with activists and advocacy organizations to help them plan and implement activities that use technological tools. The engine room also conducts applied research on the same dynamics, to inform project design, support activities and funding decisions for social good and accountability programming. Read more at [theengineroom.org](//www.theengineroom.org).
+From the engine room team, on this project [Danna Ingleton](https://www.theengineroom.org/our_team/danna-ingleton/), Responsible Data Program Manager, was involved in conception and set up. [Zara Rahman](https://www.theengineroom.org/our_team/zara-rahman/) managed the project, and conceived the idea of microsites to present the information you see here. [Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) carried out the research, including interviews and the write up of the bulk of the content. [Maya Richman](https://www.theengineroom.org/our_team/maya-richman/) contributed the tools functionalities table, and [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) and [Alix Dunn](https://www.theengineroom.org/our_team/alix-dunn/) provided useful feedback and guidance to the design.
+
+Site design and information architecture was carried out by [Ruth Miller](http://ruthmiller.net/), and implementation by [Spacedog XYZ.](http://www.spacedog.xyz/about/)
