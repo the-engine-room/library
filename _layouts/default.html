@@ -7,7 +7,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://library.theengineroom.org/" />
     <meta property="og:title" content="" />
-    
+
     <link href="{{site.baseurl}}/images/icons/favicon.png" rel="shortcut icon" type="image/png" />
     <link rel="stylesheet" href="{{ site.baseurl }}/styles/main.css?v={{site.time | date: '%s'}}" />
 
@@ -20,7 +20,7 @@
     {% if page.scripts %}{{page.scripts}}{% endif %}
   </head>
 
-  <body class="row {%if page.body_class%}{{page.body_class}}"{%endif%}>
+  <body class="row {% if page.body_class %}{{page.body_class}}{% endif %}">
     <nav class="three columns">
       <div class="logo">
         <a href="https://theengineroom.org"><img src="{{site.baseurl}}/images/logos/engineroom.png" alt="Engine Room" /></a>
