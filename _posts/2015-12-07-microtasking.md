@@ -13,6 +13,10 @@ published: true
 
 Microtasking is the process of splitting a large job into small tasks that can be distributed, over the Internet, to many people. Machines and algorithms are very efficient at certain functions, such as identifying patterns in an image or performing advanced calculations, but other tasks, including identifying the contents of an image or recognizing obscure text, are still best performed by humans.
 
+Microtasking platforms provide a way for anyone sitting at their computer to contribute to important tasks - they can get involved in noticing changes in forestry, or in noticing blemishes on an image that might indicate attacks on a certain area. For an organisation, microtasking brings benefits like distributing the workload, but it also requires a lot of thought and strategic planning.  The content of this site is based on a series of interviews with people who have worked on microtasking platforms, and outlines the work that goes into running a successful microtasking platform.
+
+
+
 ![Microtasking](../media/microtasking/microtasking.png)
 
 ---
@@ -61,6 +65,18 @@ __License__ | Property of Digital Globe | Apache 2 License | GNU General Public 
 Microtasking has two principal benefits.
 
 * __Getting data that would otherwise be time-consuming to process or impossible to access.__ Any problem that can be broken into small tasks can potentially be crowdsourced to volunteers. Popular microtasking mechanisms include answering questions, transcribing information, identifying points, drawing shapes, and comparing two pieces of data.
+
+| **Data types**         | **Volunteer engagement**                   |
+|--------------------|----------------------------------------|
+| Documents          | Transcribing, verifying                |
+| Satellite imagery  | Identifying features                   |
+| Video              | Counting, describing                   |
+| Photography        | Comparing, identifying                 |
+| Social media posts | Classifying, prioritising              |
+| SMS                | Transcribing, translating, classifying |
+| Maps               | Digitising, contributing               |
+
+
 * __Engaging volunteers actively in an issue.__ A major challenge for many member-driven organizations is turning web-based support into real world action. Beyond sharing information or providing financial support (often derided as “clicktivism”), microtasking offers volunteers the opportunity to be actively involved, learn more about an issue, and make a meaningful contribution.
 
 ### Disadvantages
