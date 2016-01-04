@@ -63,6 +63,17 @@ __License__ | Property of Digital Globe | Apache 2 License | GNU General Public 
 Microtasking has two principal benefits.
 
 * __Getting data that would otherwise be time-consuming to process or impossible to access.__ Any problem that can be broken into small tasks can potentially be crowdsourced to volunteers. Popular microtasking mechanisms include answering questions, transcribing information, identifying points, drawing shapes, and comparing two pieces of data.
+
+| **Data types**         | **Volunteer engagement**                   |
+|--------------------|----------------------------------------|
+| Documents          | Transcribing, verifying                |
+| Satellite imagery  | Identifying features                   |
+| Video              | Counting, describing                   |
+| Photography        | Comparing, identifying                 |
+| Social media posts | Classifying, prioritising              |
+| SMS                | Transcribing, translating, classifying |
+| Maps               | Digitising, contributing               |
+
 * __Engaging volunteers actively in an issue.__ A major challenge for many member-driven organizations is turning web-based support into real world action. Beyond sharing information or providing financial support (often derided as “clicktivism”), microtasking offers volunteers the opportunity to be actively involved, learn more about an issue, and make a meaningful contribution.
 
 ### Disadvantages
