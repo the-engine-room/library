@@ -47,7 +47,7 @@ __Allowed Data Formats__ | Visual | Visual, Audio | Visual and Text | Visual, Te
 __Allowed Microtasks__ | Discovery | Discovery, Verification | Verification | Discovery, Verification | Varies | Verification, Data Release | Discovery, Verification |
 __Allows Custom Data Fields__ | Yes | Yes | No | Yes | Yes | Yes | Yes |
 __Allows Anonymous Users__ | Yes | Yes | No | Yes | Yes | No | Yes |
-__Allows Private Projects__ | No | Yes | Yes | No | Yes | Yes | Forthcoming |
+__Allows Private Projects__ | Yes | Yes | Yes | No | Yes | Yes | Forthcoming |
 __Allows Gamification__ | Yes | No | No | Yes | Yes | Yes | No |
 __Data Hosting__ | Amazon Web Services | Zooniverse Server | Project's own server | Crowdcrafting Server | Project's own server | Project's own server | Project's own server |
 __Languages__ | English | English, German, Polish | English, Arabic | English, Spanish | English, Spanish, Italian, French, German, Greek, Japanese | English, Spanish | English (links with Translators without Borders |
