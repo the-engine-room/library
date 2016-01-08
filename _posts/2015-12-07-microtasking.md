@@ -26,7 +26,7 @@ This process has been used for over ten years in the commercial sector. Microtas
 Increasingly, this technology is being used by the not for profit sector. The following initiatives have successfully applied microtasking for humanitarian or social purposes, and their staff were interviewed for the creation of this report. They represent projects with a wide range of sophistication and volunteer engagement, from tens to tens of thousands. Some were large organizations with dedicated communications teams, while others recruited a volunteer developer to build their platform.
 
 - [Planetary Response Network](//irevolution.net/2014/06/03/zoomanitarians/). Tagging satellite/aerial imagery to accelerate disaster damage assessments, using Zooniverse.
-- [Geotag-X](//geotagx.org/about). Extracting data from images of disasters, using Pybossa.
+- [GeoTag-X](//geotagx.org/). Extracting data from images of disasters, using Pybossa.
 - [Greenpeace Guardianes](//www.guardianes.greenpeace.org.ar). Identifying deforestation/forest degradation from Landsat satellite imagery. Previously used Silverlight, currently building a new version.
 - [Global Forest Watch Fires](//fires.globalforestwatch.org). Identifying fires and haze from satellite imagery, using Tomnod.
 - [Fairplay Alliance](//www.fair-play.sk/). Pulling out data from contracts, using a system built independently.
@@ -167,7 +167,7 @@ All projects agreed that verifying and validating data was a crucial part of a s
 
 Organisations made project planning decisions for reasons related to their own specific organisational needs. These included the following.
 
-* __Minimising time spent on development.__ Global Forest Watch Fires and Geotag-X chose Tomnod and Pybossa, respectively, because they were looking for platforms that were already developed and had features that met their needs. As Geotag-X’s manager put it: “We needed something already ready to go because we had no developer at the time.”
+* __Minimising time spent on development.__ Global Forest Watch Fires and GeoTag-X chose Tomnod and Pybossa, respectively, because they were looking for platforms that were already developed and had features that met their needs. As GeoTag-X’s manager put it: “We needed something already ready to go because we had no developer at the time.”
 * __Project timelines.__ Fairplay Alliance’s project manager said that they put less time into the design of the app in advance; their main focus was getting the platform working quickly and cheaply because they didn't have the time and money to fine-tune it.
 * __Need for specialist information.__ Global Forest Watch Fires chose to work with Tomnod partly because it gave them access to high-quality cloud-free satellite imagery (something that they had previously found hard to access) provided by Digital Globe.
 
@@ -214,7 +214,7 @@ Positioning a project early to attract volunteers will increase the quantity and
 * __Social capital.__ A member of the Vozdata team (at the Argentinian paper La Nacion) said that they were able to attract recruits by using their strong national reputation: “[people] feel that if we are saying and asking for this, it has to be for something good.” She also described ways in which she had responded to students who asked her questions on other topics: “I say, go liberate some documents on Vozdata first, and then I will answer one question.”
 * __Timing.__ Several projects found that participation was particularly high when media coverage gave greater prominence to a project’s subject matter. Tomnod recorded 8 million visits in the space of two weeks in 2014, as users searched satellite imagery for evidence of the disappeared Malaysian Airlines plane MH370, while – on a smaller scale – Vozdata typically times its campaigns around specific political events. Other examples include:
   * Global Forest Watch Fires bases its campaigns around the fire season in south-east Asia.
-  * Geotag-X and Micromappers organise activities focused on particular humanitarian crises.
+  * GeoTag-X and Micromappers organise activities focused on particular humanitarian crises.
   * Vozdata bases its campaigns around specific political events, such as the release of politicians’ expense records.
 
 ### Retaining Volunteers
