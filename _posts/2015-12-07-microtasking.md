@@ -27,7 +27,7 @@ Increasingly, this technology is being used by the not for profit sector. The fo
 
 - [Planetary Response Network](//irevolution.net/2014/06/03/zoomanitarians/). Tagging satellite/aerial imagery to accelerate disaster damage assessments, using Zooniverse.
 - [GeoTag-X](//geotagx.org/). Extracting data from images of disasters, using Pybossa.
-- [Greenpeace Guardianes](//www.guardianes.greenpeace.org.ar). Identifying deforestation/forest degradation from Landsat satellite imagery. Previously used Silverlight, currently building a new version.
+- [Greenpeace Guardianes](//greenpeace.org.ar/guardianes/index-EN.php ). Identifying deforestation/forest degradation from Landsat satellite imagery. Previously used Silverlight, currently building a new version.
 - [Global Forest Watch Fires](//fires.globalforestwatch.org). Identifying fires and haze from satellite imagery, using Tomnod.
 - [Fairplay Alliance](//www.fair-play.sk/). Pulling out data from contracts, using a system built independently.
 - [Vozdata](//blogs.lanacion.com.ar/projects/data/vozdata/). Transcribing information on expenses from PDFs, using Crowdata.
