@@ -6,9 +6,10 @@
  git config user.name "mayarichman"
  git config user.email "mayarichman@gmail.com"
  git remote add upstream https://mayarichman:${GH_TOKEN}@github.com/the-engine-room/library.git
- git pull origin testing-travis
+ git checkout testing-travis
+ git pull
  #git reset upstream/testing-travis
- git rm *
+ rm -r ./*
  cp -r /home/travis/build/the-engine-room/library/_site/ ./
  touch .nojekyll
  git add --all
