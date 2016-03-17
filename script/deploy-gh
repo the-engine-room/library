@@ -6,6 +6,7 @@ mkdir out;
  git config user.name "mayarichman"
  git config user.email "mayarichman@gmail.com"
  cp -r /home/travis/build/the-engine-room/library/_site/* ./
+ git checkout gh-pages
  git add .
  git commit -m "Deployed to Github Pages"
  git branch
