@@ -26,8 +26,11 @@ rm -rf ../library.gh-pages
 #clone `master' branch of the repository using encrypted GH_TOKEN for authentification
 git clone https://${GH_TOKEN}@github.com/the-engine-room/library.git ../library.gh-pages
 
+# cleanup
+rm -rf ../library.gh-pages
+
 # copy generated HTML site to `master' branch
-cp -R /home/travis/build/the-engine-room/library/_site/ ../library.gh-pages
+cp -R /home/travis/build/the-engine-room/library/_site/* ../library.gh-pages/
 ls ../library.gh-pages
 
 # commit and push generated content to `master' branch
