@@ -28,6 +28,7 @@ git clone https://${GH_TOKEN}@github.com/the-engine-room/library.git ../library.
 
 # copy generated HTML site to `master' branch
 cp -R /home/travis/build/the-engine-room/library/_site/ ../library.gh-pages
+ls ../library.gh-pages
 
 # commit and push generated content to `master' branch
 # since repository was cloned in write mode with token auth - we can push there
