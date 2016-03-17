@@ -4,3 +4,5 @@ baseurl: '//the-engine-room.github.io/library'
 sass:
     sass_dir: styles
     style: compressed
+    
+exclude: [vendor]
