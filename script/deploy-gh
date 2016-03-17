@@ -36,8 +36,9 @@ ls /home/travis/build/the-engine-room/library/library.gh-pages
 # commit and push generated content to `master' branch
 # since repository was cloned in write mode with token auth - we can push there
 cd /home/travis/build/the-engine-room/library/library.gh-pages
+git remote add upstream https://mayarichman:${GH_TOKEN}@github.com/the-engine-room/library.git
 git config user.email "mayarichman@gmail.com"
 git config user.name "mayarichman"
 git add -A .
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-git push origin master > /dev/null 2>&1 
+git push --quiet upstream HEAD:testing-travis > /dev/null 2>&1 
