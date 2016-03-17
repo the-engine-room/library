@@ -1,14 +1,12 @@
 #!/bin/bash
-rm -rf out || exit 0;
-mkdir out; 
-( cd out
+ cd /home/travis/build/the-engine-room/library/_site/
  git init
  git config user.name "mayarichman"
  git config user.email "mayarichman@gmail.com"
- git checkout--orphan gh-pages
- cp -r /home/travis/build/the-engine-room/library/_site/* ./
- git add .
- git commit -m "Deployed to Github Pages"
- git branch
- git push --force origin gh-pages
-)
+ git remote add upstream https://${GH_USERNAME}:${GH_TOKEN}@github.com/the-engine-room/library.git
+ git fetch upstream
+ git reset upstream/gh-pages
+ touch .nojekyll
+ git add -A .
+ git commit -a -m \"Travis build $TRAVIS_BUILD_NUMBER\"
+ git push --quiet upstream HEAD:gh-pages
