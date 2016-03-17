@@ -27,7 +27,7 @@ mkdir -p  /home/travis/build/the-engine-room/library/library.gh-pages
 git clone https://${GH_TOKEN}@github.com/the-engine-room/library.git /home/travis/build/the-engine-room/library/library.gh-pages
 
 # cleanup
-rm -rf /home/travis/build/the-engine-room/library/library.gh-pages
+rm -rf /home/travis/build/the-engine-room/library/library.gh-pages/*
 
 # copy generated HTML site to `master' branch
 cp -R /home/travis/build/the-engine-room/library/_site/* /home/travis/build/the-engine-room/library/library.gh-pages
