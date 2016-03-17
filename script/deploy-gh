@@ -1,11 +1,15 @@
 #!/bin/bash
- cd /home/travis/build/the-engine-room/library/_site/
+ cd /home/travis/build/the-engine-room/library/
+ mkdir deploy
+ cd deploy
  git init
  git config user.name "mayarichman"
  git config user.email "mayarichman@gmail.com"
  git remote add upstream https://mayarichman:${GH_TOKEN}@github.com/the-engine-room/library.git
- git fetch upstream
+ git pull origin testing-travis
  #git reset upstream/testing-travis
+ git rm *
+ cp -r /home/travis/build/the-engine-room/library/_site/ ./
  touch .nojekyll
  git add --all
  git commit -m "Travis build"
