@@ -3,10 +3,10 @@
  git init
  git config user.name "mayarichman"
  git config user.email "mayarichman@gmail.com"
- git remote add upstream https://${GH_USERNAME}:${GH_TOKEN}@github.com/the-engine-room/library.git
+ git remote add upstream https://mayarichman:${GH_TOKEN}@github.com/the-engine-room/library.git
  git fetch upstream
- git reset upstream/gh-pages
+ git reset upstream/testing-travis
  touch .nojekyll
- git add -A .
+ git add .
  git commit -a -m \"Travis build $TRAVIS_BUILD_NUMBER\"
- git push --quiet upstream HEAD:gh-pages
+ git push --quiet upstream HEAD:testing-travis
