@@ -1,2 +1,5 @@
 .sass-cache
 _site
+.travis.yml
+Gemfile
+Gemfile.lock
