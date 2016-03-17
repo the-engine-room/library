@@ -18,7 +18,7 @@
  #git push --quiet upstream HEAD:testing-travis
 
 # build site with jekyll, by default to `_site' folder
-jekyll build
+bundle exec jekyll build
 
 # cleanup
 rm -rf ../library.gh-pages
