@@ -41,4 +41,5 @@ git config user.email "mayarichman@gmail.com"
 git config user.name "mayarichman"
 git add -A .
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-git push --quiet upstream HEAD:testing-travis > /dev/null 2>&1 
+git origin
+git push origin/testing-travis > /dev/null 2>&1 
