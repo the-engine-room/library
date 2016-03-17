@@ -27,7 +27,7 @@ rm -rf ../library.gh-pages
 git clone https://${GH_TOKEN}@github.com/the-engine-room/library.git ../library.gh-pages
 
 # copy generated HTML site to `master' branch
-cp -R _site/* ../library.gh-pages
+cp -R /home/travis/build/the-engine-room/library/_site/ ../library.gh-pages
 
 # commit and push generated content to `master' branch
 # since repository was cloned in write mode with token auth - we can push there
@@ -36,4 +36,4 @@ git config user.email "mayarichman@gmail.com"
 git config user.name "mayarichman"
 git add -A .
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-git push --quiet origin testing-travis > /dev/null 2>&1 
+git push origin testing-travis > /dev/null 2>&1 
