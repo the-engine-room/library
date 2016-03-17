@@ -20,22 +20,22 @@
 # build site with jekyll, by default to `_site' folder
 bundle exec jekyll build
 
-# cleanup
-rm -rf ../library.gh-pages
+
+mkdir -p  /home/travis/build/the-engine-room/library/library.gh-pages
 
 #clone `master' branch of the repository using encrypted GH_TOKEN for authentification
-git clone https://${GH_TOKEN}@github.com/the-engine-room/library.git ../library.gh-pages
+git clone https://${GH_TOKEN}@github.com/the-engine-room/library.git /home/travis/build/the-engine-room/library/library.gh-pages
 
 # cleanup
-rm -rf ../library.gh-pages
+rm -rf /home/travis/build/the-engine-room/library/library.gh-pages
 
 # copy generated HTML site to `master' branch
-cp -R /home/travis/build/the-engine-room/library/_site/* ../library.gh-pages/
-ls ../library.gh-pages
+cp -R /home/travis/build/the-engine-room/library/_site/* /home/travis/build/the-engine-room/library/library.gh-pages
+ls /home/travis/build/the-engine-room/library/library.gh-pages
 
 # commit and push generated content to `master' branch
 # since repository was cloned in write mode with token auth - we can push there
-cd ../library.gh-pages
+cd /home/travis/build/the-engine-room/library/library.gh-pages
 git config user.email "mayarichman@gmail.com"
 git config user.name "mayarichman"
 git add -A .
