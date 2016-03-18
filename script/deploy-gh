@@ -2,7 +2,7 @@
 
 # build site with jekyll, by default to `_site' folder
 #bundle exec jekyll build
-bundle exec Jekyll build --baseurl '' --trace
+bundle exec Jekyll build
 
 # make directory for cloned repo
 mkdir -p  /home/travis/build/the-engine-room/library/noncompiled
