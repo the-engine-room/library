@@ -1,41 +1,18 @@
 #!/bin/bash
 
- #cd /home/travis/build/the-engine-room/library/
- #mkdir deploy
- #cd deploy
- #git init
- #git config user.name "mayarichman"
- #git config user.email "mayarichman@gmail.com"
- #git remote add upstream https://mayarichman:${GH_TOKEN}@github.com/the-engine-room/library.git
- #git checkout testing-travis
- #git pull
- ##git reset upstream/testing-travis
- #rm -r ./*
- #cp -r /home/travis/build/the-engine-room/library/_site/ ./
- #touch .nojekyll
- #git add --all
- #git commit -m "Travis build"
- #git push --quiet upstream HEAD:testing-travis
-
 # build site with jekyll, by default to `_site' folder
 bundle exec jekyll build
 
 
-mkdir -p  /home/travis/build/the-engine-room/library/library.gh-pages
+#mkdir -p  /home/travis/build/the-engine-room/library/library.gh-pages
 
-#clone `master' branch of the repository using encrypted GH_TOKEN for authentification
-#git clone https://${GH_TOKEN}@github.com/the-engine-room/library.git /home/travis/build/the-engine-room/library/library.gh-pages
-
-# cleanup
-#rm -rf /home/travis/build/the-engine-room/library/library.gh-pages/*
-
-# copy generated HTML site to `master' branch
-cp -R /home/travis/build/the-engine-room/library/_site/* /home/travis/build/the-engine-room/library/library.gh-pages
-ls /home/travis/build/the-engine-room/library/library.gh-pages
+# copy generated HTML site to `gh-pages' branch
+#cp -R /home/travis/build/the-engine-room/library/_site/* /home/travis/build/the-engine-room/library/library.gh-pages
+#ls /home/travis/build/the-engine-room/library/library.gh-pages
 
 # commit and push generated content to `master' branch
 # since repository was cloned in write mode with token auth - we can push there
-cd /home/travis/build/the-engine-room/library/library.gh-pages
+cd /home/travis/build/the-engine-room/library/_site
 git init
 
 #git remote add upstream https://mayarichman:${GH_TOKEN}@github.com/the-engine-room/library.git
