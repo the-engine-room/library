@@ -11,10 +11,12 @@ nano /home/travis/build/the-engine-room/library/_site/.travis.yml
 # copy .travis.yml to compiled site folder
 cp /home/travis/build/the-engine-room/library/noncompiled/.travis.yml /home/travis/build/the-engine-room/library/_site/.travis.yml
 
+# initialize new repo from newly built _site folder  
 cd /home/travis/build/the-engine-room/library/_site
 git init
 git config user.email "mayarichman@gmail.com"
 git config user.name "mayarichman"
+# add, commit and push changes to master
 git add -A .
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
 git push --force --quiet "https://mayarichman:${GH_TOKEN}@github.com/the-engine-room/library.git" master:master > /dev/null 2>&1
