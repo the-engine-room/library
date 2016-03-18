@@ -31,3 +31,5 @@ Open a web browser to http://localhost:4000/page_name to see your content.
 Please commit your changes and push to the gh-pages branch. Travis CI ensures each push to gh-pages results in a recompiled version of the site is pushed to the master branch. We set up a Git hook with [myWebhook](https://github.com/mexitek/myWebHook) that will pull any new changes to our server with every push.
 
 If you have write access to this repo, you can check if the build is successful on [Travis](https://travis-ci.org/the-engine-room/library).
+
+[![Build Status](https://travis-ci.org/the-engine-room/library.svg?branch=master)](https://travis-ci.org/the-engine-room/library)
