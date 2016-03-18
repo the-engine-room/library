@@ -24,10 +24,10 @@ bundle exec jekyll build
 mkdir -p  /home/travis/build/the-engine-room/library/library.gh-pages
 
 #clone `master' branch of the repository using encrypted GH_TOKEN for authentification
-git clone https://${GH_TOKEN}@github.com/the-engine-room/library.git /home/travis/build/the-engine-room/library/library.gh-pages
+#git clone https://${GH_TOKEN}@github.com/the-engine-room/library.git /home/travis/build/the-engine-room/library/library.gh-pages
 
 # cleanup
-rm -rf /home/travis/build/the-engine-room/library/library.gh-pages/*
+#rm -rf /home/travis/build/the-engine-room/library/library.gh-pages/*
 
 # copy generated HTML site to `master' branch
 cp -R /home/travis/build/the-engine-room/library/_site/* /home/travis/build/the-engine-room/library/library.gh-pages
@@ -36,11 +36,11 @@ ls /home/travis/build/the-engine-room/library/library.gh-pages
 # commit and push generated content to `master' branch
 # since repository was cloned in write mode with token auth - we can push there
 cd /home/travis/build/the-engine-room/library/library.gh-pages
-git checkout testing-travis
+git init
 git remote add upstream https://mayarichman:${GH_TOKEN}@github.com/the-engine-room/library.git
 git config user.email "mayarichman@gmail.com"
 git config user.name "mayarichman"
 git add -A .
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-git origin
+git checkout testing-travis
 git push testing-travis  > /dev/null 2>&1 
