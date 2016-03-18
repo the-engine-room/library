@@ -28,4 +28,4 @@ Open a web browser to http://localhost:4000/page_name to see your content.
 
 ## Deploying Updates
 
-Please Commit your changes and push to the gh-pages branch. Travis CI ensures each push to gh-pages results in a recompiled version of the site is pushed to the master branch. We set up a Git hook that will pull any new changes to our server with every push.
+Please commit your changes and push to the gh-pages branch. Travis CI ensures each push to gh-pages results in a recompiled version of the site is pushed to the master branch. We set up a Git hook that will pull any new changes to our server with every push.
