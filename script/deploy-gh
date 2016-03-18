@@ -1,18 +1,16 @@
 #!/bin/bash
 
 # build site with jekyll, by default to `_site' folder
-#bundle exec jekyll build
-bundle exec Jekyll build
+bundle exec jekyll build
 
 # make directory for cloned repo
 mkdir -p  /home/travis/build/the-engine-room/library/noncompiled
 git clone https://github.com/the-engine-room/library.git /home/travis/build/the-engine-room/library/noncompiled
-
 # make empty .travis.yml file
 nano /home/travis/build/the-engine-room/library/_site/.travis.yml
-
 # copy .travis.yml to compiled site folder
-cp /home/travis/build/the-engine-room/library/noncompiled/.travis.yml /home/travis/build/the-engine-room/library/_site/
+cp /home/travis/build/the-engine-room/library/noncompiled/.travis.yml /home/travis/build/the-engine-room/library/_site/.travis.yml
+
 cd /home/travis/build/the-engine-room/library/_site
 git init
 git config user.email "mayarichman@gmail.com"
