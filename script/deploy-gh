@@ -3,23 +3,15 @@
 # build site with jekyll, by default to `_site' folder
 bundle exec jekyll build
 
-
 mkdir -p  /home/travis/build/the-engine-room/library/noncompiled
-
-# copy generated HTML site to `gh-pages' branch
-cp /home/travis/build/the-engine-room/library/noncompiled/.travis.yml /home/travis/build/the-engine-room/library/_site
-#ls /home/travis/build/the-engine-room/library/library.gh-pages
-
-# commit and push generated content to `master' branch
-# since repository was cloned in write mode with token auth - we can push there
+# make empty .travis.yml file
+touch /home/travis/build/the-engine-room/library/_site/.travis.yml
+# copy .travis.yml to compiled site folder
+cp /home/travis/build/the-engine-room/library/noncompiled/.travis.yml /home/travis/build/the-engine-room/library/_site/
 cd /home/travis/build/the-engine-room/library/_site
 git init
-
-#git remote add upstream https://mayarichman:${GH_TOKEN}@github.com/the-engine-room/library.git
-
 git config user.email "mayarichman@gmail.com"
 git config user.name "mayarichman"
 git add -A .
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-
 git push --force --quiet "https://mayarichman:${GH_TOKEN}@github.com/the-engine-room/library.git" master:master > /dev/null 2>&1
