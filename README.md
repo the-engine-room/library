@@ -28,4 +28,4 @@ Open a web browser to http://localhost:4000/page_name to see your content.
 
 ## Deploying Updates
 
-Commit your changes, push to the gh-pages branch, and it will be live on GitHub Pages. Travis CI ensures that the compiled version of the site is pushed to Master.
+Commit your changes, push to the gh-pages branch, and it will be live on GitHub Pages. Travis CI ensures that the compiled version of the site is pushed to Master. We set up a Git hook that will pull new changes to our server with every push.
