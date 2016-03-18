@@ -4,10 +4,10 @@
 bundle exec jekyll build
 
 
-#mkdir -p  /home/travis/build/the-engine-room/library/library.gh-pages
+mkdir -p  /home/travis/build/the-engine-room/library/noncompiled
 
 # copy generated HTML site to `gh-pages' branch
-#cp -R /home/travis/build/the-engine-room/library/_site/* /home/travis/build/the-engine-room/library/library.gh-pages
+cp /home/travis/build/the-engine-room/library/noncompiled/.travis.yml /home/travis/build/the-engine-room/library/_site
 #ls /home/travis/build/the-engine-room/library/library.gh-pages
 
 # commit and push generated content to `master' branch
