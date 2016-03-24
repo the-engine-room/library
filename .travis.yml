@@ -7,8 +7,10 @@ before_script:
  - chmod +x ./script/cibuild
  - chmod +x ./script/deploy-gh
 
-# deploy changes to master
-script: ./script/deploy-gh
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: ./script/deploy-gh
 
 # branch whitelist, only for GitHub Pages
 branches:
@@ -17,8 +19,9 @@ branches:
 
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-  - GH_REF: github.com/the-engine-room/library.git
-  - secure: aJAsBwB+Mikq2vlfNB1c5BZNi2TafAUiOexsfvjE1pvpLxOPze86SePzR4e15qWO1BNFSztiX9gbgXGJZXMfmxS+eMCLRIALxMjrvbEdzCma5BEvGZEjyfC1Y1r4alwufZ931YGvejOON0X5M8ThaOWVgb+EItDDBN0TFrsIlgEU3x++oTe7HcwSkc4J+MJ/L+/D9ColwKwlA0RDqGNBMjSLHmJEic833/IvGcgeIfihfFYwTfP+lpAiO5HKegsxHTRP6GdKrZSRBOPSu7kpmq6x8Ju5t+2BrotDbzz51Vp+6D7lHZr71AVL2Kf29um3lov/Ivki39iy5yN4sz8vJmosFMhyD+GiecSfkKMQsZ832nyErqhLZa9kIG1+6ql6acvSOMkDpLLzkBhjC89PCCUtruzuMKjfqXaXD14qfoa9JXaePk4eolEsQUuVJIvRiEJLVVSjznmMdXQnOIU3hro3S9xUKllosaJ1+n+Vckh5n5Q7CGWX1Zb0Ze8l956lfPzXQhGDtcqHnHDgwHbpzfBlSjryLQ4+NoYnqQGGXRsB0gTRmGpdlpJ48xDVW+mirf0eMHxpYQpYI0KgrvQB1DPoJieTTqs4XCZKjwWU1cs2Be206lDSNbxI2bw0fHODhm1uhL/VwlnETrYxSqftPZcLDqmw6jqntD/eHCFdvEw=
+    - GH_USERNAME=mayarichman
+    - GH_REF=github.com/the-engine-room/library.git
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+    - secure: aJAsBwB+Mikq2vlfNB1c5BZNi2TafAUiOexsfvjE1pvpLxOPze86SePzR4e15qWO1BNFSztiX9gbgXGJZXMfmxS+eMCLRIALxMjrvbEdzCma5BEvGZEjyfC1Y1r4alwufZ931YGvejOON0X5M8ThaOWVgb+EItDDBN0TFrsIlgEU3x++oTe7HcwSkc4J+MJ/L+/D9ColwKwlA0RDqGNBMjSLHmJEic833/IvGcgeIfihfFYwTfP+lpAiO5HKegsxHTRP6GdKrZSRBOPSu7kpmq6x8Ju5t+2BrotDbzz51Vp+6D7lHZr71AVL2Kf29um3lov/Ivki39iy5yN4sz8vJmosFMhyD+GiecSfkKMQsZ832nyErqhLZa9kIG1+6ql6acvSOMkDpLLzkBhjC89PCCUtruzuMKjfqXaXD14qfoa9JXaePk4eolEsQUuVJIvRiEJLVVSjznmMdXQnOIU3hro3S9xUKllosaJ1+n+Vckh5n5Q7CGWX1Zb0Ze8l956lfPzXQhGDtcqHnHDgwHbpzfBlSjryLQ4+NoYnqQGGXRsB0gTRmGpdlpJ48xDVW+mirf0eMHxpYQpYI0KgrvQB1DPoJieTTqs4XCZKjwWU1cs2Be206lDSNbxI2bw0fHODhm1uhL/VwlnETrYxSqftPZcLDqmw6jqntD/eHCFdvEw=
 
 sudo: false # route your build to the container-based infrastructure for a faster build    
