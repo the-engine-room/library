@@ -4,6 +4,7 @@ title: Microtasking
 funder_logo: /images/logos/amnesty.png
 funder_link: //www.amnestyusa.org
 published: true
+themecolor: "#009688"
 navigation:
   - Definition
   - Examples
