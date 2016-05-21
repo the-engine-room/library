@@ -1,10 +1,19 @@
 <a id="toggle" href="#">&#8801;</a>
 <ul class="nav">
-    <li><a href="#definition">Definition</a></li>
-    <li><a href="#examples">Examples</a></li>
-    <li><a href="#tools-and-platforms">Tools and Platforms</a></li>
-    <li><a href="#pros-and-cons">Pros and Cons</a></li>
-    <li><a href="#planning">Planning</a></li>
-    <li><a href="#implementation">Implementation</a></li>
-    <li><a href="#about">About</a></li>
+  {% for item in page.navigation %}
+    {% assign navname = item.name %}
+    {% if item.slug %}
+      {% assign navid = item.slug %}
+    {% elsif item.name %}
+      {% assign navid = item.name | strip | downcase | replace:' ','-' %}
+    {% else %}
+      {% assign navid = item | strip | downcase | replace:' ','-' %}
+      {% assign navname = item %}
+    {% endif %}
+    <li>
+      <a href="#{{ navid }}">
+        {{ navname }}
+      </a>
+    </li>
+  {% endfor %}
 </ul>

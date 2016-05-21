@@ -1,8 +1,12 @@
-permalink: /:title/
-baseurl: '//library.theengineroom.org'
+baseurl: ""
 
 sass:
     sass_dir: styles
     style: compressed
-    
+
 exclude: [vendor]
+
+collections:
+  books:
+    output: true
+    permalink: /:path/
