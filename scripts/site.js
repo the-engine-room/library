@@ -17,7 +17,7 @@ $(document).ready(function() {
         // animate scroll to top
         var href = $(this).children('a').attr('href');
         var element = $(href);
-        var offsetTop = $('nav ul.nav').hasClass('visible') ? 25 : -25;
+        var offsetTop = $('nav ul.nav').hasClass('visible') ? 45 : -45;
         $('html, body').animate({
             scrollTop: element.offset().top - element.outerHeight() - offsetTop
         }, 1000);
