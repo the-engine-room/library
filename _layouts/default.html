@@ -10,7 +10,13 @@
 
     <link href="{{site.baseurl}}/images/icons/favicon.png" rel="shortcut icon" type="image/png" />
     <link rel="stylesheet" href="{{ site.baseurl }}/styles/main.css?v={{site.time | date: '%s'}}" />
-
+    {% if page.themecolor %}
+    <style media="screen">
+      .theme-background {
+        background-color: {{ page.themecolor }};
+      }
+    </style>
+    {% endif %}
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="{{site.baseurl}}/scripts/scrollspy.js"></script>
@@ -21,11 +27,11 @@
   </head>
 
   <body class="row {% if page.body_class %}{{page.body_class}}{% endif %}">
-    <nav class="three columns">
+    <nav class="three columns theme-background">
       <div class="logo">
         <a href="https://theengineroom.org"><img src="{{site.baseurl}}/images/logos/engineroom.png" alt="Engine Room" /></a>
       </div>
-      {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+      {% if page.title %}<h1 class="theme-background">{{ page.title }}</h1>{% endif %}
       {% include navbar.html %}
     </nav>
 
