@@ -16,7 +16,6 @@ navigation:
 
 ---
 
-
 # Microtasking
 
 ## Definition

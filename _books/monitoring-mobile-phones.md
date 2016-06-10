@@ -1,0 +1,80 @@
+---
+layout: page
+title: Mobile Phone Applications
+funder_logo: /images/logos/amnesty.png
+funder_link: //www.amnestyusa.org
+published: true
+themecolor: "#009688"
+navigation:
+  - What is it
+  - How it can help
+  - Tools
+  - Cost
+  - Risks and challenges
+  - Case studies
+
+---
+
+## Mobile Phone Applications
+
+> ### Possible objectives
+> * Collecting evidence of deforestation or forest degradation
+> * Capturing evidence of wrongdoing towards individuals or communities
+> * Recording and monitoring the environmental value of land or forest areas
+> * Providing concrete evidence to governments to encourage them to recognise indigenous lands
+
+### What is it
+
+* Mobile applications (or ‘apps’) are software programs that work on mobile devices like phones or tablets. In rainforest-related projects, they are mainly used to collect data in the field and transmit it directly to an organisation. 
+* Mobile applications can be used for many purposes, including recording illegal mining or logging; biodiversity surveys; helping communities to map their own land; or validating government maps.
+* Applications can work on both low-tech ‘feature phones’ using SMS (Short Message Service) or more expensive smartphones (which include GPS sensors and cameras).
+
+### How it can help
+
+Collecting information from the field can be a time-consuming process that involves physically transporting large numbers of paper forms through remote areas, then manually transcribing them. Mobile applications make this process much quicker and easier. 
+One common approach is that forest monitors are given a mobile device pre-loaded with an application. They upload data to this application and transmit it over phone networks or a mobile internet connection to a server, where an organisation can access it. Most applications automatically capture common errors and ask for corrections. Most smartphones capture GPS data that can be mapped and combined with other forms of data (see Online maps).
+
+### Tools
+
+You can choose from a wide range of applications: the right one for you depends on how much data you’re collecting, how much technical support you need, and how specific your needs are. There are websites that can help you identify what tools and mobile apps are the best fit, including [Humanitarian Nomad](http://humanitarian-nomad.org/online-selection-tool/) and [Solutions Center](http://solutionscenter.nethope.org). 
+
+### Cost 
+
+**Type of device**: Dedicated GPS trackers are often more durable and have longer battery life, but the accuracy of mobile phones is often good enough for rainforest work. Smartphones with Android operating systems are available for under USD100, and prices are dropping all the time. If you only need simple functions, cheaper feature phones are a good option. These can be used to collect data using SMS or programmes designed in Java (J2ME).
+
+**How complex is the application?** The more features you want, the more training and troubleshooting support you’ll need. Support is included in services like ArcGIS, but it is expensive. Open source solutions like Open Data Kit, on the other hand, force you to figure problems out (which takes staff time) or call external experts (which usually costs money).
+
+**How much data do you want to collect?** The more data you capture, the more you’ll spend on the database that holds the information, backing up data offline, or SMS message fees. 
+
+To give you a taste of the options available, here are two examples from opposite ends of the cost spectrum:
+
+#### Free and open source, but technically challenging - Open Data Kit
+Open Data Kit (ODK) is a collection of open source tools for mobile data collection that has been used successfully in a range of rainforest-related projects. It is free, can be modified for you, and has an active community of developers providing technical and strategic support. The downside is that it is not perfect software: built by layers of volunteers, you can expect things to go wrong. You will probably need to budget for a software developer to modify, and make sure you can get technical support for when things go wrong.
+
+#### Highly capable, but not cheap - Collector for ArcGIS 
+The ArcGIS suite of applications is a premium GIS product that offers powerful options for producing and analysing map data. A basic user licence currently costs around USD 1,500 per year, which includes technical support online and by telephone. To make the most of it, you will need to pay for its full suite: an Android app, a programme that manages the collected data on your server, and a programme to publish the maps online. The advantage of using premium paid software is that it will have more features, and you can rely on it to function as it supposed to. The downside is that it is expensive, and because the code is closed, you cannot hire a developer to change it to match your project better. 
+
+### Risks and challenges
+
+It is impossible to collect and share data completely securely on mobile phones because of the way that the devices themselves are [designed](https://securityinabox.org/en/guide/mobile-phones). This could threaten people collecting information; sometimes just possessing an application can put a community monitor at risk. People and environments can also be threatened as a result of information that you publish about them (see the ‘responsible data’ sections of the Strategy section).
+
+### Case studies
+
+#### Using community-based monitors for mapping in Guyana
+
+Since 2011, the Global Canopy Programme has run a community-based monitoring system with 16 Amerindian communities of the North Rupununi (Guyana) to provide information on causes of forest loss, land-use practices and socio-economic issues. Community monitors complete forms on Android (Samsung Galaxy X Cover) smartphones using a mobile application developed from Open Data Kit. Each form submitted contains location data from the phone’s in-built GPS and photos from its camera. The resulting data is then uploaded to an online data storage system for analysis using Microsoft Excel, ArcGIS, and ODK Aggregate, and later SMAP software, QGIS, and Google Maps Engine. 
+
+**How did it help?**
+
+* The technology enabled real-time, straightforward collection and aggregation of data, and removed the need to transcribe data from the field.
+* It was popular with local communities – 87% of local leaders and village councillors said the phones had been a positive addition to the community that helped them improve their knowledge of local resources. 
+* The project encouraged collaboration between elders with knowledge about natural resources and young people, who were quick to pick up [mobile devices](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&ved=0CFEQFjAI&url=http%3A%2F%2Fforestcompass.org%2Ffile%2F141%2Fdownload%3Ftoken%3DT8kkcwrb&ei=GeWWVKqYPKev7AaOjIHYDg&usg=AFQjCNEmkRESu9clZiHKBdoBmYvnxK83cw&sig2=JCkp9ZzKCGIYed2s9tXAYA&bvm=bv.82001339,d.ZGU&cad=rja).
+
+#### Using GPS devices to document invasions of indigenous territory
+
+The Pro-Indian Commission of Acre (Comissão Pró-Indio do Acre, or CPI-AC) trained indigenous people in the Acre region to use GPS devices to record invasions of indigenous territory. 
+
+**How did it help?**
+
+* The information that the indigenous people gathered was then used to make maps that highlighted the problem and presented evidence of where the situation was worst.
+* One of these invasion maps was presented to the country’s former Minister of the Environment, prompting a multi-sectoral action from the federal government against invasions.
