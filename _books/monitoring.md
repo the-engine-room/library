@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Monitoring Information for Rainforests and Forest Peoples' Rights
+title: Information for Forest Peoples' Rights
 funder_logo: /images/logos/amnesty.png
 funder_link: //www.amnestyusa.org
 published: true
-themecolor: "#009688"
+themecolor: "#9BC348"
 navigation:
   - Foreward
   - Introduction
   - Matching your objectives with tools
   - Strategy
   - Tools
-  - Further Resources
+  - Further resources
 
 ---
 
-# Primer on using technology to monitor and share information on rainforests and forest peoples’ rights
+# Using technology to monitor and share information on rainforests and forest peoples’ rights
 
 ## Foreward
 How can new and evolving technology be useful in advocacy for rainforest protection and forest peoples' rights?  This broad, open question is the starting point for this primer. In 1989, when Rainforest Foundation Norway was founded to promote rights-based rainforest protection, phones were hardly mobile and the world wide web was science fiction. A lot has changed. 
@@ -44,6 +44,7 @@ This primer is an introduction to using technology to monitor and share informat
 The primer has been structured so that you don’t need to read the whole thing, but can explore sections that are relevant for you and use them to find more detailed guidance. 
 
 This primer:
+
 * shows ways in which technology can help your work,
 * highlights some of the tools that are available,
 * gives practical information to help you decide what you need, and
@@ -64,6 +65,7 @@ This is probably where most projects fail. A successful project requires explici
 #### Overview of Tools
 
 The second section introduces some of the tools that can be useful in rainforest-focused projects, grouped into six types: 
+
 * mobile (cell) phone applications to collect and record data from the field
 * maps produced together with communities (participatory mapping)
 * satellite imagery
@@ -150,14 +152,13 @@ Work out your organisation’s long-term strategy, involving staff and anyone wh
 3. Decide which activities could be improved using technology. Choose those at the top of your list of important activities, then decide what practical steps you would need to take to introduce technology.
 
 > ##### Case study: How three organisations decided to use technology to support their strategy in Congo
-
 > In Congo (DRC), the government created a protected area and granted a logging concession on the same piece of land belonging to the villages of Mpole and Mpaha in Maï-Ndombe. The overlaps created disputes between the different groups involved.
-
+>
 > **How did they decide to use technology?**
-
+>
 > The long-term strategy of Congolese organisation Natural Resources Network (Réseau Ressources Naturelles - RRN) was to ensure that the local communities’ customary rights were taken into account.
 Their technology vision was to use participatory mapping to collect local knowledge of the geographical area, and combine it with existing maps to show evidence of overlaps and bad practice by government or companies.
-
+>
 > RRN took *practical steps* including training local cartographers to use GPS receivers, recruiting GIS mapping specialists and giving them an office, and [working with the community](https://uclexcites.wordpress.com/2013/06/18/participatory-mapping-in-congo-brazzaville-part-1/) to validate the maps.
 
 ##### Give your organisation a tech health-check 
@@ -187,13 +188,12 @@ Think about what a reasonable timespan might be for your project. Then, add in p
 A pilot allows you to test at a small scale, identifying early on what is working and what isn’t. Choose something that you can measure easily. (For example, for a system monitoring illegal logging, this could be the number of alerts received in a small area in one week.) Design your project so that the pilot’s results can influence how the rest of the project develops. This will make your plan much more flexible if circumstances change.
 
 > ##### Case study: Piloting a new piece of technology can bring unexpected benefits
-
 > In 2013, Rainforest Connection held a pilot project in West Sumatra (Indonesia) to test an application to monitor illegal logging using a modified mobile phone.
-
+>
 > **How did it help?**
-
+>
 > The pilot was designed to assess whether the technology worked, but it did even better than expected, capturing information that allowed local authorities to catch illegal loggers two weeks after it was installed. 
-
+>
 > The loggers have not returned to that area since then. [Rainforest Connection](http://news.mongabay.com/2014/0624-rainforest-connection-interview.html) is now holding a [second series of pilots](https://rfcx.org) in Equatorial Africa.
 
 #### Monitor the difference you make
@@ -203,15 +203,14 @@ Before starting, assess the situation. This will give you a ‘baseline’ that 
 Then, think about your project’s potential effect on that situation, and how you can measure any changes. Decide when and how often to track progress using these measurements.
 
 > ##### Responsible data box: Planning to use data responsibly
-
 > Almost every project involves dealing with data in some way, even sending emails or using a spreadsheet. Failing to manage this data carefully can put your organisation and the people you work with at risk. Data leaks might lead to violence, open data might help land speculators, and hardware might be tracked to target activists. A risk assessment is an essential part of a project plan that helps you prepare for the unexpected. 
-
+>
 > * Start by identifying a set of events and actors (people or organisations) that could stop the project from achieving its goals. Consider including [digital security risks](https://securityinabox.org), but [also think about](https://responsibledata.io) how the colllection of data might impact local power relationships, or how data might be re-used by others.
 > * Write down answers to these questions: How likely is each of these events to happen? How serious would their impact on the project be?
 > * Prioritise the events that are most likely to happen and the most serious. 
 > * Create set of practical steps: what can you do to make each event less likely? Can you limit the damage if it does occur? What is your back-up plan? 
-
-> **Preparing for the worst** Even with the best planning, emergencies happen. Responding might require resources from external advocacy support to emergency medical funds, legal support, increased security funds, or tool replacement costs. [Digital Defenders’ Digital First Aid Kit](https://digitaldefenders.org/digitalfirstaid) gives some simple advice on dealing with emergencies, and suggests organisations to contact if you need further help.
+>
+> **Preparing for the worst.** Even with the best planning, emergencies happen. Responding might require resources from external advocacy support to emergency medical funds, legal support, increased security funds, or tool replacement costs. [Digital Defenders’ Digital First Aid Kit](https://digitaldefenders.org/digitalfirstaid) gives some simple advice on dealing with emergencies, and suggests organisations to contact if you need further help.
 
 ##### Budget what you need
 
@@ -240,14 +239,11 @@ If good data already exists, don’t waste time and money collecting it again. T
  If the data has been collected but is not publicly available, check whether Freedom of Information laws can help push governments to publish it. [The Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/getting_data_1.html) has more information on how to make Freedom of Information Requests (in Brazil, you can use the [Queremos Saber](http://queremossaber.org.br/)).
 
 > ##### Case study: Sharing data from different sources
-
 > The Indonesian news site Ekuatorial creates interactive maps and presents them with articles on environmental issues written by partner publications. The maps combine geo-referenced data from Global Forest Watch on palm oil plantations and forestry concessions; information collected by the Indonesian Forestry Ministry, international datasets like the World Database on Protected Areas, and volunteer-submitted information from Humanitarian OpenStreetMap. To make the map, Ekuatorial hired professional cartographers, who used CartoDB and MapBox to create the maps and then published them directly on JEO (see Online Mapping).
-
+>
 > **How did it help?**
-
->Ekuatorial allows other organisations to republish its maps on their own site using an easy-to-use ‘share this map’ function.
-
-> The raw data collected is also useful for other Indonesian organisations because it is regularly updated, and available to download for [free](http://ekuatorial.com).
+>
+> Ekuatorial allows other organisations to republish its maps on their own site using an easy-to-use ‘share this map’ function. The raw data collected is also useful for other Indonesian organisations because it is regularly updated, and available to download for [free](http://ekuatorial.com).
 
 #### Set standards for your data 
 
@@ -266,14 +262,13 @@ Consider recording and publishing it as Open Data, which means that it that can 
 Combining different data sources can reveal entirely new information and present powerful messages for campaigning. For example, you can combine aerial photography collected by DIY satellite photography with participatory mapping data. But examine these data sources carefully. Can they be compared? Do both sources cover the same geographical area, and is the quality of the data consistent enough? If the right data isn’t available, think about changing the way you collect it so that the results fit better with data that already exists.
 
 > ##### Case study: Combining different types of information
-
 > Organización Regional AIDESEP Ucayali (ORAU) established a monitoring system designed to document the existence indigenous peoples living in voluntary isolation (IPVI) and threats to the environment in Peru. 
-
+>
 > **How did it help?**
-
-> Photographs of evidence, GPS data and other information is saved and systematized in a digital database. 
-> Together with similar information from other indigenous peoples’ organizations, this has  made it impossible for the Peruvian state to keep denying the existence of IPVI.
-> The authorities are now more cooperative with ORAU on address cases involving IPVI and developing policies relating to IPVI territories, and have allocated funds for this purpose.
+>
+> * Photographs of evidence, GPS data and other information is saved and systematized in a digital database. 
+> * Together with similar information from other indigenous peoples’ organizations, this has  made it impossible for the Peruvian state to keep denying the existence of IPVI.
+> * The authorities are now more cooperative with ORAU on address cases involving IPVI and developing policies relating to IPVI territories, and have allocated funds for this purpose.
 
 ##### Sometimes the simplest option is the best 
 
@@ -296,17 +291,17 @@ Don’t spend money on technology unless you’re certain that you need to. For 
 To start with, **create a methodology** (an explanation of how you have collected and analysed the data). Check your methodology is robust with experts, and present it clearly whenever you publish results. Be ready to explain your methodology or use it to defend the credibility of your work. For [examples](http://maaproject.org/about-maap/), look at [Open Development Cambodia](http://www.opendevelopmentcambodia.net/briefings/forest-cover/) (for a simple methodology) and the [Land Matrix](http://landmatrix.org/en/about/) (for a more detailed one).
 
 > ##### Case study: Getting recognition for the quality of your evidence
-
 > Borneo Resources Institute (Brimas) trains communities in Sarawak (Malaysia) to map their own communities using GPS, plotting indigenous territories, land use and areas with natural resources. The government and private sector companies initially dismissed Brimas as not being knowledgeable enough. However, law courts recognised the quality of the data collected during cases to prove indigenous ownership of land, improving Brimas’ reputation for accuracy. Malaysia’s Land and Survey Department now uses Brimas’ maps to validate their own products.
 
+
+
 > ##### Responsible data box: Know when *not* to collect data
-
 > To reduce risks, only collect the minimum amount of data that you need to carry out your project. Think back to your risk assessment (see [Planning](#planning) section) and collect sensitive data in a more secure way if necessary.
-
+>
 > **Informed consent**
-
+>
 > When you collect data about an individual, you hold information that is personal to them. It is up to the person providing the data – not you or your organisation – to decide how that information should be used. Create a process to follow whenever you collect data from people that includes the following steps:
-
+>
 > * Explain how the data you are collecting will be used, published and stored.
 > * Discuss any risks with the person, and check if they have additional concerns.
 > * If they decide that they are still happy to participate, record a statement from them agreeing to this (either by signing a document or recording a spoken statement).
@@ -353,17 +348,17 @@ There are many techniques for finding meaning in data. These include straightfor
 Communicating what your data shows is one of the most important parts of a project – if you do it well, you can grab your audience’s attention and encourage them to act. There are many free or cheap tools that can help you make data visual - see Tactical Technology’s [Visualising Advocacy](https://visualisingadvocacy.org/resources/visualisationtools) project for examples based on your needs.
 
 > ##### Responsible data box: Look after your data
-
+>
 > **How will you store your data within your organisation?** 
-
+>
 > If you are storing data on a network in your organisation, it will be kept on a server (a computer that provides data to other computers). If you have a server that is kept physically in your location, budget for someone with skills to take care of it. If you are paying to host your data on an external server, check that the provider offers [all the features](https://wiki.responsibledata.io/Newbie_guide_to_select_hosting) you need and has good security measures.
-
+>
 > **Encrypt physically stored data**
-
+>
 > Data can be stored physically on computer hard drives or external hard drives, which can be encrypted using software like TrueCrypt or FileVault. (This is not a substitute for the strong digital security measures: if a person can access your password, encryption will not help you.)
-
+>
 > **Deleting or archiving your data**
-
+>
 > It is best to keep your data only for the period that you need it. The data may not be at risk now, but it is difficult to know what the future will hold. To delete data on a hard disk properly, you need to write over it several times. However, if the data has lasting cultural or historical value, or might be useful as evidence in the future, you may want to preserve it. Pick a format that is likely to be usable in future, and consider partnering with an archive that will maintain the [archival systems](http://the-engine-room.github.io/rdf-primer/closing-a-project/project-closure-what-happens-to-the-data.html) for you.
 
 ##### Check for legal restrictions 
@@ -393,27 +388,25 @@ List all the people and organisations that are involved in an issue. Be as speci
 Any advocacy campaign needs a network of allies. Plan how to engage the groups you listed above, keeping them interested and involved. Think creatively about whether you can help each other: would your data be useful for them? Do they have contacts that you need? 
 
 > ##### Case study: Using your allies
-
 > In 2007, the Chilean organisation Movement for the Defence of the Environment (MODEMA) produced a series of posters of the Punta de Choros to make local residents aware of the risks of building four thermoelectric plants. The posters were seen by a visiting group of Chilean video-makers, who filmed a documentary about the area and started a campaign called Chao Pescao (‘Bye-Bye Fish’ in Spanish).
-
+>
 > **How did it help?**
-
-* The groups worked together to increase their impact. As the campaign grew, more allies got involved, with national media covering the issue for over ten days.
-* The campaign combined online and offline tactics: the documentary was screened on the streets of the capital Santiago using bicycle-powered cinemas, and citizen demonstrations were immediately uploaded and shared through YouTube and among the 10,000 members of Chao Pescao's Facebook group. 
-* In January 2010 the government [cancelled](https://archive.informationactivism.org/en/chaopescao) building the thermoelectric plants, and new presidential candidates were pressured to keep Punta de Choros clean.
+>
+> * The groups worked together to increase their impact. As the campaign grew, more allies got involved, with national media covering the issue for over ten days.
+> * The campaign combined online and offline tactics: the documentary was screened on the streets of the capital Santiago using bicycle-powered cinemas, and citizen demonstrations were immediately uploaded and shared through YouTube and among the 10,000 members of Chao Pescao's Facebook group. 
+> * In January 2010 the government [cancelled](https://archive.informationactivism.org/en/chaopescao) building the thermoelectric plants, and new presidential candidates were pressured to keep Punta de Choros clean.
 
 ##### Choose a target audience
 
 Choose one or more of these groups whose behaviour you want to change: they are your target audience. Do you want civil servants to change policy on land rights, or get a company to improve forest management practices? Avoid targeting very large groups: the more difficult it will be to craft relevant campaign messages. 
 
 > ##### Case study: Choosing your target
-
 > Indonesian organisation Aliansi Masyarakat Adat Nusantara (AMAN) received information through its SMS reporting platform that 30 people had been detained in north Sumatra (Indonesia) for allegedly obstructing a company's operations.
-
+>
 > **How did it help?**
-
-* AMAN used the information from the SMS alert to identify who had detained them – and who they should target in their advocacy campaign. 
-* They then created a team of communications, mapping and legal experts, who successfully lobbied for the people to be released.
+>
+> * AMAN used the information from the SMS alert to identify who had detained them – and who they should target in their advocacy campaign. 
+> * They then created a team of communications, mapping and legal experts, who successfully lobbied for the people to be released.
 
 ##### Figure out how to reach that group
 
@@ -432,13 +425,12 @@ Find out what information your audience needs. If your audience doesn’t unders
 **Think about both the words you use and the way you present them:** Choose the words you use carefully and think about developing different materials for different groups. Some groups might not know the technical terms involved in land rights negotiations, while others might only take you seriously if you use them. Using English might let you reach an international audience, but could limit your reach in your home country. Vary how you present your data according to your audience. Members of the public with limited time may only read a short summary of your findings, while policy-makers may need detailed reports. 
 
 > ##### Case study: Using video footage to mobilise support 
-
 > In 2009, the Peruvian organisation AIDESEP recorded eyewitness footage of police violence against a group of indigenous people in Bagua region and uploaded it to the video sharing site YouTube.
-
+>
 > **How did it help?**
-
-* The video was distributed widely online by bloggers, providing evidence of an incident that might otherwise have been ignored by a wider audience.
-* Solidarity marches took place worldwide and a government commission was established to investigate the incident. In 2013 Peru's state entity responsible for indigenous peoples officially recognised that people living in voluntary isolation were resident in the Napo-Tigre region (although a campaign to establish an indigenous reserve is still [continuing](http://hub.witness.org/en/blog/social-media-and-online-technologies-indigenous-rights-peru)). 
+>
+> * The video was distributed widely online by bloggers, providing evidence of an incident that might otherwise have been ignored by a wider audience.
+> * Solidarity marches took place worldwide and a government commission was established to investigate the incident. In 2013 Peru's state entity responsible for indigenous peoples officially recognised that people living in voluntary isolation were resident in the Napo-Tigre region (although a campaign to establish an indigenous reserve is still [continuing](http://hub.witness.org/en/blog/social-media-and-online-technologies-indigenous-rights-peru)). 
 
 #### Check whether your campaign is working
 
@@ -467,7 +459,6 @@ Create targets that you want your campaign to achieve and track progress against
 Technology tools can improve advocacy campaigns in a number of ways, from monitoring campaigns, to managing data, to visualizing data for powerful presentations. For suggestions on using technology to track media attention, user engagement or project implementation, see this [guide](https://www.theengineroom.org/diy-for-me). The [Visualising Advocacy](https://visualisingadvocacy.org) gives many more examples of things that you can do with your data.
 
 > ##### Responsible data box: Publishing data responsibly
-
 > If you use an external online service to visualise or present your data, remember the risks. Once you have uploaded your data, you can’t always know whether the company can access it or will provide it to other people, or what would happen if that service went out of business. 
 
 ## Tools

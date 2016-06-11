@@ -4,7 +4,7 @@ title: DIY Aerial Photography
 funder_logo: /images/logos/amnesty.png
 funder_link: //www.amnestyusa.org
 published: true
-themecolor: "#009688"
+themecolor: "#9BC348"
 navigation:
   - What is it
   - How it can help
@@ -18,7 +18,6 @@ navigation:
 ## DIY aerial photography
 
 > ### Possible Objectives
-
 > * Collecting evidence of deforestation or forest degradation
 > * Capturing evidence of companies’ wrongdoing in how they use land 
 > * Supporting communities by presenting and providing knowledge 

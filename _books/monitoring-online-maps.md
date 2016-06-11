@@ -4,7 +4,7 @@ title: Online Maps
 funder_logo: /images/logos/amnesty.png
 funder_link: //www.amnestyusa.org
 published: true
-themecolor: "#009688"
+themecolor: "#9BC348"
 navigation:
   - What is it
   - How it can help
@@ -16,6 +16,7 @@ navigation:
 ---
 
 ## Online maps
+
 > ### Possible Objectives
 > * Capturing evidence of companies’ wrongdoing in how they use land 
 > * Recording and monitoring the environmental value of areas of land 
