@@ -9,16 +9,10 @@ body_class: page
     {{ content }}
   </section>
 
-  <section class="next-prev">
-    {% if page.next.url %}
-      &laquo;&nbsp;<a href="{{ page.next.url }}" rel="next" title="{{ page.next.title }}">{{ page.next.title }}</a>
-      &nbsp;|&nbsp;
-    {% endif %}
-    
-    {% if page.previous.url %}
-      &nbsp;|&nbsp;
-      <a href="{{ page.previous.url }}" rel="previous" title="{{ page.previous.title }}">{{ page.previous.title }}</a>&nbsp;&raquo;
-    {% endif %}
+  <section class="return-to-main">
+
+      <a href="/"  title="Library Home">Return to Library Home</a>
+
   </section>
 
 </article>
