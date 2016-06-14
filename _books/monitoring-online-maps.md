@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Online Maps
-funder_logo: /images/logos/amnesty.png
-funder_link: //www.amnestyusa.org
+funder_logo: /images/logos/rainforestfoundationnorway.png
+funder_link: //www.regnskog.no/
 published: true
 themecolor: "#9BC348"
 navigation:

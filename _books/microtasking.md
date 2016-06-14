@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Microtasking
-funder_logo: /images/logos/amnesty.png
-funder_link: //www.amnestyusa.org
+funder_logo: /images/logos/rainforestfoundationnorway.png
+funder_link: //www.regnskog.no
 published: true
 themecolor: "#009688"
 navigation:
