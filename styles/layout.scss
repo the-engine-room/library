@@ -1,124 +1,165 @@
 html {
+
   height: 100%;
+
   position: relative; // required for scrollspy
+
 }
 
+
+
 body {
+
   background: $white;
+
 }
+
+
 
 nav {
   position: fixed;
+
   width: 100%;
+
   text-align: center;
+
   z-index: 1;
 
+
+
   @media (#{$bp-larger-than-phablet}) {
-    height: 100%;
-    background: $green;
-    padding: 20px 0 0;
+  height: 100%;
+  background: $green;
+  padding: 20px 0 0;
+
   }
+
+
 
   .logo {
-    padding: 0 20px 20px 20px; 
+  padding: 0 20px 20px 20px; 
 
-    margin: 0 auto;
-    float: right; 
-    width: 20%;
-    padding-top: 6px;
 
-    @media (#{$bp-larger-than-phablet}) {
-      float: none;
-      height: auto;
-      width: 50%;
-    }
+  margin: 0 auto;
+  float: right; 
+  width: 20%;
+  padding-top: 6px;
 
-    img {
-      width: 100%;
-      height: 100%;
-    }
+
+  @media (#{$bp-larger-than-phablet}) {
+    float: none;
+    height: auto;
+    width: 50%;
   }
+
+
+  img {
+    width: 100%;
+    height: 100%;
+  }
+
+  }
+
+
 
   h1 {
-    padding: 10px 0 15px 0;
-    margin: 0;
-    
-    background: $green;
-    color: $white;
-    font-weight: bold;
-    
-    @media (#{$bp-larger-than-phablet}) {
-      background: $white;
-      color: $dark-grey;
-      margin-bottom: 20px; }
+  padding: 10px 0 15px 0;
+  margin: 0;
+  
+  background: $green;
+  color: $white;
+  font-weight: bold;
+  
+  @media (#{$bp-larger-than-phablet}) {
+    background: $white;
+    color: $dark-grey;
+    margin-bottom: 20px; }
+
   }
+
+
 
   a {
-    text-decoration: none;
-  }
+  text-decoration: none;
 
+  }
+  
   a#toggle {
-    float: left;
-    position: relative;
-    margin-top: -55px;
-    margin-left: 20px;
-    font-size: 2em;
-    color: $white;
+  float: left;
+  position: relative;
+  margin-top: -55px;
+  margin-left: 20px;
+  font-size: 2em;
+  color: $white;
 
-    @media (#{$bp-larger-than-phablet}) { display: none; }
+
+  @media (#{$bp-larger-than-phablet}) { display: none; }
+
   }
+
+
 
   ul.nav {
-    list-style-type: none;
-    margin: 0;
-    position: relative;
-    top: -20px; // cancel out h1 margin-bottom
+  list-style-type: none;
+  margin: 0;
+  position: relative;
+  top: -20px; // cancel out h1 margin-bottom
 
-    // allow vertical scroll on small screens
-    overflow-y: scroll;
-    height: calc(100% - 160px);
 
-    // initially hidden on mobile
-    display: none;
+  // allow vertical scroll on small screens
+  overflow-y: scroll;
+  height: calc(100% - 160px);
 
-    // nav at top
-    &.visible {
-      float: none;
-      width: calc(80% - 20px);
-      background: $green;
-    }
-    li {
-      padding: 10px 0;
-      margin-bottom: 0;
-      font-weight: bold;
-      a { color: $white; }
-    }
-    li.active, li:hover {
-      background: $dark-grey;
-      color: $white;
-    }
 
-    // nav to side
-    @media (#{$bp-larger-than-phablet}) {
+  // initially hidden on mobile
+  display: none;
+
+
+  // nav at top
+  &.visible {
+    float: none;
+    width: calc(80% - 20px);
+    background: $green;
+  }
+  li {
+    padding: 10px 0;
+    margin-bottom: 0;
+    font-weight: bold;
+    a { color: $white; }
+  }
+  li.active, li:hover {
+    background: $dark-grey;
+    color: $white;
+  }
+
+
+  // nav to side
+  @media (#{$bp-larger-than-phablet}) {
+    display: block;
+    width: 100%;
+
+
+    a {
+      // fill nav li
+      position: relative;
       display: block;
-      width: 100%;
-
-      a {
-        // fill nav li
-        position: relative;
-        display: block;
-        padding: 10px 0;
-      }
+      padding: 10px 0;
     }
   }
+
+  }
+
 }
+
+
 
 body.page > .content {
+
   padding-top: 50px; // make space for navbar
+
   @media (#{$bp-larger-than-phablet}) { padding-top: 0; }
+
 }
-
-
 
 blockquote {
     padding-top: 10px;
@@ -130,54 +171,68 @@ blockquote {
     padding-left: 7px;
 } 
 
+
 footer {
+
   padding: 30px 0;
 
+
+
   background: $light-grey;
+
   color: $white;
 
-  .logo {
-    &.half-width {
-      // keep logos on same line in mobile footer
-      float: left;
-      width: 45%;
-      &:first-child { margin-right: 10%; }
-      vertical-align: middle;
-      img {
-        width: 75%;
-        height: 75%;
-        left: 15%;
-      }
-      @media (#{$bp-larger-than-phablet}) {
-        img { width: 100%; height: 100%; left: 0; }
-      }
-    }
 
+
+  .logo {
+  &.half-width {
+    // keep logos on same line in mobile footer
+    float: left;
+    width: 45%;
+    &:first-child { margin-right: 10%; }
+    vertical-align: middle;
     img {
-      width: 50%;
-      height: 50%;
-      position: relative;
-      left: 25%;
-      @media (#{$bp-larger-than-phablet}) {
-        left: 0;
-        width: 100%;
-        height: 100%;
-      }
-      vertical-align: middle;
+      width: 75%;
+      height: 75%;
+      left: 15%;
+    }
+    @media (#{$bp-larger-than-phablet}) {
+      img { width: 100%; height: 100%; left: 0; }
     }
   }
+
+
+  img {
+    width: 50%;
+    height: 50%;
+    position: relative;
+    left: 25%;
+    @media (#{$bp-larger-than-phablet}) {
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+    vertical-align: middle;
+  }
+
+  }
+
 
 
   .text {
-    text-align: center;
-    p {
-      margin: 2.5rem 0;
-      @media (#{$bp-larger-than-phablet}) { margin: 0; }
-    }
+  text-align: center;
+  p {
+    margin: 2.5rem 0;
+    @media (#{$bp-larger-than-phablet}) { margin: 0; }
   }
+
+  }
+
   .license img {
-    width: 25%;
-    left: 37.5%;
-    @media (#{$bp-larger-than-phablet}) { width: 200%; }
+  width: 25%;
+  left: 37.5%;
+  @media (#{$bp-larger-than-phablet}) { width: 200%; }
+
   }
+
 }
