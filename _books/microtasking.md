@@ -3,6 +3,7 @@ layout: page
 title: Microtasking
 funder_logo: /images/logos/amnesty.png
 funder_link: //www.amnestyusa.org
+funder_name: Amnesty International
 published: true
 themecolor: "#009688"
 navigation:

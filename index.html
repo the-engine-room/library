@@ -1,16 +1,14 @@
 ---
 layout: default
 body_class: main
-scripts: | # temp redirect to the microtasking page
-    <meta http-equiv="refresh" content="0; url=microtasking">
 ---
 
 <div class="container">
 
-  <div class="content">
-    {% for post in site.posts %}
-        <a href="{{post.url}}">{{post.title}}</a>
+  <ul class="content">
+    {% for book in site.books %}
+        <li><a href="{{book.url}}">{{book.title}}</a></li>
     {% endfor %}
-  </div>
+  </ul>
 
 </div>

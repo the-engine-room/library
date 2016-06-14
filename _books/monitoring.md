@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Information for Forest Peoples' Rights
-funder_logo: /images/logos/amnesty.png
-funder_link: //www.amnestyusa.org
+funder_logo: /images/logos/rainforest.png
+funder_link: //www.regnskog.no/en/
+funder_name: Rainforest Foundation Norway
 published: true
 themecolor: "#9BC348"
 navigation:
@@ -463,12 +464,12 @@ Technology tools can improve advocacy campaigns in a number of ways, from monito
 
 ## Tools
 
-* <a name="tools"></a>[mobile (cell) phone applications to collect and record data from the field]()
-* [maps produced together with communities (participatory mapping)]()
-* [satellite imagery]()
-* [do-it-yourself aerial photography (such as drones)]()
-* [audio and video]()
-* [online maps that combine and layer different types of data on top of each other]()
+* <a name="tools"></a>[mobile (cell) phone applications to collect and record data from the field](/monitoring-mobile-phones)
+* [maps produced together with communities (participatory mapping)](/monitoring-participatory-mapping)
+* [satellite imagery](/monitoring-satellite-imagery)
+* [do-it-yourself aerial photography (such as drones)](/monitoring-diy-aeiral)
+* [audio and video](/monitoring-audio-video)
+* [online maps that combine and layer different types of data on top of each other](/monitoring-online-maps)
 
 ## Further resources
 

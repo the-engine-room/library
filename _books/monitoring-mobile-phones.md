@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Mobile Phone Applications
-funder_logo: /images/logos/amnesty.png
-funder_link: //www.amnestyusa.org
+funder_logo: /images/logos/rainforest.png
+funder_link: //www.regnskog.no/en/
+funder_name: Rainforest Foundation Norway
 published: true
 themecolor: "#9BC348"
 navigation:

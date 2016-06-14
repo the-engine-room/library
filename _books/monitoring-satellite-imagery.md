@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Satellite Imagery
-funder_logo: 
-funder_link: 
+funder_logo: /images/logos/rainforest.png
+funder_link: //www.regnskog.no/en/
+funder_name: Rainforest Foundation Norway
 published: true
 themecolor: "#9BC348"
 navigation:
