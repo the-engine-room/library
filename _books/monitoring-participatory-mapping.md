@@ -66,3 +66,6 @@ In 2013, Mbendjele hunter-gatherers worked with the ExCiteS Research Group at Un
 * The project used the Hatsuden Nabe, a cooking pot that converts thermal energy from a fire into electricity, to charge the phones (it provided a 60% charge in 90 minutes). Solar panels were also useful when the monitors was not directly under the rainforest canopy. 
 * Although communications networks did not extend deep into the forest, the monitors were able to [transfer information](http://dev3.acmdev.org/papers/dev-final45.pdf) using SMS or 3G internet when they visited nearby towns.
 
+<hr>
+
+[Return to the Primer on Technology for Forest Peoples' Rights.](/monitoring)

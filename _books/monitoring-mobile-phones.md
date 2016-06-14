@@ -33,7 +33,7 @@ navigation:
 ### How it can help
 
 Collecting information from the field can be a time-consuming process that involves physically transporting large numbers of paper forms through remote areas, then manually transcribing them. Mobile applications make this process much quicker and easier. 
-One common approach is that forest monitors are given a mobile device pre-loaded with an application. They upload data to this application and transmit it over phone networks or a mobile internet connection to a server, where an organisation can access it. Most applications automatically capture common errors and ask for corrections. Most smartphones capture GPS data that can be mapped and combined with other forms of data (see Online maps).
+One common approach is that forest monitors are given a mobile device pre-loaded with an application. They upload data to this application and transmit it over phone networks or a mobile internet connection to a server, where an organisation can access it. Most applications automatically capture common errors and ask for corrections. Most smartphones capture GPS data that can be mapped and combined with other forms of data (see [Online maps](/monitoring-online-maps)).
 
 ### Tools
 
@@ -57,7 +57,7 @@ The ArcGIS suite of applications is a premium GIS product that offers powerful o
 
 ### Risks and challenges
 
-It is impossible to collect and share data completely securely on mobile phones because of the way that the devices themselves are [designed](https://securityinabox.org/en/guide/mobile-phones). This could threaten people collecting information; sometimes just possessing an application can put a community monitor at risk. People and environments can also be threatened as a result of information that you publish about them (see the ‘responsible data’ sections of the Strategy section).
+It is impossible to collect and share data completely securely on mobile phones because of the way that the devices themselves are [designed](https://securityinabox.org/en/guide/mobile-phones). This could threaten people collecting information; sometimes just possessing an application can put a community monitor at risk. People and environments can also be threatened as a result of information that you publish about them (see the Responsible Data sections of the [Strategy](/monitoring/#strategy) section).
 
 ### Case studies
 
@@ -79,3 +79,7 @@ The Pro-Indian Commission of Acre (Comissão Pró-Indio do Acre, or CPI-AC) trai
 
 * The information that the indigenous people gathered was then used to make maps that highlighted the problem and presented evidence of where the situation was worst.
 * One of these invasion maps was presented to the country’s former Minister of the Environment, prompting a multi-sectoral action from the federal government against invasions.
+
+<hr>
+
+[Return to the Primer on Technology for Forest Peoples' Rights.](/monitoring)

@@ -63,3 +63,6 @@ In response to advocacy campaigns, Indonesian paper company APP signed a zero de
 * Although the video was filmed from a distance, it was still valuable as evidence because it clearly showed logging in progress. It was backed up by photographs with GPS coordinates and a [detailed report](http://www.eyesontheforest.or.id/attach/EoF%20(16May13)%20Deforestation%20continues%20in%20SMGAPP%20supplier%20concession%20FINAL.pdf).
 * APP was forced to respond to the video by [stating](http://www.ran.org/asia_pulp_and_paper_caught_clearing_rainforest_credibility_of_app_deforestation_moratorium_in_doubt) that the logging was in an exclusion zone that it had not disclosed. 
 
+<hr>
+
+[Return to the Primer on Technology for Forest Peoples' Rights.](/monitoring)

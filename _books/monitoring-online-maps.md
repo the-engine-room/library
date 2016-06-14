@@ -62,3 +62,6 @@ RAISG (Amazonian Network of Georeferenced Socio-Environmental Information) is a 
 * RAISG presents all the collected information through [online interactive maps](http://raisg.socioambiental.org/mapa-online/index.html), as well as downloadable static maps with [infographics](http://raisg.socioambiental.org/amazonia-2012-areas-protegidas-e-territorios-indigenas#english), and [reports](http://raisg.socioambiental.org/system/files/Amazonia%20under%20pressure16_05_2013.pdf).
 * RAISG maps are a strong tool for evidence-based advocacy because of their strong methodology. Its partner organisations are able to rely on the collected information when lobbying governments. 
 
+<hr>
+
+[Return to the Primer on Technology for Forest Peoples' Rights.](/monitoring)
