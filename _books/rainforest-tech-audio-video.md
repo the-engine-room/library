@@ -65,4 +65,4 @@ In response to advocacy campaigns, Indonesian paper company APP signed a zero de
 
 <hr>
 
-[Return to the Primer on Technology for Forest Peoples' Rights.](/monitoring)
+[Return to the Primer on Technology for Forest Peoples' Rights.](/rainforest-tech)

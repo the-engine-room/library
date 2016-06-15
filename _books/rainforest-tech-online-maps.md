@@ -64,4 +64,4 @@ Companies store information about when, where and how you load maps on a commerc
 
 <hr>
 
-[Return to the Primer on Technology for Forest Peoples' Rights.](/monitoring)
+[Return to the Primer on Technology for Forest Peoples' Rights.](/rainforest-tech)

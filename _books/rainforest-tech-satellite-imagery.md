@@ -32,7 +32,7 @@ navigation:
 Satellite imagery was once too expensive for all but large institutions, governments and big corporations. Now, it is easily accessible and free (or very cheap). Comparing regular images of the same area can provide proof of deforestation, trends like increased commercial activity, or visible results of forest destruction like monocultures (which follow planting patterns that can be seen from above). 
 
 ### Tools
-There are very good free, open-source tools to analyse satellite imagery: **QGIS** is the most widely used [GIS software](http://www.qgis.org/en/docs/index.html). QGIS lets users add, edit, manipulate, and present GIS data. It has less advanced features than ArcGIS (see [Mobile phone applications](/monitoring-mobile-phones)), takes longer to learn and is less stable – but it is free, and has an active volunteer community providing technical support. You will need to know programming languages like Python for more complex analytical processes.
+There are very good free, open-source tools to analyse satellite imagery: **QGIS** is the most widely used [GIS software](http://www.qgis.org/en/docs/index.html). QGIS lets users add, edit, manipulate, and present GIS data. It has less advanced features than ArcGIS (see [Mobile phone applications](/rainforest-tech-mobile-phones)), takes longer to learn and is less stable – but it is free, and has an active volunteer community providing technical support. You will need to know programming languages like Python for more complex analytical processes.
 
 **Global Forest Watch (GFW)** is the most comprehensive tool for analysing satellite imagery of the [world’s forest cover](http://www.globalforestwatch.org/). GFW collects satellite images from partners and makes them free to download and re-use. It automatically analyses forest loss, provides alarm systems for fires and sends alerts when a selected area undergoes changes. 
 
@@ -42,7 +42,7 @@ Satellite imagery can be [free](http://earthexplorer.usgs.gov/), while commercia
 ### Risks and challenges
 The main problem with satellite imagery is **resolution**, which currently means that image quality is too low to show change in detail. Global Forest Watch provides some imagery at 30 meters per pixel in some countries. Currently, worldwide forest change imagery at 30m resolution is only available once every year, which isn’t always fast enough to be used as proof of deforestation. 
 
-This brings us to the second problem: **updates**. Images are usually updated monthly, and sometimes yearly. This makes them good for historical analysis, but sometimes impractical for real-time monitoring (though [DIY Aerial Photography](/monitoring-diy-aerial-mapping) can help get more up-to-date images). This is changing, though: [Global Forest Watch](http://www.globalforestwatch.org/map/)'s GLAD alerts provide weekly alerts of likely tree cover loss in Peru, Republic of Congo, and Kalimantan (Indonesia), and [Libra](http://libra.developmentseed.org) provides Landsat data every two weeks. The [MAAP project](http://maaproject.org/about-maap/) also aims to produce updates on the Andean Amazon every 1-2 weeks, while companies like [Planet Labs](http://www.planet.com) promise to provide free daily images in the future.
+This brings us to the second problem: **updates**. Images are usually updated monthly, and sometimes yearly. This makes them good for historical analysis, but sometimes impractical for real-time monitoring (though [DIY Aerial Photography](/rainforest-tech-diy-aerial-mapping) can help get more up-to-date images). This is changing, though: [Global Forest Watch](http://www.globalforestwatch.org/map/)'s GLAD alerts provide weekly alerts of likely tree cover loss in Peru, Republic of Congo, and Kalimantan (Indonesia), and [Libra](http://libra.developmentseed.org) provides Landsat data every two weeks. The [MAAP project](http://maaproject.org/about-maap/) also aims to produce updates on the Andean Amazon every 1-2 weeks, while companies like [Planet Labs](http://www.planet.com) promise to provide free daily images in the future.
 
 Finally, cloudy weather can hide the forest areas below – it can take some time to get pictures that have been taken on a clear day.
 
@@ -69,4 +69,4 @@ In January 2015 [Greenomics-Indonesia](http://www.greenomics.org/)’s analysis 
 
 <hr>
 
-[Return to the Primer on Technology for Forest Peoples' Rights.](/monitoring)
+[Return to the Primer on Technology for Forest Peoples' Rights.](/rainforest-tech)

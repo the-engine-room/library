@@ -33,7 +33,7 @@ navigation:
 ### How it can help
 
 Collecting information from the field can be a time-consuming process that involves physically transporting large numbers of paper forms through remote areas, then manually transcribing them. Mobile applications make this process much quicker and easier. 
-One common approach is that forest monitors are given a mobile device pre-loaded with an application. They upload data to this application and transmit it over phone networks or a mobile internet connection to a server, where an organisation can access it. Most applications automatically capture common errors and ask for corrections. Most smartphones capture geolocation data that can be mapped and combined with other forms of data (see [Online maps](/monitoring-online-maps)).
+One common approach is that forest monitors are given a mobile device pre-loaded with an application. They upload data to this application and transmit it over phone networks or a mobile internet connection to a server, where an organisation can access it. Most applications automatically capture common errors and ask for corrections. Most smartphones capture geolocation data that can be mapped and combined with other forms of data (see [Online maps](/rainforest-tech-online-maps)).
 
 ### Tools
 
@@ -57,7 +57,7 @@ The [ArcGIS suite of applications](www.esri.com/nonprofit/) is a premium GIS pro
 
 ### Risks and challenges
 
-It is impossible to collect and share data completely securely on mobile phones because of the way that the devices themselves are [designed](https://securityinabox.org/en/guide/mobile-phones). This could threaten people collecting information; sometimes just possessing an application can put a community monitor at risk. People and environments can also be threatened as a result of information that you publish about them (see the Responsible Data sections of the [Strategy](/monitoring/#strategy) section).
+It is impossible to collect and share data completely securely on mobile phones because of the way that the devices themselves are [designed](https://securityinabox.org/en/guide/mobile-phones). This could threaten people collecting information; sometimes just possessing an application can put a community monitor at risk. People and environments can also be threatened as a result of information that you publish about them (see the Responsible Data sections of the [Strategy](/rainforest-tech/#strategy) section).
 
 ### Case studies
 
@@ -93,4 +93,4 @@ MfR was used to inform a major REDD project development in Democratic Republic o
 
 <hr>
 
-[Return to the Primer on Technology for Forest Peoples' Rights.](/monitoring)
+[Return to the Primer on Technology for Forest Peoples' Rights.](/rainforest-tech)

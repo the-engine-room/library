@@ -29,7 +29,7 @@ navigation:
 * Computer software combines (or ‘stitches’) these photos into maps or 3D models, which can be used for purposes including monitoring wildlife, recording land claims and documenting climate change impacts.
 
 ### How it can help
-High-resolution satellite maps can be expensive, out-of-date or difficult to access (see [Satellite Mapping](/monitoring-satellite-imagery)). Creating aerial maps yourself gives you detailed map data for the exact area you want, in real time. It also allows you to fly over the same area regularly – giving you evidence of change over time. 
+High-resolution satellite maps can be expensive, out-of-date or difficult to access (see [Satellite Mapping](/rainforest-tech-satellite-imagery)). Creating aerial maps yourself gives you detailed map data for the exact area you want, in real time. It also allows you to fly over the same area regularly – giving you evidence of change over time. 
 
 ### Tools 
 If you have a low budget and only want to cover a small area, kites and balloons are the cheapest and easiest option (see [Costs](#costs), below). They can be constructed from simple materials or pre-prepared kits [(1)](http://publiclaboratory.org/wiki/balloon-mapping) [(2)](http://publiclaboratory.org/wiki/kite-mapping) . If tree cover restricts where you can fly balloons and kites, you will need to spend more on a drone. There are two main types: a drone with four or more multiple rotors (easier to fly, but can only fly for a maximum of 20-30 minutes), or a remote-controlled ‘fixed-wing’ plane (these can fly for up to 60 minutes – easier to fix but harder to land). You will also need a simple digital camera, software to plan flight paths, fly the drone, and edit photos.
@@ -66,4 +66,4 @@ In 2014, [ConservationDrones](http://conservationdrones.org) and the [Sumatran O
 
 <hr>
 
-[Return to the Primer on Technology for Forest Peoples' Rights.](/monitoring)
+[Return to the Primer on Technology for Forest Peoples' Rights.](/rainforest-tech)

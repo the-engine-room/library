@@ -246,7 +246,7 @@ If good data already exists, don’t waste time and money collecting it again. T
 
 <blockquote>
 	<h5 style="color:#1C4B52">Case study: Sharing data from different sources</h5>
-	<p>The Indonesian news site <a href="http://ekuatorial.com" style="color:#1C4B52">Ekuatorial</a> creates interactive maps and presents them with articles on environmental issues written by partner publications. The maps combine geo-referenced data from Global Forest Watch on palm oil plantations and forestry concessions; information collected by the Indonesian Forestry Ministry, international datasets like the World Database on Protected Areas, and volunteer-submitted information from Humanitarian OpenStreetMap. To make the map, Ekuatorial hired professional cartographers, who used CartoDB and MapBox to create the maps and then published them directly on their website using the WordPress theme JEO (see <a href="/monitoring-online-maps" style="color:#1C4B52">Online Mapping</a>).</p>
+	<p>The Indonesian news site <a href="http://ekuatorial.com" style="color:#1C4B52">Ekuatorial</a> creates interactive maps and presents them with articles on environmental issues written by partner publications. The maps combine geo-referenced data from Global Forest Watch on palm oil plantations and forestry concessions; information collected by the Indonesian Forestry Ministry, international datasets like the World Database on Protected Areas, and volunteer-submitted information from Humanitarian OpenStreetMap. To make the map, Ekuatorial hired professional cartographers, who used CartoDB and MapBox to create the maps and then published them directly on their website using the WordPress theme JEO (see <a href="/rainforest-tech-online-maps" style="color:#1C4B52">Online Mapping</a>).</p>
 	<p><b>How did it help?</b></p>
 	<p>Ekuatorial allows other organisations to republish its maps on their own site using an easy-to-use ‘share this map’ function. The raw data collected is also useful for other Indonesian organisations because it is regularly updated, and available to download for <a href="http://ekuatorial.com" style="color:#1C4B52">free</a>.</p>
 </blockquote>
@@ -479,12 +479,12 @@ Technology tools can improve advocacy campaigns in a number of ways, from monito
 
 ## Tools
 
-* <a name="tools"></a>[mobile (cell) phone applications to collect and record data from the field](/monitoring-mobile-phones)
-* [maps produced together with communities (participatory mapping)](/monitoring-participatory-mapping)
-* [satellite imagery](/monitoring-satellite-imagery)
-* [do-it-yourself aerial photography (such as drones)](/monitoring-diy-aeiral)
-* [audio and video](/monitoring-audio-video)
-* [online maps that combine and layer different types of data on top of each other](/monitoring-online-maps)
+* <a name="tools"></a>[mobile (cell) phone applications to collect and record data from the field](/rainforest-tech-mobile-phones)
+* [maps produced together with communities (participatory mapping)](/rainforest-tech-participatory-mapping)
+* [satellite imagery](/rainforest-tech-satellite-imagery)
+* [do-it-yourself aerial photography (such as drones)](/rainforest-tech-diy-aeiral)
+* [audio and video](/rainforest-tech-audio-video)
+* [online maps that combine and layer different types of data on top of each other](/rainforest-tech-online-maps)
 
 ## Further resources
 

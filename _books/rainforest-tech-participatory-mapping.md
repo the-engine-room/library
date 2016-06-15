@@ -68,4 +68,4 @@ In 2013, Mbendjele hunter-gatherers worked with the [Extreme Citizen Science (Ex
 
 <hr>
 
-[Return to the Primer on Technology for Forest Peoples' Rights.](/monitoring)
+[Return to the Primer on Technology for Forest Peoples' Rights.](/rainforest-tech)
