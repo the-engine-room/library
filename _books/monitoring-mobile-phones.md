@@ -2,8 +2,8 @@
 layout: page
 title: Mobile Phone Applications
 funder_name: Rainforest Foundation Norway
-funder_logo: /images/logos/rainforestfoundationnorway.png
-funder_link: //www.regnskog.no
+funder_logo: /images/logos/rfn.svg
+funder_link: //www.regnskog.no/en
 published: true
 themecolor: "#9BC348"
 navigation:
@@ -33,27 +33,27 @@ navigation:
 ### How it can help
 
 Collecting information from the field can be a time-consuming process that involves physically transporting large numbers of paper forms through remote areas, then manually transcribing them. Mobile applications make this process much quicker and easier. 
-One common approach is that forest monitors are given a mobile device pre-loaded with an application. They upload data to this application and transmit it over phone networks or a mobile internet connection to a server, where an organisation can access it. Most applications automatically capture common errors and ask for corrections. Most smartphones capture GPS data that can be mapped and combined with other forms of data (see [Online maps](/monitoring-online-maps)).
+One common approach is that forest monitors are given a mobile device pre-loaded with an application. They upload data to this application and transmit it over phone networks or a mobile internet connection to a server, where an organisation can access it. Most applications automatically capture common errors and ask for corrections. Most smartphones capture geolocation data that can be mapped and combined with other forms of data (see [Online maps](/monitoring-online-maps)).
 
 ### Tools
 
-You can choose from a wide range of applications: the right one for you depends on how much data you’re collecting, how much technical support you need, and how specific your needs are. There are websites that can help you identify what tools and mobile apps are the best fit, including [Humanitarian Nomad](http://humanitarian-nomad.org/online-selection-tool/) and [Solutions Center](http://solutionscenter.nethope.org). 
+You can choose from a wide range of applications: the right one for you depends on how much data you’re collecting, how much technical support you need, and how specific your needs are. There are websites that can help you identify what tools and mobile apps are the best fit, including [Humanitarian Nomad](http://humanitarian-nomad.org/online-selection-tool/) and [Solutions Center](http://solutionscenter.nethope.org). Specifically for forest monitoring, [Forest Compass](http://forestcompass.org/how/choosing-suitable-software) has collected a range of options and discusses their strengths and weaknesses for use in community-based mapping.
 
 ### Cost 
 
-**Type of device**: Dedicated GPS trackers are often more durable and have longer battery life, but the accuracy of mobile phones is often good enough for rainforest work. Smartphones with Android operating systems are available for under USD100, and prices are dropping all the time. If you only need simple functions, cheaper feature phones are a good option. These can be used to collect data using SMS or programmes designed in Java (J2ME).
+**Type of device**: For collecting geolocation data, dedicated GPS trackers are more accurate, and usually have longer battery life and are more durable. For collecting other types of data, smartphones with Android operating systems are available for under USD100, and prices are dropping all the time. If you only need simple functions, cheaper feature phones are a good option. These can be used to collect data using SMS or programmes designed in Java (J2ME).
 
-**How complex is the application?** The more features you want, the more training and troubleshooting support you’ll need. Support is included in services like ArcGIS, but it is expensive. Open source solutions like Open Data Kit, on the other hand, force you to figure problems out (which takes staff time) or call external experts (which usually costs money).
+**How complex is the application?** The more features you want, the more training and troubleshooting support you’ll need. Support is included in services like ArcGIS, but it is expensive. Open source solutions like Open Data Kit, on the other hand, force you to figure problems out (which takes staff time) or call external experts (which usually costs money). Remember that remote technical support may only be available and accessible if you can access a good internet connection.
 
 **How much data do you want to collect?** The more data you capture, the more you’ll spend on the database that holds the information, backing up data offline, or SMS message fees. 
 
 To give you a taste of the options available, here are two examples from opposite ends of the cost spectrum:
 
 #### Free and open source, but technically challenging - Open Data Kit
-Open Data Kit (ODK) is a collection of open source tools for mobile data collection that has been used successfully in a range of rainforest-related projects. It is free, can be modified for you, and has an active community of developers providing technical and strategic support. The downside is that it is not perfect software: built by layers of volunteers, you can expect things to go wrong. You will probably need to budget for a software developer to modify, and make sure you can get technical support for when things go wrong.
+[Open Data Kit (ODK)](https://opendatakit.org/) is a collection of open source tools for mobile data collection that has been used successfully in a range of rainforest-related projects. It is free, can be modified for you, and has an [active community](https://groups.google.com/forum/#!forum/opendatakit) of developers providing technical and strategic support. The downside is that it is not perfect software: built by layers of volunteers, you can expect things to go wrong. You will probably need to budget for a software developer to modify, and make sure you can get technical support for when things go wrong. See [Forest Compass](http://forestcompass.org/how/digital-technologies/open-data-kit) for more on ODK.
 
 #### Highly capable, but not cheap - Collector for ArcGIS 
-The ArcGIS suite of applications is a premium GIS product that offers powerful options for producing and analysing map data. A basic user licence currently costs around USD 1,500 per year, which includes technical support online and by telephone. To make the most of it, you will need to pay for its full suite: an Android app, a programme that manages the collected data on your server, and a programme to publish the maps online. The advantage of using premium paid software is that it will have more features, and you can rely on it to function as it supposed to. The downside is that it is expensive, and because the code is closed, you cannot hire a developer to change it to match your project better. 
+The [ArcGIS suite of applications](www.esri.com/nonprofit/) is a premium GIS product that offers powerful options for producing and analysing map data. A basic user licence currently costs around USD 1,500 per year, which includes some technical support online and by telephone (though a limited free version is available for non-profits). To make the most of it, you will need to pay for its full suite: an Android app, a programme that manages the collected data on your server, and a programme to publish the maps online. The advantage of using premium paid software is that it will have more features, and you can rely on it to function as it supposed to. The downside is that it is expensive, and because the code is closed, you cannot hire a developer to change it to match your project better. 
 
 ### Risks and challenges
 
@@ -79,6 +79,17 @@ The Pro-Indian Commission of Acre (Comissão Pró-Indio do Acre, or CPI-AC) trai
 
 * The information that the indigenous people gathered was then used to make maps that highlighted the problem and presented evidence of where the situation was worst.
 * One of these invasion maps was presented to the country’s former Minister of the Environment, prompting a multi-sectoral action from the federal government against invasions.
+
+
+#### Using participatory mapping with online maps for advocacy in the Congo Basin
+
+In 2013, Rainforest Foundation UK used the [MappingForRights](http://mappingforrights.org) (MfR) platform to present information about the presence, land use and rights of indigenous peoples and other forest-dependent communities in the Congo Basin. MfR allows It enables communities to map their lands through simple icon-based apps that can be downloaded onto most Android phones.
+
+**How did it help?**
+
+* Communities in the region used MfR to defend their rights in relation to strictly protected areas and lobby for community forest legislation.
+* Authorised users can view the data through an [online interactive map](http://mappingforrights.org), which also shows the use of (and claims on) particular forest areas. This allows users to identify where logging activities, and infrastructure and agricultural expansion, affect areas, as well as analysing the implementation of REDD projects and protected areas..
+MfR was used to inform a major REDD project development in Democratic Republic of Congo support the development of a new mapping tool aimed at reducing the damage caused by palm oil expansion in Cameroon.
 
 <hr>
 

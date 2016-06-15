@@ -2,8 +2,8 @@
 layout: page
 title: Audio and Video
 funder_name: Rainforest Foundation Norway
-funder_logo: /images/logos/rainforestfoundationnorway.png
-funder_link: //www.regnskog.no
+funder_logo: /images/logos/rfn.svg
+funder_link: //www.regnskog.no/en
 published: true
 themecolor: "#9BC348"
 navigation:
@@ -31,18 +31,18 @@ navigation:
 * Many smartphones now allow you to record, edit and upload video or audio to the internet. They can also automatically collect the GPS location of a photo or film, meaning that you can combine it with maps or combine it with other data. 
 
 ### How it can help
-Video and audio can communicate information about people and places that it’s impossible to explain only with text, maps or data. This makes them an effective advocacy tool that can explain a campaign quickly in a personal way. Video and audio evidence can also be used in legal cases on human rights violations or illegal activity if you follow specific procedures. The [StoryMaker](http://smallworldnews.tv/projects/storymaker/) app for Android phones is designed to help you create multimedia stories on your Android device, and the Guardian Project’s [Informacam](https://guardianproject.info/informa/) app can help to collect digital evidence securely in a way that can be used in court.
+Video and audio can communicate information about people and places that it’s impossible to explain only with text, maps or data. This makes them an effective advocacy tool that can explain a campaign quickly in a personal way. Video and audio evidence can also be used in legal cases on human rights violations or illegal activity if you follow specific procedures. The [StoryMaker](http://smallworldnews.tv/projects/storymaker/) app for Android phones is designed to help you create multimedia stories on your Android device, and the[CameraV](https://guardianproject.info/apps/camerav) Android app can help to collect digital evidence securely, and verify where it was produced.
 
 ### Tools
-Don’t assume you need to buy a new smartphone or camera. Many [older devices](https://www.v4c.org/content/effective-video-low-cost-devices) will still provide high-quality images (look for ones with 5 megapixels or more). Audio and video files take a lot of digital memory – compress them using free software, or use lower quality files that are easier to publish when internet is slow. You can edit directly from a smartphone or use free software like Lightworks Free and Audacity [(1)](http://www.lwks.com) [(2)](http://audacity.sourceforge.net/). Accessories like tripods and external microphones aren’t essential, but will improve quality. [Video4Change](https://www.v4c.org/en/resources) and [WITNESS](http://library.witness.org) have a wide range of resources that give technical advice. 
+Don’t assume you need to buy a new smartphone or camera. Many [older devices](https://www.v4c.org/content/effective-video-low-cost-devices) will still provide high-quality images (look for ones with 5 megapixels or more). Audio and video files take a lot of digital memory – compress them using free software, or use lower quality files that are easier to publish when internet is slow. You can edit directly from a smartphone or use free software like Lightworks Free and Audacity [(1)](http://www.lwks.com) [(2)](http://www.audacityteam.org/download/). Accessories like tripods and external microphones aren’t essential, but will improve quality. [Video4Change](https://www.v4c.org/en/resources) and [WITNESS](http://library.witness.org) have a wide range of resources that give technical advice. 
 
 ### Costs
 You can now create video and audio very cheaply but generally, the more complex the product, the more it will cost. Filming an indigenous group’s protest with a smartphone will be much cheaper than a professional-quality 20-minute documentary. Filming, editing and uploading can also be very time-consuming: does your organisation have time to produce a video itself, or would it be more realistic to pay a professional? 
 
 ### Risks and challenges
-**Risks to people making the recording:** Recording audio or video can put video-makers at risk. Delete or encrypt personal data on devices, and clean them devices frequently – fingerprints or residue can show where they’ve been. Only share sensitive information with trusted groups or lawyers before publishing, and check if it’s legal to record before starting.
+**Risks to people making the recording:** Recording audio or video can put video-makers at risk. Delete or encrypt personal data on devices, and clean devices frequently – fingerprints or residue can show where they’ve been. Only share sensitive information with trusted groups or lawyers before publishing, and check if it’s legal to record before starting.
 
-**Risks to people you are recording:** Follow the steps in the ‘Consent’ paragraph of Getting the Data (page X), ensuring that people understand that the recording could spread widely and be seen by anyone. Turn off any location-recording functions, and blur people’s faces [(1)](https://www.v4c.org/en/content/hands-using-obscuracam) [(2)](http://youtube-global.blogspot.co.uk/2012/07/face-blurring-when-footage-requires.html).
+**Risks to people you are recording:** Follow the steps in the ‘Consent’ paragraph of Getting the Data (page X), ensuring that people understand that the recording could spread widely and be seen by anyone. Turn off any location-recording functions, and blur people’s faces [(1)](https://www.v4c.org/en/content/hands-using-obscuracam) [(2)](https://blog.witness.org/2016/02/use-youtubes-new-blurring-feature-protect-identities/).
 
 ### Case studies
 
