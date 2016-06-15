@@ -3,9 +3,8 @@ layout: page
 title: Satellite Imagery
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
-funder_link: //www.regnskog.no/en/
+funder_link: //www.regnskog.no/en
 published: true
-themecolor: "#9BC348"
 navigation:
   - What is it
   - How it can help

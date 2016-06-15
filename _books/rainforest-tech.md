@@ -2,13 +2,12 @@
 layout: page
 title: Technology for Forest Peoples' Rights
 funder_name: Rainforest Foundation Norway
-funder_logo: /images/logos/rainforestfoundationnorway.png
-funder_link: //www.regnskog.no/en/
+funder_logo: /images/logos/rfn.svg
+funder_link: //www.regnskog.no/en
 published: true
-themecolor: "#9BC348"
 navigation:
-  - Foreword
   - Introduction
+  - Foreword
   - Matching your objectives with tools
   - Strategy
   - Tools
@@ -40,6 +39,7 @@ The word “technology” in this primer doesn’t refer to a specific technolog
 This guide is not comprehensive – it gives you the basic information you need to get started, with a selection of good places to go if you want to learn more. It has three main parts: 
 
 ## Foreword
+
 How can new and evolving technology be useful in advocacy for rainforest protection and forest peoples' rights?  This broad, open question is the starting point for this primer. In 1989, when Rainforest Foundation Norway was founded to promote rights-based rainforest protection, phones were hardly mobile and the world wide web was science fiction. A lot has changed. 
 
 Now advanced technology has become cheaper, more available and easier to use, opening up exciting new opportunities for rainforest monitoring and sharing of information. Every week a new tool or platform seems to be created to help us map forest resources, detect illegal logging, report on human rights abuses or trace the origins of commodities. 
@@ -154,13 +154,13 @@ Work out your organisation’s long-term strategy, involving staff and anyone wh
 3. Choose the activities at the top of your list. Could technology improve the way that you do them? Then decide what practical steps you would need to introduce technology (read the [Tools](#tools) section for more details on this).
 
 <blockquote>
-	<h5 style="color:#1C4B52">Case study: How three organisations decided to use technology to support their strategy in Congo (DRC)</h5>
+	<h5 style="color:#464646">Case study: How three organisations decided to use technology to support their strategy in Congo (DRC)</h5>
 	<p>In Congo (DRC), the government created a protected area and granted a logging concession on the same piece of land belonging to the villages of Mpole and Mpaha in Maï-Ndombe. The overlaps created disputes between the different groups involved.</p>
 	<p><b>How did they decide to use technology?</b></p>
 	<ul>
-		<li>The <i>long-term strategy</i> of Congolese organisation <a href="http://reseaurrnrdc.org/" style="color:#1C4B52">Natural Resources Network (Réseau Ressources Naturelles - RRN)</a> was to ensure that the government ook local communities’ customary rights into account.</li>
+		<li>The <i>long-term strategy</i> of Congolese organisation <a href="http://reseaurrnrdc.org/" style="color:#166A70">Natural Resources Network (Réseau Ressources Naturelles - RRN)</a> was to ensure that the government ook local communities’ customary rights into account.</li>
 		<li>Their <i>technology vision</i> was to use participatory mapping to collect local knowledge of the geographical area, and combine it with existing maps to show evidence of overlaps and bad practice by government or companies.</li>
-		<li>RRN took <i>practical steps</i> including training local cartographers to use GPS receivers, recruiting GIS mapping specialists and giving them an office, and <a href="https://uclexcites.wordpress.com/2013/06/18/participatory-mapping-in-congo-brazzaville-part-1/" style="color:#1C4B52">working with the community</a> to validate the maps.</li>
+		<li>RRN took <i>practical steps</i> including training local cartographers to use GPS receivers, recruiting GIS mapping specialists and giving them an office, and <a href="https://uclexcites.wordpress.com/2013/06/18/participatory-mapping-in-congo-brazzaville-part-1/" style="color:#166A70">working with the community</a> to validate the maps.</li>
 	</ul>
 </blockquote>
 
@@ -191,12 +191,12 @@ Think about what a reasonable timespan might be for your project. Then, add in p
 A pilot allows you to test at a small scale, identifying early on what is working and what isn’t. Choose something that you can measure easily. (For example, for a system monitoring illegal logging, this could be the number of reports collected by monitors in one month.) Design your project so that the pilot’s results can influence how the rest of the project develops. This will make your plan much more flexible if circumstances change.
 
 <blockquote>
-	<h5 style="color:#1C4B52">Case study: Piloting a new piece of technology can bring unexpected benefits</h5>
+	<h5 style="color:#464646">Case study: Piloting a new piece of technology can bring unexpected benefits</h5>
 	<p>In 2013, [Rainforest Connection](https://rfcx.org) held a pilot project in West Sumatra (Indonesia) to test an application to monitor illegal logging using a modified mobile phone.</p>
 	<p><b>How did it help?</b></p>
 	<ul>
 		<li>The pilot was designed to assess whether the technology worked, but it did even better than expected, capturing information that allowed local authorities to catch illegal loggers two weeks after it was installed.</li>
-		<li>The loggers have not returned to that area since then. <a href="http://news.mongabay.com/2014/0624-rainforest-connection-interview.html" style="color:#1C4B52">Rainforest Connection</a> is now holding a <a href="https://rfcx.org style="color:#1C4B52"">second series of pilots</a> in Equatorial Africa.</li>
+		<li>The loggers have not returned to that area since then. <a href="http://news.mongabay.com/2014/0624-rainforest-connection-interview.html" style="color:#166A70">Rainforest Connection</a> is now holding a <a href="https://rfcx.org style="color:#166A70"">second series of pilots</a> in Equatorial Africa.</li>
 	</ul>
 </blockquote>
 
@@ -206,7 +206,7 @@ Before starting, assess the situation and document what you find. This will give
 
 Then, think about your project’s potential effect on that situation, and how you can measure any changes. Decide when and how often to track progress using these measurements.
 
-<blockquote style="background: #1C4B52; border-left: 8px solid #63BBB1;">
+<blockquote style="background: #166A70; border-left: 8px solid #5DBFC6;">
 	<h5 style="color:white">Responsible data box: Planning to use data responsibly</h5>
 	<p style="color:white">Almost every project involves dealing with data in some way, even sending emails or using a spreadsheet. Failing to manage this data carefully can put your organisation and the people you work with at risk. Data leaks might lead to violence, open data might help land speculators, and hardware might be tracked to target activists. A risk assessment is an essential part of a project plan that helps you prepare for the unexpected.</p>
 	<ul style="color:white">
@@ -245,10 +245,10 @@ If good data already exists, don’t waste time and money collecting it again. T
  If the data has been collected but is not publicly available, check whether Freedom of Information laws can help push governments to publish it. [The Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/getting_data_1.html) has more information on how to make Freedom of Information Requests (in Brazil, you can use the [Queremos Saber](http://queremossaber.org.br/)).
 
 <blockquote>
-	<h5 style="color:#1C4B52">Case study: Sharing data from different sources</h5>
-	<p>The Indonesian news site <a href="http://ekuatorial.com" style="color:#1C4B52">Ekuatorial</a> creates interactive maps and presents them with articles on environmental issues written by partner publications. The maps combine geo-referenced data from Global Forest Watch on palm oil plantations and forestry concessions; information collected by the Indonesian Forestry Ministry, international datasets like the World Database on Protected Areas, and volunteer-submitted information from Humanitarian OpenStreetMap. To make the map, Ekuatorial hired professional cartographers, who used CartoDB and MapBox to create the maps and then published them directly on their website using the WordPress theme JEO (see <a href="/rainforest-tech-online-maps" style="color:#1C4B52">Online Mapping</a>).</p>
+	<h5 style="color:#464646">Case study: Sharing data from different sources</h5>
+	<p>The Indonesian news site <a href="http://ekuatorial.com" style="color:#166A70">Ekuatorial</a> creates interactive maps and presents them with articles on environmental issues written by partner publications. The maps combine geo-referenced data from Global Forest Watch on palm oil plantations and forestry concessions; information collected by the Indonesian Forestry Ministry, international datasets like the World Database on Protected Areas, and volunteer-submitted information from Humanitarian OpenStreetMap. To make the map, Ekuatorial hired professional cartographers, who used CartoDB and MapBox to create the maps and then published them directly on their website using the WordPress theme JEO (see <a href="/rainforest-tech-online-maps" style="color:#166A70">Online Mapping</a>).</p>
 	<p><b>How did it help?</b></p>
-	<p>Ekuatorial allows other organisations to republish its maps on their own site using an easy-to-use ‘share this map’ function. The raw data collected is also useful for other Indonesian organisations because it is regularly updated, and available to download for <a href="http://ekuatorial.com" style="color:#1C4B52">free</a>.</p>
+	<p>Ekuatorial allows other organisations to republish its maps on their own site using an easy-to-use ‘share this map’ function. The raw data collected is also useful for other Indonesian organisations because it is regularly updated, and available to download for <a href="http://ekuatorial.com" style="color:#166A70">free</a>.</p>
 </blockquote>
 
 #### Set standards for your data 
@@ -268,7 +268,7 @@ Consider recording and publishing it as Open Data, which means that it that can 
 Combining different data sources can reveal entirely new information and present powerful messages for campaigning. For example, you can combine aerial photography collected by DIY satellite photography with participatory mapping data. But examine these data sources carefully. Can they be compared? Do both sources cover the same geographical area, and is the quality of the data consistent enough? If the right data isn’t available, think about changing the way you collect it so that the results fit better with data that already exists.
 
 <blockquote>
-	<h5 style="color:#1C4B52">Case study: Combining different types of information</h5>
+	<h5 style="color:#464646">Case study: Combining different types of information</h5>
 	<p> Organización Regional AIDESEP Ucayali (ORAU) established a monitoring system designed to document the existence of indigenous peoples living in voluntary isolation (IPVI) and threats to the environment in Peru.</p>
 	<p><b>How did it help?</b></p>
 	<ul>
@@ -290,7 +290,7 @@ Don’t spend money on technology unless you’re certain that you need to. For 
 
 **Internet connection:** Be realistic about what you can achieve with a weak internet connection – it will slow progress and increase costs. Consider modifying project websites to work in low bandwidth or choose tools that work offline. [Aptivate](http://www.aptivate.org/webguidelines/Home.html) has a guide to designing websites that work better in poor internet connections, and [Engage Media](http://www.engagemedia.org/help/how-to-compress-video) provides advice on compressing files that work better in low-bandwidth areas.
 
-<blockquote style="background: #1C4B52; border-left: 8px solid #63BBB1;">
+<blockquote style="background: #166A70; border-left: 8px solid #5DBFC6;">
 	<p style="color:white"><b>Don’t rely only a company to store your data online:</b> For example, millions of photos hosted on the <a href="http://www.dailydot.com/technology/twitpic-twitter-acquisition/" style="color:white">Twitpic</a> service were at risk of deletion in 2014 when the company closed down, while in 2011, thousands of videos hosted on the South African site MyVideo were <a href="http://www.archiveteam.org/index.php?title=Deathwatch" style="color:white">lost</a> because the service lacked back-ups and servers hadn’t been properly <a href="http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf" style="color:white">maintained</a>.</p>
 </blockquote>
 
@@ -301,11 +301,11 @@ Don’t spend money on technology unless you’re certain that you need to. For 
 To start with, **create a methodology** (an explanation of how you have collected and analysed the data). Check your methodology is robust with experts, and present it clearly whenever you publish results. Be ready to explain your methodology or use it to defend the credibility of your work. For [examples](http://maaproject.org/about-maap/), look at [Open Development Cambodia](http://www.opendevelopmentcambodia.net/briefings/forest-cover/) (for a simple methodology) and the [Land Matrix](http://landmatrix.org/en/about/) (for a more detailed one).
 
 <blockquote>
-	<h5 style="color:#1C4B52">Case study: Getting recognition for the quality of your evidence</h5>
-	<p><a href="https://www.facebook.com/brimassarawak" style="color:#1C4B52">Borneo Resources Institute (Brimas)</a> trains communities in Sarawak (Malaysia) to map their own communities using GPS, plotting indigenous territories, land use and areas with natural resources. The government and private sector companies initially dismissed Brimas as not being knowledgeable enough. However, law courts recognised the quality of the data collected during cases to prove indigenous ownership of land, improving Brimas’ reputation for accuracy. Malaysia’s Land and Survey Department now uses Brimas’ maps to validate their own products.</p>
+	<h5 style="color:#464646">Case study: Getting recognition for the quality of your evidence</h5>
+	<p><a href="https://www.facebook.com/brimassarawak" style="color:#166A70">Borneo Resources Institute (Brimas)</a> trains communities in Sarawak (Malaysia) to map their own communities using GPS, plotting indigenous territories, land use and areas with natural resources. The government and private sector companies initially dismissed Brimas as not being knowledgeable enough. However, law courts recognised the quality of the data collected during cases to prove indigenous ownership of land, improving Brimas’ reputation for accuracy. Malaysia’s Land and Survey Department now uses Brimas’ maps to validate their own products.</p>
 </blockquote>
 
-<blockquote style="background: #1C4B52; border-left: 8px solid #63BBB1;">
+<blockquote style="background: #166A70; border-left: 8px solid #5DBFC6;">
 	<h5 style="color:white">Responsible data box: Know when *not* to collect data</h5>
 	<p style="color:white">To reduce risks, only collect the minimum amount of data that you need to carry out your project (see <a href="http://forestcompass.org/how/resources/data-sharing-community-based-forest-monitoring-lessons-guyana" style="color:white">this example</a>). Think back to your risk assessment (see <a href="#planning" style="color:white">Planning</a> section) and collect sensitive data in a more secure way<a href="https://responsibledata.io/resources/handbook/chapters/chapter-02a-getting-data.html" style="color:white">(1)</a> <a href="https://www.accessnow.org/help" style="color:white">(2)</a>if necessary.</p>
 	<p style="color:white"><b>Informed consent</b></p>
@@ -358,7 +358,7 @@ There are many techniques for finding meaning in data. These include straightfor
 
 Communicating what your data shows is one of the most important parts of a project – if you do it well, you can grab your audience’s attention and encourage them to act. There are many free or cheap tools that can help you make data visual - see Tactical Technology’s [Visualising Advocacy](https://visualisingadvocacy.org/resources/visualisationtools) project for examples based on your needs.
 
-<blockquote style="background: #1C4B52; border-left: 8px solid #63BBB1;">
+<blockquote style="background: #166A70; border-left: 8px solid #5DBFC6;">
 	<h5 style="color:white">Responsible data box: Look after your data</h5>
 		<br>
 	<p style="color:white"><b>How will you store your data within your organisation?</b></p>
@@ -396,13 +396,13 @@ List all the people and organisations that are involved in an issue. Be as speci
 Any advocacy campaign needs a network of allies. Plan how to engage the groups you listed above, keeping them interested and involved. Think creatively about whether you can help each other: would your data be useful for them? Do they have contacts that you need? 
 
 <blockquote>
- <h5 style="color:#1C4B52">Case study: Using your allies</h5>
+ <h5 style="color:#464646">Case study: Using your allies</h5>
  <p>In 2007, the Chilean organisation Movement for the Defence of the Environment (MODEMA) produced a series of posters of the Punta de Choros to make local residents aware of the risks of building four thermoelectric plants. The posters were seen by a visiting group of Chilean video-makers, who filmed a documentary about the area and started a campaign called Chao Pescao (‘Bye-Bye Fish’ in Spanish).</p>
  <p><b>How did it help?</b></p>
  <ul>
  <li>The groups worked together to increase their impact. As the campaign grew, more allies got involved, with national media covering the issue for over ten days.</li>
- <li>The campaign combined online and offline tactics: the documentary was screened on the streets of the capital Santiago using bicycle-powered cinemas, and citizen demonstrations were immediately uploaded and shared through YouTube and among the 10,000 members of Chao Pescao's <a href="https://www.facebook.com/groups/172364371563/?ref=br_rs" style="color:#1C4B52">Facebook group</a> </li>
- <li>In January 2010 the government <a href="https://archive.informationactivism.org/en/chaopescao" style="color:#1C4B52">cancelled</a> building the thermoelectric plants, and new presidential candidates were pressured to keep Punta de Choros clean.</li>
+ <li>The campaign combined online and offline tactics: the documentary was screened on the streets of the capital Santiago using bicycle-powered cinemas, and citizen demonstrations were immediately uploaded and shared through YouTube and among the 10,000 members of Chao Pescao's <a href="https://www.facebook.com/groups/172364371563/?ref=br_rs" style="color:#166A70">Facebook group</a> </li>
+ <li>In January 2010 the government <a href="https://archive.informationactivism.org/en/chaopescao" style="color:#166A70">cancelled</a> building the thermoelectric plants, and new presidential candidates were pressured to keep Punta de Choros clean.</li>
  </ul>
 </blockquote>
 
@@ -411,7 +411,7 @@ Any advocacy campaign needs a network of allies. Plan how to engage the groups y
 Choose one or more of these groups whose behaviour you want to change: they are your target audience. Do you want civil servants to change policy on land rights, or get a company to improve forest management practices? Avoid targeting very large groups: the more difficult it will be to craft relevant campaign messages. 
 
 <blockquote>
-	<h5 style="color:#1C4B52">Case study: Choosing your target</h5>
+	<h5 style="color:#464646">Case study: Choosing your target</h5>
 	<p>Indonesian organisation Aliansi Masyarakat Adat Nusantara (AMAN) received information through its SMS reporting platform that 30 people had been detained in north Sumatra (Indonesia) for allegedly obstructing a company's operations.</p>
 	<p><b>How did it help?</b></p>
 	<ul>
@@ -437,12 +437,12 @@ Find out what information your audience needs. If your audience doesn’t unders
 **Think about both the words you use and the way you present them:** Choose the words you use carefully and think about developing different materials for different groups. Some groups might not know the technical terms involved in land rights negotiations, while others might only take you seriously if you use them. Using English might let you reach an international audience, but could limit your reach in your home country. Vary how you present your data according to your audience. Members of the public with limited time may only read a short summary of your findings, while policy-makers may need detailed reports. 
 
 <blockquote>
-	<h5 style="color:#1C4B52">Case study: Using video footage to mobilise support</h5>
-	<p>In 2009, the Peruvian organisation <a href="http://www.aidesep.org.pe/" style="color:#1C4B52">AIDESEP</a>recorded eyewitness footage of police violence against a group of indigenous people in Bagua region and uploaded it to the video sharing site YouTube.</p>
+	<h5 style="color:#464646">Case study: Using video footage to mobilise support</h5>
+	<p>In 2009, the Peruvian organisation <a href="http://www.aidesep.org.pe/" style="color:#166A70">AIDESEP</a>recorded eyewitness footage of police violence against a group of indigenous people in Bagua region and uploaded it to the video sharing site YouTube.</p>
 	<p><b>How did it help?</b></p>
 	<ul>
 		<li>The video was distributed widely online by bloggers, providing evidence of an incident that might otherwise have been ignored by a wider audience.</li>
-		<li>Solidarity marches took place worldwide and a government commission was established to investigate the incident. In 2013 Peru's state entity responsible for indigenous peoples officially recognised that people living in voluntary isolation were resident in the Napo-Tigre region (although a campaign to establish an indigenous reserve is still <a href="http://hub.witness.org/en/blog/social-media-and-online-technologies-indigenous-rights-peru" style="color:#1C4B52">continuing</a>).</li>
+		<li>Solidarity marches took place worldwide and a government commission was established to investigate the incident. In 2013 Peru's state entity responsible for indigenous peoples officially recognised that people living in voluntary isolation were resident in the Napo-Tigre region (although a campaign to establish an indigenous reserve is still <a href="http://hub.witness.org/en/blog/social-media-and-online-technologies-indigenous-rights-peru" style="color:#166A70">continuing</a>).</li>
 	</ul>
 </blockquote> 
 
@@ -472,7 +472,7 @@ Create targets that you want your campaign to achieve and track progress against
 
 Technology tools can improve advocacy campaigns in a number of ways, from monitoring campaigns, to managing data, to visualizing data for powerful presentations. For suggestions on using technology to track media attention, user engagement or project implementation, see this [guide](https://www.theengineroom.org/diy-for-me). The [Visualising Advocacy](https://visualisingadvocacy.org) gives many more examples of things that you can do with your data.
 
-<blockquote style="background: #1C4B52; border-left: 8px solid #63BBB1;">
+<blockquote style="background: #166A70; border-left: 8px solid #5DBFC6;">
 	<h5 style="color:white">Responsible data box: Publishing data responsibly</h5>
 	<p style="color:white">If you use an external online service to visualise or present your data, remember the risks. Once you have uploaded your data, you can’t always know whether the company can access it or will provide it to other people, or what would happen if that service went out of business. If you do decide to upload data to them, try not to  include data that could put people at risk.</p>
 </blockquote>

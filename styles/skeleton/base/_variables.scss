@@ -10,17 +10,17 @@ $bp-larger-than-desktophd : "min-width: 1200px" !default;
 
 // Colors
 $light-grey: #eee !default;
-$dark-grey: #36474f !default;
-$primary-color: #009688 !default;
+$dark-grey: #464646 !default;
+$primary-color: #95335E !default;
 $secondary-color: lighten($dark-grey, 13.5%) !default;
 $border-color: #bbb !default;
-$link-color: #00bbd3 !default;
-$link-visited: #3e50b4 !default;
-$link-active: #009688 !default;
+$link-color: #5DBFC6 !default;
+$link-visited: #166A70 !default;
+$link-active: #95335E !default;
 $font-color: $dark-grey;
 
 // Typography
-$font-family: "Lato", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 
 //Grid Variables
 $container-width: 960px !default;
