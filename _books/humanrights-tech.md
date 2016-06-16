@@ -1,20 +1,19 @@
 ---
+
 layout: page
 title: Technology Tools in Human Rights
 funder_logo: /images/logos/oak.png
-funder_link: //http://oakfnd.org/
-published: false
+funder_link: //oakfnd.org/
+published: true
 themecolor: "#006699"
 navigation:
-  - Introduction
   - Definition
   - Examples
   - Tools and Platforms
   - Pros and Cons
   - Planning
   - Implementation
-  - Conclusion
-  - Acknowledgments 
+  - About
 
 ---
 
