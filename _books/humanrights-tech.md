@@ -71,7 +71,7 @@ Several intermediaries who work with human rights defenders said that from their
 
 Interviewees generally acknowledged that some tools needed to be specifically designed for a particular situation because human rights defenders are operating in such a wide range of different contexts. However, intermediaries and developers disagreed on whether it was more effective to customise existing tools, or develop new tools for a particular purpose. One HRD we spoke to said that tools which came with lots of “bells and whistles” can inspire organisations with ideas, but practically speaking can also “a challenge” to narrow it down to actual needs. Another mentioned that a tool they use, CaseBox, is “constantly changing to satisfy requirements of other users” which leaves them with lots of new features they do not need, and consequently “lowers motivation among employees” to learn how to use it. Others mentioned that building custom tools from scratch, suited to particular situations, was perhaps a better route to go down due to the big contextual differences in the field. 
 
-Where tools had been built with a general human rights documentation use case in mind, some HRDs we spoke to noted that in the effort to cater to so many different contextual differences, the tool had become too complicated for use, or became difficult to distinguish from other tools available. For example, one interviewee described Martus as being “too big and too complicated” for use, with another interviewee saying that HRDs they work with “are not sure what the differences are between database software” for documentation purposes. 
+![contextualize vs adapt](../media/humanrights-tech/sarah.png)|__"Sometimes it seems like tools attempt to cater to so many different contexual differences that they become too complicated to use. My colleagues are often not sure what the differences are between database software and are intimidated when faced with a new tool."__|
 
 ### Digital security concerns
 
@@ -141,7 +141,7 @@ Storing data can be expensive, especially in the case of high-resolution images,
 
 Ludmila Polshikova of the Russian Justice Initiative also mentioned that many of the photos she receives are large in size: 4 to 9MB per photo. To store and work with them, she or members of her team, have to compress the photos and compile them into one document, which can be a time-consuming process. 
 
-Keeping track of where external data storage sources are kept was also mentioned as a problem. Multiple people mentioned that they kept encrypted backups of sensitive data on external hard drives in places outside of their office, for security reasons. Though having multiple copies seems like a good idea, knowing at any one time where all of those copies are is important - in particular as it was mentioned that sometimes those copies can go astray, especially as the number of external data sources increases.
+![Storage](../media/humanrights-tech/michael.png)|__"We work with large video files from many different sources. We also like to keep encrypted backups of sensitive data on external hard drives in places outside our office, for security reasons. It seemed like a good idea, but it can be difficult to keep track of the data sources and our copies."__|
 
 #### Uptake
 
