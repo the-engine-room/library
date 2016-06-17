@@ -1,17 +1,35 @@
 body.rainforest {
 	nav { 
 		background-color: #056330;
+		a:hover {
+			color: white;
+		}
 	}
 
+	a {
+		color: #464646;
+	}
 
 	blockquote {
-    padding-top: 10px;
-    padding-right: 10px;
-    background: #d09b2c;
-    border-left: 8px solid #811619;
-    padding-bottom: 1px;
-    margin-left: 50px;
-    padding-left: 7px;
-} 
+	    padding-top: 10px;
+	    padding-right: 10px;
+	    background: #d09b2c;
+	    border-left: 8px solid #811619;
+	    padding-bottom: 1px;
+	    margin-left: 50px;
+	    padding-left: 7px;
+	    color: black;
 	
+		a {
+			color: black;
+		}
+
+		h5 {
+			color:black;
+		}
+	}
+
+	a:hover {
+		color: #d09b2c;
+	}
 }
