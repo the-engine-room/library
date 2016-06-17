@@ -7,13 +7,14 @@ funder_link: //oakfnd.org/
 published: true
 themecolor: "#006699"
 navigation:
+  - Introduction
   - Definition
   - Examples
   - Tools and Platforms
   - Pros and Cons
   - Planning
   - Implementation
-  - About
+  - Conclusion
 
 ---
 
@@ -261,7 +262,7 @@ This study is intended as a scoping study rather than to provide concrete recomm
 
 ---
 
-## About
+### Acknowledgements
 
 We would like to register our gratitude and thanks to the many people who contributed their time and energy towards this report. Interviews were carried out by Nisha Thompson and Tom Walker, with assistance from Kara Kaminski-Killany. Tara Adiseshan led work on the design and visuals creation, and Zara Rahman wrote the main narrative. Mike Romig provided invaluable input and editing support to the report. 
 
