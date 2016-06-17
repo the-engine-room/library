@@ -10,3 +10,12 @@ collections:
   books:
     output: true
     permalink: /:path/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+      body_class: "default"

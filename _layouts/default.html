@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html>
   <head>
@@ -10,14 +12,6 @@
 
     <link href="{{site.baseurl}}/images/icons/favicon.png" rel="shortcut icon" type="image/png" />
     <link rel="stylesheet" href="{{ site.baseurl }}/styles/main.css?v={{site.time | date: '%s'}}" />
-
-    {% if page.themecolor %}
-    <style media="screen">
-      .theme-background {
-        background-color: {{ page.themecolor }};
-      }
-    </style>
-    {% endif %}
     
     <script src="{{site.baseurl}}/scripts/scrollspy.js"></script>
     <script src="{{site.baseurl}}/scripts/site.js"></script>
@@ -26,7 +20,7 @@
     {% if page.scripts %}{{page.scripts}}{% endif %}
   </head>
 
-  <body class="row {% if page.body_class %}{{page.body_class}}{% endif %}">
+  <body class="row {% if layout.theme %}{{layout.theme}}{% endif %}">
     <nav class="three columns">
       <div class="logo">
         <a href="https://theengineroom.org"><img src="{{site.baseurl}}/images/logos/engineroom.png" alt="Engine Room" /></a>

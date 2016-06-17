@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: rainforest
 title: Rainforest Tech
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
 funder_link: //www.regnskog.no/en
 published: true
-themecolor: #056330
 navigation:
   - Introduction
   - Matching your objectives with tools
