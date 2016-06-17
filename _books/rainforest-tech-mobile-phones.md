@@ -12,6 +12,8 @@ navigation:
   - Cost
   - Risks and challenges
   - Case studies
+  - Further resources
+  - About
 
 ---
 
@@ -89,6 +91,31 @@ In 2013, Rainforest Foundation UK used the [MappingForRights](http://mappingforr
 * Communities in the region used MfR to defend their rights in relation to strictly protected areas and lobby for community forest legislation.
 * Authorised users can view the data through an [online interactive map](http://mappingforrights.org), which also shows the use of (and claims on) particular forest areas. This allows users to identify where logging activities, and infrastructure and agricultural expansion, affect areas, as well as analysing the implementation of REDD projects and protected areas..
 MfR was used to inform a major REDD project development in Democratic Republic of Congo support the development of a new mapping tool aimed at reducing the damage caused by palm oil expansion in Cameroon.
+
+### Further resources
+
+* The [Guardian Project](https://guardianproject.info/)’s [CameraV app](https://guardianproject.info/apps/camerav) can help to collect video and photo evidence securely and in a way that can be verified by others.
+* The [StoryMaker](http://smallworldnews.tv/projects/storymaker/) app for Android phones helps you create multimedia stories on your Android device
+* [WITNESS](http://library.witness.org ) and [Video4Change](https://www.v4c.org/en/resources) both have useful resource libraries on using video in your work 
+* [Small World News](http://smallworldnews.com/guides) offers guides on making video and audio 
+* [Audacity](http://www.audacityteam.org/download/) offers free audio editing capabilities, while [Lightworks](http://www.lwks.com/) Free version can tackle many simple video editing tasks
+
+### About 
+
+This site was created by __[Rainforest Foundation Norway](www.regnskog.no/en/)__ and __[The Engine Room](//theengineroom.org)__  as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. A PDF copy of the report is available here: [link]
+
+Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org) or [rainforest@rainforest.no](rainforest@rainforest.no).
+
+Rainforest Foundation Norway (RFN) is one of the world's leading organisations in the field of rights-based rainforest protection. Its mission is to support indigenous peoples and traditional populations of the world's rainforests in their efforts to protect their environment and fulfil their rights by assisting them in:
+- Securing and controlling the natural resources necessary for their long-term well-being and managing these resources in ways which do not harm their environment, violate their culture or compromise their future;
+- and developing the means to protect their individual and collective rights and to obtain, shape, and control basic services from the state.
+RFN collaborates closely with more than 70 local and national environmental, indigenous and human rights organisations in 11 countries in the Amazon region, Central Africa, Southeast Asia, and Oceania.
+
+#### Contributors
+
+The Engine Room is an international organisation that helps activists, social change organisations, and change agents make the most of data and technology to increase their impact. The Engine Room provides direct, project-level support for social change organisations; brings together communities to coordinate emerging ideas and collect practitioners; and documents and publishes findings to help anyone in the sector make better decisions about using data and technology.
+
+[Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) and [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) researched and wrote the main narrative, while [Ruth Miller](http://ruthmiller.net/) led work on the design and visuals creation. Vemund Olsen and Christopher Wilson provided invaluable input and editing support. The site sourcecode is available on [Github](https://github.com/the-engine-room/library/).
 
 <hr>
 
