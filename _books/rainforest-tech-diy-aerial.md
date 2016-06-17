@@ -12,6 +12,8 @@ navigation:
   - Cost
   - Risks and challenges
   - Case studies
+  - Further resources
+  - About
 
 ---
 
@@ -62,6 +64,32 @@ In 2014, [ConservationDrones](http://conservationdrones.org) and the [Sumatran O
 
 * Without aerial photography, the logging might not have have been discovered: the loggers had hidden their activities at ground level by leaving a strip of trees around the logged area.
 * ConservationDrones and SOCP gave the evidence to park officials, who [were able](http://conservationdrones.org/2014/09/30/illegal-logging/) to stop logging activities in that area.
+
+### Further resources
+
+* [Conservation Drones](http://conservationdrones.org/)’ site includes a guide to building and flying drones, as well as examples of how they have been used in conservation work
+* [DIY Drones](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs) has an introductory guide to UAVs
+* [Public Laboratory](https://publiclab.org/wiki/kite-mapping) provides guides and support on building kites, balloons and sensors for mapping 
+* The [Humanitarian UAV](http://wiki.uaviators.org/doku.php) network (UAViators) has a range of useful information http://uaviators.org/about-this-site-rules and a survey of laws affecting drone flights in countries around the world 
+* [Geojournalism’s](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/) guide to balloon mapping
+* [NetHope’s Solutions Center](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles) has webinars and resources on using drones 
+
+### About 
+
+This site was created by __[Rainforest Foundation Norway](www.regnskog.no/en/)__ and __[The Engine Room](//theengineroom.org)__  as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. A PDF copy of the report is available here: [link]
+
+Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org) or [rainforest@rainforest.no](rainforest@rainforest.no).
+
+Rainforest Foundation Norway (RFN) is one of the world's leading organisations in the field of rights-based rainforest protection. Its mission is to support indigenous peoples and traditional populations of the world's rainforests in their efforts to protect their environment and fulfil their rights by assisting them in:
+- Securing and controlling the natural resources necessary for their long-term well-being and managing these resources in ways which do not harm their environment, violate their culture or compromise their future;
+- and developing the means to protect their individual and collective rights and to obtain, shape, and control basic services from the state.
+RFN collaborates closely with more than 70 local and national environmental, indigenous and human rights organisations in 11 countries in the Amazon region, Central Africa, Southeast Asia, and Oceania.
+
+#### Contributors
+
+The Engine Room is an international organisation that helps activists, social change organisations, and change agents make the most of data and technology to increase their impact. The Engine Room provides direct, project-level support for social change organisations; brings together communities to coordinate emerging ideas and collect practitioners; and documents and publishes findings to help anyone in the sector make better decisions about using data and technology.
+
+[Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) and [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) researched and wrote the main narrative, while [Ruth Miller](http://ruthmiller.net/) led work on the design and visuals creation. Vemund Olsen and Christopher Wilson provided invaluable input and editing support. The site sourcecode is available on [Github](https://github.com/the-engine-room/library/).
 
 <hr>
 
