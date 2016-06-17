@@ -623,8 +623,6 @@ The resources below are available in the language described, and typically also 
 * [Security in-a-Box](https://info.securityinabox.org/vi) is a guide to digital security for activists and human rights defenders throughout the world produced by Frontline Defeners and Tactical Technology Collective 
 * [Datahub](http://datahub.io/vi/about) is a data management platform that lets you search for data, register published datasets, create and manage groups of datasets 
 
----
-
 ## About
 
 This site was created by [Rainforest Foundation Norway](www.regnskog.no/en/) and __[The Engine Room](//theengineroom.org)__  as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. A PDF copy of the report is available here: [link]
@@ -641,3 +639,5 @@ RFN collaborates closely with more than 70 local and national environmental, ind
 The Engine Room is an international organisation that helps activists, social change organisations, and change agents make the most of data and technology to increase their impact. The Engine Room provides direct, project-level support for social change organisations; brings together communities to coordinate emerging ideas and collect practitioners; and documents and publishes findings to help anyone in the sector make better decisions about using data and technology.
 
 [Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) and [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) researched and wrote the main narrative, while [Ruth Miller](http://ruthmiller.net/) led work on the design and visuals creation. Vemund Olsen and Christopher Wilson provided invaluable input and editing support. The site sourcecode is available on [Github](https://github.com/the-engine-room/library/).
+
+---
