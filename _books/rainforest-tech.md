@@ -1,6 +1,8 @@
 ---
 layout: rainforest
 title: Rainforest Tech
+description: 
+image: /media/index/rainforest.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
 funder_link: //www.regnskog.no/en

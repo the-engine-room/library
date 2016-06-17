@@ -1,6 +1,8 @@
 ---
 layout: rainforest
 title: Audio and Video
+description: Audio and video can be used to simply and effectively present short advocacy messages, collect visual evidence of human rights violations, publish participatory films by community members, or document deforestation over time.<p>Part of the <a href="/rainforest-tech">Rainforest Tech</a> report.</p>
+image: /media/index/audio.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
 funder_link: //www.regnskog.no/en

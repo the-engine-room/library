@@ -1,6 +1,8 @@
 ---
 layout: rainforest
 title: Online Maps
+description: Online maps that combine and layer different types of data on top of each other can be used for real-time monitoring (showing the places where most incidents happen), campaigning (such as showing where forest cover is being dramatically reduced) or analysis (gaining new insights by overlaying different types of data on the same map).<p>Part of the <a href="/rainforest-tech">Rainforest Tech</a> report.</p>
+image: /media/index/online.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
 funder_link: //www.regnskog.no/en

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Microtasking
+description: An introduction to microtasking – splitting a large job into small tasks that can be distributed to many people over the Internet – that explains how it works, and where it might be useful for advocacy organisations.
+image: /media/index/microtasking.svg
 funder_logo: /images/logos/amnesty.png
 funder_link: //www.amnestyusa.org
 funder_name: Amnesty International
