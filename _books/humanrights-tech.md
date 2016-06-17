@@ -45,10 +45,15 @@ Taking a longer term perspective, the most common issues and worries raised were
 ## Definition
 
 Human rights defenders (HRDs) are using technology tools in a variety of ways: 
+
 - Communication: to share their findings more broadly, such as through videos, press releases, and to connect online with groups working on similar issues.
+
 - Analysis: to identify patterns that otherwise would have been less visible – such as repeated attacks in certain areas – and presenting this data on maps, charts or interactive online features.
+
 - Information management: to catalogue, store, and manage information about incidents and events related to human rights cases, as well as sharing it with others working on similar issues. 
+
 - Identifying new incidents: using digital tools and digital data to discover, verify or corroborate violations - for example, by scanning social media or online video networks, or mobile messaging platforms.
+
 - Historical archiving: to scan paper documents, classify and tag them, make them machine-readable, encrypt them and make backups in case they get lost.
 
 Human rights defenders said that simplicity, familiarity and ease of use were by far the most important criteria when choosing tools. Many used paper forms as their primary form of information capture. Software tools like Word and Excel were mentioned more than any others, while Google Drive and Dropbox were often mentioned as tools for sharing information and managing documents online. Many HRDs knew of the potential security risks associated with using tools like Google Drive (given Google’s collaboration with the US government), but chose to use it regardless.
