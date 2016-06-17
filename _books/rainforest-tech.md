@@ -12,6 +12,7 @@ navigation:
   - Strategy
   - Tools
   - Further resources
+  - About
 
 ---
 
@@ -19,7 +20,7 @@ navigation:
 
 ## Introduction
 
-This primer is an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, but can also be useful for organizations with some experience using technology to reflect on how they can increase the impact of their work. 
+This site is an introduction (or 'primer') to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, but can also be useful for organizations with some experience using technology to reflect on how they can increase the impact of their work. 
 
 The primer has been structured so that you don’t need to read the whole thing, but can explore sections that are relevant for you and use them to find more detailed guidance. 
 
@@ -38,34 +39,13 @@ The word “technology” in this primer doesn’t refer to a specific technolog
 
 This guide is not comprehensive – it gives you the basic information you need to get started, with a selection of good places to go if you want to learn more. It has three main parts: 
 
-## Foreword
+#### Strategy 
 
-How can new and evolving technology be useful in advocacy for rainforest protection and forest peoples' rights?  This broad, open question is the starting point for this primer. In 1989, when Rainforest Foundation Norway was founded to promote rights-based rainforest protection, phones were hardly mobile and the world wide web was science fiction. A lot has changed. 
-
-Now advanced technology has become cheaper, more available and easier to use, opening up exciting new opportunities for rainforest monitoring and sharing of information. Every week a new tool or platform seems to be created to help us map forest resources, detect illegal logging, report on human rights abuses or trace the origins of commodities. 
-
-However, other things have not changed at all. Indigenous peoples and local organizations in rainforest countries still struggle to claim their customary rights and protect rainforests under difficult conditions. Often infrastructure and means of communication are poor, and lack of training and funding can be serious obstacles to taking advantage of the opportunities that technology offer. 
-
-In general, the interest groups behind unsustainable forest exploitation have more resources to use new, evolving technologies than the local groups or civil society organizations working for forest protection. Even so, there are a lot of amazing examples of how local activists employ new technology in ingenious ways to make their work more effective and efficient. Unfortunately, there are also a great number of unsuccessful projects where money and hard work are wasted. Although objectives and tools vary greatly, what the successful projects generally have in common is that they are solidly designed and based on clear goals and a thorough analysis of the problem at hand.
-
-Seeing how important solid planning and design is for the success of technology-projects, [Rainforest Foundation Norway](http://www.regnskog.no/en/) has partnered with [The Engine Room](https://theengineroom.org) to make a basic introduction to the use of technology in rights-based rainforest protection. In the process of mapping the myriad of existing initiatives that could be useful in our work and for our partners, we decided that a basic introduction to the use of technology in rights-based rainforest protection could be useful to many.
-
-That is the purpose of this report: It describes advantages and disadvantages of different tools that may be used, using concrete examples. It also provides a step-by-step guide to strategic project development, suggesting essential questions that must be answered  to ensure that technology serves the project's needs and not the other way around. 
-
-While the guide can be read from start to finish, it is designed to allow readers to easily access the information that interests them the most. Suggestions for further reading are provided for those who want to explore a particular tool or experience in more detail.
-
-Use of technology has a great potential for strengthening indigenous peoples' rights and forest protection - and it has been inspiring to see so many inventive ways that indigenous peoples and local activists already employ technology.
-
-Hopefully this primer can help those who want to start new projects - or further develop existing ones - to use technology effectively, as well as inspire us to learn more from each other's experiences.
-
-
-#### Goal and strategy 
-
-This is probably where most projects fail. A successful project requires explicit goals and a solid strategy – from planning out how the project will work, to managing information when the project is in progress. The first section of this primer sets out general principles and things to think about when designing any project that uses technology. 
+This is probably where most projects fail. A successful project requires explicit goals and a solid strategy – from planning out how the project will work, to managing information when the project is in progress. The [first section](#strategy) of this primer sets out general principles and things to think about when designing any project that uses technology. 
 
 #### Overview of Tools
 
-The second section introduces some of the tools that can be useful in rainforest-focused projects, grouped into six types: 
+The [second section](#tools) introduces some of the tools that can be useful in rainforest-focused projects, grouped into six types: 
 
 * mobile (cell) phone applications to collect and record data from the field
 * maps produced together with communities (participatory mapping)
@@ -76,7 +56,7 @@ The second section introduces some of the tools that can be useful in rainforest
 
 #### Additional resources
 
-The final section lists a series of guides and tools with more detailed information that can help you take the next steps in adding new technology into your project.
+The [final section](#resources) lists a series of guides and tools with more detailed information that can help you take the next steps in adding new technology into your project.
 
 ### Information technology and forests
 
@@ -135,6 +115,27 @@ Remember, the best tool for different objectives will be different in every situ
 | Recording and monitoring the environmental value of areas of land | Satellite mapping, Online mapping, Participatory mapping, Mobile applications, DIY aerial mapping | 
 | Supporting communities by presenting and providing knowledge | Participatory mapping, Audio and Video, DIY aerial photography |
 
+## Foreword
+
+*By Lars Lovold - Director, [Rainforest Foundation Norway](//rainforest.no/en)*
+
+How can new and evolving technology be useful in advocacy for rainforest protection and forest peoples' rights?  This broad, open question is the starting point for this primer. In 1989, when Rainforest Foundation Norway was founded to promote rights-based rainforest protection, phones were hardly mobile and the world wide web was science fiction. A lot has changed. 
+
+Now advanced technology has become cheaper, more available and easier to use, opening up exciting new opportunities for rainforest monitoring and sharing of information. Every week a new tool or platform seems to be created to help us map forest resources, detect illegal logging, report on human rights abuses or trace the origins of commodities. 
+
+However, other things have not changed at all. Indigenous peoples and local organizations in rainforest countries still struggle to claim their customary rights and protect rainforests under difficult conditions. Often infrastructure and means of communication are poor, and lack of training and funding can be serious obstacles to taking advantage of the opportunities that technology offer. 
+
+In general, the interest groups behind unsustainable forest exploitation have more resources to use new, evolving technologies than the local groups or civil society organizations working for forest protection. Even so, there are a lot of amazing examples of how local activists employ new technology in ingenious ways to make their work more effective and efficient. Unfortunately, there are also a great number of unsuccessful projects where money and hard work are wasted. Although objectives and tools vary greatly, what the successful projects generally have in common is that they are solidly designed and based on clear goals and a thorough analysis of the problem at hand.
+
+Seeing how important solid planning and design is for the success of technology-projects, [Rainforest Foundation Norway](http://www.regnskog.no/en/) has partnered with [The Engine Room](https://theengineroom.org) to make a basic introduction to the use of technology in rights-based rainforest protection. In the process of mapping the myriad of existing initiatives that could be useful in our work and for our partners, we decided that a basic introduction to the use of technology in rights-based rainforest protection could be useful to many.
+
+That is the purpose of this report: It describes advantages and disadvantages of different tools that may be used, using concrete examples. It also provides a step-by-step guide to strategic project development, suggesting essential questions that must be answered  to ensure that technology serves the project's needs and not the other way around. 
+
+While the guide can be read from start to finish, it is designed to allow readers to easily access the information that interests them the most. Suggestions for further reading are provided for those who want to explore a particular tool or experience in more detail.
+
+Use of technology has a great potential for strengthening indigenous peoples' rights and forest protection - and it has been inspiring to see so many inventive ways that indigenous peoples and local activists already employ technology.
+
+Hopefully this primer can help those who want to start new projects - or further develop existing ones - to use technology effectively, as well as inspire us to learn more from each other's experiences.
 
 ## Strategy 
 <a name="strategy"></a>This section draws on the Transparency and Accountability Initiative’s [‘Fundamentals’ guide](http://tech.transparency-initiative.org/fundamentals/), which is a great place to go for more tips. 
@@ -479,16 +480,16 @@ Technology tools can improve advocacy campaigns in a number of ways, from monito
 
 ## Tools
 
-* <a name="tools"></a>[mobile (cell) phone applications to collect and record data from the field](/rainforest-tech-mobile-phones)
-* [maps produced together with communities (participatory mapping)](/rainforest-tech-participatory-mapping)
-* [satellite imagery](/rainforest-tech-satellite-imagery)
-* [do-it-yourself aerial photography (such as drones)](/rainforest-tech-diy-aeiral)
-* [audio and video](/rainforest-tech-audio-video)
-* [online maps that combine and layer different types of data on top of each other](/rainforest-tech-online-maps)
+* <a name="tools"></a>[mobile (cell) phone applications to collect and record data from the field](/rainforest-tech-mobile-phones) can be used for a wide range of purposes, including recording illegal mining or logging; biodiversity surveys; helping communities to map their own land; or validating government maps. If used carefully, they can make collecting data quicker and more accurate. 
+* [maps produced together with communities (participatory mapping)](/rainforest-tech-participatory-mapping) can be used to show how an area is actually being used, compare this with “official” maps, and use the information to claim communities’ rights to land.
+* [satellite imagery](/rainforest-tech-satellite-imagery) or analysing changes to a forest area over time, or combined aerial imagery with other forms of information such as other types of maps. Comparing regular images of the same area can provide proof of deforestation, trends like increased commercial activity, or visible results of forest degradation.
+* [do-it-yourself aerial photography (such as drones)](/rainforest-tech-diy-aeiral) can be used for making maps or 3D models to monitor wildlife, record land claims and document climate change impacts. It can produce images that are more detailed than satellite data, and that can be updated in real time.
+* [audio and video](/rainforest-tech-audio-video) can be used to simply and effectively present short advocacy messages, collect visual evidence of human rights violations, publish participatory films by community members, or document deforestation over time.
+* [online maps that combine and layer different types of data on top of each other](/rainforest-tech-online-maps) can be used for real-time monitoring (showing the places where most incidents happen), campaigning (such as showing where forest cover is being dramatically reduced) or analysis (gaining new insights by overlaying different types of data on the same map).
 
 ## Further resources
 
-This list of resources includes many mentioned in the Primer, with some additional resources. It is not comprehensive, but aims to highlight some of the most practically useful resources for rainforest organisations using technology in their work.
+<a name="resources"></a>This list of resources includes many mentioned in the Primer, with some additional resources. It is not comprehensive, but aims to highlight some of the most practically useful resources for rainforest organisations using technology in their work.
 
 ### Getting data
 
@@ -621,3 +622,22 @@ The resources below are available in the language described, and typically also 
 
 * [Security in-a-Box](https://info.securityinabox.org/vi) is a guide to digital security for activists and human rights defenders throughout the world produced by Frontline Defeners and Tactical Technology Collective 
 * [Datahub](http://datahub.io/vi/about) is a data management platform that lets you search for data, register published datasets, create and manage groups of datasets 
+
+---
+
+## About
+
+This site was created by [Rainforest Foundation Norway](www.regnskog.no/en/) and __[The Engine Room](//theengineroom.org)__  as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. A PDF copy of the report is available here: [link]
+
+Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org) or [rainforest@rainforest.no](rainforest@rainforest.no).
+
+Rainforest Foundation Norway (RFN) is one of the world's leading organisations in the field of rights-based rainforest protection. Its mission is to support indigenous peoples and traditional populations of the world's rainforests in their efforts to protect their environment and fulfil their rights by assisting them in:
+- Securing and controlling the natural resources necessary for their long-term well-being and managing these resources in ways which do not harm their environment, violate their culture or compromise their future;
+- and developing the means to protect their individual and collective rights and to obtain, shape, and control basic services from the state.
+RFN collaborates closely with more than 70 local and national environmental, indigenous and human rights organisations in 11 countries in the Amazon region, Central Africa, Southeast Asia, and Oceania.
+
+### Contributors
+
+The Engine Room is an international organisation that helps activists, social change organisations, and change agents make the most of data and technology to increase their impact. The Engine Room provides direct, project-level support for social change organisations; brings together communities to coordinate emerging ideas and collect practitioners; and documents and publishes findings to help anyone in the sector make better decisions about using data and technology.
+
+[Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) and [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) researched and wrote the main narrative, while [Ruth Miller](http://ruthmiller.net/) led work on the design and visuals creation. Vemund Olsen and Christopher Wilson provided invaluable input and editing support. The site sourcecode is available on [Github](https://github.com/the-engine-room/library/).
