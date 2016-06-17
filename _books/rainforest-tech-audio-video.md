@@ -12,6 +12,7 @@ navigation:
   - Cost
   - Risks and challenges
   - Case studies
+  - Further resources
   - About
 
 ---
