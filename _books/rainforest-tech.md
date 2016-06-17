@@ -207,7 +207,7 @@ Before starting, assess the situation and document what you find. This will give
 
 Then, think about your project’s potential effect on that situation, and how you can measure any changes. Decide when and how often to track progress using these measurements.
 
-<blockquote style="background: #166A70; border-left: 8px solid #5DBFC6;">
+<blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
 	<h5 style="color:white">Responsible data box: Planning to use data responsibly</h5>
 	<p style="color:white">Almost every project involves dealing with data in some way, even sending emails or using a spreadsheet. Failing to manage this data carefully can put your organisation and the people you work with at risk. Data leaks might lead to violence, open data might help land speculators, and hardware might be tracked to target activists. A risk assessment is an essential part of a project plan that helps you prepare for the unexpected.</p>
 	<ul style="color:white">
@@ -291,7 +291,7 @@ Don’t spend money on technology unless you’re certain that you need to. For 
 
 **Internet connection:** Be realistic about what you can achieve with a weak internet connection – it will slow progress and increase costs. Consider modifying project websites to work in low bandwidth or choose tools that work offline. [Aptivate](http://www.aptivate.org/webguidelines/Home.html) has a guide to designing websites that work better in poor internet connections, and [Engage Media](http://www.engagemedia.org/help/how-to-compress-video) provides advice on compressing files that work better in low-bandwidth areas.
 
-<blockquote style="background: #166A70; border-left: 8px solid #5DBFC6;">
+<blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
 	<p style="color:white"><b>Don’t rely only a company to store your data online:</b> For example, millions of photos hosted on the <a href="http://www.dailydot.com/technology/twitpic-twitter-acquisition/" style="color:white">Twitpic</a> service were at risk of deletion in 2014 when the company closed down, while in 2011, thousands of videos hosted on the South African site MyVideo were <a href="http://www.archiveteam.org/index.php?title=Deathwatch" style="color:white">lost</a> because the service lacked back-ups and servers hadn’t been properly <a href="http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf" style="color:white">maintained</a>.</p>
 </blockquote>
 
@@ -306,7 +306,7 @@ To start with, **create a methodology** (an explanation of how you have collecte
 	<p><a href="https://www.facebook.com/brimassarawak" style="color:#166A70">Borneo Resources Institute (Brimas)</a> trains communities in Sarawak (Malaysia) to map their own communities using GPS, plotting indigenous territories, land use and areas with natural resources. The government and private sector companies initially dismissed Brimas as not being knowledgeable enough. However, law courts recognised the quality of the data collected during cases to prove indigenous ownership of land, improving Brimas’ reputation for accuracy. Malaysia’s Land and Survey Department now uses Brimas’ maps to validate their own products.</p>
 </blockquote>
 
-<blockquote style="background: #166A70; border-left: 8px solid #5DBFC6;">
+<blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
 	<h5 style="color:white">Responsible data box: Know when *not* to collect data</h5>
 	<p style="color:white">To reduce risks, only collect the minimum amount of data that you need to carry out your project (see <a href="http://forestcompass.org/how/resources/data-sharing-community-based-forest-monitoring-lessons-guyana" style="color:white">this example</a>). Think back to your risk assessment (see <a href="#planning" style="color:white">Planning</a> section) and collect sensitive data in a more secure way<a href="https://responsibledata.io/resources/handbook/chapters/chapter-02a-getting-data.html" style="color:white">(1)</a> <a href="https://www.accessnow.org/help" style="color:white">(2)</a>if necessary.</p>
 	<p style="color:white"><b>Informed consent</b></p>
@@ -359,7 +359,7 @@ There are many techniques for finding meaning in data. These include straightfor
 
 Communicating what your data shows is one of the most important parts of a project – if you do it well, you can grab your audience’s attention and encourage them to act. There are many free or cheap tools that can help you make data visual - see Tactical Technology’s [Visualising Advocacy](https://visualisingadvocacy.org/resources/visualisationtools) project for examples based on your needs.
 
-<blockquote style="background: #166A70; border-left: 8px solid #5DBFC6;">
+<blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
 	<h5 style="color:white">Responsible data box: Look after your data</h5>
 		<br>
 	<p style="color:white"><b>How will you store your data within your organisation?</b></p>
@@ -473,7 +473,7 @@ Create targets that you want your campaign to achieve and track progress against
 
 Technology tools can improve advocacy campaigns in a number of ways, from monitoring campaigns, to managing data, to visualizing data for powerful presentations. For suggestions on using technology to track media attention, user engagement or project implementation, see this [guide](https://www.theengineroom.org/diy-for-me). The [Visualising Advocacy](https://visualisingadvocacy.org) gives many more examples of things that you can do with your data.
 
-<blockquote style="background: #166A70; border-left: 8px solid #5DBFC6;">
+<blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
 	<h5 style="color:white">Responsible data box: Publishing data responsibly</h5>
 	<p style="color:white">If you use an external online service to visualise or present your data, remember the risks. Once you have uploaded your data, you can’t always know whether the company can access it or will provide it to other people, or what would happen if that service went out of business. If you do decide to upload data to them, try not to  include data that could put people at risk.</p>
 </blockquote>

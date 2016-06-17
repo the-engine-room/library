@@ -6,26 +6,15 @@ html {
 
 }
 
-
-
 body {
-
   background: $white;
-
 }
-
-
 
 nav {
   position: fixed;
-
   width: 100%;
-
   text-align: center;
-
   z-index: 1;
-
-
 
   @media (#{$bp-larger-than-phablet}) {
   height: 100%;
@@ -33,7 +22,6 @@ nav {
   padding: 0px 0 0;
 
   }
-
 
 
   .logo {
