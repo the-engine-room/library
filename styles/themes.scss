@@ -33,3 +33,33 @@ body.rainforest {
 		color: #d09b2c;
 	}
 }
+
+body.table-of-contents {
+	.top {
+		margin-top: 40px;
+	}
+
+	hr {
+		border-top: 5px solid $grape;
+	}
+
+	#books {
+		.row { 
+			margin-bottom: 4rem;
+		}
+		h2 {
+			font-size: 3.0rem;
+			margin-bottom: 0;
+			a {
+				text-decoration: none;
+				color: $grape;
+				font-weight: normal;
+				text-transform: uppercase;
+			}
+		}
+	}
+
+	p { font-size: 13px;
+		margin-bottom: 1rem;
+	 }
+}
