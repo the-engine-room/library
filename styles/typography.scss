@@ -1,5 +1,34 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
 
+@font-face {
+    font-family: 'Baton';
+    src: url('fonts/Baton-Regular-Web.eot');
+    src: url('fonts/Baton-Regular-Web.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Baton-Regular-Web.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Baton';
+    src: url('fonts/Baton-Bold-Web.eot');
+    src: url('fonts/Baton-Bold-Web.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Baton-Bold-Web.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Baton';
+    src: url('fonts/Baton-Regular-Italic-Web.eot');
+    src: url('fonts/Baton-Regular-Italic-Web.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Baton-Regular-Italic-Web.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: $font-family-heading;
+}
+
 h1 {
   font-size: 2.25rem;
   @media (#{$bp-larger-than-mobile}) { font-size: 3rem; }
