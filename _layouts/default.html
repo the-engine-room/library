@@ -10,15 +10,15 @@
 
     <link href="{{site.baseurl}}/images/icons/favicon.png" rel="shortcut icon" type="image/png" />
     <link rel="stylesheet" href="{{ site.baseurl }}/styles/main.css?v={{site.time | date: '%s'}}" />
+
     {% if page.themecolor %}
     <style media="screen">
-      nav {
-        background-color: #95335E
+      .theme-background {
+        background-color: {{ page.themecolor }};
       }
     </style>
     {% endif %}
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    
     <script src="{{site.baseurl}}/scripts/scrollspy.js"></script>
     <script src="{{site.baseurl}}/scripts/site.js"></script>
 
