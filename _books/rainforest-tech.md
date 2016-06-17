@@ -197,7 +197,7 @@ A pilot allows you to test at a small scale, identifying early on what is workin
 	<p><b>How did it help?</b></p>
 	<ul>
 		<li>The pilot was designed to assess whether the technology worked, but it did even better than expected, capturing information that allowed local authorities to catch illegal loggers two weeks after it was installed.</li>
-		<li>The loggers have not returned to that area since then. <a href="http://news.mongabay.com/2014/0624-rainforest-connection-interview.html" style="color:#166A70">Rainforest Connection</a> is now holding a <a href="https://rfcx.org style="color:#166A70"">second series of pilots</a> in Equatorial Africa.</li>
+		<li>The loggers have not returned to that area since then. <a href="http://news.mongabay.com/2014/0624-rainforest-connection-interview.html" style="color:#166A70">Rainforest Connection</a> is now holding a <a href="https://rfcx.org" style="color:#166A70">second series of pilots</a> in Equatorial Africa.</li>
 	</ul>
 </blockquote>
 
