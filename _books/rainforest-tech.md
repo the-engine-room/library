@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technology for Forest Peoples' Rights
+title: Rainforest Tech
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
 funder_link: //www.regnskog.no/en
@@ -39,7 +39,7 @@ The word “technology” in this primer doesn’t refer to a specific technolog
 
 This guide is not comprehensive – it gives you the basic information you need to get started, with a selection of good places to go if you want to learn more. It has three main parts: 
 
-#### Strategy 
+#### Setting a solid strategy 
 
 This is probably where most projects fail. A successful project requires explicit goals and a solid strategy – from planning out how the project will work, to managing information when the project is in progress. The [first section](#strategy) of this primer sets out general principles and things to think about when designing any project that uses technology. 
 
