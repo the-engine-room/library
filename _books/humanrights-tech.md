@@ -262,5 +262,5 @@ We would like to register our gratitude and thanks to the many people who contri
 
 Our thanks also goes to the following people who we interviewed, spoke to, or otherwise drew inspiration from: 
 
-Rick Bahague, Wendy Betts, Rory Byrne, Indira Cornelio, Alix Dunn, Ishita Dutta, Wael Eskander, Ahmad Gharbeia, Kody Leonard, Tom Longley, Beatrice Martini, Anne Massagee, Natasha Msonza, Ludmila Polshikova, Chinmayi S K, Collin Sullivan, Valeria Umaña, Bert Verstappen, Veronica Vidal, and Friedhelm Weinberg.
- The site sourcecode is available on [Github](https://github.com/the-engine-room/library/).
+Rick Bahague, Wendy Betts, Rory Byrne, Indira Cornelio, Alix Dunn, Ishita Dutta, Wael Eskander, Ahmad Gharbeia, Kody Leonard, Tom Longley, Beatrice Martini, Natasha Msonza, Ludmila Polshikova, Chinmayi S K, Collin Sullivan, Valeria Umaña, Bert Verstappen, Veronica Vidal, and Friedhelm Weinberg.
+The site sourcecode is available on [Github](https://github.com/the-engine-room/library/).
