@@ -260,6 +260,12 @@ This study is intended as a scoping study rather than to provide concrete recomm
 - Be realistic: no technology tool is going to “solve” social issues or problems, and getting people to change their behaviour is difficult. Be clear on why you’re using a certain tool, and what the incentives are for the people around you. 
 - Think long term: though a certain tool might seem like the easiest option now, what about in 2 years or 5 years time? What will you want to do with the data, and who owns it? Ask up front about the sustainability issues raised above. 
 
+### Worksheets
+We developed a series of worksheets that are intended to help HRDs better evaluate their needs and values around technology tool usage. 
+- [Workflow Evaluation Tool](../media/humanrights-tech/WorkflowEvaluation.pdf): We’ve found that technology tools are most likely to make a sustainable improvement to human rights documentation work when they fit into existing workflows. This worksheet is intended to help you think through your current workflows and identify areas for improvement.
+- [Value Prioritization Tool](../media/humanrights-tech/valueprioritization.pdf): When HRDs make decisions about tool adoption, they are often in a time or resource constrained space. This tool is intended to enable HRDs to understand and rank their priorities around functionality based on their needs.
+- [Tool Functionality Overview](../media/humanrights-tech/ToolFunctionalityOverview.pdf): We compiled an overview of tools that we encountered in our research, including tools for data collection, data verification, data storage, and databases for existing content.
+
 ---
 
 ### Acknowledgements
