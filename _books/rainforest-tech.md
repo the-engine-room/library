@@ -173,7 +173,7 @@ Assess how well your organisation currently uses technology – do you have the 
 
 ##### Define your goals
 
-State what you hope your project will achieve. Base your goals on the three points above: your organisation’s strategy, your technology vision and your technical capacity. (See [Use the Data](##Use the Data))
+State what you hope your project will achieve. Base your goals on the three points above: your organisation’s strategy, your technology vision and your technical capacity. (See [Use the Data](#usethedata))
 
 ##### Design together with your users
 
@@ -325,7 +325,7 @@ Don’t wait until the end of your project to find out how well it is working: a
 
 ### Manage the data
 
-Before you start collecting information, plan out some categories to help organise the data. Before you start collecting information, plan out some categories to help organise the data. Base these categories on the people you want to reach (see [Use the Data](###Use the Data) for more on how to do this).
+Before you start collecting information, plan out some categories to help organise the data. Before you start collecting information, plan out some categories to help organise the data. Base these categories on the people you want to reach (see [Use the Data](#usethedata) for more on how to do this).
 
 #### Control the quality of your data early
 
@@ -377,6 +377,8 @@ Legal issues will vary depending on your country and the kind of data you have, 
 ##### Who else can access your data?
 
 If individuals are identified in data you collect, your staff, allies or local communities could face threats. Lower the risks by taking three steps: only collect and upload the information that you really cannot do without; [remove names and information that might identify people wherever possible](http://theodi.github.io/ukan-course/); and avoid using any technology services that are a particular risk in your country.
+
+<a name="usethedata"></a>
 
 ### Use the data
 
