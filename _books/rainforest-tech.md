@@ -7,8 +7,8 @@ funder_link: //www.regnskog.no/en
 published: true
 navigation:
   - Introduction
-  - Foreword
   - Matching your objectives with tools
+  - Foreword
   - Strategy
   - Tools
   - Further resources
@@ -193,7 +193,7 @@ A pilot allows you to test at a small scale, identifying early on what is workin
 
 <blockquote>
 	<h5 style="color:#464646">Case study: Piloting a new piece of technology can bring unexpected benefits</h5>
-	<p>In 2013, [Rainforest Connection](https://rfcx.org) held a pilot project in West Sumatra (Indonesia) to test an application to monitor illegal logging using a modified mobile phone.</p>
+	<p>In 2013, <a href="https://rfcx.org" style="color:#1C4B52">Rainforest Connection</a> held a pilot project in West Sumatra (Indonesia) to test an application to monitor illegal logging using a modified mobile phone.</p>
 	<p><b>How did it help?</b></p>
 	<ul>
 		<li>The pilot was designed to assess whether the technology worked, but it did even better than expected, capturing information that allowed local authorities to catch illegal loggers two weeks after it was installed.</li>
@@ -270,7 +270,7 @@ Combining different data sources can reveal entirely new information and present
 
 <blockquote>
 	<h5 style="color:#464646">Case study: Combining different types of information</h5>
-	<p> Organización Regional AIDESEP Ucayali (ORAU) established a monitoring system designed to document the existence of indigenous peoples living in voluntary isolation (IPVI) and threats to the environment in Peru.</p>
+	<p> <a href="http://www.orau.com.pe/inicio/index.php" style="color:#166A70"> Organización Regional AIDESEP Ucayali (ORAU)</a> established a monitoring system designed to document the existence of indigenous peoples living in voluntary isolation (IPVI) and threats to the environment in Peru.</p>
 	<p><b>How did it help?</b></p>
 	<ul>
 		<li>Photographs of evidence, GPS data and other information is saved and systematized in a digital database.</li>
