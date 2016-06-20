@@ -9,8 +9,8 @@ funder_link: //www.regnskog.no/en
 published: true
 navigation:
   - Introduction
-  - Matching your objectives with tools
   - Strategy
+  - Matching your objectives with tools
   - Tools
   - Further resources
   - About
@@ -21,7 +21,7 @@ navigation:
 
 ## Introduction
 
-This site is an introduction (or 'primer') to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. 
+This is an introduction (or 'primer') to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. 
 
 It is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org) 
 
@@ -95,7 +95,6 @@ Hopefully this primer can help those who want to start new projects - or further
 
 **Technology is cheaper and more powerful:** More and more organisations can now think about accessing tools like smartphones and data visualisation software, which were previously out of reach. 
 
-
 #### What’s not new
 
 **Technology still needs humans:** No matter how sophisticated the technology, it cannot replace the need for strong relationships with communities, based on trust and knowledge of local context. 
@@ -120,25 +119,6 @@ Recognise that **you will have to commit resources to use tech effectively.** Yo
 * **Let people decide how data about them is collected and used,** particularly when working with marginalised communities. The communities themselves should have the final say on the level of risk and exposure they are willing to take. If you are working on any project working with marginalised communities, try asking yourself this [list of questions](http://www.fabriders.net/qafs/).
 * **Use data responsibly:** Think about how the data you are collecting could affect people or environments, and how you will manage those risks (see [Strategy](#strategy) section.) 
 * **Collect and present data in a rigorous and expect to be held accountable for the data you present:** data can be used to mislead. Be aware of any assumptions that might affect how you collect and analyze data. If you find flaws or gaps, be open about them when sharing or publishing.
-
-## Matching your objectives with tools
-
-Are you clear about your organisation’s goals but not sure where technology could fit in? A few common objectives are listed in the table below, with some types of tools that might help achieve them. 
-
-Keep in mind that technology tools can only help achieve these objectives when they fit into a well-designed programme strategy. The [Strategy](#strategy) section gives tips for thinking about how to ensure a tool fits with your priorities, and the [Tools](#tools) section provides more detail on each tool. 
-
-Remember, the best tool for different objectives will be different in every situation. The table below shows some common uses, but isn’t a roadmap. 
-
-
-| Objective     | Tools that could help achieve that objective |
-| ------------- | -------------------------------------------- |
-| Starting or supporting dialogue between communities and the government | Participatory mapping, Video and audio |
-| Providing evidence to governments to encourage them to recognise indigenous lands | Participatory mapping, Online mapping, DIY aerial photography, Mobile applications, Video and audio |
-| Collecting evidence of deforestation or forest degradation | Satellite mapping, Participatory mapping, Mobile applications, DIY aerial photography, Video and Audio |
-| Providing evidence of wrongdoing towards individuals or communities| Mobile applications, Video and Audio |
-| Providing evidence of companies’ wrongdoing in their use of land | Satellite mapping, Online mapping, DIY aerial mapping, Video and audio, Mobile applications |
-| Recording and monitoring the environmental value of areas of land | Satellite mapping, Online mapping, Participatory mapping, Mobile applications, DIY aerial mapping | 
-| Supporting communities by presenting and providing knowledge | Participatory mapping, Audio and Video, DIY aerial photography |
 
 
 ## Strategy 
@@ -483,6 +463,26 @@ Technology tools can improve advocacy campaigns in a number of ways, from monito
 	<h5 style="color:white">Responsible data box: Publishing data responsibly</h5>
 	<p style="color:white">If you use an external online service to visualise or present your data, remember the risks. Once you have uploaded your data, you can’t always know whether the company can access it or will provide it to other people, or what would happen if that service went out of business. If you do decide to upload data to them, try not to  include data that could put people at risk.</p>
 </blockquote>
+
+## Matching objectives with tools
+
+Are you clear about your organisation’s goals but not sure where technology could fit in? A few common objectives are listed in the table below, with some types of tools that might help achieve them. 
+
+Keep in mind that technology tools can only help achieve these objectives when they fit into a well-designed programme strategy. The [Strategy](#strategy) section gives tips for thinking about how to ensure a tool fits with your priorities, and the [Tools](#tools) section provides more detail on each tool. 
+
+Remember, the best tool for different objectives will be different in every situation. The table below shows some common uses, but isn’t a roadmap. 
+
+
+| Objective     | Tools that could help achieve that objective |
+| ------------- | -------------------------------------------- |
+| Starting or supporting dialogue between communities and the government | Participatory mapping, Video and audio |
+| Providing evidence to governments to encourage them to recognise indigenous lands | Participatory mapping, Online mapping, DIY aerial photography, Mobile applications, Video and audio |
+| Collecting evidence of deforestation or forest degradation | Satellite mapping, Participatory mapping, Mobile applications, DIY aerial photography, Video and Audio |
+| Providing evidence of wrongdoing towards individuals or communities| Mobile applications, Video and Audio |
+| Providing evidence of companies’ wrongdoing in their use of land | Satellite mapping, Online mapping, DIY aerial mapping, Video and audio, Mobile applications |
+| Recording and monitoring the environmental value of areas of land | Satellite mapping, Online mapping, Participatory mapping, Mobile applications, DIY aerial mapping | 
+| Supporting communities by presenting and providing knowledge | Participatory mapping, Audio and Video, DIY aerial photography |
+
 
 ## Tools
 
