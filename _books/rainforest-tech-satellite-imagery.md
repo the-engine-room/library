@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Satellite Imagery
-description: An introduction to using satellite imagery in rainforest-related projects for analysing change over time in a forest area, or generating evidence of deforestation, trends like increased commercial activity, or visible results of forest degradation.<p>Part of the <a href="/rainforest-tech">Rainforest Tech</a> report.</p>
+description: An introduction to using satellite imagery in rainforest-related projects for analysing change over time in a forest area, or generating evidence of deforestation, trends like increased commercial activity, or visible results of forest degradation.<p>Part of the <a href="/rainforest-tech">Rainforest Technology</a> report.</p>
 image: /media/index/satellite.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg

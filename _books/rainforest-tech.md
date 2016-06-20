@@ -1,6 +1,6 @@
 ---
 layout: rainforest
-title: Rainforest Tech
+title: Rainforest Technology
 description: An introduction (or 'primer') for using technology to monitor and share information on rainforest issues, land rights and indigenous rights. It is designed as a starting point for organisations and activists that are thinking about adding technology to improve their advocacy work.
 image: /media/index/rainforest.svg
 funder_name: Rainforest Foundation Norway

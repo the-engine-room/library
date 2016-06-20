@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Mobile Phone Applications
-description: An introduction to using mobile (cell) phone applications to collect and record data in rainforest-related projects for purposes including recording illegal mining or logging; biodiversity surveys; helping communities to map their own land; or validating government maps.<p>Part of the <a href="/rainforest-tech">Rainforest Tech</a> report.</p>
+description: An introduction to using mobile (cell) phone applications to collect and record data in rainforest-related projects for purposes including recording illegal mining or logging; biodiversity surveys; helping communities to map their own land; or validating government maps.<p>Part of the <a href="/rainforest-tech">Rainforest Technology</a> report.</p>
 image: /media/index/mobile.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
