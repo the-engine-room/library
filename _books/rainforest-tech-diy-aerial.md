@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: DIY Aerial Photography
-description: Do-it-yourself aerial photography (such as drones) can be used for making maps or 3D models to monitor wildlife, record land claims and document climate change impacts. It can produce images that are more detailed than satellite data, and that can be updated in real time.<p>Part of the <a href="/rainforest-tech">Rainforest Tech</a> report.</p>
+description: An introduction to using do-it-yourself aerial photography (such as drones) for making maps or 3D models to monitor wildlife, record land claims and document climate change impacts. This can produce images that are more detailed than satellite data, and that can be updated in real time.<p>Part of the <a href="/rainforest-tech">Rainforest Tech</a> report.</p>
 image: /media/index/drone.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg

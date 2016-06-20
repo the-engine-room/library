@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Participatory and GPS Mapping
-description: Maps produced together with communities (participatory mapping) can be used to show how an area is actually being used, compare this with “official” maps, and use the information to claim communities’ rights to land.<p>Part of the <a href="/rainforest-tech">Rainforest Tech</a> report.</p>
+description: An introduction to producing maps together with communities (participatory mapping), to show how an area is actually being used, compare this with “official” maps, and use the information to claim communities’ rights to land.<p>Part of the <a href="/rainforest-tech">Rainforest Tech</a> report.</p>
 image: /media/index/participatory.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
