@@ -23,7 +23,9 @@ navigation:
 
 This is an introduction (or 'primer') to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. 
 
-It is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org) 
+It is the product of a partnership between [The Engine Room](https://theengineroom.org) and [Rainforest Foundation Norway](http://www.regnskog.no/en/).
+
+![The Engine Room](/images/logos/engineroom-dark.png) ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg)
 
 The primer is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, but can also be useful for organisations that have some experience using technology and want to reflect on how to increase the impact of their work. It has been structured so that you don’t need to read the whole thing, but can explore sections that are relevant for you and find more information elsewhere. 
 

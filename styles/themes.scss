@@ -6,6 +6,11 @@ body.rainforest {
 		}
 	}
 
+	img {
+		max-width: 200px;
+		padding-left: 3%;
+	}
+
 	a {
 		color: #464646;
 	}
@@ -33,6 +38,8 @@ body.rainforest {
 		color: #d09b2c;
 	}
 }
+
+
 
 body.table-of-contents {
 	.top {
