@@ -10,7 +10,7 @@ published: true
 navigation:
   - Introduction
   - Strategy
-  - Matching your objectives with tools
+  - Matching objectives with tools
   - Tools
   - Further resources
   - About
