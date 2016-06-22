@@ -27,6 +27,10 @@ navigation:
 > * Recording and monitoring the environmental value of land or forest areas
 > * Providing concrete evidence to governments to encourage them to recognise indigenous lands
 
+This introduction to mobile phone applications is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
+
+![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
+
 ### What is it
 
 * Mobile applications (or ‘apps’) are software programs that work on mobile devices like phones or tablets. In rainforest-related projects, they are mainly used to collect data in the field and transmit it directly to an organisation. 

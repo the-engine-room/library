@@ -25,6 +25,10 @@ navigation:
 > * Providing concrete evidence to governments to encourage them to recognise indigenous lands
 > * Supporting communities by presenting and providing knowledge
 
+This introduction to participatory mapping is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
+
+![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
+
 ### What is it
 
 * Participatory mapping (or community-based mapping) collects information from an area’s inhabitants about how the area is used, and the local community’s practices. 
