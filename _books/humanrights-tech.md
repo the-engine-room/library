@@ -2,7 +2,7 @@
 
 layout: page
 title: Technology Tools in Human Rights
-description: Human rights defenders (HRDs) are using technology tools to communicate, analyze, manage information, identify new incidents, and archive data related to the defense of human rights.
+description: A scoping study on how human rights defenders are using technology tools to communicate, analyse and manage information, identify new incidents, and archive data. It aims to help understand the realities of tool use and identify human rights defenders' needs as they stand.  
 image: /media/index/ER_HumanRights.png
 funder_name: The Oak Foundation
 funder_logo: /images/logos/oak.png

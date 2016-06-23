@@ -27,6 +27,10 @@ navigation:
 > * Supporting communities by presenting and providing knowledge 
 > * Providing concrete evidence to governments to encourage them to recognise indigenous lands
 
+This introduction to DIY aerial photography is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
+
+![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
+
 ### What is it
 * Aerial photography can be produced by drones (flying vehicles without a human pilot), balloons or kites attached to a digital camera that takes pictures throughout the flight.
 * Computer software combines (or ‘stitches’) these photos into maps or 3D models, which can be used for purposes including monitoring wildlife, recording land claims and documenting climate change impacts.

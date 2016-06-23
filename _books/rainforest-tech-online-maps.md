@@ -25,6 +25,10 @@ navigation:
 > * Recording and monitoring the environmental value of areas of land 
 > * Providing concrete evidence to governments to encourage them to recognise indigenous lands
 
+This introduction to online mapping is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
+
+![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
+
 ### What is it
 * A powerful, visually engaging way to present the information you have collected about your focus issue (such as through participatory mapping, or mobile data collection). Maps can be: **static**, like images and illustrations; **animated**, for example showing a change over time; or **interactive**, where users can zoom in or out, click on areas of the map to see more information, or provide their own information (crowdsourcing)
 * Maps can be created from scratch and uploaded on the internet, or information can be added to existing online maps like [OpenStreetMap](http://www.openstreetmap.org/), [Google Maps](https://www.google.com/maps/) or [Crowdmap](https://crowdmap.com/).

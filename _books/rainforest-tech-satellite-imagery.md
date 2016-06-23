@@ -25,6 +25,10 @@ navigation:
 > * Capturing evidence of companies’ wrongdoing in how they use land 
 > * Recording and monitoring the environmental value of land or forest areas
 
+This introduction to satellite imagery is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
+
+![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
+
 ### What is it
 
 * Satellites orbiting the globe take photographs of the Earth’s surface from space, which can include images of forests or community land. 

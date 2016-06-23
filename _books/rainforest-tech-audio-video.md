@@ -28,6 +28,10 @@ navigation:
 > * Collecting evidence of deforestation or forest degradation
 > * Providing evidence of wrongdoing towards individuals or communities
 
+This introduction to using audio and video is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
+
+![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
+
 ### What is it
 * Films or audio recordings can be recorded on mobile phones, or specialized devices like digital cameras, dictaphones or video cameras. 
 * Videos [can present](http://www.insightshare.org/sites/insightshare.org/files/file/Insights%20into%20Participatory%20Video%20-%20A%20Handbook%20for%20the%20Field%20(English)(1).pdf) short advocacy messages, collect visual evidence of human rights violations, publish participatory films by community members, or document deforestation over time. Audio recordings can perform many of the same functions.
