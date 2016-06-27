@@ -23,7 +23,7 @@ navigation:
 
 This is an introduction (or 'primer') to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. 
 
-It is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
+It is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org). [*Download the whole primer here.*](media/rainforest/Rainforest-tech-primer.pdf)
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
@@ -633,13 +633,15 @@ The resources below are available in the language described, and typically also 
 
 ## About
 
-This site was created by [Rainforest Foundation Norway](www.regnskog.no/en/) and [The Engine Room](//theengineroom.org)  as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. A PDF copy of the report is available here: [link]
+This site was created by [Rainforest Foundation Norway](www.regnskog.no/en/) and [The Engine Room](//theengineroom.org)  as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. [*Download the whole primer here.*](media/rainforest/Rainforest-tech-primer.pdf)
 
 Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org) or [rainforest@rainforest.no](rainforest@rainforest.no).
 
 Rainforest Foundation Norway (RFN) is one of the world's leading organisations in the field of rights-based rainforest protection. Its mission is to support indigenous peoples and traditional populations of the world's rainforests in their efforts to protect their environment and fulfil their rights by assisting them in:
+
 - Securing and controlling the natural resources necessary for their long-term well-being and managing these resources in ways which do not harm their environment, violate their culture or compromise their future;
 - and developing the means to protect their individual and collective rights and to obtain, shape, and control basic services from the state.
+
 RFN collaborates closely with more than 70 local and national environmental, indigenous and human rights organisations in 11 countries in the Amazon region, Central Africa, Southeast Asia, and Oceania.
 
 ### Contributors
