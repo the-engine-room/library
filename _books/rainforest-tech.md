@@ -23,7 +23,7 @@ navigation:
 
 This is an introduction (or 'primer') to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. 
 
-It is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org). [*Download the whole primer here.*](media/rainforest/Rainforest-tech-primer.pdf)
+It is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org). [*Download the whole primer here (1.6MB pdf).*](media/rainforest/Rainforest-tech-primer.pdf)
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
