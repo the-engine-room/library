@@ -633,9 +633,9 @@ The resources below are available in the language described, and typically also 
 
 ## About
 
-This site was created by [Rainforest Foundation Norway](www.regnskog.no/en/) and [The Engine Room](//theengineroom.org)  as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. [*Download the whole primer here.*](media/rainforest/Rainforest-tech-primer.pdf)
+This site was created by [Rainforest Foundation Norway](//regnskog.no/en/) and [The Engine Room](//theengineroom.org)  as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. [*Download the whole primer here.*](media/rainforest/Rainforest-tech-primer.pdf)
 
-Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org) or [rainforest@rainforest.no](rainforest@rainforest.no).
+Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org) or [rainforest@rainforest.no](mailto:rainforest@rainforest.no).
 
 Rainforest Foundation Norway (RFN) is one of the world's leading organisations in the field of rights-based rainforest protection. Its mission is to support indigenous peoples and traditional populations of the world's rainforests in their efforts to protect their environment and fulfil their rights by assisting them in:
 
