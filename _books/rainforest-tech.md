@@ -65,7 +65,7 @@ The [final section](#resources) lists a series of guides and tools with more det
 
 ### Foreword
 
-*By Lars L&#248;vold - Director, [Rainforest Foundation Norway](//rainforest.no/en)*
+*By Lars L&#248;vold - Director, [Rainforest Foundation Norway](http://rainforest.no/en)*
 
 How can new and evolving technology be useful in advocacy for rainforest protection and forest peoples' rights?  This broad, open question is the starting point for this primer. In 1989, when Rainforest Foundation Norway was founded to promote rights-based rainforest protection, phones were hardly mobile and the world wide web was science fiction. A lot has changed. 
 
@@ -633,7 +633,7 @@ The resources below are available in the language described, and typically also 
 
 ## About
 
-This site was created by [Rainforest Foundation Norway](//regnskog.no/en/) and [The Engine Room](//theengineroom.org)  as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. [*Download the whole primer here.*](media/rainforest/Rainforest-tech-primer.pdf)
+This site was created by [Rainforest Foundation Norway](http://regnskog.no/en/) and [The Engine Room](//theengineroom.org)  as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. [*Download the whole primer here.*](media/rainforest/Rainforest-tech-primer.pdf)
 
 Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org) or [rainforest@rainforest.no](mailto:rainforest@rainforest.no).
 
