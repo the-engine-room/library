@@ -65,7 +65,7 @@ The [final section](#resources) lists a series of guides and tools with more det
 
 ### Foreword
 
-*By Lars Løvold - Director, [Rainforest Foundation Norway](//rainforest.no/en)*
+*By Lars L&oslash;vold - Director, [Rainforest Foundation Norway](//rainforest.no/en)*
 
 How can new and evolving technology be useful in advocacy for rainforest protection and forest peoples' rights?  This broad, open question is the starting point for this primer. In 1989, when Rainforest Foundation Norway was founded to promote rights-based rainforest protection, phones were hardly mobile and the world wide web was science fiction. A lot has changed. 
 
