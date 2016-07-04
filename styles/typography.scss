@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css’);
+@import 'https://fonts.googleapis.com/css?family=Roboto';
 
 @font-face {
     font-family: 'Baton';
@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5 {
 h1 {
   font-size: 2.25rem;
   @media (#{$bp-larger-than-mobile}) { font-size: 3rem; }
-  line-height: 1.2; 
+  line-height: 1.2;
   letter-spacing: -.1rem;
 }
 
@@ -40,13 +40,13 @@ h1 {
 section.content {
   ul, ol {
     list-style-position: outside;
-    margin-left: 0; 
+    margin-left: 0;
     padding-left: 1em;
     li {
       padding-left: 1em;
     }
   }
-  
+
   li { margin-bottom: 1.2rem; margin-left: 30px; }
 
   p { margin-bottom: 1.5rem; }
@@ -88,7 +88,7 @@ section.content {
     &#matching-objectives-with-tools:before { background-image: url('../images/icons/objectives.svg'); }
     &#further-resources:before { background-image: url('../images/icons/further.svg'); }
     &#conclusion:before { background-image: url('../images/icons/conclusion.svg'); }
-      
+
   }
 
   h3 { font-size: 22pt; }
@@ -98,5 +98,5 @@ section.content {
   h5 { font-weight: bold; color: gray; font-size: 13pt; margin-bottom: 0rem; }
 
   td, th { padding: 10px 20px; }
-  
+
 }
