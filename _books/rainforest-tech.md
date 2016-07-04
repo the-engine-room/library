@@ -5,7 +5,7 @@ description: An introduction (or 'primer') for using technology to monitor and s
 image: /media/index/rainforest.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
-funder_link: //www.regnskog.no/en
+funder_link: http://regnskog.no/en
 published: true
 navigation:
   - Introduction
