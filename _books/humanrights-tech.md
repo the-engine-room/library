@@ -83,6 +83,23 @@ Several intermediaries who work with human rights defenders said that from their
 
 ## Tools and Platforms
 
+Below is a summary of tools built specifically for human rights defenders but as mentioned elsewhere, many people we spoke to mentioned that they use non-specific tools for information management, like Dropbox or Google Drive.
+
+| Project name* | [OpenEvsys](http://openevsys.wpengine.com/) | [RightsCase](https://equalit.ie/portfolio/rightscase/) | [Martus](https://www.martus.org/) | [CaseBox](https://www.casebox.org/) | [Palantir (Gothamd & Metropolis)](https://www.palantir.com/) |  |
+|-----------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------------|----------------------------------|------------------------------------------|---------------------|
+| Project owner | HURIDOCS | E.qualitie | Benetech | HURIDOCS/Ketse | Palantir Technologies |  |
+| location of organization | Geneva, Switzerland | Montreal, Los Angeles, Dublin | CA, US | Geneva, Switzerland | CA, US |  |
+| Year tool was created* | 2009 | 2009 | 2003 | 2011 | 2004 |  |
+| Support provided? | Yes | Yes | Yes | Yes | Yes |  |
+| Primary aim of platform (verification, discovery, feedback, release)* | Database application | Case management system | Information management + collection | Information management | Information management |  |
+| Customisation? | Yes | Yes | Yes | Yes | Yes, by Palantir |  |
+| Hosting? | Through HURIDOCS (for a fee) or self-hosted | Through eQualit.ie (for a fee) or self-hosted | Through Benetech or self-hosted | Through HURIDOCS or self-hosted | Needs to use cloud technology |  |
+| Open source* | [Yes: source code](https://github.com/huridocs/OpenEvSys) | [Yes: source code](https://github.com/cormac/rightscase) | [Yes: source code](https://github.com/benetech/Martus-Project) | [Yes: source code](https://github.com/KETSE/casebox) | No |  |
+| Language offerings* | Arabic, Bahasa Indonesia, English, Khmer, Spanish, Turkish |  | Arabic, English, Chinese, French, Khmer, Burmese, Farsi, Russian, Spanish, Thai, Vietnamese, Nepali, Armenian | Unclear | "All languages including Elvish" |
+| Training options | Provided by HURIDOCS | Provided by eQualit.ie | Provided by Benetech | Provided by HURIDOCS | No |  |
+| Security considerations | Audited code | Audited code | Audited code | Audited code | From CIA-funded start up |  |
+
+
 ### Contextualise vs adapt 
 
 Interviewees generally acknowledged that some tools needed to be specifically designed for a particular situation because human rights defenders are operating in such a wide range of different contexts. However, intermediaries and developers disagreed on whether it was more effective to customise existing tools, or develop new tools for a particular purpose. One HRD we spoke to said that tools which came with lots of “bells and whistles” can inspire organisations with ideas, but practically speaking can also “a challenge” to narrow it down to actual needs. Another mentioned that a tool they use, CaseBox, is “constantly changing to satisfy requirements of other users” which leaves them with lots of new features they do not need, and consequently “lowers motivation among employees” to learn how to use it. Others mentioned that building custom tools from scratch, suited to particular situations, was perhaps a better route to go down due to the big contextual differences in the field. 
