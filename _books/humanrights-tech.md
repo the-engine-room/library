@@ -85,20 +85,36 @@ Several intermediaries who work with human rights defenders said that from their
 
 Below is a summary of tools built specifically for human rights defenders but as mentioned elsewhere, many people we spoke to mentioned that they use non-specific tools for information management, like Dropbox or Google Drive.
 
-| Project name* | [OpenEvsys](http://openevsys.wpengine.com/) | [RightsCase](https://equalit.ie/portfolio/rightscase/) | [Martus](https://www.martus.org/) | [CaseBox](https://www.casebox.org/) | [Palantir (Gothamd & Metropolis)](https://www.palantir.com/) |  |
+| Project name | [OpenEvsys](http://openevsys.wpengine.com/) | [RightsCase](https://equalit.ie/portfolio/rightscase/) | [Martus](https://www.martus.org/) | [CaseBox](https://www.casebox.org/) | [Palantir (Gothamd & Metropolis)](https://www.palantir.com/) |  |
 |-----------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------------|----------------------------------|------------------------------------------|---------------------|
 | Project owner | HURIDOCS | E.qualitie | Benetech | HURIDOCS/Ketse | Palantir Technologies |  |
-| location of organization | Geneva, Switzerland | Montreal, Los Angeles, Dublin | CA, US | Geneva, Switzerland | CA, US |  |
-| Year tool was created* | 2009 | 2009 | 2003 | 2011 | 2004 |  |
+| Location | Geneva, Switzerland | Montreal, Los Angeles, Dublin | CA, US | Geneva, Switzerland | CA, US |  |
+| Created | 2009 | 2009 | 2003 | 2011 | 2004 |  |
 | Support provided? | Yes | Yes | Yes | Yes | Yes |  |
-| Primary aim of platform (verification, discovery, feedback, release)* | Database application | Case management system | Information management + collection | Information management | Information management |  |
+| Primary aim | Database application | Case management system | Information management + collection | Information management | Information management |  |
 | Customisation? | Yes | Yes | Yes | Yes | Yes, by Palantir |  |
 | Hosting? | Through HURIDOCS (for a fee) or self-hosted | Through eQualit.ie (for a fee) or self-hosted | Through Benetech or self-hosted | Through HURIDOCS or self-hosted | Needs to use cloud technology |  |
-| Open source* | [Yes: source code](https://github.com/huridocs/OpenEvSys) | [Yes: source code](https://github.com/cormac/rightscase) | [Yes: source code](https://github.com/benetech/Martus-Project) | [Yes: source code](https://github.com/KETSE/casebox) | No |  |
-| Language offerings* | Arabic, Bahasa Indonesia, English, Khmer, Spanish, Turkish |  | Arabic, English, Chinese, French, Khmer, Burmese, Farsi, Russian, Spanish, Thai, Vietnamese, Nepali, Armenian | Unclear | "All languages including Elvish" |
+| Open source | [Yes: source code](https://github.com/huridocs/OpenEvSys) | [Yes: source code](https://github.com/cormac/rightscase) | [Yes: source code](https://github.com/benetech/Martus-Project) | [Yes: source code](https://github.com/KETSE/casebox) | No |  |
+| Languages | Arabic, Bahasa Indonesia, English, Khmer, Spanish, Turkish |  | Arabic, English, Chinese, French, Khmer, Burmese, Farsi, Russian, Spanish, Thai, Vietnamese, Nepali, Armenian | Unclear | "All languages including Elvish" |
 | Training options | Provided by HURIDOCS | Provided by eQualit.ie | Provided by Benetech | Provided by HURIDOCS | No |  |
 | Security considerations | Audited code | Audited code | Audited code | Audited code | From CIA-funded start up |  |
 
+
+### App functionalities
+
+Below follows a table of some mobile applications developed specifically for the purpose of helping human rights defenders gather or preserve digital data. This list is not exhaustive.
+
+| Project name                                                          | [MediCapt](http://physiciansforhumanrights.org/medicapt/ )                           | [eyeWitness to Atrocities](http://www.eyewitnessproject.org/)                                              | [CameraV](https://guardianproject.info/apps/camerav/)                                                                                                               | [Video Vault](https://www.bravenewtech.org/)               | [Umbrella](https://secfirst.org/index.html)           |
+|-----------------------------------------------------------------------|------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------|--------------------|
+| Project owner                                                         | Physicians for Human Rights        | International Bar Association                                         | Guardian Project and WITNESS                                                                                          | RightsLab/Enrique Piraces | Security First     |
+| Location                                              | NY, US                             | London, UK                                                            | NY, US                                                                                                                | NY, US                    | UK                 |
+| Created                                                | 2014                               | 2015                                                                  | 2015                                                                                                                  | 2015                      | 2015               |
+| Primary aim | Information gathering              | Verifiable photo and video capture                                    | Verifiable photo and video capture                                                                                    | Video preservation        | Info on security   |
+| Can the tool be used offline?                                        | Yes, but needs internet to submit. | Yes, but needs internet to submit data.                               | Yes, but needs internet to submit data.                                                                               | No                        | Yes                |
+| Open source                                                          | Unclear                            | No                                                                    | [Yes: source code](https://github.com/guardianproject/camerav)                                                                                                      | Unsure                    | open source        |
+| Languages                                                   | English only                       | English, Spanish, French, Arabic, Russian, and Portuguese (Brazilian) | English, Spanish, Portuguese (Brazilian), French, Arabic, Norwegian, Swedish, Portuguese (Portugal), Sinhala, Turkish | English                   | English            |
+| Security considerations                                               | Data is encrypted                  | Not open source; has quick dispose function                           | Data is encrypted                                                                                                     | Currently in beta         | Optional password  |
+| Platform                                                              | Unclear                            | Android                                                               | Android                                                                                                               | Unclear                   | Android            |
 
 ### Contextualise vs adapt 
 
