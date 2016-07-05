@@ -27,7 +27,7 @@ It is the product of a partnership between [Rainforest Foundation Norway](http:/
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
-The primer is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, but can also be useful for organisations that have some experience using technology and want to reflect on how to increase the impact of their work. It has been structured so that you don’t need to read the whole thing, but can explore sections that are relevant for you and find more information elsewhere. [*Download the whole primer here (1.6MB pdf).*](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642)
+The primer is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, but can also be useful for organisations that have some experience using technology and want to reflect on how to increase the impact of their work. It has been structured so that you don’t need to read the whole thing, but can explore sections that are relevant for you and find more information elsewhere. *[Download the whole primer (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) or read it online below.*
 
 This primer:
 
