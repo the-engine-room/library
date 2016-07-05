@@ -10,6 +10,7 @@ before_script:
 #  skip_cleanup: true
 #  provider: script
 
+# run deploy script
 script: ./script/deploy-gh
 
 # branch whitelist, only for GitHub Pages
