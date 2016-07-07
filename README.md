@@ -32,4 +32,4 @@ Please commit your changes and push to the gh-pages branch. Travis CI ensures ea
 
 If you have write access to this repo, you can check if the build is successful on [Travis](https://travis-ci.org/the-engine-room/library).
 
-[![Build Status](https://travis-ci.org/the-engine-room/library.svg?branch=master)](https://travis-ci.org/the-engine-room/library)
+[![Build Status](https://travis-ci.org/the-engine-room/library.svg?branch=gh-pages)](https://travis-ci.org/the-engine-room/library)
