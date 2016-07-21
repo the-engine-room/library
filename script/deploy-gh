@@ -4,7 +4,7 @@
 bundle exec jekyll build
 
 # initialize new repo from newly built _site folder
-cd /home/travis/build/the-engine-room/responsible-data-handbook/_site
+cd /home/travis/build/the-engine-room/library/_site
 git init
 git config user.email "mayarichman@gmail.com"
 git config user.name "${GH_USERNAME}"
