@@ -3,19 +3,16 @@
 # build site with jekyll, by default to `_site' folder
 bundle exec jekyll build
 
-# make directory for cloned repo
-mkdir -p  /home/travis/build/the-engine-room/library/noncompiled
-git clone https://github.com/the-engine-room/library.git /home/travis/build/the-engine-room/library/noncompiled
-# make empty .travis.yml file
-nano /home/travis/build/the-engine-room/library/_site/.travis.yml
-# copy .travis.yml to compiled site folder
-cp /home/travis/build/the-engine-room/library/noncompiled/.travis.yml /home/travis/build/the-engine-room/library/_site/.travis.yml
-
-# initialize new repo from newly built _site folder  
-cd /home/travis/build/the-engine-room/library/_site
+# initialize new repo from newly built _site folder
+cd /home/travis/build/the-engine-room/responsible-data-handbook/_site
 git init
 git config user.email "mayarichman@gmail.com"
-git config user.name "mayarichman"
+git config user.name "${GH_USERNAME}"
+git remote add upstream https://${GH_USERNAME}:${GH_TOKEN}@github.com/${GH_OWNER}/${GH_REPO}.git
+git fetch upstream
+git reset upstream/gh-pages
+touch .nojekyll
+
 # add, commit and push changes to master
 git add -A .
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
