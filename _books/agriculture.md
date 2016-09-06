@@ -45,7 +45,7 @@ Precision agriculture provides farmers with information and farm management advi
 
 Specialised companies offer access to software and data to assist with precision agriculture[3], but only the better-resourced companies and farmers can take advantage of these new offerings.
 
-## Data Overview
+## Data overview
 
 ![Data Overview](../media/agriculture/network.png)
 
@@ -55,7 +55,7 @@ Open data has become more widely used within the agricultural data environment, 
 
 Given the global and inherently diverse nature of the sector, it can be very difficult for people reflected in published datasets to make their opinions known on the global stage about the data itself. As a result, data being published does not necessarily mean that it is data of high quality, and verifying its quality is very difficult. Uncertainty around **data quality** is a major concern, as we discuss further in the section.
 
-### Actors and Data Types
+### Actors and data types
 
 **Public sector actors**, such as agricultural, economic and statistical agencies, collect, aggregate and share relevant data within this sector. This data may be simply collected and held, but also may be shared with other government agencies to assist in policy-making decisions or opened and disseminated widely. Some of the key datasets collected include production yields, livestock, weather, market prices and farmers registries.
 
@@ -83,7 +83,7 @@ CGIAR is a global research partnership with multiple research streams, including
 	<p>Examples: A smallholder farmer from Scotland explained that data on geese production is important to her, as access to weather data can affect farmers decision making.</p>
 </blockquote>
 
-### Open Data
+### Open data
 
 If leveraged correctly, data from and about the agricultural sector has the power to increase yields, and give smallholder farmers the tools to increase growth of their [businesses][9] while protecting [natural resources][10]. In practice however, the correlation between more data and better decision-making is more complicated than it sounds. But the potential issues that could be addressed are global priorities, given the growing population and increasing demand for food, coupled with depleting natural resources. As a result, governments, businesses and international organizations have begun to recognise the potential that open data in the agricultural sector holds.
 
@@ -137,7 +137,7 @@ On a more “meta” level, SMS services used to reach populations with high mob
 
 One interviewee explained that while she had heard of examples in which more financial transparency within a household improved domestic circumstances, she also saw potential risks to transmitting this information via SMS in an inequitable household if, for example, a husband is interested in controlling his wife’s access to financial resources.
 
-### Sensitive Data
+### Sensitive data
 
 When considering certain vulnerable communities and contexts, it seems commonly understood within the sector that certain types of agricultural data are sensitive in and of themselves and precautions should be taken in determining whether to collect and share this data at all. On a basic level, interviewees expressed the need to anonymise or restrict access to data on human subjects and their personally identifiable information (PII).
 
@@ -203,7 +203,7 @@ This act of **profiling** is happening in the agricultural sector too, with **fa
 
 Effectively, data gathered from farm technologies is helping companies create profiles of farms through dedicated services, which is likely to be affecting what kinds of products farmers are being sold. Though this might improve marketing strategies of companies, it might also limit the options open to farmers, or affect prices offered to them.
 
-### Benefit Sharing
+### Benefit sharing
 
 A number of the people we spoke to expressed concern at the way in which data in the agricultural sector is being exploited by well resourced actors, with one interviewee comparing the power imbalance and resulting exploitation to that of colonialism in the way that it is extracted and used, without any resulting benefit being shared with the original population. As a more specific example, Ajit Maru, a GFAR/FAO officer, mentioned “the rush today in developed country businesses on collecting weather, soil, crop and seed data from developing countries in Asia, Africa and Latin America - there are almost no indigenous businesses of the developing countries yet in this area.”
 
@@ -231,17 +231,17 @@ Ben Raskin, from the Soil Association, says that they often get requests from Ph
 
 Overall, it seems clear that the people suffering most from these information gaps are those with the least resources to spare: rural farmers, smallholder farmers, or those unable to pay for access to databases or technology that would make accessing the information easier for them.
 
-### Known Unknowns
+### Known unknowns
 
 With increased use of technology, comes increased generation of data. From the perspective of smallholder farmers, it seems difficult, if not impossible, to know exactly how this data is being used and where it is going. For example, Fatma Ben Rejeb of PAFO says “it’s very difficult to be aware of what’s really happening” because of a lack of transparency around what’s really happening with farmers’ data. Not knowing where the data is going or what it is being used for makes it difficult to judge how seriously they should be taking this issue.
 
 One interviewee mentioned concerns that farmers, local NGOs/CSOs and farmers cooperatives have no way to vet implementers of farmer-facing projects. Without vetting, there is no way to know how farmer data is being used. Unbeknownst to them, farmers may be at risk.
 
-## Best Practices
+## Best practices
 
 Through our interviews and desk research, there were a number of best practices suggested as ways to mitigate the responsible data challenges mentioned above. Many of these are not unique to the agriculture sector, but rather speak to broad responsible data best practices writ large.
 
-### Education and Awareness 
+### Education and awareness 
 
 One of the biggest differences between people we spoke to was how they perceived the effects of publishing data. Broadly speaking, those coming from the **open data** perspective were keen to publish everything apart from personally identifiable information. Others, especially those working with smallholder farmers, or indigenous populations, were much more aware that publishing data would benefit only the better-resourced actors in the agriculture sector, and expressed serious concerns about the potential unintended consequences of publishing data about, for example, indigenous populations.  
 
@@ -268,7 +268,7 @@ Given the quickly moving field and fast-changing technologies available, it is e
 	<p>As part of CGIAR’s Open Data and Open Access Initiative, the Systems Office team supports Centers in helping them identify whether the data they are working with falls into exception categories (sensitive information, or information that can identify individuals when combined with other datasets) in order to put data management structures in place at the project planning stage. The Systems Office also works with Centers to ensure that informed consent is an important part of their project framework.</p>
 </blockquote>
 
-### Strengthening and Enabling Rights of Vulnerable People
+### Strengthening and enabling rights of vulnerable people
 
 Within the sector, vulnerable communities are most at risk of being put at a further disadvantage as a result of the increased use and influx of data. One way of countering this is by focusing on strengthening rights of those groups, such as farmers’ rights.
 
@@ -278,7 +278,7 @@ Within the sector, vulnerable communities are most at risk of being put at a fur
 	<p>eGranary is an initiative from farmers in Eastern Africa to “empower themselves in both input and output markets.” Through the project, information is collated about farmers and their harvests via mobile phones, and shared back only with other member farmers in the network. This model is being replicated in other regional of Africa, and PAFO are looking at collating these regional projects to create a continental database, once the regional ones are set up.</p>
 </blockquote>
 
-### Prioritising Contextual Considerations 
+### Prioritising contextual considerations 
 
 In many of the responsible data challenges and tensions outlined above, the importance of **context** in making appropriate and responsible decisions cannot be underestimated. Even when a certain dataset is deemed publishable in one context, the same information in another context might have very different consequences.
 
