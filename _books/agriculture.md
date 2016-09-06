@@ -302,25 +302,6 @@ There is much potential for data to affect how the agricultural sector functions
 
 ## Acknowledgements
 
-### Interviewees List
-
-* Ajit Maru, GFAR/FAO Officer
-* Fatma Ben Rejeb, Pan-African Farmers Organisation (PAFO)
-* Ben Raskin, Soil Association
-* Keesje Crawford-Avis, The Burmieston Project
-* John Eromosele, Open Data Unit of the Edo State Government
-* Melissa Persaud, Votomobile
-* Nkechi Okwuone, Open Data Unit of the Edo State Government
-* Sjoerd Croqué, Netherlands Ministry of Economic Affairs
-* Justin Chisenga, FAO Officer
-* Rodrigo Sara, CGIAR System Organisation
-* Medha Devare, CGIAR System Organisation
-* Matthew McNaughton, Slashroots
-* Yon Fernandez de Larrinoa, FAO Officer
-* Jo Barratt, Open Knowledge International
-
-### Contributors
-
 Content by Lindsay Ferris and Zara Rahman for [The Engine Room](https://theengineroom.org), funded by GODAN. Illustrations by Dimitrios Stamatis and production by Tin Geber.
 
 First published September 2016.
