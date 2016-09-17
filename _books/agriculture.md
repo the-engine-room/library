@@ -2,11 +2,11 @@
 
 layout: page
 title: Responsible Data in Agriculture 
-description: The agriculture sector is creating increasing amounts of data, from many different sources. 
+description: The agriculture sector is creating increasing amounts of data, from many different sources. The most well resourced actors are able to delve into new technologies and make the most of those insights, whereas others are unable to take such risks or divert their limited resources.  
 image: /media/index/agriculture.png
 funder_name: GODAN
-funder_logo: 
-funder_link: 
+funder_logo: /images/logos/godan.svg
+funder_link: http://www.godan.info/documents/responsible-data-agriculture
 published: true
 navigation:
   - Introduction
