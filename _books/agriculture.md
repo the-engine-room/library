@@ -220,7 +220,7 @@ There is much potential for data to affect how the agricultural sector functions
 
 Content by Lindsay Ferris and Zara Rahman for [The Engine Room](https://theengineroom.org), funded by GODAN. Illustrations by Dimitrios Stamatis and production by Tin Geber.
 
-First published September 2016.
+First published September 2016. The full report is available for download as a [PDF](http://www.godan.info/file/46934/download?token=Co5JuSLO).
 
 
 [1]: https://responsibledata.io 
