@@ -18,7 +18,6 @@ navigation:
   - Acknowledgements
 
 ---
-
 # Responsible Data in Agriculture
 
 ## Introduction
