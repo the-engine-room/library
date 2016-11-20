@@ -38,11 +38,11 @@ Cet ouvrage élémentaire:
 
 Le terme « technologie » utilisé dans cet ouvrage ne fait pas référence à une solution technologique (comme des cartes satellites) ou à un outil (comme les téléphones mobiles) en particulier. Il couvre une vaste gamme d’outils, de méthodes et de techniques : logiciels informatiques, appareils numériques tels que téléphones mobiles ou appareils photo, analyse d’une grande quantité de données, utilisation d’outils connectés pour communiquer des informations, et bien plus. 
 
-### How to use this guide
+### Comment utiliser ce guide 
 
-This guide is not comprehensive – it gives you the basic information you need to get started, with a selection of good places to go if you want to learn more. It has three main parts: 
+Ce guide n’est pas exhaustif – il fournit les informations élémentaires pour vous aider à démarrer, et indique où trouver des indications complémentaires. Il contient trois parties principales : 
 
-#### Setting a solid strategy 
+#### Buts et stratégie 
 
 This is probably where most projects fail. A successful project requires explicit goals and a solid strategy – from planning out how the project will work, to managing information when the project is in progress. The [first section](#strategy) of this primer sets out general principles and things to think about when designing any project that uses technology. 
 
