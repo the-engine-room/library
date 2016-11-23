@@ -15,7 +15,9 @@ navigation:
   - Risks and challenges
   - Case studies
   - About
-
+lang: en
+categories:
+  - en
 ---
 
 ## Participatory and GPS mapping

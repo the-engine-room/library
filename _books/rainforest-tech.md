@@ -14,7 +14,9 @@ navigation:
   - Tools
   - Further resources
   - About
-
+lang: en
+categories:
+  - en
 ---
 
 # Using technology to monitor and share information on rainforests and forest peoples’ rights

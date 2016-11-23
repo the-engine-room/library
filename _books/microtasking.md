@@ -15,7 +15,9 @@ navigation:
   - Planning
   - Implementation
   - About
-
+lang: en
+categories:
+  - en
 ---
 
 # Microtasking
