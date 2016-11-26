@@ -211,91 +211,92 @@ Puis, identifiez les effets potentiels de votre projet sur la situation, et les 
 	<p style="color:white"><b>Vous préparer au pire.</b> Même si la planification est parfaite, des urgences peuvent survenir. Y remédier peut nécessiter des ressources additionnelles, comme un soutien externe, des fonds médicaux d’urgence, un appui juridique, une augmentation du budget de sécurité, ou des frais de remplacement des outils. <a href="https://digitaldefenders.org/digitalfirstaid" style="color:white">Le kit de premier secours de Digital Defenders </a> fournit des conseils simples pour la gestion des urgences, et une liste d’organisations à contacter en cas de besoin.</p>
 </blockquote>
 
-##### Budget what you need
+##### Budgétisez vos besoins 
 
-Be realistic: don’t underestimate costs. Ask other organisations how much they spent on similar projects, and remember that unexpected expenses will always occur. 
+Soyez réalistes : ne sous estimez pas les coûts. Demandez à d’autres organisations ce qu’elles dépensent pour des projets similaires, et gardez en tête qu’il y aura toujours des dépenses inattendues. 
 
-##### Training 
+##### Formation 
 
-Training may take up a significant proportion of the budget: make sure there is money for people to get the skills they need. Other things to think about include:
+La formation peut représenter une portion significative du budget : assurez-vous de fournir les fonds nécessaires à l’acquisition des compétences. Les choses suivantes doivent aussi être prises en compte :
 
-* Do your staff have enough technical capacity to use a new tool, or might they need external support to help them use it? 
-* Don’t rely on one 'expert' who has essential skills in one area – what if they leave?
-* What do technical staff need to know about the communities you are working with (for example, when designing technical tools ?
-* Do staff need security awareness training?
+* Votre personnel dispose-t-il des compétences adéquates ou devez-vous demander le soutien de personnes extérieures ? 
+Ne dépendez pas d’un seul spécialiste qui a des compétences essentielles dans un domaine – que se passera-t-il s’il part ? 
+* De quelles informations le personnel technique a-t-il besoin au sujet des communautés avec lesquelles vous travaillez ? (par exemple, pour l’élaboration d’outils techniques ?)
+* Votre personnel a-t-il besoin d’une formation aux questions de sécurité ? 
 
-##### Technology costs
+##### Coûts technologiques 
 
-Always include user development, testing, maintenance and support.  Budget to replace devices that get lost or broken, as well as strategies.  How much will it cost to replace your software in one year? Five years? If you are collecting sensitive information, is your software secure? This costs money, but it could save you more later on.
+Intégrez toujours les coûts de développement par les utilisateurs, de test, de maintenance et de support. Combien vous coûtera le remplacement de la technologie au bout d’un an ? Cinq ans ? Si vous collectez des informations sensibles, votre logiciel a-t-il été contôlé par un expert indépendant pour l’absence de failles ? Tout ceci coûte de l’argent. Mais si vous n’y pensez pas tout de suite, vous pourriez avoir des surprises désagréables plus tard. 
 
-### Get the data
+### Se procurer les données
 
-**Any piece of information that you collect during a project is ‘data.’** Go back to your project goals and list all the types of data that might be available (from maps to survey responses, photos or interviews). Select the data that will help achieve your goal.
+**Toute information collectée dans le cadre d’un projet constitue une donnée.** Référez-vous aux objectifs de votre projet pour identifier les données disponibles, sous quelque forme que ce soit (cartes, réponses à des enquêtes, photos ou entretiens). Sélectionnez les données qui contribuent à la réalisation de vos objectifs.
 
-#### Where you can find the data?
+#### Où trouver les données ?
 
-If good data already exists, don’t waste time and money collecting it again. Think creatively: do international datasets include your country? Has another organisation created a database on the same issue? You can find publicly available datasets in the [Open Access Directory’s data repository list](http://oad.simmons.edu/oadwiki/Data_repositories), [Data Portals](http://dataportals.org/) or the [Open Knowledge Foundation’s DataHub site](http://datahub.io/about). If you can’t access map data on a topic, can you use information published by a company instead? For example, the Environmental Justice Atlas is a global map of [environmental conflicts](https://ejatlas.org/), while the [GDELT](http://www.gdeltproject.org/) project provides free, structured data of media reports of violent incidents and protests.
- If the data has been collected but is not publicly available, check whether Freedom of Information laws can help push governments to publish it. [The Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/getting_data_1.html) has more information on how to make Freedom of Information Requests (in Brazil, you can use the [Queremos Saber](http://queremossaber.org.br/)).
+Si de bonnes données sont disponibles, ne gaspillez pas votre temps et votre argent à les recueillir à nouveau. Soyez créatifs dans vos réflexions : les fichiers internationaux de données  couvrent-ils votre pays ? Une base de données sur la même question a-t-elle déjà été créée par une autre organisation ? Vous trouverez les fichiers accessibles au public dans le référentiel de données du Open Access Directory http://oad.simmons.edu/oadwiki/Data_repositories, de Data Portals (http://dataportals.org/) ou sur le site DataHub de la Fondation Open Knowledge : http://datahub.io/about. Si vous n’avez pas accès à des données cartographiques dans un domaine, pouvez-vous utiliser à leur place des informations publiées par une entreprise ?  Par exemple, l’Atlas de la justice environnementale fournit une carte du monde des conflits environnementaux (https://ejatlas.org/), et le projet GDELT fournit des données gratuites sur les articles et reportages de presse au sujet des contestations et des conflits (http://www.gdeltproject.org/). 
+
+ Si des données collectées ne sont pas accessibles au public, vérifiez si la législation sur la liberté d’information peut inciter les gouvernements à les publier. Le Guide du datajournalisme contient des informations sur la manière de solliciter la publication d’informations: http://datajournalismhandbook.org/1.0/en/getting_data_1.html. Au Brésil, le site Queremos Saber peut vous aider à soumettre des demandes : http://queremossaber.org.br/
 
 <blockquote>
-	<h5>Case study: Sharing data from different sources</h5>
-	<p>The Indonesian news site <a href="http://ekuatorial.com">Ekuatorial</a> creates interactive maps and presents them with articles on environmental issues written by partner publications. The maps combine geo-referenced data from Global Forest Watch on palm oil plantations and forestry concessions; information collected by the Indonesian Forestry Ministry, international datasets like the World Database on Protected Areas, and volunteer-submitted information from Humanitarian OpenStreetMap. To make the map, Ekuatorial hired professional cartographers, who used CartoDB and MapBox to create the maps and then published them directly on their website using the WordPress theme JEO (see <a href="/rainforest-tech-online-maps">Online Mapping</a>).</p>
-	<p><b>How did it help?</b></p>
-	<p>Ekuatorial allows other organisations to republish its maps on their own site using an easy-to-use ‘share this map’ function. The raw data collected is also useful for other Indonesian organisations because it is regularly updated, and available to download for <a href="http://ekuatorial.com">free</a>.</p>
+	<h5>Cas d’étude: partager des données de sources différentes.</h5>
+	<p>Le site d’informations indonésien <a href="http://ekuatorial.com">Ekuatorial</a> fournit des cartes interactives accompagnées d’articles sur des questions environnementales rédigés par des publications partenaires. Les cartes combinent des données géoréférencées du Global Forest Watch sur les plantations d’huile de palme et les concessions forestières, des informations recueillies par le ministère indonésien de la Forêt, des fichiers de données internationaux comme la Base de données mondiale sur les aires protégées, et les informations entrées par les bénévoles sur l’Humanitarian OpenStreetMap. Pour réaliser les cartes, Ekuatorial a fait appel à des cartographes professionnels qui ont utilisé CartoDB et MapBox pour élaborer les cartes avant de les publier directement sur JEO (voir la section sur la <a href="/rainforest-tech-online-maps">Cartographie en ligne</a> ci-dessous).</p>
+	<p><b>Quelle en est l’utilité ? </b></p>
+	<p>Ekuatorial autorise d’autres organisations à publier ses cartes sur leurs propres sites grâce à la fonction « partagez cette carte » facile d’utilisation. Les données brutes sont aussi utiles à d’autres organisations indonésiennes car elles sont régulièrement mises à jour et peuvent être téléchargées <a href="http://ekuatorial.com">gratuitement.</a>.</p>
 </blockquote>
 
-#### Set standards for your data 
+#### Fixez des normes pour vos données  
 
-Before starting, double-check that your methods will give you data that you can actually use. Collecting the wrong type of data can be expensive and time-consuming. ‘Qualitative’ data like texts of interviews with forest communities can be powerful in advocacy, but ‘quantitative’ data that can be counted will be easier to analyse, more manageable in large quantities and simpler to compare with other sources. 
+Avant de commencer, vérifiez bien que vos méthodes vous fourniront des données que vous pourrez effectivement exploiter. Recueillir le mauvais type de données peut vous faire perdre de l’argent et du temps. Les données « qualitatives » comme les transcriptions d’entretiens avec les communautés forestières peuvent être très utiles au plaidoyer, mais des données « quantitatives » qui peuvent être comptées seront plus faciles à analyser et à gérer en grand nombre, et simples à comparer avec d’autres sources.
 
-Create categories for your data, to help you organise and analyse it later. Take time to decide on the categories that you need, and test them first to make sure that all your data will fit into them (it will be time-consuming if you have to re-categorise half-way through). 
+Créez des catégories de données, elles vous aideront à les organiser et à les analyser par la suite. Prenez le temps d’identifier les catégories dont vous aurez besoin, et testez-les pour vous assurer qu’elles contiennent l’ensemble de vos données (changer de catégories en cours de projet vous fera perdre beaucoup de temps). 
 
-##### Pick the right format
+##### Choisissez le bon format 
 
-Collect data in a format that computer programmes can read and process automatically. Avoid formats that can only be read by software from a particular company (like Microsoft), which may become unreadable if the company stops making the software. 
+Collectez vos données dans un format que les programmes informatiques pourront lire et traiter automatiquement. Evitez d’utiliser des formats qui ne peuvent être lus que par un logiciel d’une entreprise particulière (comme Microsoft), et qui pourraient devenir indéchiffrables quand l’entreprise cessera de le produire.
 
-Consider recording and publishing it as Open Data, which means that it that can be freely used, reused and redistributed by anyone. This involves two things: choosing a [suitable format](http://opendatahandbook.org) and licensing it so that it can be [re-used](http://opendatacommons.org/guide/). There are many benefits to publishing like this: it shows that your organisation is transparent about the data it collects; and other organisations may be able to use your data to help them. 
+Envisagez d’enregistrer et de publier vos données comme « données ouvertes », ce qui signifie qu’elles pourront être librement utilisées, réutilisées et redistribuées par tous. Pour ce faire, il est nécessaire d’adopter un format adéquat (vous en trouverez une liste [ici](http://opendatahandbook.org)) et d’en autoriser la [réutilisation](http://opendatacommons.org/guide/) à l’aide d’une licence. Cette démarche apporte de nombreux avantages : elle prouve que votre organisation applique la transparence dans la collecte de données, et d’autres organisations pourraient utiliser vos données à l’appui de leurs travaux.
 
-##### Understand where you can compare data – and where you can’t
+##### Comprendre comment comparer des données, et quand c’est impossible 
 
-Combining different data sources can reveal entirely new information and present powerful messages for campaigning. For example, you can combine aerial photography collected by DIY satellite photography with participatory mapping data. But examine these data sources carefully. Can they be compared? Do both sources cover the same geographical area, and is the quality of the data consistent enough? If the right data isn’t available, think about changing the way you collect it so that the results fit better with data that already exists.
+La combinaison de différentes sources de données peut mettre à jour des informations complètement nouvelles et servir de base solide aux messages des campagnes. Par exemple, il est possible de combiner des photographies aériennes collectées à l’aide d’images satellites DIY avec des données issues de la cartographie participative. Mais il convient d’examiner attentivement ces sources. Peuvent-elles être comparées ? Couvrent-elles la même zone géographique, et sont-elles suffisamment uniformes ? Si les données voulues ne sont pas disponibles, pensez à changer la manière dont vous recueillez les informations pour qu’elles puissent mieux compléter les données déjà existantes. 
 
 <blockquote>
-	<h5>Case study: Combining different types of information</h5>
-	<p> <a href="http://www.orau.com.pe/inicio/index.php"> Organización Regional AIDESEP Ucayali (ORAU)</a> established a monitoring system designed to document the existence of indigenous peoples living in voluntary isolation (IPVI) and threats to the environment in Peru.</p>
-	<p><b>How did it help?</b></p>
+	<h5>Cas d’étude: Combiner différents types d’informations. </h5>
+	<p> <a href="http://www.orau.com.pe/inicio/index.php"> L’Organización Regional AIDESEP Ucayali (ORAU)</a> a mis en place un système de surveillance permettant de recenser les peuples autochtones volontairement isolés (IPVI pour l’acronyme anglais) et les menaces environnementales au Pérou.</p>
+	<p><b>Quelle en est l’utilité ? </b></p>
 	<ul>
-		<li>Photographs of evidence, GPS data and other information is saved and systematized in a digital database.</li>
-		<li>Together with similar information from other indigenous peoples’ organizations, this has  made it impossible for the Peruvian state to keep denying the existence of IPVI.</li>
-		<li>The authorities are now more cooperative with ORAU on address cases involving IPVI and developing policies relating to IPVI territories, and have allocated funds for this purpose.</li>
+		<li>Des preuves photographiques, des données GPS et d’autres informations sont sauvegardées et systémisées dans une base de données numérique.</li>
+		<li>Combinées avec des informations similaires provenant d’autres organisations de peuples autochtones, elles ont obligé l’état péruvien à cesser de nier l’existence des IPVI.</li>
+		<li>Les autorités coopèrent à présent davantage avec ORAU sur des problématiques impliquant les IPVI et pour le développement des politiques liées aux territoires des IPVI, et ont consacré des fonds à ces fins. </li>
 	</ul>
 </blockquote>
 
-##### Sometimes the simplest option is the best 
+##### L’option la plus simple est parfois la meilleure  
 
-Don’t spend money on technology unless you’re certain that you need to. For example, if you are collecting data from a small number of people in an accessible area, it may be cheaper and easier to do it using paper rather than a specific technology solution.
+N’investissez pas dans la technologie si vous n’êtes pas certains d’en avoir besoin. Par exemple, si vous collectez des données auprès d’un groupe restreint de personnes vivant dans une zone accessible, il peut être moins coûteux et plus simple d’utiliser du papier que des solutions technologiques spécifiques. 
 
-#### Practical considerations when working with data and rainforests
+#### Considérations pratiques pour l’exploitation de données dans la forêt tropicale 
 
-**Power:** Unstable power supply can corrupt data: if possible, use an uninterrupted power supply (UPS) and power surge protectors, or battery-powered external hard drives. Some mobile phone batteries have much longer lives than others - test thoroughly before use. 
+**Electricité :** une alimentation électrique instable peut corrompre les données : utilisez si possible une alimentation sans interruption (ASI) et des dispositifs de protection des surtensions, ou des disques durs externes sur batteries. Certaines batteries de téléphone mobile ont une durée de charge plus grande que d’autres – testez-les rigoureusement avant de les utiliser. 
 
-**Connectivity:** Think carefully before relying on communications networks. If mobile internet isn’t available, pick tools that use regular mobile phone (GPRS) networks; if phone networks aren’t available, don’t use them. Always have a back-up plan if any network goes down.
+**Connectivité :** Réfléchissez bien avant de vous fier aux réseaux de communication. Si l’internet mobile n’est pas disponible, choisissez des outils qui utilisent les réseaux de téléphonie mobile ordinaires (GPRS) ; si aucun réseau n’est disponible, n’utilisez pas de téléphones. Ayez toujours un dispositif de secours en cas de panne de réseau. 
 
-**Internet connection:** Be realistic about what you can achieve with a weak internet connection – it will slow progress and increase costs. Consider modifying project websites to work in low bandwidth or choose tools that work offline. [Aptivate](http://www.aptivate.org/webguidelines/Home.html) has a guide to designing websites that work better in poor internet connections, and [Engage Media](http://www.engagemedia.org/help/how-to-compress-video) provides advice on compressing files that work better in low-bandwidth areas.
+**Connection internet :** Be realistic about what you can achieve with a weak internet connection – it will slow progress and increase costs. Consider modifying project websites to work in low bandwidth or choose tools that work offline. [Aptivate](http://www.aptivate.org/webguidelines/Home.html) has a guide to designing websites that work better in poor internet connections, and [Engage Media](http://www.engagemedia.org/help/how-to-compress-video) provides advice on compressing files that work better in low-bandwidth areas.
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
-	<p style="color:white"><b>Don’t rely only a company to store your data online:</b> For example, millions of photos hosted on the <a href="http://www.dailydot.com/technology/twitpic-twitter-acquisition/" style="color:white">Twitpic</a> service were at risk of deletion in 2014 when the company closed down, while in 2011, thousands of videos hosted on the South African site MyVideo were <a href="http://www.archiveteam.org/index.php?title=Deathwatch" style="color:white">lost</a> because the service lacked back-ups and servers hadn’t been properly <a href="http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf" style="color:white">maintained</a>.</p>
+	<p style="color:white"><b>Ne dépendez pas d’une société de stockage de données en ligne.</b> Des millions de photos hébergées par le service <a href="http://www.dailydot.com/technology/twitpic-twitter-acquisition/" style="color:white">Twitpic</a> ont failli être effacées en 2014 quand l’entreprise a cessé ses activités . En 2011, ce sont des milliers de vidéos hébergées sur le site sud africain MyVideo qui ont été <a href="http://www.archiveteam.org/index.php?title=Deathwatch" style="color:white">perdues,</a>  le site n’ayant pas de système de sauvegarde et la maintenance des serveurs n’ayant pas été <a href="http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf" style="color:white">correctement effectuée</a></p>
 </blockquote>
 
-**Storing data:** Physical storage like DVDs and flash memory drives can develop mould or get dust inside them: keep them in airtight, waterproof plastic bags. Don’t rely on any one piece of storage: back up your data in several locations.
+**Stockage des données :** Les outils de stockage physiques comme les DVD ou les clés à mémoire flash peuvent moisir ou accumuler de la poussière : gardez-les dans des sacs en plastique hermétiques et étanches. Ne stockez pas toutes vos données au même endroit : faites des sauvegardes sur différents sites.
 
-#### Preparation
+#### Préparation
 
-To start with, **create a methodology** (an explanation of how you have collected and analysed the data). Check your methodology is robust with experts, and present it clearly whenever you publish results. Be ready to explain your methodology or use it to defend the credibility of your work. For [examples](http://maaproject.org/about-maap/), look at [Open Development Cambodia](http://www.opendevelopmentcambodia.net/briefings/forest-cover/) (for a simple methodology) and the [Land Matrix](http://landmatrix.org/en/about/) (for a more detailed one).
+Commencez par **élaborer une méthodologie* (une explication de la manière de collecter et d’analyser les données). Faites vérifier la qualité de votre méthodologie par des experts, et donnez-en une explication claire lorsque vous publiez vos résultats. Soyez prêts à expliquer votre méthodologie ou à l’utiliser pour défendre la qualité de vos travaux. Référez-vous par [exemple](http://maaproject.org/about-maap/) à [Open Development Cambodia](http://www.opendevelopmentcambodia.net/briefings/forest-cover/) (pour une méthodologie simple) et à [Land Matrix](http://landmatrix.org/en/about/) (pour une méthodologie plus détaillée).
 
 <blockquote>
-	<h5>Case study: Getting recognition for the quality of your evidence</h5>
-	<p><a href="https://www.facebook.com/brimassarawak">Borneo Resources Institute (Brimas)</a> trains communities in Sarawak (Malaysia) to map their own communities using GPS, plotting indigenous territories, land use and areas with natural resources. The government and private sector companies initially dismissed Brimas as not being knowledgeable enough. However, law courts recognised the quality of the data collected during cases to prove indigenous ownership of land, improving Brimas’ reputation for accuracy. Malaysia’s Land and Survey Department now uses Brimas’ maps to validate their own products.</p>
+	<h5>Cas d’étude : être reconnu pour la qualité de ses preuves.</h5>
+	<p><a href="https://www.facebook.com/brimassarawak">L’Institut des ressources de Borneo (Brimas)</a> apprend à des communautés de Sarawak (Malaisie) à cartographier leurs communautés à l’aide d’outils GPS, en délimitant les territoires autochtones, les utilisations des terres et les zones contenant des ressources naturelles. Le gouvernement et les entreprises privées ont tout d’abord nié la base de connaissances du Brimas. Les tribunaux ont cependant reconnu la qualité des données recueillies dans des affaires visant à prouver les droits de propriété des peuples autochtones, et leur ont donné une réputation d’exactitue. Le Département des terres et du cadastre malaisien utilise à présent les cartes du Brimas pour valider ses propres produits.</p>
 </blockquote>
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
