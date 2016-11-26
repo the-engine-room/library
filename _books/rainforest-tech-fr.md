@@ -44,44 +44,49 @@ Ce guide n’est pas exhaustif – il fournit les informations élémentaires po
 
 #### Buts et stratégie 
 
-This is probably where most projects fail. A successful project requires explicit goals and a solid strategy – from planning out how the project will work, to managing information when the project is in progress. The [first section](#strategy) of this primer sets out general principles and things to think about when designing any project that uses technology. 
+C’est certainement là qu’échouent la plupart des projets. La réussite d’un projet exige des buts précis et une stratégie robuste – depuis la planification des phases du projet jusqu’à la gestion des informations en cours de mise en œuvre. La [première section](#strategy) de cet ouvrage élémentaire décrit les principes généraux et les réflexions nécessaires à l’élaboration de projets utilisant la technologie.
 
-#### Overview of Tools
+#### Instruments
 
-The [second section](#tools) introduces some of the tools that can be useful in rainforest-focused projects, grouped into six types: 
+La [deuxième section](#tools) présente les outils utiles aux projets liés à la forêt tropicale, regroupés en six catégories:
 
-* mobile (cell) phone applications to collect and record data from the field
-* maps produced together with communities (participatory mapping)
-* satellite imagery
-* do-it-yourself aerial photography (such as drones)
-* audio and video
-* online maps that combine and layer different types of data on top of each other
+* Les applications pour téléphones mobiles (cellulaires) pour collecter et enregistrer des données de terrain
+* Les cartes produites avec les communautés (cartographie participative)
+* L’imagerie satellite 
+* La photographie aérienne à réaliser soi-même (par exemple avec des drones)
+* Les enregistrements audio et vidéo
+* Les cartes en ligne qui superposent et combinent différents types de données.
 
-#### Additional resources
 
-The [final section](#resources) lists a series of guides and tools with more detailed information that can help you take the next steps in adding new technology into your project.
+#### Ressources complémentaires
 
-### Foreword
+Les [dernières sections](#resources)  fournissent une liste de guides et d’outils plus détaillés pour vous permettre de passer à l’étape suivante dans l’intégration de nouvelles technologies dans votre projet.
+
+### Avant-propos
 
 *By Lars L&#248;vold - Director, [Rainforest Foundation Norway](http://rainforest.no/en)*
 
-How can new and evolving technology be useful in advocacy for rainforest protection and forest peoples' rights?  This broad, open question is the starting point for this primer. In 1989, when Rainforest Foundation Norway was founded to promote rights-based rainforest protection, phones were hardly mobile and the world wide web was science fiction. A lot has changed. 
+Comment les technologies nouvelles et celles en pleine évolution peuvent-elles s’avérer utiles pour promouvoir la protection de la forêt tropicale et les droits des peuples forestiers ? Cette vaste question ouverte est le point de départ de cette introduction. En 1989, quand la Rainforest Foundation a été créée pour promouvoir la protection des forêts fondée sur les droits, les téléphones étaient rarement mobiles, et le World Wide Web était de la science fiction. Tout cela a bien changé. 
 
-Now advanced technology has become cheaper, more available and easier to use, opening up exciting new opportunities for rainforest monitoring and sharing of information. Every week a new tool or platform seems to be created to help us map forest resources, detect illegal logging, report on human rights abuses or trace the origins of commodities. 
 
-However, other things have not changed at all. Indigenous peoples and local organizations in rainforest countries still struggle to claim their customary rights and protect rainforests under difficult conditions. Often infrastructure and means of communication are poor, and lack of training and funding can be serious obstacles to taking advantage of the opportunities that technology offer. 
+Les technologies de pointe sont devenues plus abordables, plus disponibles et leur utilisation plus facile, créant ainsi de nouvelles possibilités exaltantes pour la surveillance de la forêt tropicale et le partage d’informations. Chaque semaine, un nouvel outil ou une nouvelle plateforme voit le jour pour cartographier les ressources forestières, détecter l’abattage illégal d’arbres, signaler des violations des droits humains ou retracer l’origine des matières premières. 
 
-In general, the interest groups behind unsustainable forest exploitation have more resources to use new, evolving technologies than the local groups or civil society organizations working for forest protection. Even so, there are a lot of amazing examples of how local activists employ new technology in ingenious ways to make their work more effective and efficient. Unfortunately, there are also a great number of unsuccessful projects where money and hard work are wasted. Although objectives and tools vary greatly, what the successful projects generally have in common is that they are solidly designed and based on clear goals and a thorough analysis of the problem at hand.
 
-Seeing how important solid planning and design is for the success of technology-projects, [Rainforest Foundation Norway](http://www.regnskog.no/en/) has partnered with [The Engine Room](https://theengineroom.org) to make a basic introduction to the use of technology in rights-based rainforest protection. In the process of mapping the myriad of existing initiatives that could be useful in our work and for our partners, we decided that a basic introduction to the use of technology in rights-based rainforest protection could be useful to many.
+Toutefois, certaines choses n’ont pas changé du tout. Les peuples autochtones et les organisations locales dans les pays à forêt tropicale luttent toujours pour faire reconnaître leurs droits coutumiers et protéger les forêts tropicales dans des conditions difficiles. Bien souvent, les infrastructures et les moyens de communication sont médiocres, et il est très difficile de tirer parti des possibilités offertes par les technologies en l’absence de connaissances et de financements. 
 
-That is the purpose of this report: It describes advantages and disadvantages of different tools that may be used, using concrete examples. It also provides a step-by-step guide to strategic project development, suggesting essential questions that must be answered  to ensure that technology serves the project's needs and not the other way around. 
 
-While the guide can be read from start to finish, it is designed to allow readers to easily access the information that interests them the most. Suggestions for further reading are provided for those who want to explore a particular tool or experience in more detail.
+De manière générale, les groupes d’intérêts à l’origine de l’exploitation non durable des forêts ont davantage de ressources à leur disposition pour utiliser les nouvelles technologies et les évolutions technologiques que les groupes locaux ou les organisations de la société civile œuvrant à la protection des forêts. Pour autant, il existe de nombreux exemples remarquables d’utilisation ingénieuse des nouvelles technologies par des militants locaux pour rendre leur travail plus efficace et plus performant. Malheureusement, il existe aussi de nombreux exemples de projets infructueux pour lesquels beaucoup de temps et d’efforts ont été gaspillés. 
+Bien que les objectifs poursuivis et les instruments utilisés varient grandement d’un projet à l’autre, les exemples de succès ont en commun une conception robuste, des objectifs clairs et une analyse approfondie du problème à résoudre. 
 
-Use of technology has a great potential for strengthening indigenous peoples' rights and forest protection - and it has been inspiring to see so many inventive ways that indigenous peoples and local activists already employ technology.
+Au vu de l’importance d’une planification et d’une conception sérieuse pour le succès de tout projet technologique, [la Rainforest Foundation Norvège](http://www.regnskog.no/en/) a conclu un partenariat avec [Engine Room](https://theengineroom.org) pour élaborer une introduction élémentaire à l’utilisation des technologies pour la protection des forêts tropicales fondée sur les droits. Alors que nous recensions une multitude d’initiatives existantes qui pourraient être utiles à nos travaux et à nos partenaires, nous avons estimé qu’une introduction aux principes élémentaires de l’utilisation de la technologie pour la protection des forêts tropicales fondée sur les droits pourrait se révéler utile pour de nombreuses personnes.
 
-Hopefully this primer can help those who want to start new projects - or further develop existing ones - to use technology effectively, as well as inspire us to learn more from each other's experiences.
+Tel est l’objectif de ce rapport : décrire les avantages et les inconvénients des différents outils qui peuvent être utilisés, à l’aide d’exemples concrets. Il contient en outre une orientation étape par étape pour l’élaboration stratégique de projets, en indiquant les questions essentielles auxquelles il faut répondre pour s’assurer que la technologie réponde aux besoins du projet, et non l’inverse. 
+
+Même si ce rapport peut être lu de bout en bout, il a été conçu pour permettre au lecteur de trouver facilement les informations les plus pertinentes pour lui. Des suggestions d’ouvrages complémentaires s’adressent aux personnes qui désirent en savoir plus sur un outil ou une expérience en particulier. 
+
+L’utilisation de la technologie peut grandement contribuer au renforcement des droits des peuples autochtones et à la protection des forêts – il est enthousiasmant d’observer que de  nombreux peuples autochtones et activistes locaux utilisent déjà la technologie de manière créative. 
+
+Nous espérons que cette introduction aidera ceux qui souhaitent initier de nouveaux projets – ou en développer d’existants – à utiliser la technologie de manière efficace, et nous incitera à tirer des leçons de nos expériences mutuelles.
 
 ### Information technology and forests
 
