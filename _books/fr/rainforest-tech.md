@@ -90,124 +90,125 @@ L’utilisation de la technologie peut grandement contribuer au renforcement des
 
 Nous espérons que cette introduction aidera ceux qui souhaitent initier de nouveaux projets – ou en développer d’existants – à utiliser la technologie de manière efficace, et nous incitera à tirer des leçons de nos expériences mutuelles.
 
-### Information technology and forests
+### La technologie informatique et les projets
 
-#### What’s new about technology?
+#### Qu’est ce qui change ? 
 
-**Sharing information is easier:** Internet access and mobile phone networks are spreading across countries and into previously isolated areas. Organisations can now document and share information about incidents as they happen (in ‘real time’). Technology also makes it easier to collaborate with organisations from other countries (like the Amazon-focused network RAISG) or other continents (like Rainforest Foundation Norway’s network of partners). 
+**Un partage plus facile de l’information:** L’accès à internet et les réseaux de téléphonie mobile se développent dans tous les pays et s’étendent à des zones jusque là isolées. Les organisations peuvent à présent consigner et partager des informations sur des incidents au moment même où ils se déroulent (en « temps réel »). La technologie rend aussi plus aisée la collaboration avec des organisations situées dans d’autres pays (comme pour le réseau RAISG axé sur l’Amazonie) ou sur d’autres continents (comme pour le réseau de partenaires de la Rainforest Foundation Norvège). 
 
-**Tools are being developed for your needs:** A wide range of tools – many designed for use in rainforest environments – have been shown to make it easier to campaign and monitor information.
+**Des instruments conçus pour répondre à vos besoins:** Aune vaste gamme d’outils – dont beaucoup ont été conçus pour être utilisé en forêt tropicale – facilitent les campagnes et la surveillance d’informations.
 
-**It’s simpler to find and use the data you want:** Data on topics like land usage, forest cover and natural resources used to be hard to find, expensive or difficult to use. Now, this is changing. Combined with information collected by your organisation (such as community boundaries or biodiversity), this can give you a rich, powerful set of data to use in advocacy.
+**Des données plus faciles à trouver et à utiliser:** par le passé, les données sur des sujets tels que l’utilisation des terres, la couverture forestière ou les ressources naturelles étaient difficiles à trouver, chères et compliquées à utiliser. Tout ceci est en train de changer. En y ajoutant les informations recueillies par votre organisation (telles que les limites communautaires ou la biodiversité), vous pouvez obtenir un ensemble de données riches et à fort impact sur lequel fonder votre plaidoyer. 
 
-**Technology is cheaper and more powerful:** More and more organisations can now think about accessing tools like smartphones and data visualisation software, which were previously out of reach. 
+**Des technologies meilleur marché et plus puissantes:** de plus en plus d’organisations peuvent à présent s’équiper d’outils tels que des Smartphones ou des logiciels de visualisation qu’elles ne pouvaient pas s’offrir auparavant.
 
-#### What’s not new
+#### Qu’est-ce qui ne change pas ?
 
-**Technology still needs humans:** No matter how sophisticated the technology, it cannot replace the need for strong relationships with communities, based on trust and knowledge of local context. 
+**La technologie a toujours besoin des humains:** même la technologie la plus sophistiquée ne peut supplanter le besoin de créer des liens forts avec les communautés, fondés sur la confiance et la connaissance du contexte local. 
 
-**Introducing any new tool takes time, money and effort:** Nothing slows a project down like discovering too late what resources a technology component needs. Project staff and local communities need time and ongoing support to use new tools or information sources to their full potential. Technology is never a magic bullet and rarely a quick fix.  
+**L’utilisation de tout nouvel outil demande du temps, de l’argent et des efforts:** rien ne retarde plus un projet que d’identifier trop tardivement les ressources nécessaires à la mise en œuvre de sa composante technologique. Les équipes de projet et les communautés locales ont besoin de temps et d’un soutien permanent pour tirer le meilleur parti de nouveaux outils ou de nouvelles sources d’information. La technologie n’est jamais un remède miracle et rarement une solution rapide.
 
-**Technology can help organisations protect forests or people’s livelihoods, but it also helps those with the opposite objectives:** Governments seeking to suppress data or companies behaving illegally also benefit from technological advances, and often have the advantage of more money and human resources. 
+**La technologie peut aider les organisations à protéger les forêts ou les moyens d’existence des peuples, mais il peut aussi servir des intérêts opposés:** des gouvernements cherchant à faire disparaître des données ou des entreprises menant des activités illégales peuvent aussi bénéficier des avancées technologiques, et ont souvent davantage de ressources financières et humaines à leur disposition.  
 
-### Principles in designing projects involving technology
+### Principes d’élaboration de projets utilisant la technologie  
 
-**Define clear project objectives and use technology only when it helps you achieve them –** not for the sake of using technology. (For more on this, see the [Planning](#planning) section below.) 
+**Définir des objectifs clairs et utiliser la technologie seulement si elle contribue à leur réalisation –** et non simplement dans le but d’utiliser la technologie. (Pour plus d’informations, voir la section [Planification](#planning) ci-dessous). 
 
-**Dont assume - ask. Learn about how your organisation and the people you’re working with relate to technology,** and factor this into your project design. Don’t assume you know how staff will respond to new mapping software, or what a community will find useful. Ask them – and keep asking all the way through the project.
+**Ne présumez pas – demandez. Cherchez à comprendre la relation à la technologie des personnes avec qui vous travaillez,** et tenez compte de cet élément dans la conception de votre projet. Ne partez pas du principe que vous savez comment vos collaborateurs réagiront à un nouveau logiciel de cartographie, ou ce qu’une communauté jugera utile. Demandez-leur, et continuez à les interroger tout au long du projet.
 
-Recognise that **you will have to commit resources to use tech effectively.** You may need to invest in hardware at the start, train people in how to use a new tool, or bring in external expertise. You will definitely need to dedicate funds to maintaining and replacing technology, as well as expert support when things go wrong.
+Soyez conscients que **vous devrez investir des ressources pour utiliser la technologie de manière efficace.** Vous devrez peut-être investir dans du matériel, former du personnel à l’utilisation d’un nouvel outil, ou faire appel à des spécialistes externes. Vous devrez dans tous les cas allouer des fonds à la maintenance et au remplacement des outils et faire appel à des spécialistes en cas de problème.
 
-**Don’t spend time and money on new technology if a good solution already exists.** Take the time to research what has worked for similar efforts before choosing any tools, and collaborate with organisations that have had similar experiences. 
+**N’investissez pas votre temps et votre argent dans de nouvelles technologies si une solution adéquate existe déjà.** Prenez le temps de vous renseigner sur les solutions utilisées par d’autres initiatives similaires avant de choisir un outil, et collaborez avec des organisations qui partagent votre expérience. 
 
-**Think about your project’s potential impacts on people and the environment:** Here are some principles.
+**Réfléchissez aux impacts potentiels de votre projet sur les personnes et l’environnement.** Voici quelques principes:
 
-* **Do no harm:** Make a written list of ways in which your project could inadvertently harm people or environments, or help other actors that are causing harm. (For example, could companies benefit from knowing the location of a particular community or a valuable resource?).
-* **Let people decide how data about them is collected and used,** particularly when working with marginalised communities. The communities themselves should have the final say on the level of risk and exposure they are willing to take. If you are working on any project working with marginalised communities, try asking yourself this [list of questions](http://www.fabriders.net/qafs/).
-* **Use data responsibly:** Think about how the data you are collecting could affect people or environments, and how you will manage those risks (see [Strategy](#strategy) section.) 
-* **Collect and present data in a rigorous and expect to be held accountable for the data you present:** data can be used to mislead. Be aware of any assumptions that might affect how you collect and analyze data. If you find flaws or gaps, be open about them when sharing or publishing.
+* **Ne pas nuire (ou principe d’innocuité):** faites une liste des situations dans lesquelles votre projet pourrait nuire aux personnes ou à l’environnement de manière fortuite, ou pourrait aider d’autres parties à leur porter préjudice. (Par exemple, localiser une communauté particulière ou des ressources précieuses pourrait avantager certaines entreprises).
+* **Laissez les personnes choisir la manière dont les informations les concernant sont recueillies et utilisées,** en particulier les communautés marginalisées. Les communautés doivent pouvoir décider en dernier lieu du niveau de risque et de visibilité qu’elles sont prêtes à accepter. Si vous travaillez sur un projet impliquant des communautés marginalisées, voici une liste des questions à vous poser: http://www.fabriders.net/qafs/.
+* **Faites une utilisation responsable des données:**  réfléchissez à la manière dont les données collectées pourraient affecter les personnes ou l’environnement, et à la gestion de ces risques (voir la section [Stratégie](#strategy)). 
+* **Recueillez et présentez vos données de manière rigoureuse, et assumez la responsabilité des données que vous présentez:** les données peuvent être utilisées pour tromper. Soyez conscients de toutes les présomptions qui pourraient affecter votre manière de recueillir ou d’analyser des données. Si vous trouvez des failles ou des lacunes, mentionnez-les en toute transparence lors du partage ou de la publication des données.
 
 
 ## Strategy 
-<a name="strategy"></a>This section draws on the Transparency and Accountability Initiative’s [‘Fundamentals’ guide](http://tech.transparency-initiative.org/fundamentals/), which is a great place to go for more tips. 
+<a name="strategy"></a>Cette section se base sur le guide des [« principes fondamentaux »](http://tech.transparency-initiative.org/fundamentals/) de l’Initiative Transparency and Accountability (transparence et responsabilité), qui contient de nombreuses suggestions utiles. 
 
-### <a name="planning"></a>Planning
+### <a name="planning"></a>Planification
 
-#### Agree on the fundamentals: Strategy, vision and organisational health check
+#### S’accorder sur les principes fondamentaux : stratégie, vision et bilan technologique de votre organisation 
 
-##### Define your long-term strategy
+##### Définissez une stratégie à long terme
 
-Work out your organisation’s long-term strategy, involving staff and anyone who has a stake in your work. Ask three questions: What do you want to change? Whose behaviour needs to change for this to happen? How could you change their behaviour? 
+Elaborez la stratégie de votre organisation sur le long terme avec vos collaborateurs et toute personne influant sur vos travaux. Posez ces trois questions : Que voulez-vous changer ? Quelles sont les personnes qui doivent modifier leur comportement pour que ce changement ait lieu ? Comment pouvez-vous modifier leur comportement ?  
 
-##### Then, state how technology will support this strategy (your technology vision)
+##### Précisez ensuite comment la technologie accompagnera cette stratégie (votre vision de la technologie)
 
-1. Identify all the practical activities that your organisation does (for example: communicating with local communities or monitoring satellite imagery). 
-2. Rank them in order, with the most important at the top. 
-3. Choose the activities at the top of your list. Could technology improve the way that you do them? Then decide what practical steps you would need to introduce technology (read the [Tools](#tools) section for more details on this).
+1. Identifiez toutes les activités pratiques effectuées au sein de votre organisation (par exemple : communiquer avec les communautés locales ou étudier des images satellites).  
+2. Classez-les par ordre d’importance, en commençant par la plus importante.  
+3. Décidez quelles activités pourraient être améliorées par la technologie. Choisissez-les parmi les premières de votre liste d’activités importantes, puis décidez de quelles mesures pratiques vous auriez besoin pour intégrer la technologie. (read the [Tools](#tools) section for more details on this).
 
 <blockquote>
-	<h5>Case study: How three organisations decided to use technology to support their strategy in Congo (DRC)</h5>
-	<p>In Congo (DRC), the government created a protected area and granted a logging concession on the same piece of land belonging to the villages of Mpole and Mpaha in Maï-Ndombe. The overlaps created disputes between the different groups involved.</p>
-	<p><b>How did they decide to use technology?</b></p>
+	<h5>Cas d’étude : Comment trois organisations ont décidé d’utiliser la technologie à l’appui de leur stratégie au Congo.</h5>
+	<p>Au Congo (RDC), le gouvernement a créé une aire protégée et a octroyé une concession d’exploitation forestière sur une parcelle de terrain rattachée aux villages de Mpole et Mpaha dans le Maï-Ndombe. Cette superposition a généré des différends entre les groupes impliqués.</p>
+	<p><b>Comment ont-ils décidé d’utiliser la technologie ? 
+</b></p>
 	<ul>
-		<li>The <i>long-term strategy</i> of Congolese organisation <a href="http://reseaurrnrdc.org/">Natural Resources Network (Réseau Ressources Naturelles - RRN)</a> was to ensure that the government took local communities’ customary rights into account.</li>
-		<li>Their <i>technology vision</i> was to use participatory mapping to collect local knowledge of the geographical area, and combine it with existing maps to show evidence of overlaps and bad practice by government or companies.</li>
-		<li>RRN took <i>practical steps</i> including training local cartographers to use GPS receivers, recruiting GIS mapping specialists and giving them an office, and <a href="https://uclexcites.wordpress.com/2013/06/18/participatory-mapping-in-congo-brazzaville-part-1/">working with the community</a> to validate the maps.</li>
+		<li>La <i>Stratégie à long terme</i> de l’organisation congolaise <a href="http://reseaurrnrdc.org/">Réseau Ressources Naturelles (RRN) </a> visait à garantir une prise en compte des droits des communautés locales.</li>
+		<li>Leur <i>vision de la technologie</i> consistait à utiliser la cartographie participative pour recueillir les savoirs locaux dans la zone géographique, et à les intégrer aux cartes existantes pour démontrer les superpositions et les mauvaises pratiques du gouvernement ou des compagnies.</li>
+		<li>RRN a pris des <i>mesures pratiques</i> telles que la formation de cartographes locaux à l’utilisation de récepteurs GPS, le recrutement de spécialistes en cartographie SIG et la mise à disposition d’un bureau, et a <a href="https://uclexcites.wordpress.com/2013/06/18/participatory-mapping-in-congo-brazzaville-part-1/">consulté les communautés</a>  pour la validation des cartes.</li>
 	</ul>
 </blockquote>
 
-##### Give your organisation a tech health-check 
+##### Effectuez un bilan technologique de votre organisation 
 
-Assess how well your organisation currently uses technology – do you have the right equipment? Can you get technical support easily when you need it? Sort out any existing problem areas *before* starting any new project.
+Evaluez si votre organisation utilise convenablement la technologie – avez-vous l’équipement adéquat ? Pouvez-vous facilement avoir accès à un soutien technologique en cas de besoin ? Identifiez tous les domaines problématiques *avant* d’entamer un nouveau projet.
 
-#### Design your technology project 
+#### Elaborez votre projet technologique  
 
-##### Define your goals
+##### Définissez vos objectifs
 
-State what you hope your project will achieve. Base your goals on the three points above: your organisation’s strategy, your technology vision and your technical capacity. (See [Use the Data](#usethedata))
+Listez les réalisations que vous attendez de votre projet. Fondez vos objectifs sur les trois points mentionnés ci-dessus : la stratégie de votre organisation, votre vision de la technologie et vos capacités techniques. (See [Use the Data](#usethedata))
 
-##### Design together with your users
+##### Impliquez vos utilisateurs
 
-Think about who might be involved in implementing the project (from your organisation’s staff, to local communities or forestry officials), and involve them in your planning. Timing is everything: when asking for input, make space to incorporate it into the project. Consult specialists like technologists and lawyers before deciding on any essential components. 
+Pensez à toutes les personnes qui pourraient être impliquées dans la mise en œuvre du projet (le personnel de l’organisation, les communautés locales ou les autorités forestières), et faites-les participer à la planification. Le facteur temps est essentiel : lorsque vous sollicitez des retours, faites en sorte de pouvoir les incorporer au projet. Consultez des spécialistes comme des technologues ou des juristes avant de prendre une décision sur une composante essentielle. 
 
-##### Make a project plan
+##### Faites un planning du projet 
 
-Decide on the critical features you need before choosing any tech tool, and be sure that it tool can grow along with your program. Ask other organisations if they have conducted any similar projects. 
+Décidez des caractéristiques essentielles dont vous aurez besoin avant de choisir les outils technologiques, et assurez-vous que ces outils peuvent évoluer en fonction de votre programme. Demandez à d’autres organisations si elles ont déjà mené des projets similaires. Qu’est-ce qui a fonctionné et qu’est-ce qui n’a pas marché ? 
 
 ##### What worked, and what didn’t? 
 
-Think about what a reasonable timespan might be for your project. Then, add in plenty of extra time for training, problem-solving and delays to implementation. Start thinking early about the end of the project – what will happen to any equipment, and the data? Some projects take time to make an impact: plan how you will continue after the project deadline has passed.
+Définissez une durée raisonnable pour votre projet. Ajoutez-y beaucoup de temps pour la formation, la résolution des problèmes et les retards dans la mise en œuvre. Pensez à la clôture du projet bien en amont – que deviendront l’équipement et les données ? Certains projets mettent du temps à montrer leurs effets : prévoyez comment continuer après la date de fin du projet. 
 
-##### Pilot your project first
+##### Testez votre projet en amont 
 
-A pilot allows you to test at a small scale, identifying early on what is working and what isn’t. Choose something that you can measure easily. (For example, for a system monitoring illegal logging, this could be the number of reports collected by monitors in one month.) Design your project so that the pilot’s results can influence how the rest of the project develops. This will make your plan much more flexible if circumstances change.
+Un pilote vous permettra de tester votre projet sur une petite échelle et d’identifier rapidement ce qui fonctionne et ce qui ne fonctionne pas. Choisissez des éléments facilement mesurables (par exemple, pour un système de contrôle de l’abattage illégal d’arbres, vous pouvez choisir le nombre d’alertes reçues dans une zone restreinte sur une semaine). Faites en sorte que les résultats issus du test pilote puissent modifier l’évolution du reste du projet. Votre planification en sera plus flexible en cas de changement de circonstances. 
 
 <blockquote>
-	<h5>Case study: Piloting a new piece of technology can bring unexpected benefits</h5>
-	<p>In 2013, <a href="https://rfcx.org">Rainforest Connection</a> held a pilot project in West Sumatra (Indonesia) to test an application to monitor illegal logging using a modified mobile phone.</p>
-	<p><b>How did it help?</b></p>
+	<h5>Cas d’étude : Tester un outil technique peut apporter des avantages inattendus.</h5>
+	<p>En 2013, <a href="https://rfcx.org">Rainforest Connection</a> a mis en œuvre un projet pilote à Sumatra Ouest (Indonésie) pour tester une application contrôlant la coupe illégale de bois sur un téléphone mobile modifié.</p>
+	<p><b>Quelle a été l’utilité du test ?</b></p>
 	<ul>
-		<li>The pilot was designed to assess whether the technology worked, but it did even better than expected, capturing information that allowed local authorities to catch illegal loggers two weeks after it was installed.</li>
-		<li>The loggers have not returned to that area since then. <a href="http://news.mongabay.com/2014/0624-rainforest-connection-interview.html">Rainforest Connection</a> is now holding a <a href="https://rfcx.org">second series of pilots</a> in Equatorial Africa.</li>
+		<li>Le pilote devait évaluer le bon fonctionnement de la technologie, il a fait mieux que ça. Il a recueilli des informations qui ont permis aux autorités locales d’appréhender les auteurs de coupes illégales après deux semaines d’installation.</li>
+		<li>Les bûcherons ne sont pas revenus dans cette zone jusqu’à présent. <a href="http://news.mongabay.com/2014/0624-rainforest-connection-interview.html">Rainforest Connection</a> met actuellement en place une <a href="https://rfcx.org">deuxième série de pilotes</a> en Afrique équatoriale.</li>
 	</ul>
 </blockquote>
 
-#### Monitor the difference you make
+#### Evaluez les changements que vous engendrez 
 
-Before starting, assess the situation and document what you find. This will give you a ‘baseline’ that you can use to measure what has changed as the project progresses, and to demonstrate results for partnerships and fundraising. 
+Avant de commencer, faites le bilan de la situation. Il vous servira de base pour mesurer les changements qui interviendront au cours de la mise en œuvre du projet et présenter les résultats à vos partenaires ou donateurs potentiels. 
 
-Then, think about your project’s potential effect on that situation, and how you can measure any changes. Decide when and how often to track progress using these measurements.
+Puis, identifiez les effets potentiels de votre projet sur la situation, et les méthodes de mesure des changements. Décidez du moment et de la fréquence d’évaluation des progrès à l’aide de ces méthodes.
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
-	<h5 style="color:white">Responsible data box: Planning to use data responsibly</h5>
-	<p style="color:white">Almost every project involves dealing with data in some way, even sending emails or using a spreadsheet. Failing to manage this data carefully can put your organisation and the people you work with at risk. Data leaks might lead to violence, open data might help land speculators, and hardware might be tracked to target activists. A risk assessment is an essential part of a project plan that helps you prepare for the unexpected.</p>
+	<h5 style="color:white">Encadré sur les données responsables: Planifier une utilisation responsable des données. </h5>
+	<p style="color:white">L’immense majorité des projets impliquent de gérer des données d’une manière ou d’une autre, parfois simplement en envoyant des emails ou en utilisant des tableurs. Une gestion négligente des données peut présenter des risques pour votre organisation ou les personnes avec qui vous collaborez. Des fuites de données peuvent mener à la violence, l’ouverture des données peut bénéficier aux spéculateurs fonciers, et le matériel informatique peut être localisé pour traquer les activistes. Il est essentiel d’intégrer une évaluation des risques à la planification d’un projet pour être prêt à gérer les imprévus.</p>
 	<ul style="color:white">
-		<li>Start by identifying a set of events and actors (people or organisations) that could stop the project from achieving its goals. Consider including <a href="https://securityinabox.org" style="color:white">digital security risks</a>, but <a href="https://responsibledata.io" style="color:white">also think about</a> how the colllection of data might impact local power relationships, or how data might be re-used by others.</li>
-		<li>Write down answers to these questions: How likely is each of these events to happen? How serious would their impact on the project be?</li>
-		<li>Prioritise the events that are most likely to happen and the most serious.</li>
-		<li>Create a set of practical steps: what can you do to make each event less likely? Can you limit the damage if it does occur? What is your back-up plan?</li>
+		<li>Identifiez tout d’abord des événements ou des acteurs (individus ou organisations) qui pourraient faire obstacle à la réalisation des objectifs du projet. Envisagez d’y inclure <a href="https://securityinabox.org" style="color:white">la sécurité numérique</a>, <a href="https://responsibledata.io" style="color:white">et d’identifier l’impact que pourrait avoir la collecte de données sur l’équilibre des pouvoirs au niveau local,</a> ou comment les données pourraient être réutilisées par d’autres acteurs.</li>
+		<li>Formulez par écrit les réponses à ces trois questions : Quelle est la probabilité de chaque événement ? Quelle est la gravité des impacts qu’ils pourraient avoir sur le projet ? </li>
+		<li>Donnez la priorité aux événements les plus probables et à ceux qui auraient les impacts les plus graves. </li>
+		<li>Définissez les étapes pratiques à suivre : Comment rendre ces événements moins probables ? Pouvez-vous limiter le préjudice qu’ils causeraient ? Quel est votre plan de secours ? </li>
 	</ul>
-	<p style="color:white"><b>Preparing for the worst.</b> Even with the best planning, emergencies happen. Responding might require resources from external advocacy support to emergency medical funds, legal support, increased security funds, or tool replacement costs. <a href="https://digitaldefenders.org/digitalfirstaid" style="color:white">Digital Defenders’ Digital First Aid Kit</a> gives some simple advice on dealing with emergencies, and suggests organisations to contact if you need further help.</p>
+	<p style="color:white"><b>Vous préparer au pire.</b> Même si la planification est parfaite, des urgences peuvent survenir. Y remédier peut nécessiter des ressources additionnelles, comme un soutien externe, des fonds médicaux d’urgence, un appui juridique, une augmentation du budget de sécurité, ou des frais de remplacement des outils. <a href="https://digitaldefenders.org/digitalfirstaid" style="color:white">Le kit de premier secours de Digital Defenders </a> fournit des conseils simples pour la gestion des urgences, et une liste d’organisations à contacter en cas de besoin.</p>
 </blockquote>
 
 ##### Budget what you need
