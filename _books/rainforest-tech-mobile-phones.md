@@ -16,7 +16,9 @@ navigation:
   - Case studies
   - Further resources
   - About
-
+lang: en
+categories:
+  - en
 ---
 
 ## Mobile Phone Applications

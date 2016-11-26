@@ -17,7 +17,9 @@ navigation:
   - Planning
   - Implementation
   - Conclusion
-
+lang: en
+categories:
+  - en
 ---
 
 # Technology Tools in Human Rights

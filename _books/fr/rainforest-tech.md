@@ -14,7 +14,9 @@ navigation:
   - Tools
   - Further resources
   - About
-
+lang: fr
+categories:
+  - fr
 ---
 
 ## Introduction

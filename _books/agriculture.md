@@ -16,7 +16,9 @@ navigation:
   - Best Practices
   - Conclusion
   - Acknowledgements
-
+lang: en
+categories:
+  - en
 ---
 # Responsible Data in Agriculture
 
