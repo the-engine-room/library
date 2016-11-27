@@ -300,197 +300,197 @@ Commencez par **élaborer une méthodologie* (une explication de la manière de 
 </blockquote>
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
-	<h5 style="color:white">Responsible data box: Know when <b>not</b> to collect data</h5>
-	<p style="color:white">To reduce risks, only collect the minimum amount of data that you need to carry out your project (see <a href="http://forestcompass.org/how/resources/data-sharing-community-based-forest-monitoring-lessons-guyana" style="color:white">this example</a>). Think back to your risk assessment (see <a href="#planning" style="color:white">Planning</a> section) and collect sensitive data in a more secure way <a href="https://responsibledata.io/resources/handbook/chapters/chapter-02a-getting-data.html" style="color:white">(1)</a> <a href="https://www.accessnow.org/help" style="color:white">(2)</a> if necessary.</p>
-	<p style="color:white"><b>Informed consent</b></p>
-	<p style="color:white">When you collect data about an individual, you hold information that is personal to them. It is up to the person providing the data – not you or your organisation – to decide how that information should be used. Create a process to follow whenever you collect data from people that includes the following steps:</p>
+	<h5 style="color:white">Encadré sur les données responsables : Quand <b>ne pas</b> collecter d’informations</h5>
+	<p style="color:white">Afin de réduire les risques, collectez uniquement le nombre minimum de données dont vous avez besoin pour réaliser votre projet. (see <a href="http://forestcompass.org/how/resources/data-sharing-community-based-forest-monitoring-lessons-guyana" style="color:white">this example</a>). Référez-vous à votre évaluation des risques (voir <a href="#planning" style="color:white">la Section planification</a>) et collectez les données sensibles de manière sécurisée<a href="https://responsibledata.io/resources/handbook/chapters/chapter-02a-getting-data.html" style="color:white">(1)</a> <a href="https://www.accessnow.org/help" style="color:white">(2)</a> si nécessaire.</p>
+	<p style="color:white"><b>Consentement éclairé</b></p>
+	<p style="color:white">Quand vous collectez des données sur un individu, vous détenez des informations qui lui sont personnelles. C’est la personne qui fournit les données – et non votre organisation – qui doit décider de la manière dont ces informations seront utilisées. Elaborez un processus à suivre pour collecter des données personnelles qui contient les étapes suivantes :</p>
 	<ul style="color:white">
-		<li>Explain how the data you are collecting will be used, published and stored.</li>
-		<li>Discuss any risks with the person, and check if they have additional concerns.</li>
-		<li>If they decide that they are still happy to participate, record a statement from them agreeing to this (either by signing a document or recording a spoken statement).</li>
-		<li><a href="https://wiki.responsibledata.io/Framework_for_consent_policies" style="color:white">Allow</a> people to change their decision about how their data is held or used later on.</li>
+		<li>Expliquez comment les données que vous collectez seront utilisées, publiées et stockées</li>
+		<li>Abordez tous les risques avec la personne, et demandez-lui si elle a d’autres inquiétudes</li>
+		<li>Si la personne accepte tout de même de participer, recueillez une déclaration de son consentement (par la signature d’un document ou l’enregistrement d’une déclaration orale). </li>
+		<li><a href="https://wiki.responsibledata.io/Framework_for_consent_policies" style="color:white">Autorisez</a> les personnes à changer d’avis sur le stockage et l’utilisation de leurs données par la suite.</li>
 	</ul>
 </blockquote>
 
-#### Get feedback
+#### Sollicitez des retours d’information
 
-Don’t wait until the end of your project to find out how well it is working: ask at regular intervals, and adjust your activities accordingly. You can [collect](https://www.theengineroom.org/diy-for-me/) this information using methods like surveys, face-to-face meetings and [tracking](http://feedbacklabs.org/toolkit/) other measures like online interactions. 
+N’attendez pas la fin du projet pour savoir si tout se déroule bien : demandez à intervalles réguliers et ajustez vos activités en fonction des réponses. Vous pouvez [recueillir](https://www.theengineroom.org/diy-for-me/) ces retours d’information par le biais de questionnaires, de réunions physiques ou [td’autres méthodes ](http://feedbacklabs.org/toolkit/) comme l’analyse des discussions en ligne. 
 
-### Manage the data
+### Gestion des données 
 
-Before you start collecting information, plan out some categories to help organise the data. Before you start collecting information, plan out some categories to help organise the data. Base these categories on the people you want to reach (see [Use the Data](#usethedata) for more on how to do this).
+Avant de commencer à collecter des informations, planifiez des catégories pour une meilleure classification des données. Elles vous aideront à observer les tendances et les lacunes – vous pourrez en changer plus trad. (see [Use the Data](#usethedata) for more on how to do this).
 
-#### Control the quality of your data early
+#### Contrôlez la qualité de vos données dès le départ 
 
-Don’t wait until you have finished collecting the data to check it: check these factors before starting.
+N’attendez pas d’avoir collecté toutes les données avant de contrôler leur qualité : vérifiez ces facteurs avant de commencer.
 
-##### Make your formats consistent
+##### Adoptez des formats uniformes 
 
-Have a clearly defined system, format and set of categories for collecting information. This will save time in preparing it for analysis later: for example, record dates in the same way throughout (rather than some like ‘12-March-2015’ and others like ‘12/03/15’). Double-check that anyone inputting data understands the system. 
+Définissez un système, un format et des catégories clairs pour la collecte d’informations. Vous gagnerez ainsi du temps pour les analyser plus tard : par exemple, utiliser le même format de datation pour l’ensemble des données (plutôt que « 12 mars 2015 » pour certaines et « 12/03/15 » pour d’autres). Vérifiez bien que toutes les personnes qui entrent des données comprennent le système. 
 
-##### Identify where problems are most likely to occur
+##### Identifiez où des problèmes sont susceptibles d’apparaître 
 
-Think about the people using the technology: where will they make mistakes? Once you know where these points are, introduce a second check on the data or include extra training for staff. Technology tools can help: for example, you can make certain fields in an online survey only accept a response in a format you specify. 
+Où les personnes utilisant la technologie peuvent-elles commettre des erreurs ? Une fois que vous avez identifié ces points, procédez à une nouvelle vérification des données ou prévoyez une formation complémentaire de vos collaborateurs. Des outils technologiques peuvent vous être utiles : vous pouvez par exemple envoyer un questionnaire en ligne avec des champs n’acceptant qu’un format de réponse spécifique. 
 
-##### Make sure all your data goes through the same process
+##### Assurez-vous que toutes vos données soient traitées de la même manière 
 
-Ensure all data is collected with the same methods and analysed in the same piece of software - this will make it easier to compare and analyse.
+Faites en sorte que l’ensemble des données soient collectées de la même manière et analysées par le même logiciel – elles seront plus simples à comparer et analyser ainsi. 
 
-#### Making the data useful
+#### Rendre les données utilisables 
 
-Here are the main things you need to think about when preparing and analysing data. School of Data’s [‘Data Fundamentals’ course](http://schoolofdata.org/courses/#DataFundamentals) has more information on all the sections below.
+Voici les points principaux à prendre en considération lors de la préparation et de l’analyse des données. [Les cours de School of Data](http://schoolofdata.org/courses/#DataFundamentals) sur les principes fondamentaux de la gestion de données contiennent des informations plus détaillées sur toutes les sections ci-dessous.
 
-##### Preparing your data
+##### Préparation des données 
 
-You may need to clean data (manually removing any errors or fixing keyboard mistakes) and convert it into another format. This stage is commonly called ‘data wrangling’, and it may take up a lot of of time. Include it in your budget.
+Vous aurez peut-être besoin de « nettoyer » les données (retirer toute erreur et corriger les fautes de frappes) et de les convertir dans un autre format. On appelle cette étape le remaniement des données (data wrangling en anglais), et elle peut prendre un temps considérable. Intégrez-la à votre budget. 
 
-##### Statistics 101 
+##### Le b.a. ba des statistiques  
 
-There are many techniques for finding meaning in data. These include straightforward methods like percentage increases and more complex statistical techniques like correlation (“increased logging has been matched by increased flooding”). If the dataset is very complex, people on your team may need to understand statistical analysis to extract meaningful, robust information. If your project needs more expertise, consider hiring a consultant or asking an NGO that provides pro bono data support. See [School of Data](http://schoolofdata.org), [DataKind](http://www.datakind.org), and [Data Look](http://datalook.io).
+Plusieurs techniques existent pour faire parler les données. L’augmentation d’un pourcentage constitue une des méthodes les plus simples. Des techniques plus complexes incluent les corrélations (« l’augmentation des coupes correspond à une augmentation similaire des inondations »). Si votre fichier de données est très complexe, les membres de votre équipe devront pouvoir comprendre l’analyse statistique afin d’en extraire des informations significatives et fiables. Si vous avez besoin d’expertise supplémentaire pour votre projet, songez à recruter un consultant ou à faire appel à une ONG offrant bénévolement de l’aide pour la gestion de données. Par exemple : [School of Data](http://schoolofdata.org), [DataKind](http://www.datakind.org), [DoingGood Fellows](http://www.doinggoodfellows.org), [Data Look](http://datalook.io).
 
-##### Presenting data clearly
+##### Une présentation claire 
 
-Communicating what your data shows is one of the most important parts of a project – if you do it well, you can grab your audience’s attention and encourage them to act. There are many free or cheap tools that can help you make data visual - see Tactical Technology’s [Visualising Advocacy](https://visualisingadvocacy.org/resources/visualisationtools) project for examples based on your needs.
+Communiquer sur les constats tirés de l’analyse des données est un des aspects les plus importants d’un projet – si vous le faites correctement, vous retiendrez l’attention du public et l’encouragerez à agir. De nombreux outils sont disponibles gratuitement ou à un coût peu élevé pour vous aider à visualiser vos données – comme le projet [Visualising Advocacy](https://visualisingadvocacy.org/resources/visualisationtools) (visualiser le plaidoyer) de Tactical Technology qui fournit des exemples selon les besoins.
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
-	<h5 style="color:white">Responsible data box: Look after your data</h5>
+	<h5 style="color:white">Encadré sur les données responsables : Prenez soin de vos données</h5>
 		<br>
-	<p style="color:white"><b>How will you store your data within your organisation?</b></p>
-	<p style="color:white">If you are storing data on a network in your organisation, it will be kept on a server (a computer that provides data to other computers). If you have a server that is kept physically in your location, budget for someone with skills to take care of it. If you are paying to host your data on an external server, check that the provider offers <a href="https://wiki.responsibledata.io/Newbie_guide_to_select_hosting" style="color:white">all the features</a> you need and has good security measures.</p>
-	<p style="color:white"><b>Encrypt physically stored data</b></p>
-	<p style="color:white">Data can be stored physically on computer hard drives or external hard drives, which can be encrypted using software like TrueCrypt or FileVault. (This is not a substitute for the strong digital security measures: if a person can access your password, encryption will not help you.)</p>
-	<p style="color:white"><b>Deleting or archiving your data</b></p>
-	<p style="color:white">It is best to keep your data only for the period that you need it. The data may not be at risk now, but it is difficult to know what the future will hold. To delete data on a hard disk properly, you need to write over it several times. However, if the data has lasting cultural or historical value, or might be useful as evidence in the future, you may want to preserve it. Pick a format that is likely to be usable in future, and consider partnering with an archive that will maintain the <a href="https://responsibledata.io/resources/handbook/chapters/chapter-03-closing-a-project.html" style="color:white">archival systems</a> for you.</p>
+	<p style="color:white"><b>HComment allez-vous conserver les données au sein de votre organisation?</b></p>
+	<p style="color:white">Si vous stockez des données sur un réseau de votre organisation, elles seront conservées sur un serveur (un ordinateur qui fournit des données à d’autre ordinateurs). Si votre serveur est physiquement situé dans vos locaux, investissez dans du personnel qualifié pour s’en occuper. Si vous payez un hébergement sur un serveur externe, vérifiez que votre fournisseur de service offre<a href="https://wiki.responsibledata.io/Newbie_guide_to_select_hosting" style="color:white">toutes les fonctions</a> dont vous aurez besoin et prend des mesures de sécurité adéquates.</p>
+	<p style="color:white"><b>Chiffrez/cryptez les données stockées physiquement</b></p>
+	<p style="color:white">Les données stockées physiquement sur les disques durs des ordinateurs ou sur des disques durs externes peuvent être cryptées/chiffrées à l’aide de logiciels comme TrueCrypt ou FileVault. (Ce procédé ne se substitue pas à l’adoption de mesures strictes de sécurité numérique. Si quelqu’un parvient à se procurer votre mot de passe, le chiffrement ne vous sera d’aucun secours).</p>
+	<p style="color:white"><b>Effacer ou archiver les données</b></p>
+	<p style="color:white">Il est préférable de ne pas conserver vos données au-delà de la période pendant laquelle vous les utiliserez. Même si elles ne sont pas en danger actuellement, il est difficile de prévoir ce que réserve l’avenir. Pour effacer des données d’un disque dur, il faut les écraser plusieurs fois. Cependant, si ces données ont une valeur culturelle ou historique à long terme, ou si elles pourraient servir de preuve à l’avenir, il serait souhaitable de les conserver. Pour ce faire, choisissez un format qui sera sûrement utilisable dans le futur. Vous pouvez faire appel à une société d’archivage pour la maintenance des <a href="https://responsibledata.io/resources/handbook/chapters/chapter-03-closing-a-project.html" style="color:white">systèmes d’archives.</a></p>
 </blockquote>
 
-##### Check for legal restrictions 
+##### Vérifiez les restrictions légales
 
-Legal issues will vary depending on your country and the kind of data you have, but can include data protection, copyright issues and even prohibitions on encryption technology. If you find that you have been breaking the law halfway through the project, you may have to pay a fine or even stop work. [Look into this carefully](https://responsibledata.io/resources/handbook/chapters/chapter-02-managing-data.html#what-types-of-laws-and-procedures-apply-to-your-data-project), and get legal advice if you are unsure. 
+Les dispositions juridiques relatives aux données varient selon les pays et le type de données détenues, mais elles peuvent concerner la protection, les droits de reproduction ou l’interdiction de techniques de chiffrage. Si vous vous retrouvez dans l’illégalité au milieu d’un projet, vous devrez peut-être payer une amende ou même cesser vos travaux. [Etudiez soigneusement cet aspect](https://responsibledata.io/resources/handbook/chapters/chapter-02-managing-data.html#what-types-of-laws-and-procedures-apply-to-your-data-project) et sollicitez des conseils juridiques en cas de doute.
 
-##### Who else can access your data?
+##### Qui peut avoir accès à vos données ? 
 
-If individuals are identified in data you collect, your staff, allies or local communities could face threats. Lower the risks by taking three steps: only collect and upload the information that you really cannot do without; [remove names and information that might identify people wherever possible](http://theodi.github.io/ukan-course/); and avoid using any technology services that are a particular risk in your country.
+Si des personnes sont identifiées individuellement dans vos données, vos collaborateurs, partenaires ou les communautés locales pourraient être menacés. Réduisez les risques en appliquant trois principes : ne recueillez et ne stockez que les informations qui vous sont indispensables ; [effacez les noms et les éléments qui permettent d’identifier des individus quand c’est possible](http://theodi.github.io/ukan-course/) ; et évitez d’utiliser les technologies particulièrement risquées dans votre pays.
 
 <a name="usethedata"></a>
 
-### Use the data
+### Utilisation des données 
 
-Now you’ve collected the data, you need a [carefully planned campaign strategy](http://www.fern.org/sites/fern.org/files/provokingchange_LR.pdf) to use it well.
+Maintenant que vous avez collecté les informations, il va vous falloir adopter une [stratégie d’utilisation soigneusement élaborée](http://www.fern.org/sites/fern.org/files/provokingchange_LR.pdf).
 
-#### Planning your campaign
+#### Planifier la campagne
 
-##### Map out the field
+##### Déterminez le contexte 
 
-List all the people and organisations that are involved in an issue. Be as specific as possible: avoid broad categories (like ‘the public’ or ‘government officials’) and choose specific sub-groups (like business journalists). Then group them into three categories:
+Dressez la liste de toutes les personnes concernées par une même question. Soyez aussi précis que possible : évitez les catégories trop vagues (comme « le public » ou « l’administration ») et définissez des sous-groupes spécifiques (comme les journalistes économiques). Regroupez-les ensuite en trois catégories :
 
-* Allies – people or organisations that already support what you do. **You need to get these people to actively support your campaign.**
-* Neutral parties – people who are not currently involved. **You need to educate these people to turn them into allies.**
-* Opponents – people who oppose the change you want to see. **You need to counter these people – either by changing their mind or limiting the impact they can have.**
+* Les alliés – personnes ou organisations qui vous soutiennent d’ores et déjà. **Faites en sorte qu’ils soutiennent activement votre campagne.**
+* Les acteurs neutres – personnes qui ne sont pas impliquées. **Faites en sorte qu’ils deviennent vos alliés.**
+* Les opposants – personnes opposées aux changements que vous attendez. **Faites en sorte de contrecarrer leurs actions, soit en leur faisant changer d’opinion ou en limitant leur influence.**
 
-##### Identify allies 
+##### Identifiez vos alliés 
 
-Any advocacy campaign needs a network of allies. Plan how to engage the groups you listed above, keeping them interested and involved. Think creatively about whether you can help each other: would your data be useful for them? Do they have contacts that you need? 
+Une campagne de plaidoyer nécessite un réseau d’alliances. Définissez les manières d’impliquer les groupes identifiés comme alliés et maintenez leur intérêt et leur engagement. Soyez créatifs dans votre soutien mutuel : vos données leur seront-elles utiles ? Possèdent-ils des contacts dont vous avez besoin ?
 
 <blockquote>
- <h5>Case study: Using your allies</h5>
- <p>In 2007, the Chilean organisation Movement for the Defence of the Environment (MODEMA) produced a series of posters of the Punta de Choros to make local residents aware of the risks of building four thermoelectric plants. The posters were seen by a visiting group of Chilean video-makers, who filmed a documentary about the area and started a campaign called Chao Pescao (‘Bye-Bye Fish’ in Spanish).</p>
- <p><b>How did it help?</b></p>
+ <h5>Cas d’étude : utilisez vos alliés.</h5>
+ <p>En 2007, l’organisation chilienne Mouvement pour la défense de l’environnement (MODEMA) a élaboré une série d’affiches de Punta de Choros qui présentent aux habitants de la zone les risques que posent la construction de quatre centrales thermoélectriques. Un groupe de vidéastes chiliens qui visitait cette région a vu les affiches et a lancé la campagne Chao Pescao (« Au revoir les poissons » en espagnol).</p>
+ <p><b>Quelle en est l’utilité ?</b></p>
  <ul>
- <li>The groups worked together to increase their impact. As the campaign grew, more allies got involved, with national media covering the issue for over ten days.</li>
- <li>The campaign combined online and offline tactics: the documentary was screened on the streets of the capital Santiago using bicycle-powered cinemas, and citizen demonstrations were immediately uploaded and shared through YouTube and among the 10,000 members of Chao Pescao's <a href="https://www.facebook.com/groups/172364371563/?ref=br_rs">Facebook group</a> </li>
- <li>In January 2010 the government <a href="https://archive.informationactivism.org/en/chaopescao">cancelled</a> building the thermoelectric plants, and new presidential candidates were pressured to keep Punta de Choros clean.</li>
+ <li>Ces groupes ont travaillé ensemble pour accroître leur impact. Au fur et à mesure de la campagne, d’autres alliés les ont rejoints et les médias nationaux ont couvert l’événement pendant plus de dix jours. </li>
+ <li>TLa campagne a combiné des stratégies en ligne et hors ligne : le documentaire a été projeté dans les rues de la capitale Santiago, avec du courant électrique fournit par des bicyclettes, et les manifestations citoyennes ont immédiatement été publiées sur Youtube et partagées avec les 10 000 abonnés de Chao Pescao <a href="https://www.facebook.com/groups/172364371563/?ref=br_rs">sur Facebook</a> </li>
+ <li>En janvier 2010, le gouvernement <a href="https://archive.informationactivism.org/en/chaopescao">a renoncé</a> à construire les centrales thermoélectriques, et les nouveaux candidats à la présidence sont sous pression pour préserver Punta de Choros.</li>
  </ul>
 </blockquote>
 
-##### Choose a target audience
+##### Choisir un public cible 
 
-Choose one or more of these groups whose behaviour you want to change: they are your target audience. Do you want civil servants to change policy on land rights, or get a company to improve forest management practices? Avoid targeting very large groups: the more difficult it will be to craft relevant campaign messages. 
+Choisissez un ou plusieurs groupes dont vous voulez modifier le comportement : ils constituent votre public cible. Voulez-vous que les fonctionnaires changent leur politique du droit à la terre, ou qu’une entreprise améliore sa gestion de la forêt ? Evitez de cibler des groupes trop larges : il serait difficile de trouver des messages de campagne adaptés. 
 
 <blockquote>
-	<h5>Case study: Choosing your target</h5>
-	<p>Indonesian organisation Aliansi Masyarakat Adat Nusantara (AMAN) received information through its SMS reporting platform that 30 people had been detained in north Sumatra (Indonesia) for allegedly obstructing a company's operations.</p>
-	<p><b>How did it help?</b></p>
+	<h5>Cas d’étude : choisir sa cible.</h5>
+	<p>L’organisation indonésienne Aliansi Masyarakat Adat Nusantara (AMAN) a été informée  par son système d’alerte par SMS que 30 personnes étaient détenues au Nord de Sumatra (Indonésie) pour avoir entravé les activités d’une compagnie.</p>
+	<p><b>Quelle en a été l’utilité ?</b></p>
 	<ul>
-		<li>AMAN used the information from the SMS alert to identify who had detained them – and who they should target in their advocacy campaign.</li>
-		<li>They then created a team of communications, mapping and legal experts, who successfully lobbied for the people to be released.</li>
+		<li>AMAN a utilisé les informations reçues par SMS pour identifier par qui ces personnes avaient été détenues – et identifier qui cibler dans leur campagne de plaidoyer.</li>
+		<li>Ils ont ensuite mis sur pied une équipe d’experts en communication, cartographie et droit qui est  parvenue à faire libérer les individus.</li>
 	</ul>
 </blockquote>
 
-##### Figure out how to reach that group
+##### Identifiez comment atteindre chaque groupe 
 
-Start with what you already know: where do they get their information? What are they interested in? What media do they use? What kind of change can they realistically influence? Fill in the gaps in your knowledge: go public meetings, scan social media or meet people directly. 
+Commencez par ce que vous savez déjà : où cherchent-ils leurs informations ? Qu’est-ce qui les intéresse ? Quels médias utilisent-ils ? Quels sont les domaines dans lesquelles ils ont une réelle influence ? Recherchez les informations qui vous manquent en vous rendant à des réunions publiques, en consultant les réseaux sociaux ou en rencontrant directement des personnes. 
 
-#### Running your campaign
+#### Mener votre campagne 
 
-##### Choose the right tactics for the situation
+##### Choisissez les stratégies adéquates en fonction de la situation 
 
-Use your knowledge of your data and target audience to decide which tactics you should use: 
+Utilisez les connaissances que vous avez acquises grâce à vos données et ciblez votre public pour définir vos stratégies. 
 
-##### Present data in a way your target audience can use and understand
+##### Présentez vos données sous une forme compréhensible et utilisable par votre public cible 
 
-Find out what information your audience needs. If your audience doesn’t understand your data or work out what to do with it, they won’t act on it. Sometimes you might want to target a particular newspaper’s readers; at others, you might need to give input to policy documents. 
+Identifiez les informations dont votre public a besoin. S’il ne comprend pas vos données ou ne sait pas comment les utiliser, ils ne réagira pas. Vous pouvez choisir de vous adresser aux lecteurs d’un journal en particulier, ou de soumettre des suggestions à l’appui d’un document politique. 
 
-**Think about both the words you use and the way you present them:** Choose the words you use carefully and think about developing different materials for different groups. Some groups might not know the technical terms involved in land rights negotiations, while others might only take you seriously if you use them. Using English might let you reach an international audience, but could limit your reach in your home country. Vary how you present your data according to your audience. Members of the public with limited time may only read a short summary of your findings, while policy-makers may need detailed reports. 
+**Réflechissez aux mots que vous employez et à la manière de les présenter : ** Faites attention à bien choisir vos mots, et envisagez d’utiliser des documents différents pour vous adresser à des groupes différents. Certains groupes ne connaissent peut-être pas les termes techniques employés dans les négociations sur les droits fonciers, alors que d’autres vous prendront au sérieux seulement si vous les utilisez. Utiliser l’anglais peut vous permettre d’atteindre des cibles internationales, mais peut limiter votre rayonnement au niveau national. Adaptez la manière dont vous présentez vos informations selon la cible visée. Un public pressé ne prendra le temps de lire qu’un court résumé de vos conclusions, mais les décideurs politiques auront besoin de rapports détaillés. 
 
 <blockquote>
-	<h5>Case study: Using video footage to mobilise support</h5>
-	<p>In 2009, the Peruvian organisation <a href="http://www.aidesep.org.pe/">AIDESEP</a>recorded eyewitness footage of police violence against a group of indigenous people in Bagua region and uploaded it to the video sharing site YouTube.</p>
-	<p><b>How did it help?</b></p>
+	<h5>Cas d’étude : Utiliser la vidéo pour mobiliser du soutien.</h5>
+	<p>En 2009, l’organisation péruvienne <a href="http://www.aidesep.org.pe/">AIDESEP</a> a utilisé des vidéos prises par des témoins de violences policières à l’encontre d’un groupe autochtone dans la région de Bagua, et les a téléchargées sur le site de partage YouTube.</p>
+	<p><b>Quelle en a été l’utilité ?</b></p>
 	<ul>
-		<li>The video was distributed widely online by bloggers, providing evidence of an incident that might otherwise have been ignored by a wider audience.</li>
-		<li>Solidarity marches took place worldwide and a government commission was established to investigate the incident. In 2013 Peru's state entity responsible for indigenous peoples officially recognised that people living in voluntary isolation were resident in the Napo-Tigre region (although a campaign to establish an indigenous reserve is still <a href="http://hub.witness.org/en/blog/social-media-and-online-technologies-indigenous-rights-peru">continuing</a>).</li>
+		<li>La vidéo a été largement partagée et reprise par des bloggeurs, et a servi de preuve à un incident qui aurait pu être ignoré du grand public.</li>
+		<li>Des manifestations de solidarité ont eu lieu à travers le monde, et une commission gouvernementale a été créée pour enquêter sur l’incident. En 2013, l’entité nationale péruvienne responsable des questions autochtones a officiellement reconnu qu’un peuple vivant en isolement volontaire était résident de la région Napo-Tigre (une campagne pour la création d’une réserve autochtone est toujours <a href="http://hub.witness.org/en/blog/social-media-and-online-technologies-indigenous-rights-peru">en cours).</a></li>
 	</ul>
 </blockquote> 
 
-#### Check whether your campaign is working
+#### Vérifiez que votre campagne est efficace 
 
-If you can analyse different parts of your campaign while it’s in progress, you’ll be able to work out where to focus your effort.
+En analysant les différentes composantes de votre campagne pendant son déroulement, vous identifierez où concentrer vos efforts. 
 
-##### What to track
+##### Que faut-il vérifier ?
 
-The list of potential sources to check how people are responding is long, but monitoring everything can be time-consuming: focus the most important sources for your campaign. Three things you should be tracking: 
+Il y a de nombreux moyens de sonder les réactions à une campagne, mais tout mesurer peut prendre un temps considérable : limitez-vous aux sources d’informations les plus importantes pour votre campagne. Voici trois choses que vous devez identifier : 
 
-* Who is talking about the issue: has it changed during your campaign?
-* Your data or campaign message: is it being mentioned in public? Where, and how? 
-* Your target audience, opponents and allies: have they responded to the campaign, or changed in any way?
+* Qui parle du sujet : la situation a-t-elle évolué au cours de la campagne ? 
+* Vos données ou messages de campagne sont-ils mentionnés par le public ? Où et quand ? 
+* Votre public cible, vos opposants et vos alliés ont-ils réagi à la campagne ou changé leur comportement ? 
 
-##### Make progress measurable
+##### Rendez vos progrès mesurables 
 
-Create targets that you want your campaign to achieve and track progress against them. Good targets are 'SMART':
+Etablissez des objectifs à atteindre pour votre campagne et mesurez votre progression. Les bons objectifs doivent être « smart » :
 
-* **S**pecific - make a precise definition of what you are measuring (for example, the number of newspaper articles that use your data on incursions into indigenous land)
-* **M**easurable - choose things that can be counted, like the number of people that sign a petition in one month.
-* **A**chievable - don’t aim to reach 100% of a particular group, unless it’s actually feasible
-* **R**elevant - pick useful indicators: for example, if your audience doesn’t use social media much, don’t measure it.
-* **T**ime-bound - pick a time by which you expect to have achieved your goal.
+* **S**pécifiques – définissez précisément ce que vous souhaitez mesurer (par exemple, le nombre d’articles de presse qui utilisent vos données sur les incursions dans les territoires autochtones) ;
+* **M**eesurables – choisissez des éléments qui peuvent être quantifiés, comme le nombre de personnes qui ont signé une pétition sur un mois ;
+* **A**tteignables – ne prévoyez pas de toucher 100% des individus d’un groupe particulier, sauf si c’est réellement possible ;
+* Pertinents (**R**elevant) – choisissez des indicateurs utiles : par exemple, si votre cible n’utilise pas beaucoup les réseaux sociaux, inutile de le mesurer.
+* Limités dans le **T**emps – fixez une période au terme de laquelle vous aimeriez avoir atteint votre objectif. 
 
-##### Using technology to track your campaign
+##### Utilisez la technologie pour évaluer la progression de votre campagne 
 
-Technology tools can improve advocacy campaigns in a number of ways, from monitoring campaigns, to managing data, to visualizing data for powerful presentations. For suggestions on using technology to track media attention, user engagement or project implementation, see this [guide](https://www.theengineroom.org/diy-for-me). The [Visualising Advocacy](https://visualisingadvocacy.org) gives many more examples of things that you can do with your data.
+Les outils technologiques peuvent améliorer les campagnes de plaidoyer de différentes manières, du suivi de la campagne  et de la gestion des données à la visualisation d’informations dans des présentations efficaces.  Pour des suggestions sur l’utilisation de la technologie pour mesurer l’attention médiatique, l’engagement des utilisateiurs ou la mise en œuvre des projets, référez-vous au [guide suivant]( https://www.theengineroom.org/diy-for-me/).  Visualising Advocacy fournit de nombreux autres exemples d’utilisation [des données](https://visualisingadvocacy.org).
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
-	<h5 style="color:white">Responsible data box: Publishing data responsibly</h5>
-	<p style="color:white">If you use an external online service to visualise or present your data, remember the risks. Once you have uploaded your data, you can’t always know whether the company can access it or will provide it to other people, or what would happen if that service went out of business. If you do decide to upload data to them, try not to  include data that could put people at risk.</p>
+	<h5 style="color:white">Encadré sur les données responsables :  Publication responsable des données</h5>
+	<p style="color:white">Si vous utilisez des services externes en ligne pour visualiser ou présenter vos données, soyez conscients des risques. Une fois vos données transférées, vous ne pouvez pas toujours savoir si l’entreprise y a accès ou si elle peut les fournir à d’autres personnes, ni ce qu’elles deviendraient si le service cessait de fonctionner.</p>
 </blockquote>
 
-## Matching objectives with tools
+## Les bons outils pour les bons objectifs
 
-Are you clear about your organisation’s goals but not sure where technology could fit in? A few common objectives are listed in the table below, with some types of tools that might help achieve them. 
+Les objectifs de votre organisation sont clairs mais vous n’êtes pas certains de la place à attribuer à la technologie ? Le tableau ci-dessous vous fournit une liste d’objectifs courants et le type d’outils qui peuvent être utiles à leur réalisation. 
 
-Keep in mind that technology tools can only help achieve these objectives when they fit into a well-designed programme strategy. The [Strategy](#strategy) section gives tips for thinking about how to ensure a tool fits with your priorities, and the [Tools](#tools) section provides more detail on each tool. 
+Gardez à l’esprit que les outils technologiques ne peuvent contribuer à atteindre vos objectifs qu’à condition d’être intégrés à une stratégie de projet bien conçue. La [section Stratégie](#strategy) vous donne des pistes pour vous assurer que les outils correspondent bien à vos priorités, et la section [Outils](#tools) vous fournit des indications plus détaillées sur chacun des outils. 
 
-Remember, the best tool for different objectives will be different in every situation. The table below shows some common uses, but isn’t a roadmap. 
+Souvenez vous que l’outil adéquat pour différents objectifs sera différent dans chaque situation. Le tableau ci-dessous liste quelques usages ordinaires, mais ne constitue pas une feuille de route. 
 
-
-| Objective     | Tools that could help achieve that objective |
+| Objectif
+    | Outils qui peuvent contribuer à atteindre cet objectif |
 | ------------- | -------------------------------------------- |
-| Starting or supporting dialogue between communities and the government | Participatory mapping, Video and audio |
-| Providing evidence to governments to encourage them to recognise indigenous lands | Participatory mapping, Online mapping, DIY aerial photography, Mobile applications, Video and audio |
-| Collecting evidence of deforestation or forest degradation | Satellite mapping, Participatory mapping, Mobile applications, DIY aerial photography, Video and Audio |
-| Providing evidence of wrongdoing towards individuals or communities| Mobile applications, Video and Audio |
-| Providing evidence of companies’ wrongdoing in their use of land | Satellite mapping, Online mapping, DIY aerial mapping, Video and audio, Mobile applications |
-| Recording and monitoring the environmental value of areas of land | Satellite mapping, Online mapping, Participatory mapping, Mobile applications, DIY aerial mapping | 
-| Supporting communities by presenting and providing knowledge | Participatory mapping, Audio and Video, DIY aerial photography |
+| Initier ou soutenir un dialogue entre les communautés et le gouvernement. | Cartographie participative, outils vidéo et audio. |
+| Fournir des preuves matérielles aux gouvernements pour qu’ils reconnaissent les terres autochtones. | Cartographie participative, cartographie en ligne, photographie aérienne indépendante, applications mobiles, outils vidéo et audio. |
+| Recueillir des preuves de la déforestation et de la dégradation des forêts. | Cartographie satellite, cartographie participative, applications mobiles, photographie aérienne indépendante, outils vidéo et audio. |
+| Fournir des preuves d’abus d’individus ou de communautés. | Applications mobiles, outils vidéo et audio. |
+| Fournir des preuves de pratiques illicites des entreprises dans l’utilisation des terres | Cartographie satellite, cartographie en ligne, photographie aérienne indépendante, outils vidéo et audio, applications mobiles |
+| Consigner et suivre la valeur environnementale des zones territoriales | Cartographie satellite, cartographie en ligne, cartographie participative, applications mobiles, cartographie aérienne indépendante | 
+| Soutenir les communautés en leur fournissant et en leur présentant des connaissances | Cartographie participative, outils audio et vidéo, photographie aérienne indépendante. |
 
 
 ## Tools
