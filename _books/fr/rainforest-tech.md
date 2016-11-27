@@ -481,9 +481,8 @@ Gardez à l’esprit que les outils technologiques ne peuvent contribuer à atte
 
 Souvenez vous que l’outil adéquat pour différents objectifs sera différent dans chaque situation. Le tableau ci-dessous liste quelques usages ordinaires, mais ne constitue pas une feuille de route. 
 
-| Objectif
-    | Outils qui peuvent contribuer à atteindre cet objectif |
-| ------------- | -------------------------------------------- |
+| Objectif      | Outils qui peuvent contribuer à atteindre cet objectif |
+| ------------- | ------------------------------------------------------ |
 | Initier ou soutenir un dialogue entre les communautés et le gouvernement. | Cartographie participative, outils vidéo et audio. |
 | Fournir des preuves matérielles aux gouvernements pour qu’ils reconnaissent les terres autochtones. | Cartographie participative, cartographie en ligne, photographie aérienne indépendante, applications mobiles, outils vidéo et audio. |
 | Recueillir des preuves de la déforestation et de la dégradation des forêts. | Cartographie satellite, cartographie participative, applications mobiles, photographie aérienne indépendante, outils vidéo et audio. |
@@ -491,7 +490,6 @@ Souvenez vous que l’outil adéquat pour différents objectifs sera différent 
 | Fournir des preuves de pratiques illicites des entreprises dans l’utilisation des terres | Cartographie satellite, cartographie en ligne, photographie aérienne indépendante, outils vidéo et audio, applications mobiles |
 | Consigner et suivre la valeur environnementale des zones territoriales | Cartographie satellite, cartographie en ligne, cartographie participative, applications mobiles, cartographie aérienne indépendante | 
 | Soutenir les communautés en leur fournissant et en leur présentant des connaissances | Cartographie participative, outils audio et vidéo, photographie aérienne indépendante. |
-
 
 ## Tools
 
