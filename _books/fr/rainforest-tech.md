@@ -506,33 +506,33 @@ Souvenez vous que l’outil adéquat pour différents objectifs sera différent 
 
 ### Obtenir des données 
 
-*  Le site **DataHub **de la Fondation** **Open Knowledge fournit des données libres d’accès sur une vaste gamme de sujets : [http://datahub.io/](http://datahub.io/)
+*  Le site **DataHub** de la Fondation Open Knowledge fournit des données libres d’accès sur une vaste gamme de sujets : [http://datahub.io/](http://datahub.io/)
 
 * **Data Portals** est une liste complète de sites gouvernementaux fournissant des données libres : [http://dataportals.org/](http://dataportals.org/)
 
 * Liste de fichiers de données de l’**Open Access Directory** sur des sujets spécifiques, dont les questions environnementales : [http://oad.simmons.edu/oadwiki/Data_repositories](http://oad.simmons.edu/oadwiki/Data_repositories), 
 
-* L’**Environmental Justice Atlas **(atlas de la justice environnementale) est une carte du monde des conflits liés à l’environnement** **: [https://ejatlas.org/](https://ejatlas.org/)
+* L’**Environmental Justice Atlas** (atlas de la justice environnementale) est une carte du monde des conflits liés à l’environnement : [https://ejatlas.org/](https://ejatlas.org/)
 
-* Conseils issus du** Guide du datajournalisme **sur les demandes liées à la liberté d’information** **: [http://datajournalismhandbook.org/1.0/en/getting_data_1.html](http://datajournalismhandbook.org/1.0/en/getting_data_1.html). 
+* Conseils issus du **Guide du datajournalisme** sur les demandes liées à la liberté d’information : [http://datajournalismhandbook.org/1.0/en/getting_data_1.html](http://datajournalismhandbook.org/1.0/en/getting_data_1.html). 
 
-* **Supply Change** rassemble tous les engagements pris par les entreprises suivies par les ONG : [http://www.supply-change.org/](http://www.supply-change.org/)
+* **Supply Change** rassemble tous les engagements pris par les entreprises suivies par les ONG : [http://www.supply-change.org/](http://www.supply-change.org/)
 
 * La boîte à outils de **Feedback Labs** offre une grande variété de ressources et d’outils pour trouver des informations auprès de vos partenaires : [https://feedbacklabs.org/toolkit/](https://feedbacklabs.org/toolkit/)
 
 ### Gestion des données 
 
-* **Security in-a-Box **est un guide de sécurité numérique s’adressant aux activistes et aux défenseurs des droits de l’Homme dans le monde entier. Il est produit par Frontline Defenders et Tactical Technology Collective : [https://securityinabox.org/](https://securityinabox.org/)
+* **Security in-a-Box** est un guide de sécurité numérique s’adressant aux activistes et aux défenseurs des droits de l’Homme dans le monde entier. Il est produit par Frontline Defenders et Tactical Technology Collective : [https://securityinabox.org/](https://securityinabox.org/)
 
-* Le forum **Responsible Data **offre des ressources et des guides pour aider les organisations à utiliser des données tout en respectant les règles de confidentialité et de consentement : [https://responsibledata.io](https://responsible/)
+* Le forum **Responsible Data** offre des ressources et des guides pour aider les organisations à utiliser des données tout en respectant les règles de confidentialité et de consentement : [https://responsibledata.io](https://responsible/)
 
-* Le kit de premier secours numérique de **Digital Defenders **contient des outils d’auto-diagnostic à l’attention d’organisations ou d’activistes menacés : [https://digitaldefenders.org/digitalfirstaid/](https://digitaldefenders.org/digitalfirstaid/) 
+* Le kit de premier secours numérique de **Digital Defenders** contient des outils d’auto-diagnostic à l’attention d’organisations ou d’activistes menacés : [https://digitaldefenders.org/digitalfirstaid/](https://digitaldefenders.org/digitalfirstaid/) 
 
-* Le guide « sécuriser ma vidéo » d’**EngageMedia **fournit aux vidéo-activistes des outils pour sécuriser leurs activités. Il porte principalement sur l’Indonésie mais peut être appliqué à d’autres contextes : [http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf](http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf)
+* Le guide « sécuriser ma vidéo » d’**EngageMedia** fournit aux vidéo-activistes des outils pour sécuriser leurs activités. Il porte principalement sur l’Indonésie mais peut être appliqué à d’autres contextes : [http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf](http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf)
 
 ### Aide à la collecte et à l’utilisation de données : 
 
-* Les cours de la **School of Data** comprennent des introductions aux données et des informations spécifiques sur certaines techniques telle que le *scraping *(grattage de données) :[ http://schoolofdata.org/courses](http://schoolofdata.org/courses/#DataFundamentals)
+* Les cours de la **School of Data** comprennent des introductions aux données et des informations spécifiques sur certaines techniques telle que le scraping (grattage de données) :[ http://schoolofdata.org/courses](http://schoolofdata.org/courses/#DataFundamentals)
 
 * **DataKind** forme des équipes d’experts en gestion de données bénévoles pour aider les organisations à but non lucratif à résoudre leurs problèmes de données : [http://www.datakind.org](http://www.datakind.org)
 
@@ -542,7 +542,7 @@ Souvenez vous que l’outil adéquat pour différents objectifs sera différent 
 
 * **Open Data Commons** d’Open Knowledge a élaboré un guide rapide sur les licences ouvertes : [http://opendatacommons.org/guide/](http://opendatacommons.org/guide/) 
 
-* Le **Guide de l’Open Data **contient une liste de formats de fichiers ouverts pour publier des données libres : [http://opendatahandbook.org/en/appendices/file-formats.html](http://opendatahandbook.org/en/appendices/file-formats.html) 
+* Le **Guide de l’Open Data** contient une liste de formats de fichiers ouverts pour publier des données libres : [http://opendatahandbook.org/en/appendices/file-formats.html](http://opendatahandbook.org/en/appendices/file-formats.html) 
 
 ### Aide au choix de la technologie 
 
@@ -554,17 +554,17 @@ Souvenez vous que l’outil adéquat pour différents objectifs sera différent 
 
 ### Visualisation
 
-* Le réseau **Earth Journalism **offre des formations et des ressources pour aider les journalistes des pays en développement à couvrir les sujets liés à l’environnement, notamment à l’aide de visuels : [http://earthjournalism.net/resources](http://earthjournalism.net/resources)
+* Le réseau **Earth Journalism** offre des formations et des ressources pour aider les journalistes des pays en développement à couvrir les sujets liés à l’environnement, notamment à l’aide de visuels : [http://earthjournalism.net/resources](http://earthjournalism.net/resources)
 
 * **Environmental News Lab** contient des outils et des tutoriels sur la manière de traiter les questions environnementales au Brésil et dans toute l’Amazonie : [http://lab.oeco.org.br/](http://lab.oeco.org.br/)
 
-* **Tactical Technology Collective **donne des exemples et des conseils sur l’utilisation de données et de visuels en soutien à une campagne dans l’ouvrage Visualising Information for Advocacy : [https://visualisingadvocacy.org](https://visualisingadvocacy.org)
+* **Tactical Technology Collective** donne des exemples et des conseils sur l’utilisation de données et de visuels en soutien à une campagne dans l’ouvrage Visualising Information for Advocacy : [https://visualisingadvocacy.org](https://visualisingadvocacy.org)
 
 * **Geojournalism** offre des ressoures et des formations s’adressant aux journalistes, designers et développeur pour visualiser des données géographiques : [http://geojournalism.org](http://geojournalism.org)
 
 ### Application pour téléphone mobiles 
 
-* Le rapport** **Mobiles in Development** **(mobiles en développement) de **Engine Room **fournit une vue d’ensemble de l’utilisation des téléphones mobiles pour le développement, et contient des informations sur le fonctionnement de la collecte mobile d’informations : [http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development](http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development)
+* Le rapport Mobiles in Development (mobiles en développement) de **Engine Room** fournit une vue d’ensemble de l’utilisation des téléphones mobiles pour le développement, et contient des informations sur le fonctionnement de la collecte mobile d’informations : [http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development](http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development)
 
 * **NetHope** et **Humanitarian Nomad** ont rédigé une série de questions pour vous aider à choisir un outil mobile : [http://solutionscenter.nethope.org/](http://solutionscenter.nethope.org/) et [http://humanitarian-nomad.org/online-selection-tool/](http://humanitarian-nomad.org/online-selection-tool/)
 
@@ -574,13 +574,13 @@ Souvenez vous que l’outil adéquat pour différents objectifs sera différent 
 
 * Le rapport de la **Banque Mondiale** « Opportunités et Conseils sur les Applications Mobiles pour les Secteurs Forestiers et Agricoles » contient des conseils sur la comparaison des fonctionnalités des applications mobiles et la planification des coûts à court et long terme : [http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors](http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors)
 
-* Le Guide d’utilisation de l’intégrité des données de **FrontlineSMS **offre un cadre pour la compréhension du niveau de risque de toute activité par SMS : http://www.frontlinesms.com/wp-content/uploads/2011/08/frontlinesms_userguide.pdf
+* Le Guide d’utilisation de l’intégrité des données de **FrontlineSMS** offre un cadre pour la compréhension du niveau de risque de toute activité par SMS : http://www.frontlinesms.com/wp-content/uploads/2011/08/frontlinesms_userguide.pdf
 
 * **Forest Compass** rassemble des ressources pour la surveillance des forêts par les communautés : [http://forestcompass.org/how/resources](http://forestcompass.org/how/resources)
 
-* **OpenForis **est un ensemble d’applications mobiles et d’outils logiciels pour la collecte et l’analyse de données : [http://www.openforis.org/](http://www.openforis.org/)
+* **OpenForis** est un ensemble d’applications mobiles et d’outils logiciels pour la collecte et l’analyse de données : [http://www.openforis.org/](http://www.openforis.org/)
 
-* **TechSoup **donne des conseils sur** **le choix d’appareils mobiles qui répondent à vos besoins : http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for
+* **TechSoup** donne des conseils sur le choix d’appareils mobiles qui répondent à vos besoins : http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for
 
 ### Cartographie satellite 
 
@@ -590,17 +590,17 @@ Souvenez vous que l’outil adéquat pour différents objectifs sera différent 
 
 * **CLASlite** est conçu pour fournir une cartographie et un système de surveillance des forêts mis à jour chaque semaine grâce à des images satellites à haute résolution : [http://claslite.carnegiescience.edu/en/index.html](http://claslite.carnegiescience.edu/en/index.html) (anglais et espagnol).
 
-* Le projet de technologies géospatiales de  **AAAS** contient des cas d’études détaillés sur la collecte, la catégorisation et l’analyse d’images satellites pour constituer des preuves de violations des droits de l’Homme : http://www.aaas.org/case-studies
+* Le projet de technologies géospatiales de **AAAS** contient des cas d’études détaillés sur la collecte, la catégorisation et l’analyse d’images satellites pour constituer des preuves de violations des droits de l’Homme : http://www.aaas.org/case-studies
 
 ### Vidéo et audio 
 
-* **Informacam **du Guardian Project est un plugin fonctionnant avec l’application Android **Obscuracam **qui permet de recueillir des preuves vidéo et audio en toute sécurité pouvant être vérifiées : [https://guardianproject.info/informa/](https://guardianproject.info/informa/) et [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam) 
+* **Informacam **du Guardian Project est un plugin fonctionnant avec l’application Android **Obscuracam** qui permet de recueillir des preuves vidéo et audio en toute sécurité pouvant être vérifiées : [https://guardianproject.info/informa/](https://guardianproject.info/informa/) et [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam) 
 
 * L’application **StoryMaker** pour les téléphones Android permettent de créer des articles multimédias sur un téléphone Android :[ http://smallworldnews.tv/projects/storymaker/](http://smallworldnews.tv/projects/storymaker/) 
 
-* **WITNESS** et** Video4Change** disposent de bibliothèques utiles pour l’utilisation de vidéos pour accompagner vos activités : [https://www.v4c.org/en/resources](https://www.v4c.org/en/resources) et [http://library.witness.org](http://library.witness.org/) 
+* **WITNESS** et **Video4Change** disposent de bibliothèques utiles pour l’utilisation de vidéos pour accompagner vos activités : [https://www.v4c.org/en/resources](https://www.v4c.org/en/resources) et [http://library.witness.org](http://library.witness.org/) 
 
-* **Small World News **fournit des guides pour la réalisation de produits vidéo et audio : [http://smallworldnews.com/guides](http://smallworldnews.com/guides) 
+* **Small World News** fournit des guides pour la réalisation de produits vidéo et audio : [http://smallworldnews.com/guides](http://smallworldnews.com/guides) 
 
 * **Audacity** est un logiciel de montage audio gratuit [http://audacity.sourceforge.net/](http://audacity.sourceforge.net/), et **Lightworks Free** peut prendre en charge de nombreuses fonctions simples de montage vidéo : http://www.lwks.com/
 
@@ -610,13 +610,13 @@ Souvenez vous que l’outil adéquat pour différents objectifs sera différent 
 
 * **DIY Drones** fournti un guide introductif sur les drones : [http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs)
 
-* **Public Laboratory **offre des guides et un soutien à la construction de cerfs-volants, aérostats et capteurs pour la cartographie : [http://publiclaboratory.org](http://publiclaboratory.org/wiki/kite-mapping)
+* **Public Laboratory** offre des guides et un soutien à la construction de cerfs-volants, aérostats et capteurs pour la cartographie : [http://publiclaboratory.org](http://publiclaboratory.org/wiki/kite-mapping)
 
 * Le réseau **Humanitarian UAV (UAViators)** possède une foule d’informations utiles : [http://uaviators.org/about-this-site-rules](http://uaviators.org/about-this-site-rules) et a listé les lois relatives à l’utilisation de drones à travers le monde : [http://wiki.uaviators.org/doku.php](http://wiki.uaviators.org/doku.php)
 
-* Guide de **Géojournalisme **sur la cartographie à l’aide d’aérostats : [http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/)
+* Guide de **Géojournalisme** sur la cartographie à l’aide d’aérostats : [http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/)
 
-* Le **Centre de solutions **de NetHope offre des webinaires et d’autres ressources sur l’utilisation de drones : [http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles)
+* Le **Centre de solutions** de NetHope offre des webinaires et d’autres ressources sur l’utilisation de drones : [http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles)
 
 ### Ressources par langue 
 
@@ -630,7 +630,7 @@ Les ressources ci-dessous sont disponibles dans la langue indiquée, et ont gén
 
 * **EngageMedia** fournit des ressources pour les organisations sur l’utilisation de la vidéo pour les changements sociaux : [http://www.engagemedia.org/Bantuan-Dan-Tutorial?set_language=id](http://www.engagemedia.org/Bantuan-Dan-Tutorial?set_language=id)
 
-* **Le Manuel de l’Open Data **contient des indications pour se procurer et utiliser de l’open data : [http://opendatahandbook.org/id/](http://opendatahandbook.org/id/)
+* **Le Manuel de l’Open Data** contient des indications pour se procurer et utiliser de l’open data : [http://opendatahandbook.org/id/](http://opendatahandbook.org/id/)
 
 * **Kopernik** contient des informations pour les petites structures sur les outils mobiles de collecte de données, les plateformes et les capteurs cartographiques, ainsi que des éléments de comparaison : [http://kopernik.info/id/technologies](http://kopernik.info/id/technologieshttp://kopernik.info/id/technologies)
 
@@ -642,7 +642,7 @@ Les ressources ci-dessous sont disponibles dans la langue indiquée, et ont gén
 
 #### Français
 
-* **Le Manuel de l’Open Data **contient des indications pour se procurer et utiliser de l’open data **: **[http://opendatahandbook.org/fr/](http://opendatahandbook.org/id/)
+* **Le Manuel de l’Open Data** contient des indications pour se procurer et utiliser de l’open data : [http://opendatahandbook.org/fr/](http://opendatahandbook.org/id/)
 
 * **Security in-a-Box** est un guide sur la sécurité numérique pour les activistes et les défenseurs des droits de l’Homme produit par Frontline Defenders et le Tactical Technology Collective : [https://info.securityinabox.org/fr](https://info.securityinabox.org/fr)
 
@@ -650,13 +650,13 @@ Les ressources ci-dessous sont disponibles dans la langue indiquée, et ont gén
 
 * **Aptivate** offre des conseils pour la création de sites internet adaptés à une faible bande passante : [http://www.aptivate.org/webguidelines/Home.html](http://www.aptivate.org/webguidelines/Home.html)
 
-* **Global Forest Watch** **Global Forest Watch** est un système de surveillance et d’alerte qui collecte des données sur les paysages forestiers mondiaux : [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/) 
+* **Global Forest Watch** est un système de surveillance et d’alerte qui collecte des données sur les paysages forestiers mondiaux : [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/) 
 
-* **Le Manuel de l’Open Data **contient des indications pour se procurer et utiliser de l’open data : [http://opendatahandbook.org/fr](http://opendatahandbook.org/fr)
+* **Le Manuel de l’Open Data** contient des indications pour se procurer et utiliser de l’open data : [http://opendatahandbook.org/fr](http://opendatahandbook.org/fr)
 
 * **Resource Extraction Monitoring** fournit un manuel pour la surveillance indépendante [http://www.rem.org.uk/documents/ManuelOIFLEG2013.pdf](http://www.rem.org.uk/documents/ManuelOIFLEG2013.pdf)
 
-* **Resource Extraction Monitoring **fournit un guide sur le consentement des communautés forestières : [http://www.rem.org.uk/documents/FM_kit_formation_CLIP.pdf](http://www.rem.org.uk/documents/FM_kit_formation_CLIP.pdf) 
+* **Resource Extraction Monitoring** fournit un guide sur le consentement des communautés forestières : [http://www.rem.org.uk/documents/FM_kit_formation_CLIP.pdf](http://www.rem.org.uk/documents/FM_kit_formation_CLIP.pdf) 
 
 * **WITNESS** a une bibliothèque de ressources sur l’utilisation sécurisée et efficace de la vidéo : [http://fr.witness.org/ressources/](http://fr.witness.org/ressources/) 
 
@@ -678,11 +678,11 @@ Les ressources ci-dessous sont disponibles dans la langue indiquée, et ont gén
 
 * **Geojournalism.org** offre des ressoures et des formations s’adressant aux journalistes, designers et développeurs pour visualiser des données géographiques : [http://geojournalism.org/](http://geojournalism.org/) 
 
-* **Le Manuel de l’Open Data **contient des indications pour se procurer et utiliser de l’open data **: **[http://opendatahandbook.org/pt/](http://opendatahandbook.org/pt/) 
+* **Le Manuel de l’Open Data** contient des indications pour se procurer et utiliser de l’open data **: **[http://opendatahandbook.org/pt/](http://opendatahandbook.org/pt/) 
 
 * **Security in-a-Box** est un guide sur la sécurité numérique pour les activistes et les défenseurs des droits de l’Homme produit par Frontline Defenders et le Tactical Technology Collective : [https://securityinabox.org/pt](https://securityinabox.org/pt)
 
-* **Imazon **fournit des cartes** **de la déforestation en Amazonie mises à jour tous les mois : [http://imazon.org.br/](http://imazon.org.br/)
+* **Imazon** fournit des cartes de la déforestation en Amazonie mises à jour tous les mois : [http://imazon.org.br/](http://imazon.org.br/)
 
 * **Datahub** est une plateforme de gestion de données qui vous permet de rechercher des données, d’enregistrer des fichiers de données publiés, de créer et de gérer des groupes de fichiers et d’être informé des mises à jour des fichiers et des groupes qui vous intéressent : [http://datahub.io](http://datahub.io) 
 
@@ -692,13 +692,13 @@ Les ressources ci-dessous sont disponibles dans la langue indiquée, et ont gén
 
 * **RAISG** (Réseau amazonien d’informations socioenvironnementales géoréférencées) rassemble des informations sur les aires protégées, les terres autochtones, les bassins hydrographiques et les coupes illégales : [http://raisg.socioambiental.org/mapa-online/index.html](http://raisg.socioambiental.org/mapa-online/index.html) 
 
-* **Security in-a-Box **est un guide sur la sécurité numérique pour les activistes et les défenseurs des droits de l’Homme produit par Frontline Defenders et le Tactical Technology Collective : [https://securityinabox.org/es](https://securityinabox.org/es)
+* **Security in-a-Box** est un guide sur la sécurité numérique pour les activistes et les défenseurs des droits de l’Homme produit par Frontline Defenders et le Tactical Technology Collective : [https://securityinabox.org/es](https://securityinabox.org/es)
 
 * **The Monitoring Project of the Andean Amazon** (MAAP) recueille des données et des cartes pour la surveillance de l’Amazonie andine : [http://maaproject.org/acerca-d-maap/](http://maaproject.org/acerca-d-maap/) 
 
 * **Frontline Defenders** offre des formations et des ressources pour les défenseurs des droits de l’Homme : [http://www.frontlinedefenders.org/es/](http://www.frontlinedefenders.org/es/)
 
-* **Le Manuel de l’Open Data **contient des indications pour se procurer et utiliser de l’open data **:**[http://opendatahandbook.org/es](http://opendatahandbook.org/es) 
+* **Le Manuel de l’Open Data** contient des indications pour se procurer et utiliser de l’open data **:**[http://opendatahandbook.org/es](http://opendatahandbook.org/es) 
 
 * **WITNESS** a une bibliothèque de ressources sur l’utilisation de la vidéo de manière sécurisée et efficace :[http://library.witness.org](http://library.witness.org/) 
 
@@ -712,7 +712,7 @@ Les ressources ci-dessous sont disponibles dans la langue indiquée, et ont gén
 
 #### tiếng Việt
 
-* **Security in-a-Box **est un guide sur la sécurité numérique pour les activistes et les défenseurs des droits de l’Homme produit par Frontline Defenders et le Tactical Technology Collective : [https://info.securityinabox.org/vi](https://info.securityinabox.org/vi)
+* **Security in-a-Box** est un guide sur la sécurité numérique pour les activistes et les défenseurs des droits de l’Homme produit par Frontline Defenders et le Tactical Technology Collective : [https://info.securityinabox.org/vi](https://info.securityinabox.org/vi)
 
 * **Datahub** est une plateforme de gestion de données qui vous permet de rechercher des données, d’enregistrer des fichiers de données publiés et de créer et gérer des groupes de fichiers : [http://datahub.io/vi/about](http://datahub.io/vi/about)
 
