@@ -21,23 +21,29 @@ categories:
   - en
 ---
 
-## Audio and video
+## Audio et vidéo
 
-> ### Possible objectives 
-> * Starting or supporting dialogue between communities and the government
-> * Providing concrete evidence to governments to encourage them to recognise indigenous lands
-> * Supporting communities by presenting and providing knowledge 
-> * Collecting evidence of deforestation or forest degradation
-> * Providing evidence of wrongdoing towards individuals or communities
+> ### Objectifs potentiels  
+> * Initier ou contribuer à instaurer un dialogue entre les communautés et le gouvernement
+> * Fournir aux gouvernements des preuves concrètes pour les inciter à reconnaître les terres autochtones 
+> * Soutenir les communautés en leur apportant et en leur présentant des connaissances 
+> * Recueillir des preuves de déforestation ou de dégradation forestière
+> * Consigner des malversations à l’encontre d’individus ou de communautés
 
 This introduction to using audio and video is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
-### What is it
-* Films or audio recordings can be recorded on mobile phones, or specialized devices like digital cameras, dictaphones or video cameras. 
-* Videos [can present](http://www.insightshare.org/sites/insightshare.org/files/file/Insights%20into%20Participatory%20Video%20-%20A%20Handbook%20for%20the%20Field%20(English)(1).pdf) short advocacy messages, collect visual evidence of human rights violations, publish participatory films by community members, or document deforestation over time. Audio recordings can perform many of the same functions.
-* Many smartphones now allow you to record, edit and upload video or audio to the internet. They can also automatically collect the GPS location of a photo or film, meaning that you can combine it with maps or combine it with other data. 
+### Que sont les techniques audio et vidéo ? 
+* Les enregistrements vidéo ou audio peuvent être réalisés avec des téléphones ou des appareils spéciaux comme des appareils photo numériques, des dictaphones ou des caméras vidéo. 
+* Les vidéos permettent faire passer un message de plaidoyer, de recueillir des preuves visuelles de violations des droits de l’Homme, de disséminer des films produits de manière participative par les communautés, ou encore de suivre l’évolution de la déforestation. Les enregistrements audio peuvent remplir les mêmes fonctions. [http://www.insightshare.org/sites/insightshare.org/files/file/Insights%20into%20Participatory%20Video%20-%20A%20Handbook%20for%20the%20Field%20(English)(1).pdf](http://www.insightshare.org/sites/insightshare.org/files/file/Insights%20into%20Participatory%20Video%20-%20A%20Handbook%20for%20the%20Field%20(English)(1).pdf)
+* De nombreux Smartphones vous permettent d’enregistrer, de monter et de transférer des enregistrements vidéo ou audio sur internet. Ils peuvent aussi localiser automatiquement une photo ou un film par GPS ce qui vous permet de les associer à des cartes ou à d’autres données. 
+
+### Quelle en est l’utilité ? 
+Les enregistrements vidéo et sonores peuvent transmettre des informations sur les peuples et les lieux qu’il est impossible de décrire par des textes, des cartes ou des données seules. Ils permettent d’expliquer le but d’une campagne de manière rapide et personnalisée ce qui en fait des outils de plaidoyer efficaces. L’application StoryMaker pour téléphones Android est conçue pour vous aider à créer des documents multimédias sur un appareil Android : http://smallworldnews.tv/projects/storymaker/. Les preuves vidéo et audio peuvent aussi être utilisées dans des actions en justice sur des violations des droits de lHomme ou des activités illégales si elles remplissent des critères spécifiques. L’application Iformacam de Guardian Project sert à collecter des preuves numériques de manière sécurisée à un format qui peut être utilisé devant les tribunaux: https://guardianproject.info/informa/. 
+
+### Outils 
+Vous n’êtes pas obligé d’acheter un nouveau Smartphone ou un nouvel appareil photo. Beaucoup d’anciens appareils fournissent encore des images de bonne qualité (de 5 mégapixels ou plus) ( https://www.v4c.org/content/effective-video-low-cost-devices). Les fichiers audio et vidéo prennent beaucoup de mémoire numérique – compressez-les à l’aide de logiciels gratuits ou de qualité moindre qui peuvent être plus rapidement téléchargés sur internet en cas de connection lente. Vous pouvez effectuer le montage directement dans le Smartphone ou utiliser un logiciel gratuit comme Lightworks Free et Audacity (http://www.lwks.com or http://audacity.sourceforge.net/). Des accessoires tels que les trépieds et les micros externes ne sont pas indispensables, mais augmentent la qualité de l’enregistrement. Video4Change (https://www.v4c.org/en/resources) et WITNESS (http://library.witness.org) fournissent de nombreux conseils techniques.
 
 ### How it can help
 Video and audio can communicate information about people and places that it’s impossible to explain only with text, maps or data. This makes them an effective advocacy tool that can explain a campaign quickly in a personal way. Video and audio evidence can also be used in legal cases on human rights violations or illegal activity if you follow specific procedures. The [StoryMaker](http://smallworldnews.tv/projects/storymaker/) app for Android phones is designed to help you create multimedia stories on your Android device, and the[CameraV](https://guardianproject.info/apps/camerav) Android app can help to collect digital evidence securely, and verify where it was produced.
