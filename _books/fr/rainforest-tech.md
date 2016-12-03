@@ -491,7 +491,6 @@ Souvenez vous que l’outil adéquat pour différents objectifs sera différent 
 | Consigner et suivre la valeur environnementale des zones territoriales | Cartographie satellite, cartographie en ligne, cartographie participative, applications mobiles, cartographie aérienne indépendante | 
 | Soutenir les communautés en leur fournissant et en leur présentant des connaissances | Cartographie participative, outils audio et vidéo, photographie aérienne indépendante. |
 
-
 ## Tools
 
 * <a name="tools"></a>[mobile (cell) phone applications to collect and record data from the field](/rainforest-tech-mobile-phones) can be used for a wide range of purposes, including recording illegal mining or logging; biodiversity surveys; helping communities to map their own land; or validating government maps. If used carefully, they can make collecting data quicker and more accurate. 

@@ -141,6 +141,32 @@ nav {
 
 
 
+
+nav.lang-nav {
+  position: relative;
+  float: right;
+  clear: both;
+  background: transparent;
+  text-align: right;
+  font-size: 13px;
+  ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    li {
+      display: inline-block;
+      margin: 0px 4px;
+      a.active {
+        font-weight: bold; 
+      }
+    }
+  }
+}
+
+.lang-show { display: block; }
+.lang-hidden { display: none; }
+
 body.page > .content {
 
   padding-top: 50px; // make space for navbar

@@ -1,4 +1,17 @@
 $(document).ready(function() {
+    // translation toggles
+    $('nav.lang-nav > ul > li > a').click(function(e){
+        e.preventDefault();
+        var targetLang = $(this).data('lang-target');
+        
+        $('nav.lang-nav > ul > li > a').removeClass('active');
+        $(this).addClass('active');
+        
+        $('div.lang-box.lang-show').removeClass('lang-show').addClass('lang-hidden');
+        $('div.lang-box[lang="' + targetLang + '"]').removeClass('lang-hidden').addClass('lang-show');
+    });
+    
+    
     // nav toggle
     $('nav a#toggle').on('click', function() {
         $('nav ul.nav').slideToggle(function complete() {
