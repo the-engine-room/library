@@ -49,15 +49,15 @@ Vous n’êtes pas obligé d’acheter un nouveau Smartphone ou un nouvel appare
 Il est actuellement possible de produire des vidéos et des enregistrements audio à moindre coût, mais plus le produit est complexe, plus son coût sera élevé. Filmer une manifestation de groupes autochtones à l’aide d’un Smartphone sera nettement moins cher qu’un documentaire de 20 minutes de qualité professionnelle. Filmer, monter et transférer des vidéos demande beaucoup de temps : votre organisation a-t-elle les moyens de produire ses propres vidéos ou est-il plus réaliste de faire appel à des professionnels ? 
 
 ###Risques et difficultés 
-**Risques pour les personnes effectuant les enregistrements : Filmer ou enregistrer des sons peut présenter un danger. Effacez ou chiffrez les données personnelles sur les appareils et nettoyez-les fréquemment – des traces de doigt ou des résidus peuvent indiquer où ils ont été utilisés. Ne partagez des informations sensibles qu’avec des groupes de confiance ou des juristes avant publication, et assurez vous que vous pouvez filmer en toute légalité avant de commencer. 
+**Risques pour les personnes effectuant les enregistrements** : Filmer ou enregistrer des sons peut présenter un danger. Effacez ou chiffrez les données personnelles sur les appareils et nettoyez-les fréquemment – des traces de doigt ou des résidus peuvent indiquer où ils ont été utilisés. Ne partagez des informations sensibles qu’avec des groupes de confiance ou des juristes avant publication, et assurez vous que vous pouvez filmer en toute légalité avant de commencer. 
 
-**Risques pour les personnes sur l’enregistrement : suivez le processus décrit dans le paragraphe sur le consentement dans se procurer les données, assurez vous que les personnes concernées soient conscientes que l’enregistrement peut-être largement diffusé et consulté par tous. Eteignez les fonctions de localisation et floutez les visages (https://www.v4c.org/en/content/hands-using-obscuracam ou la fonction de floutage de YouTube http://youtube-global.blogspot.co.uk/2012/07/face-blurring-when-footage-requires.html).
+**Risques pour les personnes sur l’enregistrement** : suivez le processus décrit dans le paragraphe sur le consentement dans se procurer les données, assurez vous que les personnes concernées soient conscientes que l’enregistrement peut-être largement diffusé et consulté par tous. Eteignez les fonctions de localisation et floutez les visages (https://www.v4c.org/en/content/hands-using-obscuracam ou la fonction de floutage de YouTube http://youtube-global.blogspot.co.uk/2012/07/face-blurring-when-footage-requires.html).
 
 ### Cas d’étude : Utiliser des vidéos enregistrées sur des téléphones mobiles comme preuve.
 
 HuMa recueille des données sur des conflits terriens en Indonésie, y compris par le biais de vidéos dans lesquelles les communautés locales mentionnent leurs moyens d’existence et leurs expériences. Les vidéos sont enregistrées sur des téléphones mobiles par les membres des communautés et associées à d’autres sources de données comme des données GPS, ce qui en augmente la valeur probatoire.
 
-**Quelle en a été l’utilité ? **
+**Quelle en a été l’utilité ?**
 
 * Les données ont été utilisées par différentes entités dont la Commission nationale des droits de l’Homme, le Chef de la Police nationale et d’autre ONG.  
 * L’organisme de certification de Perhutani (une entreprise d’état indonésienne d’exploitation forestière) s’est aussi fondé sur les données récoltées par HuMa pour enquêter sur divers incidents.
@@ -66,7 +66,7 @@ HuMa recueille des données sur des conflits terriens en Indonésie, y compris p
  
 En réaction aux campagnes de sensibilisation, l’entreprise de papier indonésienne APP a signé un engagement en faveur d’une déforestation nulle. En septembre 2013, Eyes on the Forest (une coalition de 3 organisations indonésiennes locales de défense de l’environnement), a filmé une entreprise d’exploitation forestière qui était un fournisseur reconnu d’APP en train de déboiser des zones de forêt naturelle.
 
-**Quels résultats ? **
+**Quels résultats ?**
 
 * La vidéo étant courte et simple, elle pouvait se télécharger facilement et être publiée rapidement.
 * Bien que les actes aient été filmés à distance, la vidéo constituait tout de même une preuve valable car elle montrait clairement un déboisement en cours. Elle a été accompagnée de photographies avec des cooordonnées GPS et un rapport détaillé (http://www.eyesontheforest.or.id/attach/EoF%20(16May13)%20Deforestation%20continues%20in%20SMGAPP%20supplier%20concession%20FINAL.pdf).
