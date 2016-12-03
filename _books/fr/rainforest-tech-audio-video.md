@@ -45,38 +45,32 @@ Les enregistrements vidéo et sonores peuvent transmettre des informations sur l
 ### Outils 
 Vous n’êtes pas obligé d’acheter un nouveau Smartphone ou un nouvel appareil photo. Beaucoup d’anciens appareils fournissent encore des images de bonne qualité (de 5 mégapixels ou plus) ( https://www.v4c.org/content/effective-video-low-cost-devices). Les fichiers audio et vidéo prennent beaucoup de mémoire numérique – compressez-les à l’aide de logiciels gratuits ou de qualité moindre qui peuvent être plus rapidement téléchargés sur internet en cas de connection lente. Vous pouvez effectuer le montage directement dans le Smartphone ou utiliser un logiciel gratuit comme Lightworks Free et Audacity (http://www.lwks.com or http://audacity.sourceforge.net/). Des accessoires tels que les trépieds et les micros externes ne sont pas indispensables, mais augmentent la qualité de l’enregistrement. Video4Change (https://www.v4c.org/en/resources) et WITNESS (http://library.witness.org) fournissent de nombreux conseils techniques.
 
-### How it can help
-Video and audio can communicate information about people and places that it’s impossible to explain only with text, maps or data. This makes them an effective advocacy tool that can explain a campaign quickly in a personal way. Video and audio evidence can also be used in legal cases on human rights violations or illegal activity if you follow specific procedures. The [StoryMaker](http://smallworldnews.tv/projects/storymaker/) app for Android phones is designed to help you create multimedia stories on your Android device, and the[CameraV](https://guardianproject.info/apps/camerav) Android app can help to collect digital evidence securely, and verify where it was produced.
+### Coûts 
+Il est actuellement possible de produire des vidéos et des enregistrements audio à moindre coût, mais plus le produit est complexe, plus son coût sera élevé. Filmer une manifestation de groupes autochtones à l’aide d’un Smartphone sera nettement moins cher qu’un documentaire de 20 minutes de qualité professionnelle. Filmer, monter et transférer des vidéos demande beaucoup de temps : votre organisation a-t-elle les moyens de produire ses propres vidéos ou est-il plus réaliste de faire appel à des professionnels ? 
 
-### Tools
-Don’t assume you need to buy a new smartphone or camera. Many [older devices](https://www.v4c.org/content/effective-video-low-cost-devices) will still provide high-quality images (look for ones with 5 megapixels or more). Audio and video files take a lot of digital memory – compress them using free software, or use lower quality files that are easier to publish when internet is slow. You can edit directly from a smartphone or use free software like Lightworks Free and Audacity [(1)](http://www.lwks.com) [(2)](http://www.audacityteam.org/download/). Accessories like tripods and external microphones aren’t essential, but will improve quality. [Video4Change](https://www.v4c.org/en/resources) and [WITNESS](http://library.witness.org) have a wide range of resources that give technical advice. 
+###Risques et difficultés 
+**Risques pour les personnes effectuant les enregistrements : Filmer ou enregistrer des sons peut présenter un danger. Effacez ou chiffrez les données personnelles sur les appareils et nettoyez-les fréquemment – des traces de doigt ou des résidus peuvent indiquer où ils ont été utilisés. Ne partagez des informations sensibles qu’avec des groupes de confiance ou des juristes avant publication, et assurez vous que vous pouvez filmer en toute légalité avant de commencer. 
 
-### Costs
-You can now create video and audio very cheaply but generally, the more complex the product, the more it will cost. Filming an indigenous group’s protest with a smartphone will be much cheaper than a professional-quality 20-minute documentary. Filming, editing and uploading can also be very time-consuming: does your organisation have time to produce a video itself, or would it be more realistic to pay a professional? 
+**Risques pour les personnes sur l’enregistrement : suivez le processus décrit dans le paragraphe sur le consentement dans se procurer les données, assurez vous que les personnes concernées soient conscientes que l’enregistrement peut-être largement diffusé et consulté par tous. Eteignez les fonctions de localisation et floutez les visages (https://www.v4c.org/en/content/hands-using-obscuracam ou la fonction de floutage de YouTube http://youtube-global.blogspot.co.uk/2012/07/face-blurring-when-footage-requires.html).
 
-### Risks and challenges
-**Risks to people making the recording:** Recording audio or video can put video-makers at risk. Delete or encrypt personal data on devices, and clean devices frequently – fingerprints or residue can show where they’ve been. Only share sensitive information with trusted groups or lawyers before publishing, and check if it’s legal to record before starting.
+### Cas d’étude : Utiliser des vidéos enregistrées sur des téléphones mobiles comme preuve.
 
-**Risks to people you are recording:** Follow the steps in the ‘Consent’ paragraph of Getting the Data (page X), ensuring that people understand that the recording could spread widely and be seen by anyone. Turn off any location-recording functions, and blur people’s faces [(1)](https://www.v4c.org/en/content/hands-using-obscuracam) [(2)](https://blog.witness.org/2016/02/use-youtubes-new-blurring-feature-protect-identities/).
+HuMa recueille des données sur des conflits terriens en Indonésie, y compris par le biais de vidéos dans lesquelles les communautés locales mentionnent leurs moyens d’existence et leurs expériences. Les vidéos sont enregistrées sur des téléphones mobiles par les membres des communautés et associées à d’autres sources de données comme des données GPS, ce qui en augmente la valeur probatoire.
 
-### Case studies
+**Quelle en a été l’utilité ? **
 
-#### Using videos recorded on mobile phones as evidence
-HuMa collects data on land-related conflicts in Indonesia, including videos of local communities talking about their livelihoods and experiences. The videos were recorded on mobile phones by community members and combined with other data sources like GPS data, increasing its value as evidence.
+* Les données ont été utilisées par différentes entités dont la Commission nationale des droits de l’Homme, le Chef de la Police nationale et d’autre ONG.  
+* L’organisme de certification de Perhutani (une entreprise d’état indonésienne d’exploitation forestière) s’est aussi fondé sur les données récoltées par HuMa pour enquêter sur divers incidents.
 
-**How did it help?**
+#### Cas d’étude : Utiliser la vidéo comme preuve de l’exploitation illégale de bois en Indonésie. 
+ 
+En réaction aux campagnes de sensibilisation, l’entreprise de papier indonésienne APP a signé un engagement en faveur d’une déforestation nulle. En septembre 2013, Eyes on the Forest (une coalition de 3 organisations indonésiennes locales de défense de l’environnement), a filmé une entreprise d’exploitation forestière qui était un fournisseur reconnu d’APP en train de déboiser des zones de forêt naturelle.
 
-* The data has been used by groups including the National Commission of Human Rights, the Chief of National Police and other NGOs. 
-* The certification agency for Perhutani (an Indonesian state-owned logging company) has also referred to HuMa’s data as a basis for investigating particular incidents.
+**Quels résultats ? **
 
-#### Using video to document illegal logging in Indonesia 
-In response to advocacy campaigns, Indonesian paper company APP signed a zero deforestation commitment. In September 2013, Eyes on the Forest (a coalition of 3 local environmental organizations in Indonesia), filmed a logging company clearing natural forest that was a known APP supplier.
-
-**How did it help?**
-
-* The video was short and simple, making it easier to upload and publish quickly.
-* Although the video was filmed from a distance, it was still valuable as evidence because it clearly showed logging in progress. It was backed up by photographs with GPS coordinates and a [detailed report](http://www.eyesontheforest.or.id/attach/EoF%20(16May13)%20Deforestation%20continues%20in%20SMGAPP%20supplier%20concession%20FINAL.pdf).
-* APP was forced to respond to the video by [stating](http://www.ran.org/asia_pulp_and_paper_caught_clearing_rainforest_credibility_of_app_deforestation_moratorium_in_doubt) that the logging was in an exclusion zone that it had not disclosed. 
+* La vidéo étant courte et simple, elle pouvait se télécharger facilement et être publiée rapidement.
+* Bien que les actes aient été filmés à distance, la vidéo constituait tout de même une preuve valable car elle montrait clairement un déboisement en cours. Elle a été accompagnée de photographies avec des cooordonnées GPS et un rapport détaillé (http://www.eyesontheforest.or.id/attach/EoF%20(16May13)%20Deforestation%20continues%20in%20SMGAPP%20supplier%20concession%20FINAL.pdf).
+* APP a été obligé de répondre à la vidéo en expliquant que les coupes ont eu lieu dans une zone d’exclusion qu’elle n’avait pas dévoilé (http://www.ran.org/asia_pulp_and_paper_caught_clearing_rainforest_credibility_of_app_deforestation_moratorium_in_doubt). 
 
 ### Further resources
 
