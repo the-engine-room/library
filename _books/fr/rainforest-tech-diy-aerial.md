@@ -21,57 +21,59 @@ categories:
   - en
 ---
 
-## Do-It-Yourself aerial photography
+## Photographies aériennes indépendantes 
 
-> ### Possible Objectives
-> * Collecting evidence of deforestation or forest degradation
-> * Capturing evidence of companies’ wrongdoing in how they use land 
-> * Supporting communities by presenting and providing knowledge 
-> * Providing concrete evidence to governments to encourage them to recognise indigenous lands
+> ### Objectifs potentiels
+> * Recueillir des preuves de déforestation ou de dégradation forestière 
+> * Obtenir des preuves visuelles de l’utilisation illégale des terres par les entreprises  
+> * Soutenir des communautés en leur apportant et en leur présentant des connaissances 
+> * Fournir aux gouvernements des preuves concrètes pour les inciter à reconnaître les terres autochtones
 
 This introduction to DIY aerial photography is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
 ### What is it
-* Aerial photography can be produced by drones (flying vehicles without a human pilot), balloons or kites attached to a digital camera that takes pictures throughout the flight.
-* Computer software combines (or ‘stitches’) these photos into maps or 3D models, which can be used for purposes including monitoring wildlife, recording land claims and documenting climate change impacts.
+* Les photos aériennes peuvent être prises par des drones (véhicules volants sans pilote), des aérostats ou des cerfs-volants équipés d’appareils photo qui enregistrent des images tout au long du vol.
+* Un logiciel informatique assemble (ou « coud ») ces photos en cartes ou en modèles 3D, qui peuvent êtres utilisés pour étudier la faune, déposer des demandes relatives au droit à la terre ou démontrer les effets des changements climatiques. 
 
-### How it can help
-High-resolution satellite maps can be expensive, out-of-date or difficult to access (see [Satellite Mapping](/rainforest-tech-satellite-imagery)). Creating aerial maps yourself gives you detailed map data for the exact area you want, in real time. It also allows you to fly over the same area regularly – giving you evidence of change over time. 
 
-### Tools 
-If you have a low budget and only want to cover a small area, kites and balloons are the cheapest and easiest option (see [Costs](#costs), below). They can be constructed from simple materials or pre-prepared kits [(1)](http://publiclaboratory.org/wiki/balloon-mapping) [(2)](http://publiclaboratory.org/wiki/kite-mapping) . If tree cover restricts where you can fly balloons and kites, you will need to spend more on a drone. There are two main types: a drone with four or more multiple rotors (easier to fly, but can only fly for a maximum of 20-30 minutes), or a remote-controlled ‘fixed-wing’ plane (these can fly for up to 60 minutes – easier to fix but harder to land). You will also need a simple digital camera, software to plan flight paths, fly the drone, and edit photos.
+### Quelle en est l’utilité ? 
+Les cartes en haute définition peuvent être onéreuses, obsolètes ou difficielement disponibles (voir la section Cartographie satellite ci-dessus). En élaborant vous-même une carte aérienne, vous obtiendrez des données cartographiques détaillées pour la zone qui vous intéresse, en temps réel. Ce procédé vous permet aussi de survoler la même zone régulièrement et ainsi d’en observer les changements à terme.
+
+### Outils 
+Si votre budget et limité et que vous ne souhaitez couvrir qu’une zone restreinte, les cerfs-volants et les aérostats représentent l’option la moins coûteuse et la plus simple (voir la section Coûts ci-dessous). Ils peuvent être construits à partir de matériaux très simples ou de kits préfabriqués (http://publiclaboratory.org/wiki/balloon-mapping; http://publiclaboratory.org/wiki/kite-mapping). Si le couvert végétal restreint l’utilisation de ballons et de cerfs-volants, il vous faudra vous procurer un drone plus coûteux (voir Coûts, ci-dessous).Il y en a deux principaux types : un premier avec quatre rotors principaux ou plus (simple à manier, mais avec une autonomie de seulement 30 minutes environ), ou un aéronef à voilure fixe télécommandé (avec une autonomie pouvant aller jusqu’à 60 minutes – plus simple à réparer mais difficile à faire atterrir). Vous aurez aussi besoin d’un appareil photo numérique simple, d’un logiciel pour planifier les trajectoires de vol, puis de piloter le drone et d’éditer les images. 
 
 Want more detail? [Forest Compass’s guide](http://forestcompass.org/drones-pros-and-cons-community-based-monitoring) and [New America Foundation and Open Technology Institute’s primer](http://drones.newamerica.org/primer/) on drones are the best places to go.
 
-### <a href="costs"></a>Costs
-While the materials needed to create and build a drone, balloon or kite are cheaper than ever before, use them effectively will take time, basic practical skills and the patience to learn new software. Allocate staff time to training, technical adjustments, managing data and communicating with communities where you will be flying. A basic kite able to carry a small camera can cost as little as USD 70, and you can buy a balloon kit for around USD 200. Kits are [available](http://www.openrelief.org/home/open-source-airframe/) that allow drones to be created for around USD 1,000-USD 2,000. Alternatively, you can buy simple ready-to-use drones for prices starting [from USD500](http://thewirecutter.com/reviews/best-drones/). ConservationDrones also collects unused drones and donates them to rainforest-related groups. Free, open source autopilot and map creation software is available, and the [ConservationDrones](http://conservationdrones.org), [DIYDrones](http://diydrones.com/) and the [Humanitarian UAV](http://uaviators.org/about-this-site-rules) network can offer ([often free](http://opendronemap.github.io/odm/)) advice and support. 
+### <a href="costs"></a>Coûts
+Bien que les matériaux nécessaires pour créer et fabriquer des drones, des aérostats ou des cerfs-volants n’ont jamais été aussi abordables, il faut beaucoup de temps et de compétences pratiques pour les utiliser efficacement, et de la patience pour maîtriser un nouveau logiciel. Prévoyez le temps nécessaire à l’apprentissage, les ajustements techniques, la gestion des données et la communication avec les communautés dans lesquels se dérouleront les vols. Un ballon élémentaire sur lequel on peut attacher un petit appareil photo coûte seulement 70 dollars US, et un ballon en kit environ 200 dollars US. Des kits de création de drone sont disponibles pour 1 000 ou 2 000 dollars US environ (http://www.openrelief.org/home/open-source-airframe/). ConservationDrones récupère aussi des drones inutilisés pour en faire don aux groupes liés à la forêt tropicale (http://conservationdrones.org/2014/10/24/recycle/). Des logiciels de pilotage automatique et de création de cartes sont disponibles gratuitement en open-source. De plus, ConservationDrones, DIYDrones et le réseau Humanitarian UAV offrent des conseils et un soutien (souvent gratuitement) (http://conservationdrones.org/; http://diydrones.com/; http://uaviators.org/about-this-site-rules
+; http://opendronemap.github.io/odm/). 
 
-### Risks and challenges
-Drones and DIY aerial photography are new technologies, and best practices and legal regulations are still being developed. The Humanitarian UAV network’s [code of conduct](https://uaviators.org/docs) is an excellent document to follow, and see also [this list of regulations](http://wiki.uaviators.org/doku.php) on flying drones in different countries.
+### Risques et difficultés 
+L’utilisation de drones et la réalisation de photos aériennes de manière indépendante sont de nouvelles technologies pour lesquelles les bonnes pratiques et la réglementation juridique sont toujours en cours de développement (Le code de conduite du réseau Humanitarian UAV est un excellent document à consulter : https://uaviators.org/docs; référez-vous aussi à cette liste des règlements sur l’usage des drones dans différents pays : http://wiki.uaviators.org/doku.php). Impliquez les communautés autant que possible en leur demandant de conduire le processus de cartographie. Faites en sorte qu’ils comprennent précisément quelles données sont collectées et comment elles seront utilisées. Effacez toute information personnelle avant de partager les éléments recueillis avec les communautés. Certains pays introduisent des restrictions géographiques et individuelles à l’utilisation de drones – vérifiez que vous respectez la loi avant de commencer. 
+ 
 
-Involve local communities wherever possible, involving them in conducting the mapping themselves. Ensure that they understand exactly what data is being collected and how it will be used. Remove any information that identifies individuals, and share the information you have collected with the community being mapped afterwards. Some countries are starting to introduce legal restrictions on who can fly a drone and where. [Check](http://drones.newamerica.org/#regulations) whether it is legal before you start. 
+### Cas d’étude  
 
-### Case studies
+#### Construction et utilisation d’un drone en collaboration avec une communauté locale. 
+En 2014, les membres de la communauté Wapichana du Guyana et l’organisation Democracy ont construit un drone à voilure fixe à l’aide d’un kit, d’une caméra GoPro (disponible autour de 100 $) et d’un logiciel gratuit libre de droits. Le drone a été utilisé pour élaborer une maquette 3D de Sholinab, un village local. 
 
-#### Building and flying a drone in collaboration with the local community
-In 2014, members of the Wapichan community in Guyana and the organization [Digital Democracy](http://www.digital-democracy.org/) built a fixed-wing drone using a kit, a GoPro camera (available from around $100) and free open-source software. The drone was then used to create a detailed 3D model of Sholinab, a local village.
+**Quels résultats ?**
 
-**How did it help?**
-
-* The Wapichan monitoring team had no previous engineering experience but were able to [build the drone using materials from the local area](http://www.digital-democracy.org/blog/we-built-a-drone/), making the drone a more familiar object that they had built together.
-* Team members first learned to fly the drone without an autopilot. Although there were difficulties in landing at first, it helped them to gain confidence in how the drone worked.
-* The group identified several possible uses for the drone in future, including monitoring deforestation over time, mapping villages to allocate the management of resources, and documenting illegal logging.
+* Bien que l’équipe d’observation des Wapichana n’avait aucune expérience préalable en ingénierie, ils ont pu construire le drone à l’aide de matériaux disponibles localement et en faire ainsi un appareil familier réalisé par tous. 
+* Les membres de l’équipe ont d’abord appris à piloter le drone sans pilote automatique. Même s’il était ardu de le faire atterrir, ils ont gagné en confiance dans la manipulation du drone. 
+* Le groupe a identifié plusieurs utilisations possibles du drone à l’avenir, dont le suivi de la déforestation, la cartographie des villages pour l’allocation de la gestion des ressources, et le recueil de preuves de coupes illégales de bois (http://www.digital-democracy.org/blog/we-built-a-drone/).
 
 
-#### Exposing illegal logging using a drone 
-In 2014, [ConservationDrones](http://conservationdrones.org) and the [Sumatran Orangutan Conservation Programme (SOCP)](http://www.sumatranorangutan.org/) used a drone to take aerial photographs of part of the Gunung Leuser National Park in Indonesia. The organisation flew over the same area twice in two months, producing clear photographic evidence that illegal logging had taken place. 
 
-**How did it help?**
+#### Révélation de coupes illégales de bois par l’utilisation d’un drone. 
+En 2014, ConservationDrones et le Programme de conservation des orang outans de Sumatra (SOCP) ont utilisé un drone pour prendre des photographies aériennes d’une partie du Parc national Gunung Leuser en Indonésie. En survolant la même zone deux fois par mois, ils ont produit des preuves photographiques manifestes de coupes illégales.  
 
-* Without aerial photography, the logging might not have have been discovered: the loggers had hidden their activities at ground level by leaving a strip of trees around the logged area.
-* ConservationDrones and SOCP gave the evidence to park officials, who [were able](http://conservationdrones.org/2014/09/30/illegal-logging/) to stop logging activities in that area.
+**Quels résultats ?**
+
+* Sans photographie aérienne il n’aurait peut-être pas été possible de découvrir les activités illégales : les exploitants dissimulaient leur activité en laissant une bande d’arbres autour de la zone déboisée. 
+* ConservationDrones et le SOCP ont transmis les preuves aux autorités du parc qui ont mis fin aux coupes illégales dans la zone ( http://conservationdrones.org/2014/09/30/illegal-logging/).
 
 ### Further resources
 
