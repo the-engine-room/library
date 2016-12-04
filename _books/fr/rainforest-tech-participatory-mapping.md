@@ -20,59 +20,60 @@ categories:
   - en
 ---
 
-## Participatory and GPS mapping
+## Cartographie participative et GPS 
 
-> ### Possible objectives
-> * Starting or supporting dialogue between communities and the government
-> * Providing concrete evidence to governments to encourage them to recognise indigenous lands
-> * Supporting communities by presenting and providing knowledge
+> ### Objectifs potentiels
+> * Initier ou contribuer à instaurer un dialogue entre les communautés et le gouvernement
+> * Fournir aux gouvernements des preuves concrètes pour les inciter à reconnaître les terres autochtones
+> * Soutenir les communautés en leur apportant et en leur présentant des connaissances 
 
 This introduction to participatory mapping is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
-### What is it
+### Qu’est-ce que la cartographie participative ?
 
-* Participatory mapping (or community-based mapping) collects information from an area’s inhabitants about how the area is used, and the local community’s practices. 
-* Information is is collected in two main ways: through directly consulting a community, or giving communities the tools to document their knowledge. 
-* This information is used to create maps based on names and definitions that the community itself uses, which can complement official maps.
+* La cartographie participative (ou cartographie communautaire) recueille des informations  auprès des habitants d’une région sur l’utilisation des terres et les pratiques des communautés locales.
+* L’information est collectée principalement de deux manières : à travers une consultation directe de la communauté ou en lui fournissant des outils pour consigner ses connaissances.  
+* Ces informations sont utilisées pour créer des cartes qui utilisent les termes et les définitions en usage dans la communauté, en complément des cartes officielles. 
 
-### How it can help
-Official maps and registers of land ownership (cadasters) often only consider the “official” classification of land. They often do not recognise that land may be being used in other ways, sometimes by people who lived there long before official maps were made. This is a particular problem in forest areas, where drawing clear geographic lines is often difficult. Participatory mapping helps by showing how the area is actually being used, comparing this with “official” maps, and using the information to claim communities’ rights to land.
+### En quoi cela peut être utile ?
+La cartographie officielle et les registres de propriété (cadastres) tiennent généralement comptent uniquement de la classification « officielle » des terres. Ils reconnaissent rarement d’autres utilisations des sols par des peuples qui ont vécu sur ces terres parfois bien avant les permières cartes officielles. Ces cartes posent problème dans les zones forestières où il est difficile de tracer des lignes géographiques claires. La cartographie participative contribue à montrer l’utilisation concrète d’une zone géographique,  à la comparer avec les cartes « officielles » et à en utiliser les informations à l’appui des demandes de reconnaissance du droit à la terre des communautés. 
 
-### Tools
-There are many ways to conduct participatory mapping, covering a wide spectrum of technology and accessibility. The right technique depends on resources and community preference. Some examples are:
+### Outils
+Il existe de nombreuses manières de réaliser une cartographie participative, couvrant une vaste gamme d’outils technologiques et de conditions d’accessibilité. La technique adéquate dépend des ressources disponibles et des préférences de la communauté. Voici quelques exemples :
 
-* **Interviews** where communities are asked about how they use land, and how they think about their land and the ecosystem in that area. Communities choose any medium they prefer, from narration to drawing on paper, or on the ground.
-* **Printing official maps** of the area, explaining how they relate to their community, and asking communities to draw on additional information. A more advanced method is producing **3D models** of the land.
-* Communities are provided with **GPS trackers** and record information as they walk through an area. The data can be used to create map overlays.
+* **Mener des entretiens** au sein des communautés sur l’utilisation des terres, sur leur vision du territoire et de son écosystème. Laisser le choix des moyens aux communautés : la narration orale, les dessins sur du papier ou à terre.
+* **Imprimer des cartes officielles **de la zone, en expliquant leur lien avec les communautés, puis leur demander d’y ajouter des informations additionnelles. Une méthode plus sophistiquée consiste à produire une réplique du territoire en **3D**.
+* Equiper les communautés avec des **traceurs GPS** pour enregistrer des informations en marchant à travers la zone. Les données peuvent être ajoutées aux cartes officielles par superposition.
 
-### Costs
-Participatory mapping requires significant investment in training and supporting field workers. Field workers play a crucial role in introducing the activity, training communities to interact with maps, and making sure that all community representatives understand it. Producing maps and entering the collected information requires GIS skills to ensure measurements are accurate and to scale. GPS tracker devices are not expensive, but also require training. The most widely used brands, like [Garmin](https://buy.garmin.com/en-US/US/cIntoSports-c10341-p1.html) and [Magellan](http://www.magellangps.com/Store/eXploristSeries), offer GPS locators starting at USD100. In addition, most entry-level smartphones have GPS capabilities.
+### Coûts
+La cartographie participative exige un investissement important dans la formation et le soutien aux travailleurs de terrain. Ces derniers jouent un rôle essentiel pour présenter l’activité, enseigner aux communautés à interagir avec les cartes, et s’assurer que tous les représentants des communautés la comprennent. Produire des cartes et y faire figurer les informations recueillies demande des compétences dans le domaine des SIG afin de prendre des mesures précises et à l’échelle. Les traceurs GPS ne sont pas des appareils coûteux, mais exigent aussi un apprentissage.  Les marques les plus utilisées, comme Garmin (https://buy.garmin.com/en-US/US/cIntoSports-c10341-p1.html) et Magellan (http://www.magellangps.com/Store/eXploristSeries), proposent des localisateurs GPS à partir de 100 dollars US. De plus, la plupart des Smartphones d’entrée de gamme ont des fonctionnalités GPS.
 
-### Risks and challenges
-Participatory mapping collects information about where communities live, and which areas have the most resources: companies could use this to their own advantage. It can also cause problems within a community: different communities may be using the same land, or there may be differing perspectives within the same community. The best response to these situations depends on the context: consult as many representatives as possible, and always take gender differences into account.
+### Risques et difficultés 
+La cartographie participative recueille des informations sur les endroits où vivent les communautés et sur les zones dans lesquelles les ressources sont les plus nombreuses. Les entreprises peuvent potentiellement en retirer des avantages personnels. La cartographie peut aussi poser des problèmes aux communautés : elles peuvent être plusieurs à utiliser les mêmes terres, ou les points de vue peuvent varier au sein d’une même communauté. Afin de trouver la réponse à ces situations, il convient d’en appréhender le contexte en consultant le plus de membres possibles et de toujours tenir compte des différences entre les sexes. 
 
-### Case studies
+### Cas d’étude
 
-#### Participatory mapping in Cameroon 
-[Forest People’s Programme](http://www.forestpeoples.org/), [Centre for Environment and Development](http://www.cedcameroun.org/) (CED) and Planet Survey developed a programme for the Bagyeli community in Cameroon to map their lands and resources using training in GPS data collection. The resulting maps helped 14 Bagyeli communities from the Bipindi area gain some legal recognition of their land rights. They were also used to help negotiate local agreements over land boundaries between communities.
+#### Cartographie participative au Cameroun 
+Le Programme Forest Peoples, le Centre pour l’environnement et le développement (CED) et Planet Survey ont mis en place un programme pour la communauté Bagyeli du Cameroun visant à cartographier leurs terres et leurs ressources par l’apprentissage de la collecte de données GPS. Les cartes issues du programme ont permis à 14 communautés Bagyeli de la région de Bipindi de voir leur droit à la terre reconnu. Elles ont aussi contribué à la négociation d’accords sur les limites territoriales des communautés. 
 
-**How did it help?**
+**Quelle utilité ?**
 
-* Illiterate community members successfully used modified mobile devices that used icons instead of text.
-* Communities said that they became more aware of the power of maps as a way of claiming land that belonged to them.
-* As an advocacy tool the maps were most [successful](http://www.iapad.org/wp-content/uploads/2015/07/cameroon_unep_report_nov08_eng.pdf) when presented to Western conservationist organisations and logging companies (though they were less effective with local companies). 
+* Des membres illettrés des communautés ont pu utiliser des appareils mobiles modifiés qui utilisent des icônes à la place du texte.
+* Les communautés ont déclaré être plus conscientes du pouvoir des cartes à l’appui de leurs revendications territoriales. 
+* Les cartes ont été un outil de plaidoyer efficace avec les organisations de conservation et les sociétés d’exploitation forestière occidentales (elles ont toutefois eu moins d’effet auprès des entreprises locales) ( http://www.iapad.org/publications/ppgis/cameroon_community_mapping_july07_eng.pdf). 
 
-#### Monitoring poaching in Congo 
-In 2013, Mbendjele hunter-gatherers worked with the [Extreme Citizen Science (ExCiteS) Research Group](https://uclexcites.wordpress.com/) at University College London to collect data to monitor poaching using an Android app. The project used the Samsung Galaxy XCover phone running Android, and a modified version of [Open Data Kit Collect](https://opendatakit.org/) that used pictorial icons instead of words. To minimise risks to monitors if they were caught by poachers, the project included a simple phone-lock procedure that allowed users to hide the app’s functions rapidly.
 
-**How did it help?**
+#### Évaluation du braconnage au Congo 
+En 2013, les chasseurs cueilleurs Mbendjele ont travaillé avec le groupe de recherche ExCiteS du University College de Londres à la collecte de données pour mesurer les actes de braconnage à l’aide d’une application Android. Le projet a utilisé le téléphone Samsung Galaxy X Cover et une version modifiée de Collect de l’Open Data qui utilise des icônes à la place du texte. Afin de minimiser les risques pour les observateurs d’être surpris par les braconneurs, un simple procédé de verrouillage automatique a été installé sur les téléphones pour pouvoir dissimuler la fonction de l’application. 
 
-* The project had built strong connections since 2005, when Mbendjele involved in data collection were impressed by the seriousness with which the timber company treated maps they created.
-* The monitors successfully learned to use the audio, photo and video functions, recording high-quality images. The robust build of the phones meant that they worked well in forest conditions.
-* The project used the [Hatsuden Nabe](http://ustacticalsupply.com/thehastudennabehc-5-usbpancharger.aspx), a cooking pot that converts thermal energy from a fire into electricity, to charge the phones (it provided a 60% charge in 90 minutes). Solar panels were also useful when the monitors was not directly under the rainforest canopy. 
-* Although communications networks did not extend deep into the forest, the monitors were able to [transfer information](http://dev3.acmdev.org/papers/dev-final45.pdf) using SMS or 3G internet when they visited nearby towns.
+**Quelle en a été l’utilité ?**
+
+* Le projet a développé des relations étroites depuis 2005 avec les Mbendjele impliqués dans la collecte de données, qui ont été impressionnés de l’intérêt qu’ont porté les entreprises d’exploitation du bois aux cartes qu’ils avaient produites.
+* Les observateurs ont appris à maîtriser l’utilisation des fonctions audio, photo et vidéo et ont enregistré des images de haute qualité. La conception robuste des téléphones leur a permis de fonctionner idéalement en milieu forestier. 
+*  Le projet a utilisé le Hatsuden Nabe, une casserole qui convertit l’énergie thermique du feu en électricité et permet de recharger les téléphones (60% de charge en 90 minutes). Des panneaux solaires ont aussi été utilisés par les observateurs lorsqu’ils n’étaient pas sous la canopée. 
+* Bien que les réseaux de communication ne soient pas disponibles en pleine forêt, les observateurs ont pu transférer les informations par SMS ou internet 3G en se rendant dans des villes voisines ( http://dev3.acmdev.org/papers/dev-final45.pdf).
 
 ### About
 
