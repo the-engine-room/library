@@ -21,13 +21,13 @@ categories:
   - en
 ---
 
-## Mobile Phone Applications
+## Applications mobiles 
 
-> ### Possible objectives
-> * Collecting evidence of deforestation or forest degradation
-> * Capturing evidence of wrongdoing towards individuals or communities
-> * Recording and monitoring the environmental value of land or forest areas
-> * Providing concrete evidence to governments to encourage them to recognise indigenous lands
+> ### Objectifs potentiels
+> * Recueillir des preuves de déforestation ou de dégradation forestière 
+> * Consigner des malversations à l’encontre d’individus ou de communautés 
+> * Documenter et faire le suivi de la valeur environnementale de territoires ou de forêts 
+> * Fournir des témoignages concrets pour inciter les gouvernements à reconnaître les terres autochtones. 
 
 This introduction to mobile phone applications is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
 
@@ -35,59 +35,59 @@ This introduction to mobile phone applications is part of a [Primer for using te
 
 ### What is it
 
-* Mobile applications (or ‘apps’) are software programs that work on mobile devices like phones or tablets. In rainforest-related projects, they are mainly used to collect data in the field and transmit it directly to an organisation. 
-* Mobile applications can be used for many purposes, including recording illegal mining or logging; biodiversity surveys; helping communities to map their own land; or validating government maps.
-* Applications can work on both low-tech ‘feature phones’ using SMS (Short Message Service) or more expensive smartphones (which include GPS sensors and cameras).
+* Les applications (ou « applis ») mobiles sont des logiciels de programme fonctionnant sur des appareils mobiles tels que les téléphones et les tablettes tactiles. Dans les projets liés à la forêt tropicale, elles sont principalement utilisées pour collecter des données sur le terrain et les transmettre directement à une organisation.  
+* Les applications mobiles ont de nombreuses utilisations possibles, dont recueillir des preuves de coupe de bois ou d’exploitation minière illégales, surveiller la biodiversité, aider les communautés à cartographier leurs territoires ou valider les cartes élaborées par le gouvernement. 
+* Ces applications fonctionnent à la fois sur des téléphones numériques de faible technologie en utilisant les SMS (Short Message Service) ou sur des Smartphones plus coûteux (dotés de capteurs GPS et d’appareils photo). 
 
-### How it can help
+### A quoi peuvent-elles être utiles ? 
 
-Collecting information from the field can be a time-consuming process that involves physically transporting large numbers of paper forms through remote areas, then manually transcribing them. Mobile applications make this process much quicker and easier. 
-One common approach is that forest monitors are given a mobile device pre-loaded with an application. They upload data to this application and transmit it over phone networks or a mobile internet connection to a server, where an organisation can access it. Most applications automatically capture common errors and ask for corrections. Most smartphones capture geolocation data that can be mapped and combined with other forms of data (see [Online maps](/rainforest-tech-online-maps)).
+La collecte d’informations sur le terrain peut consister en un long processus qui implique le transport physique de nombreux formulaires papier dans des zones isolées, puis la transcription manuelle des données. Les applications mobiles peuvent rendre ce processus beaucoup plus rapide et simple. 
+Une des approches les plus communes consiste à fournir aux observateurs forestiers un appareil numérique sur lequel l’application est déjà installée. Ceux-ci entrent les données dans l’application et les transmettent, grâce aux réseaux téléphoniques ou à une connection internet mobile, à un serveur auquel leur organisation a accès. La plupart des applications détectent les erreurs communes et demandent des corrections. La plupart des téléphones enregistrent des données GPS qui peuvent être cartographiées et combinées à d’autres types de données (voir la Cartographie en ligne).
 
-### Tools
+### Outils
 
-You can choose from a wide range of applications: the right one for you depends on how much data you’re collecting, how much technical support you need, and how specific your needs are. There are websites that can help you identify what tools and mobile apps are the best fit, including [Humanitarian Nomad](http://humanitarian-nomad.org/online-selection-tool/) and [Solutions Center](http://solutionscenter.nethope.org). Specifically for forest monitoring, [Forest Compass](http://forestcompass.org/how/choosing-suitable-software) has collected a range of options and discusses their strengths and weaknesses for use in community-based mapping.
+La gamme des applications existantes est vaste : la plus pertinente pour vous dépend du volume de données à collecter, de votre besoin en soutien technique, et du niveau de spécificité de vos besoins. Des sites internet peuvent vous aider à identifier les outils et applications mobiles les plus adaptés, dont Humanitarian Nomad (http://humanitarian-nomad.org/online-selection-tool/) et Solutions Center ( http://solutionscenter.nethope.org/).
 
-### Cost 
+### Coût – trois facteurs d’influence 
 
-**Type of device**: For collecting geolocation data, dedicated GPS trackers are more accurate, and usually have longer battery life and are more durable. For collecting other types of data, smartphones with Android operating systems are available for under USD100, and prices are dropping all the time. If you only need simple functions, cheaper feature phones are a good option. These can be used to collect data using SMS or programmes designed in Java (J2ME).
+**Le type d’appareil :** Les traceurs GPS spécifiques ont souvent une plus longue durée de vie et une plus grande autonomie de charge, mais les téléphones mobiles sont assez précis pour les activités en forêt tropicale. Les Smartphones avec un système d’exploitation Android coûtent moins de 100 dollars US, et leur prix baisse constamment. Si vous n’utilisez que des fonctions simples, les téléphones numériques de base sont l’option la moins coûteuse. Vous pouvez les utiliser pour collecter des données à l’aide de SMS ou de programmes utilisant un code Java (J2ME).
 
-**How complex is the application?** The more features you want, the more training and troubleshooting support you’ll need. Support is included in services like ArcGIS, but it is expensive. Open source solutions like Open Data Kit, on the other hand, force you to figure problems out (which takes staff time) or call external experts (which usually costs money). Remember that remote technical support may only be available and accessible if you can access a good internet connection.
+**La complexité de l’application** Plus vous utilisez de fonctions, plus vous aurez besoin de formation et de service de dépannage technique. Ce service est inclus avec la suite ArcGIS, mais les logiciels coûtent cher. Les solutions open-source comme Open Data Kit vous obligent à régler vous même les problèmes (ce qui demande du temps au personnel) ou à faire appel à des spécialistes externes (ce qui est payant en général).
 
-**How much data do you want to collect?** The more data you capture, the more you’ll spend on the database that holds the information, backing up data offline, or SMS message fees. 
+**Le volume de données à collecter** Plus vous entrez de données, plus vous devrez investir dans la base de données qui contient les informations, la sauvegarde des données hors ligne ou les frais de SMS. 
 
-To give you a taste of the options available, here are two examples from opposite ends of the cost spectrum:
+Afin de vous donner une idée des options disponibles, voici deux exemples dans des gammes de prix opposées :
 
-#### Free and open source, but technically challenging - Open Data Kit
-[Open Data Kit (ODK)](https://opendatakit.org/) is a collection of open source tools for mobile data collection that has been used successfully in a range of rainforest-related projects. It is free, can be modified for you, and has an [active community](https://groups.google.com/forum/#!forum/opendatakit) of developers providing technical and strategic support. The downside is that it is not perfect software: built by layers of volunteers, you can expect things to go wrong. You will probably need to budget for a software developer to modify, and make sure you can get technical support for when things go wrong. See [Forest Compass](http://forestcompass.org/how/digital-technologies/open-data-kit) for more on ODK.
+#### Gratuit et open-source, mais techniquement exigeant – l’Open Data Kit
+L’Open Data Kit (ODK) est une gamme d’outils open-source pour la collecte mobile de données qui ont été utilisés avec succès dans différents projets liés à la forêt tropicale. Elle est gratuite, modifiable selon vos besoins, et dispose d’une communauté active de développeurs qui fournissent un soutien technique et stratégique. L’inconvénient de ces logiciels est qu’ils ne sont pas parfaits : ayant été conçus par une multitude de bénévoles, attendez-vous à rencontrer des problèmes. Vous devrez probablement recruter un développeur de logiciels pour les modifier et apporter un soutien technique en cas de problème. 
 
-#### Highly capable, but not cheap - Collector for ArcGIS 
-The [ArcGIS suite of applications](www.esri.com/nonprofit/) is a premium GIS product that offers powerful options for producing and analysing map data. A basic user licence currently costs around USD 1,500 per year, which includes some technical support online and by telephone (though a limited free version is available for non-profits). To make the most of it, you will need to pay for its full suite: an Android app, a programme that manages the collected data on your server, and a programme to publish the maps online. The advantage of using premium paid software is that it will have more features, and you can rely on it to function as it supposed to. The downside is that it is expensive, and because the code is closed, you cannot hire a developer to change it to match your project better. 
+#### Ultra fiable, mais coûteux – le Collector d’ArcGIS  
+La suite d’applications ArcGIS est un produit SIG de très haute qualité qui offre des possibilités puissantes pour la production et l’analyse de données cartographiques. Une licence basique pour un an coûte environ 1,500 dollars US, et comprend un support technique en ligne et par téléphone. Pour pouvoir utiliser toutes les fonctionnalités vous devez acheter la suite complète : une application Android, un programme qui gère les données collectées sur votre serveur et un programme de publications de cartes en ligne. L’avantage d’utiliser ces logiciels payants de haute qualité est qu’ils ont plus de fonctionnalités et que leur fonctionnement est fiable. Leur inconvénient est leur prix élevé et qu’ils ne peuvent être modifiés par un développeur pour s’adapter à un projet car leur code est fermé. 
 
-### Risks and challenges
+### Risques et difficultés. 
 
-It is impossible to collect and share data completely securely on mobile phones because of the way that the devices themselves are [designed](https://securityinabox.org/en/guide/mobile-phones). This could threaten people collecting information; sometimes just possessing an application can put a community monitor at risk. People and environments can also be threatened as a result of information that you publish about them (see the Responsible Data sections of the [Strategy](/rainforest-tech/#strategy) section).
+Il est impossible de collecter et partager des données de manière totalement sécurisée sur des téléphones mobiles à cause de la conception même de ces appareils (pour en connaître les raisons, voir See Security in a Box for : https://securityinabox.org/en/guide/mobile-phones). Cette faille peut mettre en danger les personnes qui recueillent les informations ; le simple fait de posséder une application présente un danger pour les observateurs communautaires. Les peuples et l’environnement peuvent aussi être menacés par l’impact des informations que vous publiez sur eux (voir les sections « données responsables » de la partie Stratégie ).
 
-### Case studies
+### Cas d’étude :
 
-#### Using community-based monitors for mapping in Guyana
+#### Utilisation d’observateurs communautaires pour la cartographie au Guyana.
 
-Since 2011, the Global Canopy Programme has run a community-based monitoring system with 16 Amerindian communities of the North Rupununi (Guyana) to provide information on causes of forest loss, land-use practices and socio-economic issues. Community monitors complete forms on Android (Samsung Galaxy X Cover) smartphones using a mobile application developed from Open Data Kit. Each form submitted contains location data from the phone’s in-built GPS and photos from its camera. The resulting data is then uploaded to an online data storage system for analysis using Microsoft Excel, ArcGIS, and ODK Aggregate, and later SMAP software, QGIS, and Google Maps Engine. 
+Depuis 2011, le Programme mondial pour la canopée (Global Canopy Programme) gère un système d’observateurs communautaires dans 16 communautés amérindiennes du Nord Rupununi (Guyana) pour collecter des informations sur les causes des pertes de forêts, les pratiques d’utilisation des terres et des questions socioéconomiques. Les observateurs communautaires remplissent des formulaires sur des Smartphones avec système Android (Samsung Galaxy X Cover) à l’aide d’une application mobile développée à partir de l’Open Data Kit. Chaque formulaire soumis intègre des données de localisation du téléphone, grâce au GPS intégré, et des photos prises avec l’appareil. Les données sont ensuite transférées vers un système de stockage de données en ligne et analysées à l’aide de Microsoft Excel, ArcGIS, et ODK Aggregate, puis par des logiciels SMAP, QGIS, et le moteur Google Maps. 
 
-**How did it help?**
+**Quelle en a été l’utilité ?**
 
-* The technology enabled real-time, straightforward collection and aggregation of data, and removed the need to transcribe data from the field.
-* It was popular with local communities – 87% of local leaders and village councillors said the phones had been a positive addition to the community that helped them improve their knowledge of local resources. 
-* The project encouraged collaboration between elders with knowledge about natural resources and young people, who were quick to pick up [mobile devices](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&ved=0CFEQFjAI&url=http%3A%2F%2Fforestcompass.org%2Ffile%2F141%2Fdownload%3Ftoken%3DT8kkcwrb&ei=GeWWVKqYPKev7AaOjIHYDg&usg=AFQjCNEmkRESu9clZiHKBdoBmYvnxK83cw&sig2=JCkp9ZzKCGIYed2s9tXAYA&bvm=bv.82001339,d.ZGU&cad=rja).
+* La technologie a permis de collecter et agréger les données de manière simple et en temps réel, sans avoir besoin de retranscrire les données de terrain.
+* Elle a été bien accueillie par les communautés : 87% des chefs locaux et des conseillers de villages ont estimé que les téléphones ont été bénéfiques à la communauté et l’ont aidée à accroître les connaissances des ressources locales.  
+* Le projet a favorisé la collaboration entre les anciens qui détiennent la connaissance des ressources naturelles et les jeunes qui ont rapidement intégré le fonctionnement des appareils mobiles (http://tinyurl.com/q9jg3xt).
 
-#### Using GPS devices to document invasions of indigenous territory
+#### Utiliser les appareils GPS pour recenser les invasions de territoires autochtones.
 
-The Pro-Indian Commission of Acre (Comissão Pró-Indio do Acre, or CPI-AC) trained indigenous people in the Acre region to use GPS devices to record invasions of indigenous territory. 
+La Commission pro-indienne d’Acre (Comissão Pró-Indio do Acre, ou CPI-AC) a formé les peuples autochtones de cette région à utiliser les appareils GPS pour consigner les invasions des terres autochtones. 
 
-**How did it help?**
+**Quelle en a été l’utilité ?**
 
-* The information that the indigenous people gathered was then used to make maps that highlighted the problem and presented evidence of where the situation was worst.
-* One of these invasion maps was presented to the country’s former Minister of the Environment, prompting a multi-sectoral action from the federal government against invasions.
+* Les informations que les peuples autochtones ont collectées ont été utilisées pour élaborer des cartes qui démontrent le problème et pour présenter des preuves des pires situations.
+* Une de ces cartes des invasions a été soumise à l’ancien ministre de l’Environnement, ce qui a incité le gouvernement fédéral à adopter des actions multisecteurs pour prévenir les invasions.
 
 
 #### Using participatory mapping with online maps for advocacy in the Congo Basin
