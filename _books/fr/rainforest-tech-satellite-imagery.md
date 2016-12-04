@@ -70,7 +70,7 @@ En janvier 2015, l’analyse réalisée par Greenomics-Indonesia de deux images 
 **Quelle en a été l’utilité ?**
 
 * Greenomics a utilisé l’information pour attaquer l’entreprise de papier Asia Pacific Resources International Holdings Limited (APRIL), qui a s’est publiquement engagée à mettre fin à toute nouvelle plantation d’ici janvier 2014.  
-* Greenomics a fait le choix de transmettre ces informations aux médias en anglais, et a rédigé une déclaration accompagnée d’images à l’appui de ses arguments. En mars 2015, APRIL a admis que des fautes avaient été commises et a renvoyé un entrepreneur et un responsable des plantations ( http://www.greenomics.org/docs/Greenomics_Press-Release_SFMP_Violation-(LowRes).pdf).
+* Greenomics a fait le choix de transmettre ces informations aux médias en anglais, et a rédigé une déclaration accompagnée d’images à l’appui de ses arguments. En mars 2015, APRIL a admis que des fautes avaient été commises et a renvoyé un entrepreneur et un responsable des plantations (http://www.greenomics.org/docs/Greenomics_Press-Release_SFMP_Violation-(LowRes).pdf).
 
 ### Further resources
 
