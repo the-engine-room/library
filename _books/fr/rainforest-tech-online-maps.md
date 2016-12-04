@@ -20,55 +20,55 @@ categories:
   - en
 ---
 
-## Online maps
+## Cartes en ligne 
 
-> ### Possible Objectives
-> * Capturing evidence of companies’ wrongdoing in how they use land 
-> * Recording and monitoring the environmental value of areas of land 
-> * Providing concrete evidence to governments to encourage them to recognise indigenous lands
+> ### Objectifs potentiels 
+> * Obtenir des preuves visuelles de l’utilisation illégale des terres par les entreprises 
+> * Enregistrer et surveiller la valeur environnementale des zones territoriales  
+> * Fournir aux gouvernements des preuves concrètes pour les inciter à reconnaître les terres autochtones
 
 This introduction to online mapping is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
-### What is it
-* A powerful, visually engaging way to present the information you have collected about your focus issue (such as through participatory mapping, or mobile data collection). Maps can be: **static**, like images and illustrations; **animated**, for example showing a change over time; or **interactive**, where users can zoom in or out, click on areas of the map to see more information, or provide their own information (crowdsourcing)
-* Maps can be created from scratch and uploaded on the internet, or information can be added to existing online maps like [OpenStreetMap](http://www.openstreetmap.org/), [Google Maps](https://www.google.com/maps/) or [Crowdmap](https://crowdmap.com/).
+### Que sont les cartes en ligne ? 
+* Elles représentent une manière efficace et visuellement attrayante de présenter les informations recueillies sur le sujet de vos travaux (par exemple à travers la cartographie participative ou la collecte mobile de données). Ces cartes peuvent être **statiques**, sous forme d’images ou d’illustrations ; **animées, **pour montrer un changement au cours du temps ; ou **interactives**, permettant aux utilisateurs de zoomer ou dézoomer, de cliquer sur des endroits de la carte pour obtenir plus d’informations, ou d’entrer leurs propres informations (production participative aussi appelée « *crowdsourcing »*).
+* Les cartes peuvent être créées de A à Z et mises en ligne sur internet, ou les informations peuvent être ajoutées à des cartes en ligne existantes comme OpenStreetMap, Google Maps ou Crowdmap (http://www.openstreetmap.org/; https://www.google.com/maps/; https://crowdmap.com/).
 
-### How it can help
-Online maps can be used for **real-time monitoring** (showing the places where most incidents happen), **campaigning** (showing that forest cover is being dramatically reduced) or **analysis** (gaining new insights by overlaying different types of data on the same map).
+### Quelle en est l’utilité
+Les cartes en ligne peuvent servir à la **surveillance en temps réel **(en indiquant à quels endroits les incidents sont les plus fréquents), aux** campagnes **(en démontrant la réduction spectaculaire du couvert forestier) ou à **l’analyse **(pour une meilleure appréhension de la situation par la superposition de différents types de données sur une même carte).
 
-### Tools
-Maps for campaigning don’t always need to be interactive. Some maps work best as an infographic – a static image that clearly presents text explanations and color coding. **First, choose your online map platform:** It is often easiest to use existing online interactive maps, which already include information layers such as roads and satellite images. Commercial maps include Google, [Bing](http://www.bing.com/maps) or [MapQuest](http://www.mapquest.com/). The free OpenStreetMap platform contains information from volunteers, and is usually less precise in remote non-urban areas. 
+### Outils
+Les cartes élaborées pour les campagnes n’ont pas toujours besoin d’être interactives. Certaines cartes conviennent mieux à l’infographie – une image statique accompagnée d’un texte explicatif et d’un code de couleurs. **Choisissez tout d’abord votre plateforme en ligne :** Il est souvent plus aisé d’utiliser des cartes interactives disponibles en ligne qui comprennent déjà certains éléments comme les routes et les images satellite. Vous trouverez les cartes commerciales sur Google, Bing ou MapQuest (http://www.bing.com/maps/; http://www.mapquest.com/). La plateforme OpenStreetMap contient des informations fournies par des bénévoles, mais ses cartes sont généralement moins précises en dehors des zones urbaines. 
 
-> ### Understanding coordinates and polygons
-> If you are collecting data through mobile tools, drones, or participatory mapping, it’s important to master mapping basics. Any object on a map has coordinates that pinpoint its location on a grid of **latitude** (north-south) and **longitude** (east-west). Knowing an object’s lat-long coordinates gives you its **position** (known as point-based information). To find an object’s size, you need to join points around its perimeter into a single **polygonal shape**.
+> ### Comprendre les coordonnées et les polygones 
+> Afin de pouvoir collecter des données à l’aide d’outils mobiles, de drones ou de cartes participatives, il est important de maîtriser les notions fondamentales de la cartographie. Chaque élément sur une carte a des coordonnées qui le situent sur la grille des **latitudes** (nord-sud) et des **longitudes** (est-ouest). Connaître la latitude et la longitude d’un élément permet de connaître sa position (appelée **point**). Pour définir la taille d’un élément, il faut relier des points autour de son périmètre pour obtenir une **forme polygonale**. 
 
-**Then, create your own layers on top:** There are many different ways to add information from basic markers to ‘heat maps’ (which show when a type of incident is concentrated in a particular area). Some sites provide data designed to be added into rainforest maps. [InfoAmazonia](http://infoamazonia.org/datasets) offers maps of the Amazon region on deforestation and forest fires. [Sarawak Geoportal](http://www.bmfmaps.ch/) has similar information on Malaysian Borneo. [MapBox Studio](http://cartodb.com/), the JEO Wordpress theme and CartoDB offer powerful, easy-to-use software for creating interactive maps. However, this requires you to upload your maps to MapBox servers, so it’s unsuitable for dealing with sensitive information (a [guide](http://geojournalism.org/2014/06/portugues-jeo-primeiros-passos/) to installing JEO in English and Portuguese). Creating your own interactive layers usually involves programming tools called Javascript libraries (Leaflet.js and OpenLayers are the most common).
+**Ajoutez ensuite des couches à la carte :** il existe différentes manières d’ajouter des informations, des simples marqueurs aux « cartes thermiques » (qui montrent la concentration d’un type d’incident dans une zone spécifique, à l’aide de couleurs). Certains sites fournissent des données destinées à être intégrées dans des cartes des forêts tropicales (InfoAmazonia fournit des cartes de l’Amazonie sur la déforestation et les incendies de forêts : http://infoamazonia.org/datasets/. Le géoportail Sarawak fournit des informations similaires pour l’île malaisienne de Bornéo http://www.bmfmaps.ch/). MapBox Studio,  le thème JEO sous Wordpress et CartoDB (http://cartodb.com/;  https://www.mapbox.com/mapbox-studio. Cependant, ils impliquent de télécharger les cartes sur des serveurs MapBox, ce qui n’est pas adéquat pour des informations sensibles. Guide d’installation de JEO en anglais et portugais : http://geojournalism.org/2014/06/portugues-jeo-primeiros-passos/) fournissent des logiciels simples et puissants pour la création de cartes interactives. Créér vos propres couches interactives nécessite des outils de programmation appelés bibliothèques Javascript (dont les plus communs sont Leaflet.js et OpenLayers).
 
-### Costs
-The cost of designing and creating online interactive maps depends how easy the tools are to use, and what programming skills are needed. If you are not a programmer, the easiest tools are CartoDB and MapBox - but you will need to pay a fee any more complicated maps (although both come with a free option that has limited functionality). Digital Democracy's [MapFilter](https://github.com/digidem/mapfilter) tool is a tool for presenting interactive, filter-able maps and reports, currently in the prototype stage, that is designed for use in remote areas. Google Maps is free for up to 25,000 daily map loads (a very high number), but expensive beyond that. Using libraries such as Leaflet.js with OpenStreetMaps is free, but requires a skilled programmer. Maps produced by a commercial provider are often free at the outset, but can become expensive if used widely. 
+### Coûts
+Le coût de l’élaboration et de la création d’une carte interactive en ligne dépend de la facilité d’utilisation des outils et des compétences de programmation nécessaires. Si vous n’êtes pas programmateur, les outils les plus simples sont CartoDB et MapBox – mais il vous faudra payer pour obtenir une carte plus complexe (tous deux ont une version gratuite avec des fonctionnalités limitées). L’utilisation de bibliothèques comme Leaflet.js avec OpenStreetMaps est gratuite, mais exige des compétences de programmation élevées. Les cartes produites par les founisseurs commerciaux sont souvent gratuites au début, mais coûtent cher si leur distribution est importante (Google Maps est gratuit jusqu’à 25 000 transferts de cartes par jour (un nombre très élevé), mais est coûteux au-delà). 
 
-### Risks and challenges
-Companies store information about when, where and how you load maps on a commercial mapping platform, meaning that public maps on commercial platforms can pinpoint the location of individuals who uploaded information, putting them at risk. Avoiding errors is crucial: information presented in the wrong spot could defeat the purpose of the campaign. 
+### Risques et difficultés 
+Sur les plateformes commerciales, la date, le lieu et le type de téléchargement des cartes est enregistré. Ainsi, les cartes publiques disponibles sur les plateformes commerciales laissent apparaître la localisation des individus qui ont téléchargé des informations sur le site et les mettent en danger. En même temps, il est essentiel d‘éviter les erreurs : des informations présentées au mauvais endroit vont à l’encontre des objectifs d’une campagne. 
 
-### Case studies
+### Cas d’étude :
 
-#### Impact of animated maps to show forest cover loss
-[Open Development Cambodia](https://cambodia.opendevelopmentmekong.net/) works to collect and provide quantitative information on Cambodia’s land, economic and environmental issues. They used the forest cover change information over a period of ten years to create a time-lapse video showing forest cover loss.
+#### L’impact des cartes animées pour la visualisation de la réduction du couvert forestier.
+Open Development Cambodge collecte et fournit des informations quantitatives sur des questions liées à la terre, l’économie et l’environnement au Cambodge. L’organisation a utilisé des informations relatives aux changements dans le couvert forestier sur une période de dix ans pour créer une vidéo en accéléré montrant sa dégradation. 
 
-**How did it help?**
+**Quels résultats ?**
 
-* The video was quick and easy to make because ODC already had all the information prepared and uploaded on their interactive maps. 
-* The [time-lapse video](http://www.opendevelopmentcambodia.net/briefings/forest-cover/) was an effective advocacy tool because it clearly showed the extent of forest loss in Cambodia. It has been viewed more than two thousand times.
+* La vidéo a été facile et rapide à réaliser car ODC avait préparé et transféré toutes ses informations sur ses cartes interactives.  
+* La vidéo en accéléré a servi d’outil de plaidoyer efficace car elle mettait en évidence l’étendue des pertes forestières au Cambodge. Elle a été consultée plus de 2 000 fois (http://www.opendevelopmentcambodia.net/briefings/forest-cover/).
 
-#### Mapping resources and communities in the Amazon
-[RAISG (Amazonian Network of Georeferenced Socio-Environmental Information)](https://raisg.socioambiental.org) is a multi-year project that aims to raise awareness and advocate for indigenous rights and environmental issues, and has collected information on protected areas, indigenous lands, water basins, and illegal logging.
+#### Cartographie des ressources et des communautés en Amazonie.
+RAISG (réseau d’informations socio-environnementales géoréférencées d’Amazonie) est un projet sur plusieurs années qui vise à sensibiliser et défendre les droits des peuples autochtones et l’environnement. Il a recueilli des informations relatives aux aires protégées, aux terres autochtones, aux bassins hydrographiques et aux coupes illégales.
 
-**How did it help?**
+**Quels résultats ?**
 
-* RAISG presents all the collected information through [online interactive maps](http://raisg.socioambiental.org/mapa-online/index.html), as well as downloadable static maps with [infographics](http://raisg.socioambiental.org/amazonia-2012-areas-protegidas-e-territorios-indigenas#english), and [reports](http://raisg.socioambiental.org/system/files/Amazonia%20under%20pressure16_05_2013.pdf). Their information is also used by other organisations such as [InfoAmazonia](http://www.infoamazonia.org/).
-* RAISG maps are a useful tool for evidence-based advocacy because of their strong methodology. Its partner organisations are able to rely on the collected information when lobbying governments.  
+* RAISG présente toutes ses informations sour forme de cartes interactives (http://raisg.socioambiental.org/mapa-online/index.html), de cartes statiques accompagnées d’infographies (http://raisg.socioambiental.org/amazonia-2012-areas-protegidas-e-territorios-indigenas#english) pouvant être téléchargées et de rapports.
+* Les cartes du RAISG constituent un puissant outil de plaidoyer fondé sur les preuves car elles s’appuient sur une méthodologie robuste. Les organisations partenaires du réseau peuvent s’en servir pour faire pression sur les gouvernements (http://raisg.socioambiental.org/system/files/Amazonia%20under%20pressure16_05_2013.pdf).  
 
 ## About
 
