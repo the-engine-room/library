@@ -15,9 +15,9 @@ navigation:
   - Risks and challenges
   - Case studies
   - About
-lang: en
+lang: fr
 categories:
-  - en
+  - fr
 ---
 
 ## Cartographie participative et GPS 

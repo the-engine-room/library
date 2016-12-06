@@ -19,6 +19,7 @@ theme: table-of-contents
 				<li><a href="#id" data-lang-target="id">id</a></li>
 			</ul>
 		</nav>
+		
 		<div class="lang-box lang-show" lang="en">
 			<p><a href="https://www.theengineroom.org">The Engine Room</a>'s Library collects what we're learning about using data and technology for social change. Each 'book' in the Library is a brief introduction to a topic, with links to other places where you can learn more.</p>
 			<p>We're always finding information through our direct support, community and research work that we think should be shared as widely as possible. So, we summarise what we've found, and present it in a simple, easy-to-understand way.</p>
@@ -42,16 +43,15 @@ theme: table-of-contents
 	
 			<p>The contents of all the books in our Library, and the code behind it, are all openly-licensed and available on <a href="https://github.com/the-engine-room/library">GitHub</a>.  </p>
 		</div>
+		
 	</div>
 </div>
 
 <hr>
 
 <div class="container lang-box lang-show" lang="en" id="books">
-	{% for book in site.books %}
-		
-		{% if book.lang == 'en' %}
-			
+	{% for book in site.books %}		
+		{% if book.lang == 'en' %}			
 			{% capture u %}{% cycle 'odd', 'even' %}{% endcapture %}
 			{% if u == 'odd' or forloop.first %}
 			<div class="row">
@@ -94,8 +94,7 @@ theme: table-of-contents
 </div>
 <div class="container lang-box lang-hidden" lang="id" id="books">
 	{% for book in site.books %}
-		{% if book.lang == 'id' %}
-	
+		{% if book.lang == 'id' %}	
 			{% capture u %}{% cycle 'odd', 'even' %}{% endcapture %}
 			{% if u == 'odd' or forloop.first %}
 			<div class="row">
@@ -109,8 +108,7 @@ theme: table-of-contents
 				</div>
 			{% if u == 'even' or forloop.last %}
 			</div>
-			{% endif %}
-			
+			{% endif %}			
 		{% endif %}	
 	{% endfor %}
 </div>

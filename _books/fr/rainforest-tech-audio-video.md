@@ -16,9 +16,9 @@ navigation:
   - Case studies
   - Further resources
   - About
-lang: en
+lang: fr
 categories:
-  - en
+  - fr
 ---
 
 ## Audio et vidéo
