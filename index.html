@@ -56,42 +56,47 @@ theme: table-of-contents
 			{% if u == 'odd' or forloop.first %}
 			<div class="row">
 			{% endif %}
-				<div class="two columns">
-					<a href="{{book.url}}"><img src="{{ book.image }}" width="100px"></a>
-				</div>
-				<div class="four columns">
-					<h2><a href="{{book.url}}">{{ book.title }}</a></h2>
-					<p>{{ book.description }}</p>
+				<div class="ref" data-ref="{{book.ref}}" id="en-{{book.ref}}">
+					<div class="two columns">
+						<a href="{{book.url}}"><img src="{{ book.image }}" width="100px"></a>
+					</div>
+					<div class="four columns">
+						<h2><a href="{{book.url}}">{{ book.title }}</a></h2>
+						<p>{{ book.description }}</p>
+					</div>
 				</div>
 			{% if u == 'even' or forloop.last %}
 			</div>
-			{% endif %}
-			
+			{% endif %}			
 		{% endif %}	
-	{% endfor %}
+	{% endfor %}	
 </div>
+
 <div class="container lang-box lang-hidden" lang="fr" id="books">
 	{% for book in site.books %}
-		{% if book.lang == 'fr' %}
-	
+		{% if book.lang == 'fr' %}	
 			{% capture u %}{% cycle 'odd', 'even' %}{% endcapture %}
 			{% if u == 'odd' or forloop.first %}
 			<div class="row">
 			{% endif %}
-				<div class="two columns">
-					<a href="{{book.url}}"><img src="{{ book.image }}" width="100px"></a>
-				</div>
-				<div class="four columns">
-					<h2><a href="{{book.url}}">{{ book.title }}</a></h2>
-					<p>{{ book.description }}</p>
+				<div class="ref" data-ref="{{book.ref}}" id="fr-{{book.ref}}">
+					<div class="two columns">
+						<a href="{{book.url}}"><img src="{{ book.image }}" width="100px"></a>
+					</div>
+					<div class="four columns">
+						<h2><a href="{{book.url}}">{{ book.title }}</a></h2>
+						<p>{{ book.description }}</p>
+					</div>
 				</div>
 			{% if u == 'even' or forloop.last %}
 			</div>
-			{% endif %}
-			
+			{% endif %}			
 		{% endif %}	
 	{% endfor %}
+	<!-- This closing tag is forced in here to break out of the loop --> </div>
+	<div class="row fr-last-row"></div>
 </div>
+
 <div class="container lang-box lang-hidden" lang="id" id="books">
 	{% for book in site.books %}
 		{% if book.lang == 'id' %}	
@@ -99,16 +104,19 @@ theme: table-of-contents
 			{% if u == 'odd' or forloop.first %}
 			<div class="row">
 			{% endif %}
-				<div class="two columns">
-					<a href="{{book.url}}"><img src="{{ book.image }}" width="100px"></a>
-				</div>
-				<div class="four columns">
-					<h2><a href="{{book.url}}">{{ book.title }}</a></h2>
-					<p>{{ book.description }}</p>
+				<div class="ref" data-ref="{{book.ref}}" id="id-{{book.ref}}">
+					<div class="two columns">
+						<a href="{{book.url}}"><img src="{{ book.image }}" width="100px"></a>
+					</div>
+					<div class="four columns">
+						<h2><a href="{{book.url}}">{{ book.title }}</a></h2>
+						<p>{{ book.description }}</p>
+					</div>
 				</div>
 			{% if u == 'even' or forloop.last %}
 			</div>
 			{% endif %}			
 		{% endif %}	
 	{% endfor %}
+	<div class="row id-last-row"></div>
 </div>

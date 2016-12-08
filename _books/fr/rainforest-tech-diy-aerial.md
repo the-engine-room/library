@@ -16,6 +16,7 @@ navigation:
   - Case studies
   - Further resources
   - About
+ref: rt-da
 lang: fr
 categories:
   - fr

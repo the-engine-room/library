@@ -15,6 +15,7 @@ navigation:
   - Risks and challenges
   - Case studies
   - About
+ref: rt-om
 lang: fr
 categories:
   - fr

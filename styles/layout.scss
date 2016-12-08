@@ -167,6 +167,12 @@ nav.lang-nav {
 .lang-show { display: block; }
 .lang-hidden { display: none; }
 
+
+// greyed out text and title for english-only content
+body.table-of-contents #books .ref.greyed {
+  h2 a { color: #333; }
+  p { color: #666; }
+}
 body.page > .content {
 
   padding-top: 50px; // make space for navbar

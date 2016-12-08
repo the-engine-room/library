@@ -16,6 +16,7 @@ navigation:
   - Case studies
   - Further resources
   - About
+ref: rt-mp
 lang: fr
 categories:
   - fr

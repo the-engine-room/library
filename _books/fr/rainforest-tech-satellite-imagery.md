@@ -15,6 +15,7 @@ navigation:
   - Risks and challenges
   - Case studies
   - About
+ref: rt-si
 lang: fr
 categories:
   - fr
