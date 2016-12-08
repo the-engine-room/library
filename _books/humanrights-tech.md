@@ -35,7 +35,7 @@ navigation:
 
 This is a scoping study on how human rights defenders (HRDs) are using technology tools to communicate, analyse and manage information, identify new incidents and archive data. It aims to help understand the realities of tool use and identify HRDs’ needs as they stand.
 
-The content of this site as drawn from a series of sixteen interviews conducted between February and April 2016, funded by the Oak Foundation, with extra information from interviews as part of another ongoing Engine Room project in partnership with Amnesty International and Benetech. [Download the report (2.7MB pdf)](https://library.theengineroom.org/media/humanrights-tech/Technology-tools-in-human-rights.pdf).
+The content of this site as drawn from a series of sixteen interviews conducted between February and April 2016, funded by the Oak Foundation, with extra information from interviews as part of another ongoing Engine Room project in partnership with Amnesty International and Benetech. [Download the report (4.3Mb pdf)](https://www.theengineroom.org/wp-content/uploads/2016/12/technology-tools-in-human-rights.pdf).
 
 We spoke to people who interact with technology in the human rights sphere in a range of different countries and contexts. They included three main groups:
 
