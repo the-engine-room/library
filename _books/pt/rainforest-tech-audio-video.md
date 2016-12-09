@@ -68,7 +68,7 @@ Você agora pode criar vídeo e áudio a baixo custo, mas em geral, quanto mais 
 
 **Riscos às pessoas que estão gravando:** Gravar áudio ou vídeo pode ser arriscado.  Exclua ou criptografe dados pessoais em dispositivos, e limpe os dispositivos frequentemente. Impressões digitais ou resíduos podem mostrar onde eles estiveram. Somente compartilhe informações confidenciais com grupos de confiança ou advogados antes de publicar, e verifique se é legal gravar antes de começar.
 
-**Riscos às pessoas que você está gravando:** Siga os passos no parágrafo ‘Consentimento’ em **Obtendo dados **(página X), certificando-se de que as pessoas entendam que a gravação poderá ser amplamente divulgada e vista por qualquer pessoa. [Desligue qualquer função de gravação de localização](https://www.v4c.org/en/content/hands-using-obscuracam) e [desfoque o rosto das pessoas](http://youtube-global.blogspot.co.uk/2012/07/face-blurring-when-footage-requires.html).
+**Riscos às pessoas que você está gravando:** Siga os passos no parágrafo ‘Consentimento’ em 'Obtendo dados'(página X), certificando-se de que as pessoas entendam que a gravação poderá ser amplamente divulgada e vista por qualquer pessoa. [Desligue qualquer função de gravação de localização](https://www.v4c.org/en/content/hands-using-obscuracam) e [desfoque o rosto das pessoas](http://youtube-global.blogspot.co.uk/2012/07/face-blurring-when-footage-requires.html).
 
 ### Estudos de caso
 
