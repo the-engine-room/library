@@ -24,15 +24,15 @@ categories:
 
 # Fotografia aérea faça você mesmo
 
-**Objetivos possíveis**
+> **Objetivos possíveis**
 
-* Coletar indícios de desflorestamento ou degradação florestal
+> * Coletar indícios de desflorestamento ou degradação florestal
 
-* Capturar evidência de irregularidades de empresas no uso da terra
+> * Capturar evidência de irregularidades de empresas no uso da terra
 
-* Apoiar as comunidades apresentando e fornecendo conhecimento
+> * Apoiar as comunidades apresentando e fornecendo conhecimento
 
-* Fornecer evidências concretas ao poder público para incentivá-los a reconhecer terras indígenas.
+> * Fornecer evidências concretas ao poder público para incentivá-los a reconhecer terras indígenas.
 
 Esta introdução faz parte de uma [Cartilha de uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direitos territoriais e dos indígenas](https://library.theengineroom.org/rainforest-tech). Foi criada como um ponto de partida para organizações e ativistas interessados em utilizar tecnologia para realizar melhor seu trabalho de proteção, e resultou de uma parceria entre a [Fundação Rainforest da Noruega](http://www.regnskog.no/en/) e [The Engine Room](https://theengineroom.org/).
 
