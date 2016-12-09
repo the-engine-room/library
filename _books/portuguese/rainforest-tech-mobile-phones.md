@@ -1,6 +1,25 @@
-Esta introdução faz parte de uma *[Cartilha de uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direitos territoriais e dos indígena*s](https://library.theengineroom.org/rainforest-tech). Foi criada como um ponto de partida para organizações e ativistas interessados em utilizar tecnologia para realizar melhor seu trabalho de proteção, e resultou de uma parceria entre a *[Fundação Rainforest da Norueg*a](http://www.regnskog.no/en/)* *e *[The Engine Roo*m](https://theengineroom.org/).
+---
+layout: rainforest
+title: Rainforest Technology
+description: Uma introdução ao uso de imagens de satélite em projetos relacionados a florestas tropicais para analisar a mudança ao longo do tempo em uma área florestal, ou gerar evidência de desflorestamento, tendências como aumento de atividade comercial ou resultados visíveis de degradação florestal. Parte do relatório Tecnologia Rainforest.
+image: /media/index/rainforest.svg
+funder_name: Rainforest Foundation Norway
+funder_logo: /images/logos/rfn.svg
+funder_link: http://regnskog.no/en
+published: true
+navigation:
+  - Introdução
+  - Como pode ajudar?
+  - Ferramentas
+  - Custo
+  - Riscos e desafios
+  - Sobre a página
 
-*[Baixe a cartilha completa (1.6MB pdf)*.](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642)* ou leia abaixo online.*
+---
+
+Esta introdução faz parte de uma *[Cartilha de uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direitos territoriais e dos indígenas]* (https://library.theengineroom.org/rainforest-tech). Foi criada como um ponto de partida para organizações e ativistas interessados em utilizar tecnologia para realizar melhor seu trabalho de proteção, e resultou de uma parceria entre a [Fundação Rainforest da Noruega](http://www.regnskog.no/en/) e [The Engine Room](https://theengineroom.org/).
+
+*[Baixe a cartilha completa (1.6MB pdf)](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online.*
 
 ## **Aplicativos para celular**
 
@@ -29,7 +48,7 @@ Uma abordagem comum é dar um dispositivo móvel com um aplicativo para os monit
 
 ### **Ferramentas**
 
-Há diversos aplicativos à sua escolha: o aplicativo certo para você dependente de quantos dados você está coletando, quanta assistência técnica você precisa e o quanto as suas necessidades são específicas.  Há websites que podem ajudar você a identificar as ferramentas ou aplicativos móveis mais adequados, incluindo Humanitarian Nomad (NOTE:  http://humanitarian-nomad.org/online-selection-tool/) e Solutions Center (NOTE:  http://solutionscenter.nethope.org/ ). 
+Há diversos aplicativos à sua escolha: o aplicativo certo para você dependente de quantos dados você está coletando, quanta assistência técnica você precisa e o quanto as suas necessidades são específicas.  Há websites que podem ajudar você a identificar as ferramentas ou aplicativos móveis mais adequados, incluindo [Humanitarian Nomad] (http://humanitarian-nomad.org/online-selection-tool/) e [Solutions Center] (http://solutionscenter.nethope.org/). 
 
 ### **Custo - depende de três fatores**
 
@@ -37,7 +56,7 @@ Há diversos aplicativos à sua escolha: o aplicativo certo para você dependent
 
 **O quanto o aplicativo é complexo?** Quanto mais recursos você quiser, mais treinamento e assistência na solução de problemas vai precisar. Está incluída assistência em serviços como ArcGIS, mas custa caro. Soluções Open source como o Kit Open Data, por outro lado, força você a resolver os problemas (o que toma tempo do pessoal) ou a chamar especialistas de fora (o que normalmente custa dinheiro).
 
-**Qual o volume de dados que deseja coletar? **Quanto mais dados você captura, mais você gasta no banco de dados que contém as informações, em back-up offline de dados ou tarifas de mensagens SMS. 
+**Qual o volume de dados que deseja coletar?** Quanto mais dados você captura, mais você gasta no banco de dados que contém as informações, em back-up offline de dados ou tarifas de mensagens SMS. 
 
 Para lhe dar uma ideia das opções disponíveis, aqui estão dois exemplos diferentes de custos:
 
@@ -51,7 +70,7 @@ O conjunto de aplicativos ArcGIS é um produto GIS premium que oferece opções 
 
 ### **Riscos e desafios**
 
-É impossível coletar e compartilhar dados de forma totalmente segura através de telefones celulares por causa da forma como são criados.  (NOTE:  Veja Security in a Box para saber os motivos: https://securityinabox.org/en/guide/mobile-phones) Isso poderia ser uma ameaça para as pessoas coletando informações; às vezes só o fato de ter um aplicativo pode colocar em risco o monitor de uma comunidade. Pessoas e meio ambientes também podem ser ameaçados como resultado de informações publicadas sobre eles (veja as seções ‘dados responsáveis’ da seção **Estratégia**).
+É impossível coletar e compartilhar dados de forma totalmente segura através de telefones celulares por causa da forma como são criados.  (Veja Security in a Box para saber os motivos: https://securityinabox.org/en/guide/mobile-phones) Isso poderia ser uma ameaça para as pessoas coletando informações; às vezes só o fato de ter um aplicativo pode colocar em risco o monitor de uma comunidade. Pessoas e meio ambientes também podem ser ameaçados como resultado de informações publicadas sobre eles (veja as seções ‘dados responsáveis’ da seção **Estratégia**).
 
 <table>
   <tr>
@@ -74,12 +93,4 @@ As informações reunidas pelos indígenas foram usadas para criar mapas que des
 Um desses mapas de invasão foi apresentado ao ex-Ministro do Meio Ambiente do país, desencadeando uma ação de diversos setores do governo federal contra invasões.</td>
   </tr>
 </table>
-
-
-<table>
-  <tr>
-    <td></td>
-  </tr>
-</table>
-
 
