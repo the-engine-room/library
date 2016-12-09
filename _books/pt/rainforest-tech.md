@@ -99,7 +99,7 @@ Esperamos que esta cartilha ajude àqueles que querem começar novos projetos, o
 
 **O compartilhamento de informações está mais fácil:** O acesso à Internet e redes de telefonia móvel estão se espalhando por países e áreas antes isoladas. As organizações agora podem documentar e compartilhar informações sobre incidentes no momento em que ocorrem (em tempo real). A tecnologia também facilita colaboração com organizações de outros países (como a Rede Amazônica de Informação Socioambiental RAISG) ou de outros continentes (como a rede de parceiros da Fundação Rainforest da Noruega).
 
-**Estão sendo desenvolvidas ferramentas para a sua necessidade: **Foram mostradas uma ampla gama de ferramentas, muitas criadas para uso em ambientes de florestas tropicais, para facilitar a campanha e monitorar informações.
+**Estão sendo desenvolvidas ferramentas para a sua necessidade:** Foram mostradas uma ampla gama de ferramentas, muitas criadas para uso em ambientes de florestas tropicais, para facilitar a campanha e monitorar informações.
 
 **Ficou mais simples encontrar e usar os dados que você quer:** Dados sobre assuntos como uso da terra, cobertura florestal e recursos naturais usados, podem ser difíceis de encontrar, caros ou difíceis de usar. Agora isso está mudando. Combinados às informações coletadas pela sua organização (tais como limites da comunidade ou biodiversidade), resultam em um conjunto de dados rico e poderoso para serem usados em defesa de uma causa.
 
@@ -167,7 +167,7 @@ Resolva a estratégia de longo prazo da sua instituição, envolvendo o pessoal 
 
 Avalie o uso atual da tecnologia na sua organização - Vocês têm os equipamentos certos? É possível obter assistência técnica com facilidade quando você precisa? Solucione qualquer problema existente *antes *de começar qualquer projeto novo.
 
-#### **Crie seu projeto tecnológico **
+#### **Crie seu projeto tecnológico**
 
 ##### Defina suas metas
 
@@ -190,7 +190,7 @@ Um piloto permite que você teste em pequena escala, identificando logo o que es
 <blockquote>
 	<h5>Estudo de caso: O piloto de uma tecnologia nova pode trazer benefícios inesperados</h5>
   <p>Em 2013, a [Rainforest Connection](https://rfcx.org) desenvolveu um projeto piloto em West Sumatra (Indonésia) para testar um aplicativo de monitoramento de exploração ilegal usando um telefone celular modificado.</p>
-  <p>**Como isso ajudou?**<p>
+  <p><b>Como isso ajudou?</b><p>
   <ul>
     <li>O piloto foi criado para avaliar se a tecnologia funcionava, mas foi melhor do que o esperado, coletou informações que permitiram que as autoridades locais capturassem exploradores ilegais duas semanas depois da instalação.</li>
     <li>As madeireiras retornaram desde então. Agora a [Rainforest Connection](http://news.mongabay.com/2014/0624-rainforest-connection-interview.html) está realizando uma segunda série de pilotos na África Equatorial.</li>
@@ -214,7 +214,7 @@ Então, pense sobre o efeito potencial do seu projeto naquela situação, e como
     <li>Priorize os eventos que são mais prováveis de acontecer e os mais sérios.</li>
     <li>Crie um conjunto de passos práticos: o que você pode fazer para que cada evento seja menos provável? Você pode limitar o dano caso ele ocorra? Qual o plano de back-up?</li>
   </ul>
-  <p style="color:white">**Preparando-se para o pior.** Mesmo com o melhor planejamento, emergências acontecem. A resposta pode exigir recursos de defesa externos para fundos de emergência médica, suporte jurídico, mais fundos para segurança ou custos de substituição de ferramentas.</p>
+  <p style="color:white"><b>Preparando-se para o pior.</b> Mesmo com o melhor planejamento, emergências acontecem. A resposta pode exigir recursos de defesa externos para fundos de emergência médica, suporte jurídico, mais fundos para segurança ou custos de substituição de ferramentas.</p>
 </blockquote>
 
 
@@ -249,11 +249,11 @@ Se já existem dados bons, não perca tempo e dinheiro coletando novamente. Pens
 <blockquote>
     <h5>Estudo de caso: compartilhando dados de fontes diferentes</h5>
     <p>O site de notícias da Indonésia [Ekuatorial](http://ekuatorial.com) cria mapas interativos apresentados com artigos sobre problemas ambientais redigidos por publicações parceiras. Os mapas combinam dados georeferenciados da Global Forest Watch sobre plantações de óleo de palma e concessões florestais; informações coletadas pelo Ministério de Administração Florestal da Indonésia, conjunto de dados internacionais como o Banco de Dados Mundial de Áreas Protegidas, e informações enviadas por voluntários do Humanitarian OpenStreetMap. Para fazer o mapa, a Ekuatorial contratou cartógrafos profissionais, que usaram CartoDB e MapBox para criar os mapas que então foram publicados diretamente em (veja a seção Online Mapping, abaixo).</p>
-    <p>**Como isso ajudou?**</p>
+    <p><b>Como isso ajudou?</b></p>
     <p>A Ekuatorial permite que outras organizações republiquem seus mapas em seus próprios sites usando uma função ‘share this map’ (compartilhe este mapa) fácil de usar.Os dados brutos coletados são também úteis para outras organizações indonésias porque são regularmente atualizados, e disponíveis para [download grátis](http://ekuatorial.com).</p>
   </blockquote>
 
-#### **Determine critérios para os seus dados**
+#### Determine critérios para os seus dados
 
 Antes de começar, verifique novamente se os seus métodos vão gerar dados que possam realmente ser usados. Coletar o tipo incorreto de dados pode ser caro e demorado. Dados ‘**qualitativos**’ como textos de entrevistas com comunidades florestais podem ser poderosos na defesa da causa, mas dados' **quantitativos**’ contáveis são mais fáceis de serem analisados, mais manejáveis em grandes quantidades e mais simples ao serem comparados com outras fontes.
 
@@ -272,7 +272,7 @@ Combinar diferentes fontes de dados pode revelar informações inteiramente nova
 <blockquote>
   <h5>Estudo de caso: Combinando diferentes tipos de informações</h5>
   <p>[A Organización Regional AIDESEP Ucayali](http://www.orau.com.pe/inicio/index.php) (ORAU) estabeleceu um sistema de monitoramento criado para documentar a existência de povos indígenas em isolamento voluntário (IPVI) e ameaças ao meio ambiente no Peru.</p>
-  <p>**Como isso ajudou?**</p>
+  <p><b>Como isso ajudou?</b></p>
   <ul>
     <li>Fotografias de evidências, dados de GPS e outras informações foram salvas e sistematizadas em um banco de dados digital.</li>
     <li>Juntamente com informações semelhantes de outras organizações de povos indígenas isso tornou impossível para o governo peruano continuar a negar a existência de IPVI.</li>
@@ -295,7 +295,7 @@ Só gaste dinheiro em tecnologia se tiver certeza que de que é absolutamente ne
 
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
-	<p style="color:white">**Não confie em uma empresa para armazenar seus dados online:** Por exemplo, milhões de fotos hospedadas no serviço Twitpic corriam risco de eliminação em 2014 quando a empresa fechou, enquanto em 2011, milhares de vídeos hospedados no site sul-africano MyVideo foram perdidos já que o serviço não tinha back-ups e os servidores não tinham tido manutenção adequada.</p>
+<p style="color:white"><b>Não confie em uma empresa para armazenar seus dados online:</b> Por exemplo, milhões de fotos hospedadas no serviço Twitpic corriam risco de eliminação em 2014 quando a empresa fechou, enquanto em 2011, milhares de vídeos hospedados no site sul-africano MyVideo foram perdidos já que o serviço não tinha back-ups e os servidores não tinham tido manutenção adequada.</p>
 </blockquote>
 
 
@@ -312,9 +312,9 @@ Para começar, **crie uma metodologia** (uma explicação de como você coletou 
 
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
-	<h5 style="color:white">Caixa de dados responsáveis: Saiba quando **não** coletar dados</h5>
+<h5 style="color:white">Caixa de dados responsáveis: Saiba quando <b>não</b> coletar dados</h5>
   <p style="color:white">Para reduzir riscos, só colete a quantidade mínima de dados que você precisa para conduzir o seu projeto. Pense na sua avaliação de risco (veja seção Planejamento) e colete dados confidenciais de forma mais segura se necessário.</p>
-  <p style="color:white">**Consentimento informado**</p>
+  <p style="color:white"><b>Consentimento informado</b></p>
   <p style="color:white">Ao coletar dados sobre um indivíduo, você guarda informações pessoais. A pessoa que está fornecendo os dados – não você ou sua organização – é que deve decidir como as informações devem ser usadas. Crie um processo para seguir sempre que coletar dados de pessoas incluindo os seguintes passos:</p>
   <ul style="color:white">
     <li>Explique como os dados que você está coletando serão usados, publicados e armazenados.</li>
@@ -325,15 +325,15 @@ Para começar, **crie uma metodologia** (uma explicação de como você coletou 
 </blockquote>
 
 
-#### **Obtenha feedback**
+#### Obtenha feedback
 
 Não espere até o fim do projeto para descobrir se está funcionando bem: pergunte regularmente e ajuste as suas atividades de acordo. Você pode coletar essas informações usando métodos como pesquisas, encontros pessoais e outras medidas, como interações online. The engine room tem [um guia prático ](https://www.theengineroom.org/diy-for-me/)de monitoramento e avaliação de projetos. O kit de ferramentas [Feedback Labs](http://feedbacklabs.org/toolkit/) tem mais recursos e ferramentas para ajudar você a coletar informações.
 
-### **Gerencie os dados**
+### Gerencie os dados
 
 Antes de começar a coletar informações, crie algumas categorias para ajudar na organização dos dados. Isso vai ajudar a identificar tendências e áreas faltantes. Você pode revisar as categorias mais tarde.
 
-#### **Controle a qualidade dos dados desde o início**
+#### Controle a qualidade dos dados desde o início
 
 Não espere até ter terminado de coletar os dados para verificá-los: verifique esses fatores antes de começar.
 
@@ -349,7 +349,7 @@ Pense sobre as pessoas usando tecnologia: onde elas cometerão erros? Quando voc
 
 Certifique-se de que todos os dados sejam coletados com os mesmos métodos e analisados no mesmo software, isso facilitará a comparação e análise.
 
-#### **Faça com que os dados sejam úteis**
+#### Faça com que os dados sejam úteis
 
 Aqui estão as principais coisas que você precisa pensar a respeito ao preparar e analisar dados: O curso ‘[Data Fundamentals](http://schoolofdata.org/courses/#DataFundamentals)’ da School of Data tem mais informações sobre todas as seções abaixo.
 
@@ -369,11 +369,11 @@ Comunicar o que os dados demonstram é uma das partes mais importantes de um pro
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
 	<h5 style="color:white">Caixa de dados responsáveis: Cuide dos seus dados</h5>
     <br>
-  <p style="color:white">**Como você vai armazenar os dados dentro da sua organização?**</p>
+    <p style="color:white"><b>Como você vai armazenar os dados dentro da sua organização?</b></p>
   <p style="color:white">Se estiver armazenando dados em rede na sua organização, eles serão mantidos em um servidor (um computador que fornece dados para outros computadores). Se você tem um servidor que é mantido fisicamente na sua localidade, veja quanto custa para alguém especializado cuidar dele. Se estiver pagando hospedagem de dados em um servidor externo, verifique se o servidor oferece todos os recursos de que precisa, e se tem boas medidas se segurança.</p>
-  <p style="color:white">**Criptografia de dados fisicamente armazenados**</p>
+  <p style="color:white"><b>Criptografia de dados fisicamente armazenados</b></p>
   <p style="color:white">Dados podem ser armazenados fisicamente em discos rígidos no computador ou externos, e podem ser criptografados usando softwares como TrueCrypt ou FileVault. (Isso não substitui as medidas de segurança digitais fortes: se alguém tiver acesso à sua senha, criptografia não vai ajudar.)</p>
-  <p style="color:white">**Excluindo ou arquivando seus dados**</p>
+  <p style="color:white"><b>Excluindo ou arquivando seus dados</b></p>
   <p style="color:white">É melhor manter os dados somente pelo período em que serão necessários. Os dados podem não estar em risco agora, mas é difícil prever o futuro. Para excluir mesmo os dados de um disco rígido, você precisa gravar por cima diversas vezes. Entretanto, se os dados tiverem valor histórico ou cultural, ou puderem ser úteis no futuro como evidência, pode ser que você queira preservá-los. Escolha um formato que provavelmente poderá ser utilizado no futuro e considere uma parceria com um arquivo que manterá os sistemas de arquivo para você.</p>
 </blockquote>
 
@@ -386,11 +386,11 @@ As questões jurídicas podem variar dependendo do seu país e do tipo de dados 
 
 Se pessoas puderem ser identificadas nos dados coletados, seu pessoal, aliados ou comunidades locais podem sofrer ameaças. Diminua os riscos tomando estas três medidas: colete e carregue somente as informações que sejam realmente indispensáveis; remova nomes e informações que possam identificar pessoas sempre que possível; e evite usar qualquer serviço de tecnologia que esteja sob algum risco no seu país.
 
-### **Use os dados**
+### Use os dados
 
 Agora que você coletou os dados, precisa uma estratégia de campanha cuidadosamente planejada para usá-los bem.
 
-#### **Planejamento da sua campanha**
+#### Planejamento da sua campanha
 
 ##### Mapeamento do campo
 
@@ -408,7 +408,7 @@ Qualquer campanha de defesa precisa de uma rede de aliados. Planeje como vai atr
 <blockquote>
 <h5>Estudo de caso: usando seus aliados</h5>
 <p>Em 2007, a organização chilena Movimento para Defesa do Meio Ambiente (MODEMA) produziu uma série de cartazes de Punta de Choros alertando os residentes sobre os riscos da construção de usinas termoelétricas. Os cartazes foram vistos por um grupo de cinegrafistas visitantes chilenos, que fizeram um documentário sobre a área e começaram uma campanha chamada Chao Pescao (‘Ciao Peixe’ em espanhol).</p>
-<p>**Como isso ajudou?**</p>
+<p><b>Como isso ajudou?</b> </p>
 <ul>
 <li>Os grupos trabalharam juntos para aumentar seu impacto. Conforme a campanha cresceu, mais aliados se envolveram, com cobertura da mídia nacional por mais de dez dias.</li>
 <li>A campanha combinou táticas online e offline: o documentário foi exibido nas ruas da capital Santiago usando cinemas movidos a bicicletas, e as demonstrações dos cidadãos foram imediatamente carregadas e compartilhadas no YouTube, e entre os 10.000 membros do grupo Chao Pescao no Facebook.
@@ -424,7 +424,7 @@ Escolha um ou mais destes grupos cujo comportamento você quer mudar: eles são 
 <blockquote>
     <h5>Estudo de caso: Escolhendo o seu alvo</h5>
     <p>A organização indonésia Aliansi Masyarakat Adat Nusantara (AMAN) recebeu informações através da sua plataforma de relatórios SMS que 30 pessoas foram detidas em North Sumatra (Indonésia) por estarem supostamente obstruindo as operações de uma empresa.</p>
-    <p>**Como isso ajudou?**</p>
+    <p><b>Como isso ajudou?</b></p>
     <ul>
       <li>AMAN usou as informações do alerta SMS para identificar quem tinha detido quem – e quem deveria ser o alvo da sua campanha de defesa.</li>
       <li>Eles então criaram uma equipe de especialistas em comunicação, mapeamento e jurídico que conseguiram fazer pressão para que as pessoas fossem libertadas.</li>
@@ -436,7 +436,7 @@ Escolha um ou mais destes grupos cujo comportamento você quer mudar: eles são 
 
 Comece com o que você já sabe: onde eles conseguem as informações? Em que estão interessados? Que mídia eles usam? Realisticamente, que tipo de mudança eles podem conseguir? Eduque-se: vá a reuniões públicas, procure na mídia social ou encontre pessoas diretamente.
 
-#### **Execução da campanha**
+#### Execução da campanha
 
 ##### Escolha as táticas certas para a situação
 
@@ -451,7 +451,7 @@ Descubra quais são as informações que seu público precisa. Se o seu público
 <blockquote>
     <h5>Estudo de caso: Usando vídeo para mobilizar apoio</h5>
     <p>Em 2009, a organização peruana AIDESEP gravou um vídeo testemunha ocular de violência policial contra um grupo de indígenas na região de Bagua e publicou no site de compartilhamento de vídeos YouTube.</p>
-    <p>**Como isso ajudou?**</p>
+    <p><b>Como isso ajudou?</b></p>
     <ul>
       <li>O vídeo foi amplamente distribuído online por bloggers, fornecendo evidência de um incidente que de outra forma teria sido ignorado por grande parcela do público.</li>
       <li>Marchas de solidariedade aconteceram em todo o mundo e uma comissão do governo foi fundada para investigar o incidente. Em 2013, a entidade peruana responsável pelos povos indígenas reconheceu oficialmente que os povos vivendo em isolamento voluntário eram residentes da região Napo-Tigre (embora uma campanha para fundar uma reserva indígena ainda esteja em curso).</li>
@@ -459,7 +459,7 @@ Descubra quais são as informações que seu público precisa. Se o seu público
 </blockquote>
 
 
-#### **Verifique se sua campanha está funcionando**
+#### Verifique se sua campanha está funcionando
 
 Se você puder analisar diferentes partes da sua campanha enquanto estiver em curso, poderá descobrir onde concentrar os seus esforços.
 
