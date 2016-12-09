@@ -2,7 +2,7 @@
 layout: rainforest
 title: Mapeamento participativo e por GPS
 description: Uma introdução à produção de mapas em conjunto com a comunidade (mapeamento participativo) para mostrar como uma área está realmente sendo usada, comparar com os mapas oficiais e usar as informações para reclamar os direitos das comunidades à terra. Parte do relatório Tecnologia Rainforest.
-image: /media/index/rainforest.svg
+image: /media/index/participatory.svg
 funder_name: Fundação Rainforest da Noruega
 funder_logo: /images/logos/rfn.svg
 funder_link: http://regnskog.no/en
