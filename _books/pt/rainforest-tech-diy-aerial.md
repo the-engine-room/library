@@ -40,7 +40,7 @@ Esta introdução faz parte de uma [Cartilha de uso da tecnologia para monitora
 
 *[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online.*
 
-### O que é
+### **O que é**
 
 * Fotografias aéreas podem ser produzidas por drones (veículos voadores sem piloto), balões ou pipas conectadas a uma câmera digital que tira fotos durante o voo.
 
