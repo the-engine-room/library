@@ -17,7 +17,7 @@ navigation:
 
 ---
 
-Esta introdução faz parte de uma *[Cartilha de uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direitos territoriais e dos indígenas]* (https://library.theengineroom.org/rainforest-tech). Foi criada como um ponto de partida para organizações e ativistas interessados em utilizar tecnologia para realizar melhor seu trabalho de proteção, e resultou de uma parceria entre a [Fundação Rainforest da Noruega](http://www.regnskog.no/en/) e [The Engine Room](https://theengineroom.org/).
+Esta introdução faz parte de uma [Cartilha de uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direitos territoriais e dos indígenas] (https://library.theengineroom.org/rainforest-tech). Foi criada como um ponto de partida para organizações e ativistas interessados em utilizar tecnologia para realizar melhor seu trabalho de proteção, e resultou de uma parceria entre a [Fundação Rainforest da Noruega](http://www.regnskog.no/en/) e [The Engine Room](https://theengineroom.org/).
 
 *[Baixe a cartilha completa (1.6MB pdf)](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online.*
 
