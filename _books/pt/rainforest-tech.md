@@ -156,9 +156,9 @@ Resolva a estratégia de longo prazo da sua instituição, envolvendo o pessoal 
   <p>No Congo (DRC), o governo criou uma área protegida e concedeu uma concessão de exploração de madeira no mesmo pedaço de terra pertencente às vilas de Mpole e Mpaha em Maï-Ndombe. A sobreposição criou conflitos entre os diferentes grupos envolvidos.</p>
   <p><b>Como eles decidiram usar tecnologia?</b></p>
   <ul>
-        <li>A estratégia _de longo prazo_ da organização congolesa [Rede de Recursos Naturais](http://reseaurrnrdc.org/) (Réseau Ressources Naturelles - RRN) assegura que os direitos costumeiros das comunidades locais sejam levados em conta.</li>
+        <li>A estratégia de longo prazo da organização congolesa <a href="http://reseaurrnrdc.org/">Rede de Recursos Naturais</a> (Réseau Ressources Naturelles - RRN) assegura que os direitos costumeiros das comunidades locais sejam levados em conta.</li>
         <li>A _visão de tecnologia_ deles era usar mapeamento participativo para coletar informações locais da área geográfica, e combiná-las com mapas existentes para mostrar evidência de superposições e práticas inadequadas por parte do poder público ou empresas.</li>
-        <li>A RRN realizou _etapas práticas_ incluindo treinamento de cartógrafos locais no uso de recebedores GPS, recrutamento de especialistas em mapeamento GIS e deu a eles um escritório, e [trabalho junto à comunidade](https://uclexcites.wordpress.com/2013/06/18/participatory-mapping-in-congo-brazzaville-part-1/) para validar os mapas.</li>
+        <li>A RRN realizou _etapas práticas_ incluindo treinamento de cartógrafos locais no uso de recebedores GPS, recrutamento de especialistas em mapeamento GIS e deu a eles um escritório, e <a href="https://uclexcites.wordpress.com/2013/06/18/participatory-mapping-in-congo-brazzaville-part-1/">trabalho junto à comunidade</a> para validar os mapas.</li>
         </ul>
 </blockquote>
 
@@ -193,7 +193,7 @@ Um piloto permite que você teste em pequena escala, identificando logo o que es
   <p><b>Como isso ajudou?</b><p>
   <ul>
     <li>O piloto foi criado para avaliar se a tecnologia funcionava, mas foi melhor do que o esperado, coletou informações que permitiram que as autoridades locais capturassem exploradores ilegais duas semanas depois da instalação.</li>
-    <li>As madeireiras retornaram desde então. Agora a [Rainforest Connection](http://news.mongabay.com/2014/0624-rainforest-connection-interview.html) está realizando uma segunda série de pilotos na África Equatorial.</li>
+    <li>As madeireiras retornaram desde então. Agora a <a href="http://news.mongabay.com/2014/0624-rainforest-connection-interview.html">Rainforest Connection</a> está realizando uma segunda série de pilotos na África Equatorial.</li>
   </ul>
 </blockquote>
 
@@ -250,7 +250,7 @@ Se já existem dados bons, não perca tempo e dinheiro coletando novamente. Pens
     <h5>Estudo de caso: compartilhando dados de fontes diferentes</h5>
     <p>O site de notícias da Indonésia [Ekuatorial](http://ekuatorial.com) cria mapas interativos apresentados com artigos sobre problemas ambientais redigidos por publicações parceiras. Os mapas combinam dados georeferenciados da Global Forest Watch sobre plantações de óleo de palma e concessões florestais; informações coletadas pelo Ministério de Administração Florestal da Indonésia, conjunto de dados internacionais como o Banco de Dados Mundial de Áreas Protegidas, e informações enviadas por voluntários do Humanitarian OpenStreetMap. Para fazer o mapa, a Ekuatorial contratou cartógrafos profissionais, que usaram CartoDB e MapBox para criar os mapas que então foram publicados diretamente em (veja a seção Online Mapping, abaixo).</p>
     <p><b>Como isso ajudou?</b></p>
-    <p>A Ekuatorial permite que outras organizações republiquem seus mapas em seus próprios sites usando uma função ‘share this map’ (compartilhe este mapa) fácil de usar.Os dados brutos coletados são também úteis para outras organizações indonésias porque são regularmente atualizados, e disponíveis para [download grátis](http://ekuatorial.com).</p>
+    <p>A Ekuatorial permite que outras organizações republiquem seus mapas em seus próprios sites usando uma função ‘share this map’ (compartilhe este mapa) fácil de usar.Os dados brutos coletados são também úteis para outras organizações indonésias porque são regularmente atualizados, e disponíveis para <a href="http://ekuatorial.com">download grátis</a></p>
 </blockquote>
 
 ##### Determine critérios para os seus dados
@@ -271,7 +271,7 @@ Combinar diferentes fontes de dados pode revelar informações inteiramente nova
 
 <blockquote>
   <h5>Estudo de caso: Combinando diferentes tipos de informações</h5>
-  <p>[A Organización Regional AIDESEP Ucayali](http://www.orau.com.pe/inicio/index.php) (ORAU) estabeleceu um sistema de monitoramento criado para documentar a existência de povos indígenas em isolamento voluntário (IPVI) e ameaças ao meio ambiente no Peru.</p>
+  <p><a href="http://www.orau.com.pe/inicio/index.php">A Organización Regional AIDESEP Ucayali</a> (ORAU) estabeleceu um sistema de monitoramento criado para documentar a existência de povos indígenas em isolamento voluntário (IPVI) e ameaças ao meio ambiente no Peru.</p>
   <p><b>Como isso ajudou?</b></p>
   <ul>
     <li>Fotografias de evidências, dados de GPS e outras informações foram salvas e sistematizadas em um banco de dados digital.</li>
