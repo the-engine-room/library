@@ -34,7 +34,6 @@ This introduction to mobile phone applications is part of a [Primer for using te
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
-testingtesting
 
 ### What is it
 
