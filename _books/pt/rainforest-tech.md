@@ -33,7 +33,7 @@ Foi criada para ser o ponto de partida para organizações e ativistas interessa
 
 A cartilha foi estruturada de forma que você não precisa ler tudo, mas pode explorar as seções que forem relevantes para você e usá-las para encontrar orientação mais detalhada.
 
-Baixe a cartilha completa (1.6MB pdf). ou leia abaixo online.
+Baixe a cartilha completa (1.6MB pdf), ou leia abaixo online.
 
 Esta cartilha:
 
