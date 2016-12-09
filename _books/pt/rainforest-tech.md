@@ -251,22 +251,19 @@ Se já existem dados bons, não perca tempo e dinheiro coletando novamente. Pens
     <p>O site de notícias da Indonésia [Ekuatorial](http://ekuatorial.com) cria mapas interativos apresentados com artigos sobre problemas ambientais redigidos por publicações parceiras. Os mapas combinam dados georeferenciados da Global Forest Watch sobre plantações de óleo de palma e concessões florestais; informações coletadas pelo Ministério de Administração Florestal da Indonésia, conjunto de dados internacionais como o Banco de Dados Mundial de Áreas Protegidas, e informações enviadas por voluntários do Humanitarian OpenStreetMap. Para fazer o mapa, a Ekuatorial contratou cartógrafos profissionais, que usaram CartoDB e MapBox para criar os mapas que então foram publicados diretamente em (veja a seção Online Mapping, abaixo).</p>
     <p><b>Como isso ajudou?</b></p>
     <p>A Ekuatorial permite que outras organizações republiquem seus mapas em seus próprios sites usando uma função ‘share this map’ (compartilhe este mapa) fácil de usar.Os dados brutos coletados são também úteis para outras organizações indonésias porque são regularmente atualizados, e disponíveis para [download grátis](http://ekuatorial.com).</p>
-  </blockquote>
+</blockquote>
 
-
-#### Determine critérios para os seus dados
+##### Determine critérios para os seus dados
 
 Antes de começar, verifique novamente se os seus métodos vão gerar dados que possam realmente ser usados. Coletar o tipo incorreto de dados pode ser caro e demorado. Dados ‘qualitativos’ como textos de entrevistas com comunidades florestais podem ser poderosos na defesa da causa, mas dados 'quantitativos’ contáveis são mais fáceis de serem analisados, mais manejáveis em grandes quantidades e mais simples ao serem comparados com outras fontes.
 
 Crie categorias para os seus dados, vai ajudar você a organizá-los e analisá-los mais tarde. Pense bem antes de decidir as categorias de que precisa, e teste-as primeiro para garantir que todos os dados se encaixam nelas (você vai perder muito tempo se tiver que categorizar novamente).
-
 
 ##### Escolha o formato certo
 
 Colete os dados em um formato que programas de computador possam ler e processar automaticamente.  Evite formatos que possam ser lidos somente por software de uma empresa específica (como Microsoft), já que podem se tornar ilegíveis se a empresa parar de fabricar o software.
 
 Considere registrar e publicar como Open Data, o que significa que podem ser livremente usados, reutilizados e redistribuídos por qualquer um. Isso envolve duas coisas: escolher um [formato adequado](http://opendatahandbook.org) tem muitas informações úteis sobre isso, incluindo um conjunto de formatos de arquivos abertos que você pode usar para publicar dados de forma aberta.)) e licenciá-lo para que possa ser reutilizado. (O site Open Data Commons do Open Knowledge tem um [guia de 2 minutos](http://opendatacommons.org/guide/) para licenças abertas.) Publicar assim traz muitos benefícios: mostra que a sua organização é transparente com relação aos dados que coleta; e outras organizações podem se beneficiar dos seus dados.
-
 
 #### Entenda onde você pode comparar dados – e onde não pode
 
