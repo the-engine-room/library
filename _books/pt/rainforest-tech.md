@@ -1,6 +1,6 @@
 ---
 layout: rainforest
-title: XXXX
+title: Florestas tropicais tecnologia 
 description: Uma introdução (ou 'cartilha') ao uso da tecnologia para monitorar e compartilhar informações sobre problemas das florestas tropicais, direito à terra e direito dos indígenas. Foi criada como um ponto de partida para organizações e ativistas que estão pensando em utilizar tecnologia para realizar melhor seu trabalho de defesa.
 image: /media/index/rainforest.svg
 funder_name: Rainforest Foundation Norway
@@ -19,13 +19,21 @@ categories:
   - pt
 ---
 
-# Título
+# Florestas tropicais tecnologia 
 
 ## Introdução
 
-Esta cartilha é uma introdução ao uso da tecnologia para monitorar e compartilhar informações sobre problemas das florestas tropicais, direito à terra e direito dos indígenas. Foi criada para ser o ponto de partida para organizações e ativistas interessados no uso da tecnologia melhorarem seu trabalho de defesa e proteção, mas também pode ser útil para que organizações com alguma experiência no uso da tecnologia reflitam sobre como podem aumentar o impacto do seu trabalho.
+Esta cartilha é uma introdução ao uso da tecnologia para monitorar e compartilhar informações sobre problemas das florestas tropicais, direito à terra e direito dos indígenas. 
+
+Resultou de uma parceria entre a [Fundação Rainforest da Noruega](http://www.regnskog.no/en/) e [The Engine Room](https://theengineroom.org/).
+
+![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
+
+Foi criada para ser o ponto de partida para organizações e ativistas interessados no uso da tecnologia melhorarem seu trabalho de defesa e proteção, mas também pode ser útil para que organizações com alguma experiência no uso da tecnologia reflitam sobre como podem aumentar o impacto do seu trabalho.
 
 A cartilha foi estruturada de forma que você não precisa ler tudo, mas pode explorar as seções que forem relevantes para você e usá-las para encontrar orientação mais detalhada.
+
+Baixe a cartilha completa (1.6MB pdf). ou leia abaixo online.
 
 Esta cartilha:
 
@@ -36,8 +44,6 @@ Esta cartilha:
 * Fornece informações práticas para ajudar você a decidir o que precisa, e
 
 * Fornece links para maiores detalhes sobre ferramentas e estratégias específicas.
-
-![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
 ### **O que queremos dizer com "tecnologia"?**
 
