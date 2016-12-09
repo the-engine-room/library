@@ -28,14 +28,10 @@ Esta introdução faz parte de uma [Cartilha de uso da tecnologia para monitora
 
 ## **Mapeamento participativo e por GPS**
 
-<table>
-  <tr>
-    <td>Objetivos possíveis
-Iniciar ou apoiar o diálogo entre as comunidades e o poder público
-Fornecer evidências concretas ao poder público para incentivá-los a reconhecer terras indígenas.
-Apoiar as comunidades apresentando e fornecendo conhecimento</td>
-  </tr>
-</table>
+> **Objetivos possíveis**
+> * Iniciar ou apoiar o diálogo entre as comunidades e o poder público
+> * Fornecer evidências concretas ao poder público para incentivá-los a reconhecer terras indígenas.
+> * Apoiar as comunidades apresentando e fornecendo conhecimento
 
 
 Uma introdução (ou 'cartilha') ao uso da tecnologia para monitorar e compartilhar informações sobre problemas das florestas tropicais, direito à terra e direito dos indígenas. Foi criada como um ponto de partida para organizações e ativistas que estão pensando em utilizar tecnologia para realizar melhor seu trabalho de defesa.
