@@ -62,7 +62,7 @@ Embora o material necessário para criar e construir um drone, balão ou pipa es
 
 Fotografia aérea faça você mesmo e drones são tecnologias novas, e melhores práticas e regulamentos legais ainda estão sendo desenvolvidos. (O código de conduta da rede [Humanitarian UAV](https://uaviators.org/docs) é um excelente documento para seguir; veja também [esta lista de regulamentos](http://wiki.uaviators.org/doku.php) de drones em diferentes países. Envolva as comunidades locais sempre que possível, envolvendo-os na condução do mapeamento. Certifique-se que eles entendam exatamente quais dados estão sendo coletados e como serão usados. Remova qualquer informação que identifique pessoas, e compartilhe depois com a comunidade mapeada as informações coletadas. Alguns países estão começando a introduzir restrições legais sobre quem pode voar um drone e onde, verifique se é permitido antes de começar.
 
-## Estudos de caso
+### Estudos de caso
 
 **Construindo e voando um drone em colaboração com a comunidade local**
 
