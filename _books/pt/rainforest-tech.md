@@ -268,7 +268,7 @@ Colete os dados em um formato que programas de computador possam ler e processar
 Considere registrar e publicar como Open Data, o que significa que podem ser livremente usados, reutilizados e redistribuídos por qualquer um. Isso envolve duas coisas: escolher um [formato adequado](http://opendatahandbook.org) tem muitas informações úteis sobre isso, incluindo um conjunto de formatos de arquivos abertos que você pode usar para publicar dados de forma aberta.)) e licenciá-lo para que possa ser reutilizado. (O site Open Data Commons do Open Knowledge tem um [guia de 2 minutos](http://opendatacommons.org/guide/) para licenças abertas.) Publicar assim traz muitos benefícios: mostra que a sua organização é transparente com relação aos dados que coleta; e outras organizações podem se beneficiar dos seus dados.
 
 
-##### Entenda onde você pode comparar dados – e onde não pode
+#### Entenda onde você pode comparar dados – e onde não pode
 
 Combinar diferentes fontes de dados pode revelar informações inteiramente novas e apresentar mensagens poderosas para campanhas. Por exemplo, você pode combinar fotografia aérea coletada por fotografia de satélite faça você mesmo com dados de mapeamento participativo. Mas, examine atentamente essas fontes de dados. Elas podem ser comparadas? Ambas as fontes cobrem a mesma área geográfica, e a qualidade dos dados é consistente o bastante? Se os dados corretos não estiverem disponíveis, pense em mudar a forma como os coleta de forma que os resultados sejam mais adequados aos dados existentes.
 
@@ -284,7 +284,7 @@ Combinar diferentes fontes de dados pode revelar informações inteiramente nova
 </blockquote>
 
 
-##### Às vezes a opção mais simples é a melhor
+#### Às vezes a opção mais simples é a melhor
 
 Só gaste dinheiro em tecnologia se tiver certeza que de que é absolutamente necessário. Por exemplo, se estiver coletando dados de um pequeno número de pessoas em uma área acessível, pode ser mais barato e mais fácil usar papel do que uma solução tecnológica específica.
 
