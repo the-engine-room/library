@@ -165,7 +165,7 @@ Resolva a estratégia de longo prazo da sua instituição, envolvendo o pessoal 
 
 ##### Faça um check-up tecnológico na sua organização
 
-Avalie o uso atual da tecnologia na sua organização - Vocês têm os equipamentos certos? É possível obter assistência técnica com facilidade quando você precisa? Solucione qualquer problema existente *antes *de começar qualquer projeto novo.
+Avalie o uso atual da tecnologia na sua organização - Vocês têm os equipamentos certos? É possível obter assistência técnica com facilidade quando você precisa? Solucione qualquer problema existente *antes* de começar qualquer projeto novo.
 
 #### **Crie seu projeto tecnológico**
 
@@ -255,7 +255,7 @@ Se já existem dados bons, não perca tempo e dinheiro coletando novamente. Pens
 
 #### Determine critérios para os seus dados
 
-Antes de começar, verifique novamente se os seus métodos vão gerar dados que possam realmente ser usados. Coletar o tipo incorreto de dados pode ser caro e demorado. Dados ‘**qualitativos**’ como textos de entrevistas com comunidades florestais podem ser poderosos na defesa da causa, mas dados' **quantitativos**’ contáveis são mais fáceis de serem analisados, mais manejáveis em grandes quantidades e mais simples ao serem comparados com outras fontes.
+Antes de começar, verifique novamente se os seus métodos vão gerar dados que possam realmente ser usados. Coletar o tipo incorreto de dados pode ser caro e demorado. Dados ‘qualitativos’ como textos de entrevistas com comunidades florestais podem ser poderosos na defesa da causa, mas dados 'quantitativos’ contáveis são mais fáceis de serem analisados, mais manejáveis em grandes quantidades e mais simples ao serem comparados com outras fontes.
 
 Crie categorias para os seus dados, vai ajudar você a organizá-los e analisá-los mais tarde. Pense bem antes de decidir as categorias de que precisa, e teste-as primeiro para garantir que todos os dados se encaixam nelas (você vai perder muito tempo se tiver que categorizar novamente).
 
