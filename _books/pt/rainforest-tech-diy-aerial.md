@@ -1,44 +1,25 @@
 ---
 layout: rainforest
-
 title: Fotografia aérea faça você mesmo
-
 description: Uma introdução à fotografia aérea faça você mesmo (tais como drones) para criação de mapas ou modelos 3D para monitoramento de vida selvagem, registro de reclamações de terras e documentação de impactos de mudanças climáticas. Podem produzir imagens mais detalhadas do que dados de satélite e podem ser atualizadas em tempo real.
-
 Parte do relatório [Tecnologia Rainforest](https://library.theengineroom.org/rainforest-tech).
-
 image: /media/index/rainforest.svg
-
 funder_name: Fundação Rainforest da Noruega
-
 funder_logo: /images/logos/rfn.svg
-
 funder_link: http://regnskog.no/en
-
 published: true
-
 navigation:
-
   - Introdução
-
   - O que é
-
   - Como pode ajudar
-
   - Ferramentas
   - Custos
   - Riscos e desafios
-
   - Estudos de caso
-
   - Sobre
-
 ref: pt
-
 lang: pt
-
 categories:
-
   - pt
 ---
 
