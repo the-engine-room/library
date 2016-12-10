@@ -1,12 +1,14 @@
 ---
 layout: rainforest
 title: Foto udara - lakukan sendiri
-description: Pengantar penggunaan aerial photography - lakukan sendiri (seperti drone)
-   untuk membuat peta atau model 3D guna memonitor satwa liar, mencatat klaim
-  tanah dan mendokumentasikan dampak perubahan iklim. Cara ini dapat menghasilkan gambar 
-  yang lebih detil dibandingkan dengan data satelit, dan dapat diperbarui seketika. <p>Bagian
-  laporan <a href=https://library.theengineroom.org/id/rainforest-tech>Teknologi
-  Hutan Hujan</a>.</p>
+description: >-
+  Pengantar penggunaan aerial photography - lakukan sendiri (seperti drone)
+  untuk membuat peta atau model 3D guna memonitor satwa liar, mencatat klaim
+  tanah dan mendokumentasikan dampak perubahan iklim. Cara ini dapat
+  menghasilkan gambar yang lebih detil dibandingkan dengan data satelit, dan
+  dapat diperbarui seketika. <p>Bagian laporan <a
+  href=https://library.theengineroom.org/id/rainforest-tech>Teknologi Hutan
+  Hujan</a>.</p>
 image: /media/index/drone.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
@@ -57,11 +59,13 @@ Jika Anda memiliki anggaran terbatas dan hanya ingin menjangkau daerah yang keci
 
 ### Biaya
 
-Meskipun bahan-bahan untuk menciptakan drone, balon atau layangan sudah semakin murah, namun agar dapat menggunakannya secara efektif perlu waktu, perlu keahlian praktis dasar dan kesabaran untuk mempelajari software baru. Luangkan waktu staff untuk berlatih, melakukan penyesuaian teknis, mengelola data dan menginformasikan kepada masyarakat di mana Anda akan terbang. Layang-layang sederhana yang bisa membawa sebuah kamera kecil harganya mulai dari USD 70, dan Anda bisa membeli kit balon sekitar USD 200. Juga tersedia kit untuk membuat drone berharga sekitar USD 1000-USD 2000.[[2](http://www.openrelief.org/home/open-source-airframe/)] ConservationDrones juga mengumpulkan drone yang sudah tidak dipergunakan dan mendonasikannya kepada kelompok-kelompok hutan hujan. [Software gratis, open source autopilot](http://opendronemap.github.io/odm/](http://opendronemap.github.io/odm/) dan pembuat peta juga tersedia, dan jaringan [ConservationDrones]([http://conservationdrones.org/](http://conservationdrones.org/2014/10/24/recycle/)), [DIYDrones]([http://diydrones.com/](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs)) dan [Humanitarian UAV menawarkan]([http://uaviators.org/about-this-site-rules](http://uaviators.org/about-this-site-rules)) (sering kali gratis) saran dan bantuan.
+Meskipun bahan-bahan untuk menciptakan drone, balon atau layangan sudah semakin murah, namun agar dapat menggunakannya secara efektif perlu waktu, perlu keahlian praktis dasar dan kesabaran untuk mempelajari software baru. Luangkan waktu staff untuk berlatih, melakukan penyesuaian teknis, mengelola data dan menginformasikan kepada masyarakat di mana Anda akan terbang. Layang-layang sederhana yang bisa membawa sebuah kamera kecil harganya mulai dari USD 70, dan Anda bisa membeli kit balon sekitar USD 200. Juga tersedia kit untuk membuat drone berharga sekitar USD 1000-USD 2000.[[2](http://www.openrelief.org/home/open-source-airframe/)]. 
+
+ConservationDrones juga mengumpulkan drone yang sudah tidak dipergunakan dan mendonasikannya kepada kelompok-kelompok hutan hujan. [Software gratis, open source autopilot](http://opendronemap.github.io/odm/) dan pembuat peta juga tersedia, dan jaringan [ConservationDrones](http://conservationdrones.org/2014/10/24/recycle/), [DIYDrones]([http://diydrones.com/](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs)) dan [Humanitarian UAV menawarkan]([http://uaviators.org/about-this-site-rules](http://uaviators.org/about-this-site-rules)) (sering kali gratis) saran dan bantuan.
 
 ### Risiko dan tantangan
 
-Drone dan foto udara lakukan-sendiri adalah teknologi baru, dan praktik terbaik serta aturan hukumnya masih dikembangkan. (NOTE:  ) Kode perilaku jaringan Humanitarian UAV adalah dokumen yang sangat bagus untuk dipelajari: [https://uaviators.org/docs](https://uaviators.org/docs); lihat juga daftar peraturan mengenai menerbangkan drone di negara-negara berbeda [https://www.droneregulations.info/](https://www.droneregulations.info/).  Sedapat mungkin libatkan masyarakat setempat, melibatkan mereka untuk membuat pemetaan sendiri.Pastikan bahwa mereka memahami dengan jelas data apa yang dikumpulkan dan bagaimana nanti akan digunakan.Hapus setiap informasi yang bisa menunjukkan individu, dan setelah itu bagikan informasi yang telah Anda kumpulkan kepada masyarakat yang dipetakan. Beberapa negara mulai memperkenalkan batasan-batasan hukum tentang siapa yang dapat menerbangkan drone dan di mana - sebelum mulai cek apakah ini diperbolehkan secara hukum. 
+Drone dan foto udara lakukan-sendiri adalah teknologi baru, dan praktik terbaik serta aturan hukumnya masih dikembangkan. Kode perilaku jaringan Humanitarian UAV adalah dokumen yang sangat bagus untuk dipelajari: [https://uaviators.org/docs](https://uaviators.org/docs); lihat juga daftar peraturan mengenai menerbangkan drone di negara-negara berbeda [https://www.droneregulations.info/](https://www.droneregulations.info/).  Sedapat mungkin libatkan masyarakat setempat, melibatkan mereka untuk membuat pemetaan sendiri.Pastikan bahwa mereka memahami dengan jelas data apa yang dikumpulkan dan bagaimana nanti akan digunakan.Hapus setiap informasi yang bisa menunjukkan individu, dan setelah itu bagikan informasi yang telah Anda kumpulkan kepada masyarakat yang dipetakan. Beberapa negara mulai memperkenalkan batasan-batasan hukum tentang siapa yang dapat menerbangkan drone dan di mana - sebelum mulai cek apakah ini diperbolehkan secara hukum. 
 
 ### Studi kasus
 
@@ -79,7 +83,7 @@ Tahun 2014, [anggota masyarakat Wapichana di Guyana dan organisasi Digital Democ
 
 #### Menyingkap penebangan ilegal menggunakan drone
 
-Tahun 2014, ConservationDroneshttp://conservationdrones.org) dan [Sumatran Orangutan Conservation Programme (SOCP)](http://www.sumatranorangutan.org/) menggunakan sebuah drone untuk mengambil foto udara dari bagian Taman Nasional Gunung Leuser di Indonesia. Organisasi ini terbang di atas wilayah tersebut dua kali dalam dua bulan, menghasilkan bukti foto yang jelas tentang penebangan ilegal yang telah terjadi.
+Tahun 2014, [ConservationDrones](http://conservationdrones.org) dan [Sumatran Orangutan Conservation Programme (SOCP)](http://www.sumatranorangutan.org/) menggunakan sebuah drone untuk mengambil foto udara dari bagian Taman Nasional Gunung Leuser di Indonesia. Organisasi ini terbang di atas wilayah tersebut dua kali dalam dua bulan, menghasilkan bukti foto yang jelas tentang penebangan ilegal yang telah terjadi.
 
 **Bagaimana hal ini dapat membantu?**
 
@@ -94,13 +98,13 @@ Tahun 2014, ConservationDroneshttp://conservationdrones.org) dan [Sumatran Orang
 
 * **DIY Drones** memiliki panduan pengantar untuk UAVs: [http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs)
 
-* **Public Laboratory **memberikan panduan dan dukungan untuk membuat layang-layang, balon dan sensor untuk pemetaan [http://publiclaboratory.org](http://publiclaboratory.org/wiki/kite-mapping)
+* **Public Laboratory **memberikan panduan dan dukungan untuk membuat layang-layang, balon dan sensor untuk pemetaan: [http://publiclaboratory.org](http://publiclaboratory.org/wiki/kite-mapping)
 
 * The **Humanitarian UAV network (UAViators)** memiliki beragam informasi yang bermanfaat [http://uaviators.org/about-this-site-rules](http://uaviators.org/about-this-site-rules) dan sebuah survey mengenai undang-undang yang mempengaruhi penerbangan drone di negara-negara di dunia [http://wiki.uaviators.org/doku.php](http://wiki.uaviators.org/doku.php)
 
 * **Geojournalism**’s panduan untuk pemetaan balon: [http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/)
 
-* NetHope’s **Solutions Center **memiliki webinar dan sumber daya untuk menggunakan drone [http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles)
+* NetHope’s **Solutions Center** memiliki webinar dan sumber daya untuk menggunakan drone [http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles)
 
 
 ### Tentang
