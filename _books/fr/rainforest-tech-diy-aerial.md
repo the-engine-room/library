@@ -1,7 +1,7 @@
 ---
 layout: rainforest
-title: DIY Aerial Photography
-description: An introduction to using do-it-yourself aerial photography (such as drones) for making maps or 3D models to monitor wildlife, record land claims and document climate change impacts. This can produce images that are more detailed than satellite data, and that can be updated in real time.<p>Part of the <a href="/rainforest-tech">Rainforest Technology</a> report.</p>
+title: La photographies aériennes indépendantes 
+description: Introduction à l’utilisation de photographies aérienne indépendantes (par exemple à l’aide de drones) pour élaborer des cartes ou des modèles en 3D de surveillance de la faune, enregistrer des revendications territoriales ou rassembler des preuves de l’effet des changements climatiques. Cette technique permet d’obtenir des images plus détaillées que les données satellite, pouvant aussi être mises à jour en temps réel. <p> Extrait du rapport sur <a href="/rainforest-tech">la Technologie pour les Forêts Tropicales</a>.</p>
 image: /media/index/drone.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
