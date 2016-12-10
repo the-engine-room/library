@@ -28,7 +28,7 @@ categories:
 > * Enregistrer et surveiller la valeur environnementale des zones territoriales  
 > * Fournir aux gouvernements des preuves concrètes pour les inciter à reconnaître les terres autochtones
 
-Cette introduction est issue du [*Guide introductif à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale et les droits des peuples forestiers.*](/fr/rainforest-tech) Il fournit un point de départ aux organisations et activistes désireux d’intégrer des technologies en appui à leurs actions de plaidoyer, et est le fruit d’un partenariat entre la *[Rainforest Foundation Norway]*(http://www.regnskog.no/en/) et *[The Engine Room]*(https://theengineroom.org/).
+Cette introduction est issue du [*Guide introductif à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale et les droits des peuples forestiers.*](/fr/rainforest-tech) Il fournit un point de départ aux organisations et activistes désireux d’intégrer des technologies en appui à leurs actions de plaidoyer, et est le fruit d’un partenariat entre la [Rainforest Foundation Norway](http://www.regnskog.no/en/) et [The Engine Room](https://theengineroom.org/).
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
