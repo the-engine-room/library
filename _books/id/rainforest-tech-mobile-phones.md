@@ -103,6 +103,26 @@ Organisasi Pro-Indian Commission of Acre (Comissão Pró-Indio do Acre, or CPI-A
 
 * Salah satu peta serbuan ini dipresentasikan di depan mantan Menteri Lingkungan Hidup di negara itu, mendorong munculnya aksi dari berbagai sektor di pemerintah federal untuk melawan serbuan tersebut.
 
+## Sumber lain
+
+* **Laporan dari engine room**’s Mobiles in Development memberikan sebuah penggambaran mengenai penggunaan perangkat mobile dalam pembangunan, termasuk informasi bagaimana pengumpulan data secara mobile dilakukan [http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development](http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development)
+
+* **NetHope** dan **Humanitarian Nomad** keduanya menawarkan rangkaian pertanyaan yang membantu Anda memilih perangkat mobile: [http://solutionscenter.nethope.org/](http://solutionscenter.nethope.org/) dan [http://humanitarian-nomad.org/online-selection-tool/](http://humanitarian-nomad.org/online-selection-tool/)
+
+* **Kopernik** memberikan informasi untuk organisasi kecil mengenai alat pengumpulan data secara mobile, platform pemetaan dan sensor, dengan informasi yang membantu untuk membandingkannya.[http://impacttrackertech.kopernik.info/](http://impacttrackertech.kopernik.info/)
+
+* **TechChange** menawarkan kursus online gratis mengenai aplikasi pengumpulan data secara mobile: https://www.techchange.org/online-courses/mobile-data-solutions/
+
+* **The World Bank**’s ‘Opportunities and guidance on mobile applications for forest and agricultural sectors’ report includes guidance on comparing mobile applications’ memberikan informasi dan perencanaan biaya jangka-pendek dan panjang [http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors](http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors)
+
+* **FrontlineSMS**’s Data Integrity User Guide memberikan kerangka kerja guna memahami tingkat risiko dalam setiap kegiatan berbasis SMS http://www.frontlinesms.com/wp-content/uploads/2011/08/frontlinesms_userguide.pdf
+
+* **Forest Compass** mengumpulkan sumber daya monitoring hutan berbasis masyarakat [http://forestcompass.org/how/resources](http://forestcompass.org/how/resources)
+
+* **OpenForis **adalah satu set aplikasi mobile dan software tools yang membantu Anda dalam mengumpulkan dan menganalisa data: [http://www.openforis.org/](http://www.openforis.org/)
+
+* **TechSoup **memiliki saran dalam memilih perangkat mobile yang sesuai dengan kebutuhan Anda http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for
+
 ---
 
 ### Tentang
