@@ -1,6 +1,6 @@
 ---
 layout: rainforest
-title: De la technologie à les forêts tropicale
+title: La Technologie pour les Forêts Tropicales
 description: Guide introductif à l’utilisation de la technologie pour surveiller l’évolution et partager des informations sur les forêts tropicales, les droits fonciers et les droits des peuples autochtones. Il vise à fournir une base de travail aux activistes souhaitant améliorer leur plaidoyer à l’aide de la technologie.
 image: /media/index/rainforest.svg
 funder_name: Rainforest Foundation Norway
