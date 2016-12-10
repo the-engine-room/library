@@ -1,20 +1,20 @@
 ---
 layout: rainforest
-title: Online Maps
-description: An introduction to using online maps that combine different types of data in rainforest-related projects, for purposes including real-time monitoring (showing the places where most incidents happen), campaigning (such as showing where forest cover is being dramatically reduced) or analysis (gaining new insights by overlaying different types of data on the same map).<p>Part of the <a href="/rainforest-tech">Rainforest Technology</a> report.</p>
+title: Cartes en ligne
+description: Introduction à l’utilisation de cartes en ligne combinant différents types de données pour des projets liés à la forêt tropicale, afin d’effectuer une surveillance en temps réel (en montrant les endroits où se produisent le plus grand nombre d’incidents), de mener des campagnes (ex. en montrant les endroits les plus affectés par la réduction du couvert forestier), ou d’analyser (approfondir ses connaissances en superposant plusieurs types de données sur une carte). <p> Extrait du rapport sur <a href="/rainforest-tech">la Technologie pour les Forêts Tropicales</a>.</p>
 image: /media/index/online.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
 funder_link: //www.regnskog.no/en
 published: true
 navigation:
-  - What is it
-  - How it can help
-  - Tools
-  - Cost
-  - Risks and challenges
-  - Case studies
-  - About
+  - Que sont les cartes en ligne ?
+  - Quelle en est l’utilité?
+  - Outils
+  - Coûts
+  - Risques et difficultés
+  - Études de cas
+  - À propos
 ref: rt-om
 lang: fr
 categories:
@@ -53,7 +53,7 @@ Le coût de l’élaboration et de la création d’une carte interactive en lig
 ### Risques et difficultés 
 Sur les plateformes commerciales, la date, le lieu et le type de téléchargement des cartes est enregistré. Ainsi, les cartes publiques disponibles sur les plateformes commerciales laissent apparaître la localisation des individus qui ont téléchargé des informations sur le site et les mettent en danger. En même temps, il est essentiel d‘éviter les erreurs : des informations présentées au mauvais endroit vont à l’encontre des objectifs d’une campagne. 
 
-### Cas d’étude :
+### Études de cas
 
 #### L’impact des cartes animées pour la visualisation de la réduction du couvert forestier.
 Open Development Cambodge collecte et fournit des informations quantitatives sur des questions liées à la terre, l’économie et l’environnement au Cambodge. L’organisation a utilisé des informations relatives aux changements dans le couvert forestier sur une période de dix ans pour créer une vidéo en accéléré montrant sa dégradation. 
@@ -71,23 +71,24 @@ RAISG (réseau d’informations socio-environnementales géoréférencées d’A
 * RAISG présente toutes ses informations sour forme de cartes interactives (http://raisg.socioambiental.org/mapa-online/index.html), de cartes statiques accompagnées d’infographies (http://raisg.socioambiental.org/amazonia-2012-areas-protegidas-e-territorios-indigenas#english) pouvant être téléchargées et de rapports.
 * Les cartes du RAISG constituent un puissant outil de plaidoyer fondé sur les preuves car elles s’appuient sur une méthodologie robuste. Les organisations partenaires du réseau peuvent s’en servir pour faire pression sur les gouvernements (http://raisg.socioambiental.org/system/files/Amazonia%20under%20pressure16_05_2013.pdf).  
 
-## About
+## À propos
 
-This site was created by __[Rainforest Foundation Norway](www.regnskog.no/en/)__ and __[The Engine Room](//theengineroom.org)__  as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. [*Download the whole primer here.*](media/rainforest/Rainforest-tech-primer.pdf)
-  
-Rainforest Foundation Norway (RFN) is one of the world's leading organisations in the field of rights-based rainforest protection. Its mission is to support indigenous peoples and traditional populations of the world's rainforests in their efforts to protect their environment and fulfil their rights by assisting them in:
+Ce site a été créé par la [Rainforest Foundation Norway](http://regnskog.no/en/) et [The Engine Room](https://theengineroom.org/) comme introduction à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale, le droit à la terre et les droits des peuples forestiers. Téléchargez le guide introductif complet ici.
 
-- Securing and controlling the natural resources necessary for their long-term well-being and managing these resources in ways which do not harm their environment, violate their culture or compromise their future;
-- and developing the means to protect their individual and collective rights and to obtain, shape, and control basic services from the state.
+Des commentaires ou des questions ? Écrivez à [post@theengineroom.org](mailto:post@theengineroom.org) ou à [rainforest@rainforest.no](mailto:rainforest@rainforest.no).
 
-RFN collaborates closely with more than 70 local and national environmental, indigenous and human rights organisations in 11 countries in the Amazon region, Central Africa, Southeast Asia, and Oceania.
-  
-#### Contributors
-  
-The Engine Room is an international organisation that helps activists, social change organisations, and change agents make the most of data and technology to increase their impact. The Engine Room provides direct, project-level support for social change organisations; brings together communities to coordinate emerging ideas and collect practitioners; and documents and publishes findings to help anyone in the sector make better decisions about using data and technology.
+Rainforest Foundation Norway (RFN) est une organisation phare au niveau mondial dans protection des forêts tropicales basée sur les droits. Elle a pour mission de soutenir les peuples autochtones et les communautés traditionnelles vivant dans les forêts tropicales à travers le monde dans la protection de leur environnement, et d’assurer le respect de leurs droits en les aidant à: 
 
-[Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) and [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) researched and wrote the main narrative, while [Ruth Miller](http://ruthmiller.net/) led work on the design and visuals creation. Vemund Olsen and Christopher Wilson provided invaluable input and editing support. The site sourcecode is available on [Github](https://github.com/the-engine-room/library/). Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org) or [rainforest@rainforest.no](rainforest@rainforest.no).
+* Sécuriser et contrôler les ressources naturelles nécessaires à leur bien-être à long terme, et gérer ces ressources d’une manière qui ne nuise pas à leur environnement, ne porte pas atteinte à leur culture et ne compromette pas leur avenir;
 
-<hr>
+* Développer les moyens de protéger leurs droits individuels et collectifs et obtenir, adapter et contrôler les services de base fournis par l’état. 
 
-[Return to the Primer on Technology for Forest Peoples' Rights.](/rainforest-tech)
+RFN collabore étroitement avec plus de 70 organisations locales et nationales œuvrant à la protection de l’environnement, des droits des peuples autochtones et des droits de l’homme dans 11 pays d’Amazonie, d’Afrique Centrale, d’Asie du Sud-Est et d’Océanie. 
+
+#### Auteurs 
+
+[The Engine Room](https://www.theengineroom.org) est une organisation internationale qui aide les activistes, les organisations de promotion du changement social et les acteurs du changement à tirer parti des données et de la technologie pour accroître leur influence. The Engine Room offre un soutien direct aux projets des organisations de promotion du changement social; fédère les communautés afin de coordonner les idées émergentes et d’identifier des spécialistes ; et publie des recommandations étayées pour aider tous les membres du secteur à prendre les décisions adéquates pour l’utilisation des données et de la technologie. 
+
+[Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) et [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) ont effectué les recherches et rédigé les éléments principaux de l’ouvrage, et Ruth Miller a réalisé la mise en page et la conception graphique du document. Les contributions et les corrections apportées par Vemund Olsen et Christopher Wilson ont été d’un soutien inestimable. Le code source du site est disponible sur [Github](https://github.com/the-engine-room/library/).<hr>
+
+Retour à [La Technologie pour les Forêts Tropicales.](/rainforest-tech)
