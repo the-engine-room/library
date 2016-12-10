@@ -87,6 +87,14 @@ Pada Januari 2015 analisa yang dilakukan Greenomics-Indonesia terhadap dua citra
 
 * Greenomics memilih menyiarkan informasi ini dalam Bahasa Inggris, dengan memberikan pernyataan beserta gambar-gambar atas klaim mereka. Pada Maret 2015, APRIL secara terbuka mengakui telah terjadi pelanggaran dan memberhentikan satu kontraktor dan manajer perkebunan.
 
+## Sumber lain
+
+* **Global Forest Watch** merupakan sistem monitoring dan peringatan hutan online secara interaktif yang memberikan informasi satelit dan lainnya: [www.globalforestwatch.org](http://www.globalforestwatch.org) dan [https://groups.google.com/forum/#!forum/globalforestwatch](https://groups.google.com/forum/#!forum/globalforestwatch)
+
+* **CLASlite** didisain untuk memberikan informasi terbaru setiap minggunya tentang pemetaan resolusi tinggi dan monitoring hutan menggunakan citra satelit. [http://claslite.carnegiescience.edu/en/index.html](http://claslite.carnegiescience.edu/en/index.html) (Inggris dan Spanyol)
+
+* **AAAS**’s Geospatial Technologies Project berisi detail kasus tentang bagaimana citra satelit dikumpulkan, dikategorisasi dan dianalisa guna mendokumentasikan pelanggaran HAM. http://www.aaas.org/case-studies
+
 ---
 
 ### Tentang
