@@ -1,11 +1,17 @@
 ---
 layout: rainforest
 title: Citra satelit
-description: Pengantar penggunaan citra satelit dalam proyek yang berhubungan dengan hutan hujan guna menganalisa perubahan dari waktu ke waktu di satu area hutan, atau mendapatkan bukti deforestasi, tren seperti peningkatan kegiatan komersil, atau hasil-hasil yang tampak dari degradasi hutan. <p> Bagian laporan <a href=https://library.theengineroom.org/id/rainforest-tech>Teknologi Hutan Hujan</a>.</p>
+description: >-
+  Pengantar penggunaan citra satelit dalam proyek yang berhubungan dengan hutan
+  hujan guna menganalisa perubahan dari waktu ke waktu di satu area hutan, atau
+  mendapatkan bukti deforestasi, tren seperti peningkatan kegiatan komersil,
+  atau hasil-hasil yang tampak dari degradasi hutan. <p> Bagian laporan <a
+  href=https://library.theengineroom.org/id/rainforest-tech>Teknologi Hutan
+  Hujan</a>.</p>
 image: /media/index/satellite.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
-funder_link: http://regnskog.no/en
+funder_link: 'http://regnskog.no/en'
 published: true
 navigation:
   - Apakah ini
@@ -45,17 +51,17 @@ Di masa lalu citra satelit sangat mahal kecuali untuk lembaga, pemerintah dan pe
 
 Ada banyak open-source tools yang bagus dan gratis untuk menganalisa citra satelit:
 
-**[QGIS](http://www.qgis.org/en/docs/index.html)** adalah software GIS yang banyak digunakan. QGIS mengijinkan user menambah, mengedit, memanipulasi dan menyajikan data GIS. Ia memiliki fitur-fitur yang tidak terlalu canggih dibandingkan ArcGIS (lihat  **Aplikasi ponsel**, di atas), butuh waktu lama untuk dipelajari dan kurang stabil – tapi gratis, dan memiliki komunitas sukarelawan yang aktif memberikan bantuan teknis.Anda perlu mengetahui bahasa pemrograman seperti Python untuk melakukan analisa yang lebih rumit.
+**[QGIS](http://www.qgis.org/en/docs/index.html)** adalah software GIS yang banyak digunakan. QGIS mengijinkan user menambah, mengedit, memanipulasi dan menyajikan data GIS. Ia memiliki fitur-fitur yang tidak terlalu canggih dibandingkan ArcGIS (lihat **Aplikasi ponsel**, di atas), butuh waktu lama untuk dipelajari dan kurang stabil – tapi gratis, dan memiliki komunitas sukarelawan yang aktif memberikan bantuan teknis.Anda perlu mengetahui bahasa pemrograman seperti Python untuk melakukan analisa yang lebih rumit.
 
-**[Global Forest Watch](http://www.globalforestwatch.org/) (GFW)** adalah software yang paling lengkap untuk menganalisa citra satelit dari tutupan hutan dunia. GFW mengumpulkan citra satelit dari para mitra dan dapat diunggah dan dipergunakan kembali dengan gratis.Software ini secara otomatis menganalisa hilangnya hutan, memberikan peringatan untuk kebakaran dan mengirimkan sinyal jika terjadi perubahan di daerah yang dipilih.
+**[Global Forest Watch](http://www.globalforestwatch.org/)** (GFW) adalah software yang paling lengkap untuk menganalisa citra satelit dari tutupan hutan dunia. GFW mengumpulkan citra satelit dari para mitra dan dapat diunggah dan dipergunakan kembali dengan gratis.Software ini secara otomatis menganalisa hilangnya hutan, memberikan peringatan untuk kebakaran dan mengirimkan sinyal jika terjadi perubahan di daerah yang dipilih.
 
 ### Biaya
 
-Citra satelit bisa gratis,[[1]](http://earthexplorer.usgs.gov/) [[2]](http://www.openforis.org/tools/collect-earth.html) sementara pembelian komersial berkisar antara $10 dan $50 per kilometer persegi, bergantung pada kualitas gambarnya.[[3]](http://www.aaas.org/page/high-resolution-satellite-imagery-ordering-and-analysis-handbook#VI.Image%20Ordering) Selain biaya pembelian, menganalisa citra satelit merupakan tugas yang mahal dan memerlukan banyak tenaga, membutuhkan waktu yang mencukupi (menganalisa ribuan gambar beresolusi tinggi), sumber daya (komputer yang cepat) dan keahlian (pakar GIS). Global Forest Watch menjembatani kekurangan ini, namun kurang fleksibel, dan tidak memiliki gambar yang berkualitas tinggi yang diperlukan untuk menunjukkan perubahan yang lebih detail (lihat **resolusi**, di bawah ini).
+Citra satelit bisa gratis [[1]](http://earthexplorer.usgs.gov/) [[2]](http://www.openforis.org/tools/collect-earth.html), sementara pembelian komersial berkisar antara $10 dan $50 per kilometer persegi, bergantung pada kualitas gambarnya.[[3]](http://www.aaas.org/page/high-resolution-satellite-imagery-ordering-and-analysis-handbook#VI.Image%20Ordering) Selain biaya pembelian, menganalisa citra satelit merupakan tugas yang mahal dan memerlukan banyak tenaga, membutuhkan waktu yang mencukupi (menganalisa ribuan gambar beresolusi tinggi), sumber daya (komputer yang cepat) dan keahlian (pakar GIS). Global Forest Watch menjembatani kekurangan ini, namun kurang fleksibel, dan tidak memiliki gambar yang berkualitas tinggi yang diperlukan untuk menunjukkan perubahan yang lebih detail (lihat **resolusi**, di bawah ini).
 
 ### **Risiko dan tantangan**
 
-Persoalan utama dari citra satelit adalah **resolusi**, saat ini kualitas gambarnya terlalu rendah untuk dapat menunjukkan perubahan dengan mendetail. Global Forest Watch memberikan citra 50 meter per pixel, yang tidak terlalu tepat (tapi ia juga memiliki citra 30 meter per pixel, namun hanya membuatnya sekali setahun, dan tentu saja tidak cukup cepat jika akan digunakan sebagai bukti deforestasi).Ini membawa kita ke masalah kedua: **pembaruan.** Gambar-gambar seringkali diperbarui dalam sebulan, dan kadang setahun. Hal ini bisa berubah: perusahaan seperti [Planet Labs](http://www.planet.com) menjanjikan citra harian di masa depan, dan [Libra](http://libra.developmentseed.org) memberikan data Landsat setiap dua minggu. [Proyek MAAP ](http://maaproject.org/about-maap/))bertujuan untuk menghasilkan informasi terbaru setiap minggu dari Andean Amazon. Ini bagus untuk tujuan analisa historis, namun terkadang tidak praktis untuk monitoring seketika (meskipun **foto udara lakukan-sendiri**, bisa membantu mendapatkan citra yang lebih baru).
+Persoalan utama dari citra satelit adalah **resolusi**, saat ini kualitas gambarnya terlalu rendah untuk dapat menunjukkan perubahan dengan mendetail. Global Forest Watch memberikan citra 50 meter per pixel, yang tidak terlalu tepat (tapi ia juga memiliki citra 30 meter per pixel, namun hanya membuatnya sekali setahun, dan tentu saja tidak cukup cepat jika akan digunakan sebagai bukti deforestasi).Ini membawa kita ke masalah kedua: **pembaruan.** Gambar-gambar seringkali diperbarui dalam sebulan, dan kadang setahun. Hal ini bisa berubah: perusahaan seperti [Planet Labs](http://www.planet.com) menjanjikan citra harian di masa depan, dan [Libra](http://libra.developmentseed.org) memberikan data Landsat setiap dua minggu. [Proyek MAAP](http://maaproject.org/about-maap/) bertujuan untuk menghasilkan informasi terbaru setiap minggu dari Andean Amazon. Ini bagus untuk tujuan analisa historis, namun terkadang tidak praktis untuk monitoring seketika (meskipun **foto udara lakukan-sendiri**, bisa membantu mendapatkan citra yang lebih baru).
 
 ### Studi kasus
 
@@ -77,7 +83,7 @@ Pada Januari 2015 analisa yang dilakukan Greenomics-Indonesia terhadap dua citra
 
 **Bagaimana hal ini dapat membantu?**
 
-* [Greenomics menggunakan](http://www.greenomics.org/docs/Greenomics_Press-Release_SFMP_Violation-(LowRes).pdf) informasi ini untuk menyasar perusahaan kertas Asia Pacific Resources International Holdings Limited (APRIL), yang telah berjanji di depan publik untuk menghentikan pembangunan perkebunan baru pada Januari 2014.
+* <a href="http://www.greenomics.org/docs/Greenomics_Press-Release_SFMP_Violation-(LowRes).pdf">Greenomics menggunakan</a> informasi ini untuk menyasar perusahaan kertas Asia Pacific Resources International Holdings Limited (APRIL), yang telah berjanji di depan publik untuk menghentikan pembangunan perkebunan baru pada Januari 2014.
 
 * Greenomics memilih menyiarkan informasi ini dalam Bahasa Inggris, dengan memberikan pernyataan beserta gambar-gambar atas klaim mereka. Pada Maret 2015, APRIL secara terbuka mengakui telah terjadi pelanggaran dan memberhentikan satu kontraktor dan manajer perkebunan.
 
