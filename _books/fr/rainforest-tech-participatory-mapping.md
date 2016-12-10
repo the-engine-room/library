@@ -28,7 +28,7 @@ categories:
 > * Fournir aux gouvernements des preuves concrètes pour les inciter à reconnaître les terres autochtones
 > * Soutenir les communautés en leur apportant et en leur présentant des connaissances 
 
-Cette introduction est issue du [*Guide introductif à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale et les droits des peuples forestiers.*](/fr/rainforest-tech) Il fournit un point de départ aux organisations et activistes désireux d’intégrer des technologies en appui à leurs actions de plaidoyer, et est le fruit d’un partenariat entre la *[Rainforest Foundation Norway]*(http://www.regnskog.no/en/) et *[The Engine Room]*(https://theengineroom.org/).
+Cette introduction est issue du [*Guide introductif à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale et les droits des peuples forestiers.*](/fr/rainforest-tech) Il fournit un point de départ aux organisations et activistes désireux d’intégrer des technologies en appui à leurs actions de plaidoyer, et est le fruit d’un partenariat entre la [Rainforest Foundation Norway](http://www.regnskog.no/en/) et [The Engine Room](https://theengineroom.org/).
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
@@ -47,7 +47,7 @@ La cartographie officielle et les registres de propriété (cadastres) tiennent 
 Il existe de nombreuses manières de réaliser une cartographie participative, couvrant une vaste gamme d’outils technologiques et de conditions d’accessibilité. La technique adéquate dépend des ressources disponibles et des préférences de la communauté. Voici quelques exemples :
 
 * **Mener des entretiens** au sein des communautés sur l’utilisation des terres, sur leur vision du territoire et de son écosystème. Laisser le choix des moyens aux communautés : la narration orale, les dessins sur du papier ou à terre.
-* **Imprimer des cartes officielles **de la zone, en expliquant leur lien avec les communautés, puis leur demander d’y ajouter des informations additionnelles. Une méthode plus sophistiquée consiste à produire une réplique du territoire en **3D**.
+* **Imprimer des cartes officielles** de la zone, en expliquant leur lien avec les communautés, puis leur demander d’y ajouter des informations additionnelles. Une méthode plus sophistiquée consiste à produire une réplique du territoire en **3D**.
 * Equiper les communautés avec des **traceurs GPS** pour enregistrer des informations en marchant à travers la zone. Les données peuvent être ajoutées aux cartes officielles par superposition.
 
 ### Coûts
@@ -71,7 +71,7 @@ Le Programme Forest Peoples, le Centre pour l’environnement et le développeme
 #### Évaluation du braconnage au Congo 
 En 2013, les chasseurs cueilleurs Mbendjele ont travaillé avec le groupe de recherche ExCiteS du University College de Londres à la collecte de données pour mesurer les actes de braconnage à l’aide d’une application Android. Le projet a utilisé le téléphone Samsung Galaxy X Cover et une version modifiée de Collect de l’Open Data qui utilise des icônes à la place du texte. Afin de minimiser les risques pour les observateurs d’être surpris par les braconneurs, un simple procédé de verrouillage automatique a été installé sur les téléphones pour pouvoir dissimuler la fonction de l’application. 
 
-**Quelle en a été l’utilité ?**
+**Quelle en a été l’utilité?**
 
 * Le projet a développé des relations étroites depuis 2005 avec les Mbendjele impliqués dans la collecte de données, qui ont été impressionnés de l’intérêt qu’ont porté les entreprises d’exploitation du bois aux cartes qu’ils avaient produites.
 * Les observateurs ont appris à maîtriser l’utilisation des fonctions audio, photo et vidéo et ont enregistré des images de haute qualité. La conception robuste des téléphones leur a permis de fonctionner idéalement en milieu forestier. 
