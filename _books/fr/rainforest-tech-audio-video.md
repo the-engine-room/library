@@ -13,7 +13,7 @@ navigation:
   - Outils
   - Coûts
   - Risques et difficultés
-  - Case studies
+  - Études de cas
   - Ressources complémentaires
   - À propos
 ref: rt-da
@@ -56,7 +56,9 @@ Il est actuellement possible de produire des vidéos et des enregistrements audi
 
 **Risques pour les personnes sur l’enregistrement** : suivez le processus décrit dans le paragraphe sur le consentement dans se procurer les données, assurez vous que les personnes concernées soient conscientes que l’enregistrement peut-être largement diffusé et consulté par tous. Eteignez les fonctions de localisation et floutez les visages (https://www.v4c.org/en/content/hands-using-obscuracam ou la fonction de floutage de YouTube http://youtube-global.blogspot.co.uk/2012/07/face-blurring-when-footage-requires.html).
 
-### Cas d’étude : Utiliser des vidéos enregistrées sur des téléphones mobiles comme preuve.
+### Études de cas
+
+#### Utiliser des vidéos enregistrées sur des téléphones mobiles comme preuve.
 
 HuMa recueille des données sur des conflits terriens en Indonésie, y compris par le biais de vidéos dans lesquelles les communautés locales mentionnent leurs moyens d’existence et leurs expériences. Les vidéos sont enregistrées sur des téléphones mobiles par les membres des communautés et associées à d’autres sources de données comme des données GPS, ce qui en augmente la valeur probatoire.
 
@@ -65,7 +67,7 @@ HuMa recueille des données sur des conflits terriens en Indonésie, y compris p
 * Les données ont été utilisées par différentes entités dont la Commission nationale des droits de l’Homme, le Chef de la Police nationale et d’autre ONG.  
 * L’organisme de certification de Perhutani (une entreprise d’état indonésienne d’exploitation forestière) s’est aussi fondé sur les données récoltées par HuMa pour enquêter sur divers incidents.
 
-#### Cas d’étude : Utiliser la vidéo comme preuve de l’exploitation illégale de bois en Indonésie.
+#### Utiliser la vidéo comme preuve de l’exploitation illégale de bois en Indonésie.
 
 En réaction aux campagnes de sensibilisation, l’entreprise de papier indonésienne APP a signé un engagement en faveur d’une déforestation nulle. En septembre 2013, Eyes on the Forest (une coalition de 3 organisations indonésiennes locales de défense de l’environnement), a filmé une entreprise d’exploitation forestière qui était un fournisseur reconnu d’APP en train de déboiser des zones de forêt naturelle.
 
