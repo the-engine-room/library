@@ -23,17 +23,15 @@ categories:
 ---
 
 
-## **Pemetaan partisipatif dan GPS**
+## Pemetaan partisipatif dan GPS
 
-### Sasaran yang memungkinkan
+> ### Sasaran yang memungkinkan
 
-* Memulai atau mendukung dialog antara masyarakat dan pemerintah
+> * Memulai atau mendukung dialog antara masyarakat dan pemerintah
+> * Memberikan bukti konkret kepada pemerintah guna mendorong mereka mengakui tanah adat
+> * Mendukung masyarakat dengan menyajikan dan memberikan pengetahuan
 
-* Memberikan bukti konkret kepada pemerintah guna mendorong mereka mengakui tanah adat
-
-* Mendukung masyarakat dengan menyajikan dan memberikan pengetahuan
-
-## **Apakah ini**
+## Apakah ini
 
 * Pemetaan partisipatif (atau pemetaan berbasis masyarakat) mengumpulkan informasi dari daerah pemukiman warga mengenai bagaimana daerah mereka dimanfaatkan dan praktik-praktik yang dilakukan masyarakat setempat.
 
