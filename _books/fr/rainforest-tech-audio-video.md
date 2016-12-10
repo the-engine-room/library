@@ -1,8 +1,7 @@
 ---
 layout: rainforest
 title: Audio et vidéo
-description: Introduction à l’utilisation d’enregistrements audio et vidéo dans des projets liés à la forêt tropicale, pour faire passer de courts messages de plaidoyer, consigner des preuves visuelles de violations des droits de l’homme, diffuser des films participatifs réalisés par les communautés, ou retracer l’évolution de la déforestation.
-<p>Extrait du rapport sur <a href="/rainforest-tech">la Technologie pour les Forêts Tropicales</a>.</p>
+description: Introduction à l’utilisation d’enregistrements audio et vidéo dans des projets liés à la forêt tropicale, pour faire passer de courts messages de plaidoyer, consigner des preuves visuelles de violations des droits de l’homme, diffuser des films participatifs réalisés par les communautés, ou retracer l’évolution de la déforestation. Extrait du rapport sur <a href="/rainforest-tech">la Technologie pour les Forêts Tropicales</a>.
 image: /media/index/audio.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
