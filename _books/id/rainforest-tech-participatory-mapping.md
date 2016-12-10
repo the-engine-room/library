@@ -22,7 +22,75 @@ categories:
   - id
 ---
 
-> ## CONTENT [TK]
+
+## **Pemetaan partisipatif dan GPS**
+
+### Sasaran yang memungkinkan
+
+* Memulai atau mendukung dialog antara masyarakat dan pemerintah
+
+* Memberikan bukti konkret kepada pemerintah guna mendorong mereka mengakui tanah adat
+
+* Mendukung masyarakat dengan menyajikan dan memberikan pengetahuan
+
+## **Apakah ini**
+
+* Pemetaan partisipatif (atau pemetaan berbasis masyarakat) mengumpulkan informasi dari daerah pemukiman warga mengenai bagaimana daerah mereka dimanfaatkan dan praktik-praktik yang dilakukan masyarakat setempat.
+
+* Informasi dikumpulkan dalam dua cara: melalui konsultasi langsung dengan masyarakat, atau memberikan alat kepada masyarakat untuk mendokumentasikan pengetahuan mereka. 
+
+* Informasi ini digunakan untuk menciptakan peta berdasarkan nama dan definisi yang digunakan oleh masyarakat setempat, yang dapat melengkapi peta resmi.
+
+### **Bagaimana hal ini dapat membantu**
+
+Peta resmi dan registrasi kepemilikan lahan (kadaster/data pengukuran tanah) seringkali hanya mempertimbangkan klasifikasi "resmi" terkait tanah.Ianya tidak mengakui bahwa mungkin saja tanah telah dimanfaatkan dengan cara yang berbeda, terkadang oleh masyarakat yang telah tinggal lama di sana, jauh sebelum peta resmi dibuat. Ini adalah problem khusus di daerah hutan, di mana seringkali sulit menggambarkan batas geografis yang jelas.Pemetaan partisipatif membantu dengan menunjukkan kenyataan bagaimana daerah tersebut dimanfaatkan, membandingkannya dengan peta “resmi”, dan menggunakan informasi untuk mengklaim hak-hak masyarakat atas tanah.
+
+### Alat dan perangkat
+
+Ada banyak cara melakukan pemetaan partisipatif, yang mencakup teknologi dan akses yang lebih luas. Teknik yang benar bergantung pada sumber daya dan pilihan masyarakat.Beberapa contoh misalnya:
+
+* **Wawancara** dengan menanyakan bagaimana masyarakat memanfaatkan tanah mereka, dan bagaimana pandangan mengenai tanah mereka dan ekosistem di daerah tersebut.Masyarakat memilih medium apa yang lebih mereka sukai, mulai dari narasi hingga menggambar di atas kertas, atau di tanah.
+
+* **Mencetak peta resmi** daerah tersebut,yang menjelaskan bagaimana ianya terkait dengan masyarakat, dan meminta masyarakat untuk menggambar informasi tambahan.Metode yang lebih cangggih untuk membuat **model 3D** dari tanah tersebut.
+
+* Masyarakat diberikan **GPS trackers** dan merekam informasi sepanjang perjalanan mereka di satu daerah. Data dapat digunakan untuk membuat lapis-lapis peta.
+
+### Biaya
+
+Pemetaan partisipatif memerlukan investasi besar untuk pelatihan dan dukungan pekerja lapangan. Pekerja lapangan memainkan peran penting dalam memperkenalkan kegiatan, melatih masyarakat untuk berinteraksi dengan peta, dan memastikan bahwa semua perwakilan masyarakat memahami hal tersebut. Membuat peta dan memasukkan informasi yang telah dikumpulkan memerlukan keahlian GIS untuk memastikan pengukurannya akurat dan untuk membuat skala.Alat GPS tracker tidak mahal, tapi memerlukan pelatihan. Merek yang paling banyak digunakan, seperti [Garmin](https://buy.garmin.com/en-US/US/cIntoSports-c10341-p1.html) dan [Magellan](http://www.magellangps.com/Store/eXploristSeries), menawarkan GPS locators mulai harga USD100. Selain itu, kebanyakan smartphone yang simpel telah memiliki kemampuan GPS.
+
+### Risiko dan tantangan
+
+Pemetaan partisipatif mengumpulkan informasi mengenai di mana masyarakat tinggal, dan daerah mana yang paling banyak memiliki sumber daya: perusahaan bisa memanfaatkan ini untuk kepentingan mereka sendiri.Hal ini dapat menimbulkan masalah di masyarakat: kelompok masyarakat yang berbeda-beda mungkin memanfaatkan lahan yang sama, atau mungkin ada pandangan yang berbeda di masyarakat yang sama.Respon terbaik untuk situasi ini bergantung pada konteksnya: sedapat mungkin berkonsultasilah dengan banyak perwakilan, dan selalu pertimbangkan perbedaan gender.
+
+### Studi kasus
+
+#### Pemetaan partisipatif di Kamerun
+
+[Program Forest People, Centre for Environment and Development (CED) dan Planet Survey telah membuat sebuah program ](http://www.iapad.org/publications/ppgis/cameroon_community_mapping_july07_eng.pdf)untuk masyarakat Bagyeli di Kamerun guna memetakan tanah dan sumber daya mereka dengan melakukan pelatihan pengumpulan data GPS. Peta yang dihasilkan telah membantu 14 masyarakat Bagyeli dari daerah Bipindi mendapatkan pengakuan hukum atas hak-hak tanah mereka. Peta juga digunakan untuk membantu negosiasi kesepakatan daerah atas batas-batas tanah di antara masyarakat.
+
+**Bagaimana hal ini dapat membantu?**
+
+* Anggota masyarakat yang buta huruf berhasil menggunakan ponsel yang telah dimodifikasi, yang menggunakan ikon dan bukan teks.
+
+* Masyarakat mengatakan mereka semakin sadar akan kekuatan peta sebagai satu cara untuk mengklaim tanah yang menjadi milik mereka.
+
+* Sebagai salah satu alat advokasi, peta paling banyak sukses jika disajikan kepada organisasi konservasi dan perusahaan penebangan di Barat (namun kurang efektif untuk masyarakat setempat).
+
+#### Monitoring perburuan liar di Kongo 
+
+Tahun 2013, perkumpulan-pemburu Mbendjele bekerja sama dengan ExCiteS Research Group di University College London untuk mengumpulkan data dengan aplikasi Android guna memonitor perburuan liar. [Proyek](http://dev3.acmdev.org/papers/dev-final45.pdf) itu menggunakan ponsel Samsung Galaxy XCover berbasis Android, dan versi Open Data Kit Collect yang telah dimodifikasi, yang menggunakan ikon gambar dan bukan kata-kata.Untuk mengurangi risiko terhadap petugas monitor, jika mereka tertangkap oleh pemburu liar, proyek ini menambahkan prosedur penguncian ponsel dengan cara sederhana sehingga pengguna bisa menyembunyikan fungsi aplikasi dengan cepat.
+
+**Bagaimana hal ini dapat membantu?**
+
+* Proyek ini telah membangun hubungan kuat sejak 2005, ketika Mbendjele yang terlibat dalam pengumpulan data sangat terkesan dengan keseriusan yang ditunjukkan perusahaan kayu dalam memperlakukan peta yang mereka buat. 
+
+* Petugas monitor berhasil mempelajari fungsi-fungsi audio, photo dan video, yang merekam gambar dengan kualitas yang sangat bagus. Kekuatan yang dibangun oleh ponsel ini menunjukkan bahwa ponsel dapat bekerja dengan baik di kondisi hutan. 
+
+* Proyek ini menggunakan Hatsuden Nabe, sebuah tungku masak yang mengubah energi panas dari api menjadi listrik, untuk mengisi ulang batere ponsel (bisa mengisi hingga 60% dalam waktu 90 menit). Panel surya juga bermanfaat ketika petugas monitor tidak berada tepat di bawah naungan kanopi hutan hujan.
+
+* Meskipun jaringan komunikasi tidak bisa menjangkau hingga lebih dalam ke hutan, petugas monitor bisa mengirim informasi menggunakan SMS atau internet 3G saat mereka berada di kota-kota terdekat. 
+
 
 ---
 
