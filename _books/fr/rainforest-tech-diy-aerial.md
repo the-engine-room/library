@@ -8,14 +8,14 @@ funder_logo: /images/logos/rfn.svg
 funder_link: //www.regnskog.no/en
 published: true
 navigation:
-  - What is it
-  - How it can help
-  - Tools
-  - Cost
-  - Risks and challenges
+  - Qu’est-ce que la photographie aériennes indépendantes?
+  - Quelle en est l’utilité?
+  - Outils
+  - Coûts
+  - Risques et difficultés
   - Case studies
-  - Further resources
-  - About
+  - Ressources complémentaires
+  - À propos
 ref: rt-da
 lang: fr
 categories:
@@ -34,10 +34,9 @@ This introduction to DIY aerial photography is part of a [Primer for using techn
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
-### What is it
+### Qu’est-ce que la photographie aériennes indépendantes?
 * Les photos aériennes peuvent être prises par des drones (véhicules volants sans pilote), des aérostats ou des cerfs-volants équipés d’appareils photo qui enregistrent des images tout au long du vol.
 * Un logiciel informatique assemble (ou « coud ») ces photos en cartes ou en modèles 3D, qui peuvent êtres utilisés pour étudier la faune, déposer des demandes relatives au droit à la terre ou démontrer les effets des changements climatiques. 
-
 
 ### Quelle en est l’utilité ? 
 Les cartes en haute définition peuvent être onéreuses, obsolètes ou difficielement disponibles (voir la section Cartographie satellite ci-dessus). En élaborant vous-même une carte aérienne, vous obtiendrez des données cartographiques détaillées pour la zone qui vous intéresse, en temps réel. Ce procédé vous permet aussi de survoler la même zone régulièrement et ainsi d’en observer les changements à terme.
@@ -52,8 +51,7 @@ Bien que les matériaux nécessaires pour créer et fabriquer des drones, des a�
 ; http://opendronemap.github.io/odm/). 
 
 ### Risques et difficultés 
-L’utilisation de drones et la réalisation de photos aériennes de manière indépendante sont de nouvelles technologies pour lesquelles les bonnes pratiques et la réglementation juridique sont toujours en cours de développement (Le code de conduite du réseau Humanitarian UAV est un excellent document à consulter : https://uaviators.org/docs; référez-vous aussi à cette liste des règlements sur l’usage des drones dans différents pays : http://wiki.uaviators.org/doku.php). Impliquez les communautés autant que possible en leur demandant de conduire le processus de cartographie. Faites en sorte qu’ils comprennent précisément quelles données sont collectées et comment elles seront utilisées. Effacez toute information personnelle avant de partager les éléments recueillis avec les communautés. Certains pays introduisent des restrictions géographiques et individuelles à l’utilisation de drones – vérifiez que vous respectez la loi avant de commencer. 
- 
+L’utilisation de drones et la réalisation de photos aériennes de manière indépendante sont de nouvelles technologies pour lesquelles les bonnes pratiques et la réglementation juridique sont toujours en cours de développement (Le code de conduite du réseau Humanitarian UAV est un excellent document à consulter : https://uaviators.org/docs; référez-vous aussi à cette liste des règlements sur l’usage des drones dans différents pays : http://wiki.uaviators.org/doku.php). Impliquez les communautés autant que possible en leur demandant de conduire le processus de cartographie. Faites en sorte qu’ils comprennent précisément quelles données sont collectées et comment elles seront utilisées. Effacez toute information personnelle avant de partager les éléments recueillis avec les communautés. Certains pays introduisent des restrictions géographiques et individuelles à l’utilisation de drones – vérifiez que vous respectez la loi avant de commencer.
 
 ### Cas d’étude  
 
@@ -76,32 +74,34 @@ En 2014, ConservationDrones et le Programme de conservation des orang outans de 
 * Sans photographie aérienne il n’aurait peut-être pas été possible de découvrir les activités illégales : les exploitants dissimulaient leur activité en laissant une bande d’arbres autour de la zone déboisée. 
 * ConservationDrones et le SOCP ont transmis les preuves aux autorités du parc qui ont mis fin aux coupes illégales dans la zone ( http://conservationdrones.org/2014/09/30/illegal-logging/).
 
-### Further resources
+### À propos
 
-* [Conservation Drones](http://conservationdrones.org/)’ site includes a guide to building and flying drones, as well as examples of how they have been used in conservation work
-* [DIY Drones](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs) has an introductory guide to UAVs
-* [Public Laboratory](https://publiclab.org/wiki/kite-mapping) provides guides and support on building kites, balloons and sensors for mapping 
-* The [Humanitarian UAV](http://wiki.uaviators.org/doku.php) network (UAViators) has a range of useful information http://uaviators.org/about-this-site-rules and a survey of laws affecting drone flights in countries around the world 
-* [Geojournalism’s](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/) guide to balloon mapping
-* [NetHope’s Solutions Center](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles) has webinars and resources on using drones 
+* Le site Conservation Drones contient un guide pour la fabrication et le pilotage de drones, et des exemples d’utilisation à des fins de conservation: [http://conservationdrones.org/](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs)
+* DIY Drones fournti un guide introductif sur les drones: [http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs)
+* Public Laboratory offre des guides et un soutien à la construction de cerfs-volants, aérostats et capteurs pour la cartographie: [http://publiclaboratory.org](http://publiclaboratory.org)
+* Le réseau Humanitarian UAV (UAViators) possède une foule d’informations utiles : http://uaviators.org/about-this-site-rules et a listé les lois relatives à l’utilisation de drones à travers le monde : [http://wiki.uaviators.org/doku.php](http://wiki.uaviators.org/doku.php)
+* Guide de Géojournalisme sur la cartographie à l’aide d’aérostats: [http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/)
+* Le Centre de solutions de NetHope offre des webinaires et d’autres ressources sur l’utilisation de drones: [http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles)
 
-### About 
+### À propos 
 
-This site was created by __[The Engine Room](//theengineroom.org)__ and __[Rainforest Foundation Norway](www.regnskog.no/en/)__ as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. [*Download the whole primer here.*](media/rainforest/Rainforest-tech-primer.pdf)
+Ce site a été créé par la [Rainforest Foundation Norway](http://regnskog.no/en/) et [The Engine Room](https://theengineroom.org/) comme introduction à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale, le droit à la terre et les droits des peuples forestiers. Téléchargez le guide introductif complet ici.
 
-Rainforest Foundation Norway (RFN) is one of the world's leading organisations in the field of rights-based rainforest protection. Its mission is to support indigenous peoples and traditional populations of the world's rainforests in their efforts to protect their environment and fulfil their rights by assisting them in:
+Des commentaires ou des questions ? Écrivez à [post@theengineroom.org](mailto:post@theengineroom.org) ou à [rainforest@rainforest.no](mailto:rainforest@rainforest.no).
 
-- Securing and controlling the natural resources necessary for their long-term well-being and managing these resources in ways which do not harm their environment, violate their culture or compromise their future;
-- and developing the means to protect their individual and collective rights and to obtain, shape, and control basic services from the state.
+Rainforest Foundation Norway (RFN) est une organisation phare au niveau mondial dans protection des forêts tropicales basée sur les droits. Elle a pour mission de soutenir les peuples autochtones et les communautés traditionnelles vivant dans les forêts tropicales à travers le monde dans la protection de leur environnement, et d’assurer le respect de leurs droits en les aidant à: 
 
-RFN collaborates closely with more than 70 local and national environmental, indigenous and human rights organisations in 11 countries in the Amazon region, Central Africa, Southeast Asia, and Oceania.
+* Sécuriser et contrôler les ressources naturelles nécessaires à leur bien-être à long terme, et gérer ces ressources d’une manière qui ne nuise pas à leur environnement, ne porte pas atteinte à leur culture et ne compromette pas leur avenir;
 
-#### Contributors
+* Développer les moyens de protéger leurs droits individuels et collectifs et obtenir, adapter et contrôler les services de base fournis par l’état. 
 
-The Engine Room is an international organisation that helps activists, social change organisations, and change agents make the most of data and technology to increase their impact. The Engine Room provides direct, project-level support for social change organisations; brings together communities to coordinate emerging ideas and collect practitioners; and documents and publishes findings to help anyone in the sector make better decisions about using data and technology.
+RFN collabore étroitement avec plus de 70 organisations locales et nationales œuvrant à la protection de l’environnement, des droits des peuples autochtones et des droits de l’homme dans 11 pays d’Amazonie, d’Afrique Centrale, d’Asie du Sud-Est et d’Océanie. 
 
-[Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) and [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) researched and wrote the main narrative, while [Ruth Miller](http://ruthmiller.net/) led work on the design and visuals creation. Vemund Olsen and Christopher Wilson provided invaluable input and editing support. The site sourcecode is available on [Github](https://github.com/the-engine-room/library/). Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org) or [rainforest@rainforest.no](rainforest@rainforest.no).
+#### Auteurs 
 
+The Engine Room est une organisation internationale qui aide les activistes, les organisations de promotion du changement social et les acteurs du changement à tirer parti des données et de la technologie pour accroître leur influence. The Engine Room offre un soutien direct aux projets des organisations de promotion du changement social; fédère les communautés afin de coordonner les idées émergentes et d’identifier des spécialistes ; et publie des recommandations étayées pour aider tous les membres du secteur à prendre les décisions adéquates pour l’utilisation des données et de la technologie. 
+
+[Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) et [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) ont effectué les recherches et rédigé les éléments principaux de l’ouvrage, et Ruth Miller a réalisé la mise en page et la conception graphique du document. Les contributions et les corrections apportées par Vemund Olsen et Christopher Wilson ont été d’un soutien inestimable. Le code source du site est disponible sur [Github](https://github.com/the-engine-room/library/).
 <hr>
 
-[Return to the Primer on Technology for Forest Peoples' Rights.](/rainforest-tech)
+Retour à [La Technologie pour les Forêts Tropicales.](/rainforest-tech)
