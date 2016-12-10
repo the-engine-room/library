@@ -1,20 +1,20 @@
 ---
 layout: rainforest
 title: Participatory and GPS Mapping
-description: An introduction to producing maps together with communities (participatory mapping), to show how an area is actually being used, compare this with “official” maps, and use the information to claim communities’ rights to land.<p>Part of the <a href="/rainforest-tech">Rainforest Technology</a> report.</p>
+description: Introduction à la production conjointe de cartes avec les communautés (cartographie participative), afin de révéler l’utilisation réelle des terres, différente de celle figurant aux cartes « officielles », et d’utiliser ces informations pour revendiquer les droits à la terre des communautés.<p>Extrait du rapport sur <a href="/rainforest-tech">la Technologie pour les Forêts Tropicales</a>.</p>
 image: /media/index/participatory.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
 funder_link: //www.regnskog.no/en
 published: true
 navigation:
-  - What is it
-  - How it can help
-  - Tools
-  - Cost
-  - Risks and challenges
-  - Case studies
-  - About
+  - Qu’est-ce que la cartographie participative?
+  - Quelle en est l’utilité?
+  - Outils
+  - Coûts
+  - Risques et difficultés
+  - Études de cas
+  - À propos
 ref: rt-pm
 lang: fr
 categories:
@@ -28,9 +28,11 @@ categories:
 > * Fournir aux gouvernements des preuves concrètes pour les inciter à reconnaître les terres autochtones
 > * Soutenir les communautés en leur apportant et en leur présentant des connaissances 
 
-This introduction to participatory mapping is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
+Cette introduction est issue du [*Guide introductif à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale et les droits des peuples forestiers.*](/fr/rainforest-tech) Il fournit un point de départ aux organisations et activistes désireux d’intégrer des technologies en appui à leurs actions de plaidoyer, et est le fruit d’un partenariat entre la *[Rainforest Foundation Norway]*(http://www.regnskog.no/en/) et *[The Engine Room]*(https://theengineroom.org/).
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
+
+Téléchargez le guide introductif complet (1,6 MB pdf), ou consultez le en ligne ci-dessous.
 
 ### Qu’est-ce que la cartographie participative ?
 
