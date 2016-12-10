@@ -14,7 +14,6 @@ navigation:
   - Biaya
   - Risiko dan tantangan
   - Study kasus
-  - Sumber lain
   - Tentang
 ref: rt
 lang: id
@@ -31,7 +30,13 @@ categories:
 > * Memberikan bukti konkret kepada pemerintah guna mendorong mereka mengakui tanah adat
 > * Mendukung masyarakat dengan menyajikan dan memberikan pengetahuan
 
-## Apakah ini
+Pengantar ini adalah bagian dari [Panduan tentang penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu hutan hujan, hak tanah dan hak masyarakat adat](https://library.theengineroom.org/rainforest-tech). Panduan ini didisain sebagai titik awal bagi organisasi dan aktivis yang tertarik untuk menggunakan teknologi demi meningkatkan kerja advokasi, dan merupakan hasil kemitraan antara [Rainforest Foundation Norway](http://www.regnskog.no/en/) dan [The Engine Room](https://theengineroom.org/).
+
+![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
+
+[Download Panduan di sini (1.6MB pdf)](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) atau baca online di bawah ini.
+
+### Apakah ini
 
 * Pemetaan partisipatif (atau pemetaan berbasis masyarakat) mengumpulkan informasi dari daerah pemukiman warga mengenai bagaimana daerah mereka dimanfaatkan dan praktik-praktik yang dilakukan masyarakat setempat.
 
