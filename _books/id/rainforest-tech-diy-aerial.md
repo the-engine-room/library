@@ -38,6 +38,8 @@ categories:
 
 Pengantar ini adalah bagian dari [Panduan tentang penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu hutan hujan, hak tanah dan hak masyarakat adat](https://library.theengineroom.org/rainforest-tech). Panduan ini didisain sebagai titik awal bagi organisasi dan aktivis yang tertarik untuk menggunakan teknologi demi meningkatkan kerja advokasi, dan merupakan hasil kemitraan antara [Rainforest Foundation Norway](http://www.regnskog.no/en/) dan [The Engine Room](https://theengineroom.org/).
 
+![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
+
 [Download Panduan di sini (1.6MB pdf)](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) atau baca online di bawah ini.
 
 ### Apakah ini
@@ -84,6 +86,22 @@ Tahun 2014, ConservationDroneshttp://conservationdrones.org) dan [Sumatran Orang
 * Tanpa foto udara, penebangan itu mungkin tidak akan tersingkap: para penebang menyembunyikan kegiatan mereka dengan meninggalkan potongan-potongan pohon di sekitar daerah penebangan.
 
 * ConservationDrones dan SOCP memberikan bukti-bukti ini kepada petugas taman nasional, [sehingga dapat menghentikan kegiatan penebangan di daerah tersebut](http://conservationdrones.org/2014/09/30/illegal-logging/).
+
+### Sumber lain
+
+
+* **Conservation Drones**’ site memberikan panduan untuk membuat dan menerbangkan drone, dan juga contoh bagaimana ia dipergunakan di kegiatan konservasi: [http://conservationdrones.org/](http://conservationdrones.org/2014/10/24/recycle/)
+
+* **DIY Drones** memiliki panduan pengantar untuk UAVs: [http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs)
+
+* **Public Laboratory **memberikan panduan dan dukungan untuk membuat layang-layang, balon dan sensor untuk pemetaan [http://publiclaboratory.org](http://publiclaboratory.org/wiki/kite-mapping)
+
+* The **Humanitarian UAV network (UAViators)** memiliki beragam informasi yang bermanfaat [http://uaviators.org/about-this-site-rules](http://uaviators.org/about-this-site-rules) dan sebuah survey mengenai undang-undang yang mempengaruhi penerbangan drone di negara-negara di dunia [http://wiki.uaviators.org/doku.php](http://wiki.uaviators.org/doku.php)
+
+* **Geojournalism**’s panduan untuk pemetaan balon: [http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/)
+
+* NetHope’s **Solutions Center **memiliki webinar dan sumber daya untuk menggunakan drone [http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles)
+
 
 ### Tentang
 
