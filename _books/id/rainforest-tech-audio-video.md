@@ -1,11 +1,17 @@
 ---
 layout: rainforest
 title: Audio dan video
-description: Pengantar penggunaan audio dan video untuk proyek yang berhubungan dengan hutan hujan menyajikan pesan-pesan advokasi yang singkat, mengumpulkan bukti visual pelanggaran HAM, mempublikasikan film partisipatif dari anggota masyarakat, atau mendokumentasikan deforestasi dari waktu ke waktu. <p>Bagian laporan <a href=https://library.theengineroom.org/id/rainforest-tech>Teknologi Hutan Hujan</a>.</p>
+description: >-
+  Pengantar penggunaan audio dan video untuk proyek yang berhubungan dengan
+  hutan hujan menyajikan pesan-pesan advokasi yang singkat, mengumpulkan bukti
+  visual pelanggaran HAM, mempublikasikan film partisipatif dari anggota
+  masyarakat, atau mendokumentasikan deforestasi dari waktu ke waktu. <p>Bagian
+  laporan <a href=https://library.theengineroom.org/id/rainforest-tech>Teknologi
+  Hutan Hujan</a>.</p>
 image: /media/index/audio.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
-funder_link: http://regnskog.no/en
+funder_link: 'http://regnskog.no/en'
 published: true
 navigation:
   - Apakah ini
@@ -44,8 +50,50 @@ Pengantar ini adalah bagian dari [Panduan tentang penggunaan teknologi untuk mem
 ### Bagaimana hal ini dapat membantu
 Video dan audio dapat mengkomunikasikan informasi mengenai masyarakat dan tempat yang mungkin tidak dapat dijelaskan hanya dengan teks, peta atau data.Karena itu ia efektif sebagai alat advokasi yang dapat menjelaskan kampanye secara cepat dan dengan cara yang personal. Bukti video dan audio juga dapat digunakan dalam kasus hukum pelanggaran HAM atau kegiatan ilegal jika Anda mengikuti prosedur-prosedur khusus.
 
+### Alat dan perangkat
 
-> ## CONTENT [TK]
+Jangan berasumsi bahwa Anda perlu membeli ponsel atau kamera baru.Banyak perangkat lama yang masih memberikan gambar berkualitas tinggi (cari yang 5 megapixels atau lebih). (NOTE: https://www.v4c.org/content/effective-video-low-cost-devices)File audio dan video menghabiskan banyak memori digital – compress dengan menggunakan software gratis, atau gunakan file berkualitas lebih rendah agar bisa dipublikasikan saat internet sedang lemah.Anda dapat mengedit langsung dari smartphone atau menggunakan software gratis seperti Lightworks Free dan Audacity. (NOTE: http://www.lwks.com or http://audacity.sourceforge.net/)Asesoris seperti tripod dan mikrofon eksternal tidak terlalu penting, namun bisa menambah kualitas.Video4Change (NOTE: https://www.v4c.org/en/resources) dan WITNESS (NOTE: http://library.witness.org) memiliki sumber beragam mengenai saran-saran teknis.
+
+### Biaya
+
+Saat ini Anda bisa membuat video dan audio dengan sangat mudah namun secara umum semakin rumit produk maka semakin besar biayanya. Memfilmkan protes masyarakat adat dengan smartphone lebih murah ketimbang film dokumenter berdurasi 20 menit dengan kualitas profesional. Membuat film, mengedit dan mengunggah bisa menghabiskan banyak waktu: apakah organisasi Anda memiliki waktu untuk membuat video sendiri, atau apakah lebih masuk akal membayar seorang profesional?
+
+### Risiko dan tantangan
+
+**Risiko untuk orang yang merekam: **Merekam audio atau video bisa membawa risiko terhadap si pembuat.Hapus atau enkripsi data pribadi pada alat dan bersihkan alatnya secara teratur – fingerprints atau residu bisa menunjukkan tempat-tempat yang telah mereka kunjungi.Bagikanlah informasi sensitif hanya dengan kelompok yang dipercaya atau pengacara sebelum mempublikasikan, dan sebelum memulai cek apakah melakukan perekaman diperbolehkan.
+
+**Risiko untuk orang-orang yang Anda rekam:**Ikuti langkah-langkah pada paragraf ‘Persetujuan Awal’ untuk **Mengumpulkan Data **(hal X), pastikan orang memahami bahwa rekaman dapat tersebar luas dan dilihat oleh semua orang.Matikan semua fungsi perekaman-lokasi, dan buramkan wajah orang-orang. (NOTE: https://www.v4c.org/en/content/hands-using-obscuracam atau fungsi untuk memburamkan di YouTube http://youtube-global.blogspot.co.uk/2012/07/face-blurring-when-footage-requires.html)
+
+### Sumber lain
+
+* The Guardian Project’s **Informacam, **adalah plugin yang dapat berfungsi dengan **Obscuracam **Android app, yang dapat membantu mengumpulkan bukti video dan photo dengan aman dan dapat diverifikasi: [https://guardianproject.info/informa/](https://guardianproject.info/informa/) dan [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam)
+
+* The **StoryMaker** app untuk ponsel Android membantu untuk membuat kisah-kisah multimedia di perangkat Android Anda:[http://smallworldnews.tv/projects/storymaker/](http://smallworldnews.tv/projects/storymaker/)
+
+* **WITNESS** dan** Video4Change** memiliki perpustakaan yang sangat membantu kerja Anda: [https://www.v4c.org/en/resources](https://www.v4c.org/en/resources) dan [http://library.witness.org](http://library.witness.org/)
+
+* **Small World News **menawarkan panduan membuat video dan audio [http://smallworldnews.com/guides](http://smallworldnews.com/guides)
+
+* **Audacity** menawarkan kemampuan mengedit audio secara gratis [http://audacity.sourceforge.net/](http://audacity.sourceforge.net/), sementara versi **Lightworks Free** dapat menangani tugas editing video yang simpel: http://www.lwks.com/
+
+### Studi kasus
+
+#### Menggunakan rekaman video pada ponsel sebagai bukti
+HuMa mengumpulkan data mengenai konflik terkait tanah di Indonesia, termasuk video tentang masyarakat setempat yang berbicara mengenai mata pencaharian dan pengalaman mereka.Video-video itu direkam dengan ponsel oleh anggota masyarakat dan digabungkan dengan sumber data lain seperti data GPS sehingga meningkatkan nilainya sebagai suatu bukti.
+
+**Bagaimana hal ini dapat membantu?**
+
+* Data tersebut telah dimanfaatkan oleh kelompok lain termasuk Komnas HAM dan Kapolri serta LSM.
+* Perhutani, perusahaan perhutanan nasional juga telah merujuk pada data HuMa sebagai dasar untuk menyelidiki kejadian-kejadian tertentu.
+
+#### Menggunakan video untuk mendokumentasikan penebangan ilegal di Indonesia
+Sebagai respon atas kampanye advokasi, perusahaan kertas Indonesia APP telah menandatangani komitmen zero deforestasi.Pada September 2013, Eyes on the Forest (sebuah koalisi tiga organisasi lingkungan lokal di Indonesia), memfilmkan satu perusahaan penebangan, yang diketahui sebagai pemasok APP, tengah menebangi hutan alam.
+
+**Bagaimana hal ini dapat membantu?**
+
+* Videonya pendek dan sederhana, sehingga mudah diunggah dan dipublikasikan dengan cepat.
+* Meskipun video difilmkan dari jauh, ia masih berharga sebagai bukti karena dengan jelas menunjukkan penebangan yang tengah dilakukan. Dan video ini didukung oleh foto koordinat GPS dan sebuah laporan yang detail. 
+* APP ditekan untuk merespon video tersebut dan menyatakan bahwa penebangan ada di zona eksklusi yang tidak diungkapkan.
 
 ---
 
