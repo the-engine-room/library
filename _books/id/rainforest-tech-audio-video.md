@@ -1,8 +1,7 @@
 ---
 layout: rainforest
 title: Audio dan video
-description: >-
-  Pengantar penggunaan audio dan video untuk proyek yang berhubungan dengan
+description: Pengantar penggunaan audio dan video untuk proyek yang berhubungan dengan
   hutan hujan menyajikan pesan-pesan advokasi yang singkat, mengumpulkan bukti
   visual pelanggaran HAM, mempublikasikan film partisipatif dari anggota
   masyarakat, atau mendokumentasikan deforestasi dari waktu ke waktu. <p>Bagian
