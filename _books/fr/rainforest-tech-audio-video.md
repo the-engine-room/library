@@ -17,7 +17,7 @@ navigation:
   - Case studies
   - Ressources complémentaires
   - À propos
-ref: rt-av
+ref: rt-da
 lang: fr
 categories:
   - fr
