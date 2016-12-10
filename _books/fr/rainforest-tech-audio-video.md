@@ -31,9 +31,11 @@ categories:
 > * Recueillir des preuves de déforestation ou de dégradation forestière
 > * Consigner des malversations à l’encontre d’individus ou de communautés
 
-This introduction to using audio and video is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
+Cette introduction est issue du [*Guide introductif à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale et les droits des peuples forestiers.*](/fr/rainforest-tech) Il fournit un point de départ aux organisations et activistes désireux d’intégrer des technologies en appui à leurs actions de plaidoyer, et est le fruit d’un partenariat entre la *[Rainforest Foundation Norway]*(http://www.regnskog.no/en/) et *[The Engine Room]*(https://theengineroom.org/).
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
+
+Téléchargez le guide introductif complet (1,6 MB pdf), ou consultez le en ligne ci-dessous.
 
 ### Que sont les techniques audio et vidéo ?
 * Les enregistrements vidéo ou audio peuvent être réalisés avec des téléphones ou des appareils spéciaux comme des appareils photo numériques, des dictaphones ou des caméras vidéo.
