@@ -1,6 +1,6 @@
 ---
 layout: rainforest
-title: Teknologi Hutan Hujan
+title: Hutan hujan teknologi
 description: Panduan penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu-isu hutan hujan, hak atas tanah dan hak-hak adat. Pengantar ini didisain sebagai titik awal bagi organisasi dan aktivis yang berkeinginan untuk memanfaatkan teknologi guna meningkatkan kerja-kerja advokasi mereka.
 image: /media/index/rainforest.svg
 funder_name: Rainforest Foundation Norway
@@ -8,714 +8,576 @@ funder_logo: /images/logos/rfn.svg
 funder_link: http://regnskog.no/en
 published: true
 navigation:
-  - Introduction
-  - Strategy
-  - Matching objectives with tools
-  - Tools
-  - Further resources
-  - About
+  - Pengantar
+  - Strategi
+  - Memadankan tujuan Anda dengan perangkat
+  - Alat dan perangkat
+  - Sumber lain
+  - Tentang
 ref: rt
-lang: fr
+lang: id
 categories:
-  - fr
+  - id
 ---
 
-## Introduction
+## Pengantar
 
-Cet ouvrage élémentaire constitue une introduction à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur les questions liées à la forêt tropicale, les droits à la terre et les droits des peuples autochtones.
-
-It is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
+Panduan penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu-isu hutan hujan, hak atas tanah dan hak-hak adat.
+Pengantar ini adalah produk kemitraan antara Rainforest Foundation Norway dan The Engine Room.
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
-Il vise à fournir une base de départ pour les organisations et les activistes souhaitant améliorer leurs activités de plaidoyer grâce à la technologie, mais peut aussi être utile aux organisations en ayant déjà fait l’expérience, fournissant des indications sur la manière de renforcer l’impact de leurs activités. *[Download the whole primer (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) or read it online below.*
+La dirancang sebagai titik awal bagi organisasi atau para aktivis yang tertarik menggunakan teknologi untuk meningkatkan kerja advokasi mereka, namun ia juga bermanfaat bagi organisasi yang telah memiliki pengalaman menggunakan teknologi dan ingin tahu bagaimana meningkatkan dampak dari pekerjaan mereka.
 
-Cet ouvrage élémentaire:
-* Démontre comment la technologie peut contribuer à vos travaux ;
-* Présente certains des outils disponibles ;
-* Fournit des informations pratiques qui vous permettront d’évaluer vos propres besoins ;
-* Vous oriente vers des sources d’informations détaillées sur des outils et stratégies spécifiques.
+Panduan ini telah dibuat secara terstruktur sehingga Anda tidak perlu membaca semua, melainkan dapat mempelajari bagian-bagian yang relevan dengan Anda dan mengunakannya untuk mengetahui pedoman yang lebih detail.
 
+[Unduh semua pengantar (1.6MB pdf)](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) atau baca secara online di bawah ini.
 
-### Qu’entend-on par « technologie » ?
+Panduan ini:
 
-Le terme « technologie » utilisé dans cet ouvrage ne fait pas référence à une solution technologique (comme des cartes satellites) ou à un outil (comme les téléphones mobiles) en particulier. Il couvre une vaste gamme d’outils, de méthodes et de techniques : logiciels informatiques, appareils numériques tels que téléphones mobiles ou appareils photo, analyse d’une grande quantité de données, utilisation d’outils connectés pour communiquer des informations, et bien plus.
+- menunjukkan cara bagaimana teknologi dapat membantu pekerjaan Anda,
+- menyoroti berbagai perangkat yang tersedia,
+- memberikan informasi praktis untuk membantu memutuskan apa yang Anda perlukan, dan
+- memberikan tautan untuk panduan yang lebih detail mengenai perangkat dan strategi khusus.
 
-### Comment utiliser ce guide
+### Apa yang kita maksud dengan “teknologi”?
 
-Ce guide n’est pas exhaustif – il fournit les informations élémentaires pour vous aider à démarrer, et indique où trouver des indications complémentaires. Il contient trois parties principales :
+Kata “teknologi” dalam panduan ini tidak merujuk pada solusi teknologi yang khusus (seperti peta satelit) atau perangkat (seperti ponsel). Kami memasukkan beragam perangkat, metode dan teknik: software komputer, perangkat digital seperti ponsel dan kamera, menganalisa data dalam jumlah besar, menggunakan perangkat online untuk menyampaikan informasi, dan banyak lagi.
 
-#### Buts et stratégie
+### Bagaimana menggunakan panduan ini
 
-C’est certainement là qu’échouent la plupart des projets. La réussite d’un projet exige des buts précis et une stratégie robuste – depuis la planification des phases du projet jusqu’à la gestion des informations en cours de mise en œuvre. La [première section](#strategy) de cet ouvrage élémentaire décrit les principes généraux et les réflexions nécessaires à l’élaboration de projets utilisant la technologie.
+Panduan ini bukanlah sesuatu yang lengkap – ia memberikan informasi dasar yang Anda butuhkan untuk langkah awal, dengan berbagai pilihan rujukan yang bagus jika Anda ingin tahu lebih banyak. Panduan ini memiliki tiga bagian utama:
 
-#### Instruments
+### Tujuan dan strategi
 
-La [deuxième section](#tools) présente les outils utiles aux projets liés à la forêt tropicale, regroupés en six catégories:
+Mungkin disinilah proyek kebanyakan gagal.Sebuah proyek yang sukses memerlukan tujuan yang jelas dan strategi yang kuat – dari merencanakan bagaimana proyek akan berjalan, hingga mengelola informasi ketika proyek tengah berjalan. Bagian pertama dari panduan ini menjelaskan berbagai prinsip dan hal yang perlu dipikirkan ketika mendisain proyek apapun yang memanfaatkan teknologi.
 
-* Les applications pour téléphones mobiles (cellulaires) pour collecter et enregistrer des données de terrain
-* Les cartes produites avec les communautés (cartographie participative)
-* L’imagerie satellite
-* La photographie aérienne à réaliser soi-même (par exemple avec des drones)
-* Les enregistrements audio et vidéo
-* Les cartes en ligne qui superposent et combinent différents types de données.
+### Alat dan perangkat
 
+Bagian kedua memperkenalkan beberapa alat yang dapat bermanfaat untuk proyek-proyek yang berfokus pada hutan hujan, telah dikelompokkan dalam enam jenis:
 
-#### Ressources complémentaires
+- aplikasi ponsel untuk mengumpulkan dan mencatat data dari lapangan
+- peta yang dihasilkan bersama-sama dengan masyarakat (pemetaan partisipatif)
+- citra satelit
+- foto udara yang dilakukan-sendiri (seperti drone)
+- audio dan video
+- peta online yang menggabungkan dan menampilkan lapisan data dengan jenis yang berbeda-beda, di atas satu sama lain
 
-Les [dernières sections](#resources)  fournissent une liste de guides et d’outils plus détaillés pour vous permettre de passer à l’étape suivante dans l’intégration de nouvelles technologies dans votre projet.
+### Sumber lainnya
 
-### Avant-propos
+Bagian akhir menampilkan serangkaian panduan dan alat dengan informasi yang lebih detail, yang dapat membantu Anda untuk mengambil langkah selanjutnya dalam hal menambahkan teknologi baru pada proyek Anda.
 
-*By Lars L&#248;vold - Director, [Rainforest Foundation Norway](http://rainforest.no/en)*
+### Prakata
 
-Comment les technologies nouvelles et celles en pleine évolution peuvent-elles s’avérer utiles pour promouvoir la protection de la forêt tropicale et les droits des peuples forestiers ? Cette vaste question ouverte est le point de départ de cette introduction. En 1989, quand la Rainforest Foundation a été créée pour promouvoir la protection des forêts fondée sur les droits, les téléphones étaient rarement mobiles, et le World Wide Web était de la science fiction. Tout cela a bien changé.
+*Oleh Lars L&#248;vold - Direktur, [Rainforest Foundation Norway](http://rainforest.no/en)*
 
+Bagaimana teknologi yang baru dan selalu berkembang dapat bermanfaat bagi advokasi perlindungan hutan hujan dan hak-hak masyarakat hutan? Pertanyaan yang umum dan terbuka ini menjadi titik awal dari panduan ini.Tahun 1989, saat Rainforest Foundation Norway dibentuk untuk mempromosikan perlindungan hutan hujan berbasis hak-hak, telepon masih belum bisa dibawa kemana-mana dan world wide web masih berupa fiksi ilmiah. Banyak yang telah berubah.
 
-Les technologies de pointe sont devenues plus abordables, plus disponibles et leur utilisation plus facile, créant ainsi de nouvelles possibilités exaltantes pour la surveillance de la forêt tropicale et le partage d’informations. Chaque semaine, un nouvel outil ou une nouvelle plateforme voit le jour pour cartographier les ressources forestières, détecter l’abattage illégal d’arbres, signaler des violations des droits humains ou retracer l’origine des matières premières.
+Sekarang teknologi canggih telah semakin murah, banyak tersedia dan mudah digunakan, membuka kesempatan baru yang sangat menarik dalam hal monitoring hutan hujan dan berbagi informasi. Setiap minggu selalu tercipta alat atau platform yang baru untuk membantu kita memetakan sumber daya hutan, mendeteksi penebangan ilegal, melaporkan pelanggaran HAM atau melacak asal dari suatu komoditas.
 
+Namun, beberapa hal lain masih belum berubah sama sekali. Masyarakat adat dan organisasi setempat di negara-negara hutan hujan masih terus berjuang untuk mengklaim hak-hak adat mereka dan melindungi hutan hujan dari kondisi-kondisi yang sulit. Seringkali infrastruktur dan alat komunikasi yang buruk, tidak adanya pelatihan dan dana menjadi hambatan besar dalam mendapatkan manfaat dari peluang-peluang yang ditawarkan oleh teknologi.
 
-Toutefois, certaines choses n’ont pas changé du tout. Les peuples autochtones et les organisations locales dans les pays à forêt tropicale luttent toujours pour faire reconnaître leurs droits coutumiers et protéger les forêts tropicales dans des conditions difficiles. Bien souvent, les infrastructures et les moyens de communication sont médiocres, et il est très difficile de tirer parti des possibilités offertes par les technologies en l’absence de connaissances et de financements.
+Umumnya, kelompok kepentingan yang berada di belakang eksploitasi hutan yang tidak berkesinambungan memiliki lebih banyak sumber daya untuk memanfaatkan teknologi yang baru dan terus berkembang ketimbang organisasi kelompok dan masyarakat sipil setempat yang bekerja dalam perlindungan hutan. Meskipun demikian, ada banyak contoh yang luar biasa tentang bagaimana para aktivis lokal menggunakan teknologi baru dengan beragam cara agar pekerjaan mereka menjadi lebih efektif dan efisien. Sayangnya, ada banyak juga proyek yang tidak sukses, yang telah menghabiskan banyak uang dan kerja keras. Meskipun sasaran dan alat sangat beragam, hal yang umum pada proyek yang sukses adalah disainnya yang dibuat dengan kuat dan berdasarkan pada tujuan yang jelas serta  analisa menyeluruh tentang problem yang dihadapi.
 
+Mengingat betapa pentingnya perencanaan dan disain yang kuat bagi kesuksesan proyek yang menggunakan teknologi, [Rainforest Foundation Norway](http://www.regnskog.no/en/) bermitra dengan [The Engine Room](https://theengineroom.org) untuk membuat pengantar dasar penggunaan teknologi dalam perlindungan hutan hujan berdasarkan hak-hak. Dalam proses memetakan berbagai inisiatif yang ada, yang dapat bermanfaat dalam pekerjaan kita dan juga untuk mitra kita, kami memutuskan bahwa sebuah pengantar dasar tentang penggunaan teknologi dalam perlindungan hutan hujan berbasis hak-hak akan sangat bermanfaat bagi banyak orang.
 
-De manière générale, les groupes d’intérêts à l’origine de l’exploitation non durable des forêts ont davantage de ressources à leur disposition pour utiliser les nouvelles technologies et les évolutions technologiques que les groupes locaux ou les organisations de la société civile œuvrant à la protection des forêts. Pour autant, il existe de nombreux exemples remarquables d’utilisation ingénieuse des nouvelles technologies par des militants locaux pour rendre leur travail plus efficace et plus performant. Malheureusement, il existe aussi de nombreux exemples de projets infructueux pour lesquels beaucoup de temps et d’efforts ont été gaspillés.
-Bien que les objectifs poursuivis et les instruments utilisés varient grandement d’un projet à l’autre, les exemples de succès ont en commun une conception robuste, des objectifs clairs et une analyse approfondie du problème à résoudre.
+Itulah maksud dari panduan ini: Panduan ini menjelaskan kelebihan dan kekurangan dari berbagai alat yang berbeda yang mungkin digunakan, menggunakan contoh yang konkret. Selain itu juga memberikan panduan langkah-demi-langkah dalam membuat proyek yang strategis, mengusulkan pertanyaan penting yang harus dijawab demi memastikan bahwa teknologi melayani kebutuhan proyek dan bukan sebaliknya.
 
-Au vu de l’importance d’une planification et d’une conception sérieuse pour le succès de tout projet technologique, [la Rainforest Foundation Norvège](http://www.regnskog.no/en/) a conclu un partenariat avec [Engine Room](https://theengineroom.org) pour élaborer une introduction élémentaire à l’utilisation des technologies pour la protection des forêts tropicales fondée sur les droits. Alors que nous recensions une multitude d’initiatives existantes qui pourraient être utiles à nos travaux et à nos partenaires, nous avons estimé qu’une introduction aux principes élémentaires de l’utilisation de la technologie pour la protection des forêts tropicales fondée sur les droits pourrait se révéler utile pour de nombreuses personnes.
+Meskipun panduan ini dapat dibaca dari awal hingga akhir, ia dirancang untuk membantu para pembaca mengakses informasi yang paling menarik bagi mereka dengan mudah. Saran untuk bacaan lebih lanjut juga disajikan bagi mereka yang ingin lebih mengetahui tentang alat dan perangkat tertentu atau mendapatkan informasi yang lebih detail.
 
-Tel est l’objectif de ce rapport : décrire les avantages et les inconvénients des différents outils qui peuvent être utilisés, à l’aide d’exemples concrets. Il contient en outre une orientation étape par étape pour l’élaboration stratégique de projets, en indiquant les questions essentielles auxquelles il faut répondre pour s’assurer que la technologie réponde aux besoins du projet, et non l’inverse.
+Penggunaan teknologi memiliki potensi besar dalam memperkuat hak-hak dan perlindungan hutan masyarakat adat - dan melihat begitu banyak cara baru yang digunakan oleh masyarakat adat dan aktivis lokal dalam pemanfaatan teknologi adalah hal yang sangat menginspirasi.
 
-Même si ce rapport peut être lu de bout en bout, il a été conçu pour permettre au lecteur de trouver facilement les informations les plus pertinentes pour lui. Des suggestions d’ouvrages complémentaires s’adressent aux personnes qui désirent en savoir plus sur un outil ou une expérience en particulier.
+Semoga panduan ini dapat membantu siapa saja yang ingin memulai proyek baru - atau ingin lebih jauh mengembangkan proyek yang ada - untuk menggunakan teknologi secara efektif, dan juga menginspirasi kita untuk saling belajar dari pengalaman satu sama lain.
 
-L’utilisation de la technologie peut grandement contribuer au renforcement des droits des peuples autochtones et à la protection des forêts – il est enthousiasmant d’observer que de  nombreux peuples autochtones et activistes locaux utilisent déjà la technologie de manière créative.
 
-Nous espérons que cette introduction aidera ceux qui souhaitent initier de nouveaux projets – ou en développer d’existants – à utiliser la technologie de manière efficace, et nous incitera à tirer des leçons de nos expériences mutuelles.
+### Teknologi informasi dan hutan
 
-### La technologie informatique et les projets
+#### Apa yang baru dari teknologi?
 
-#### Qu’est ce qui change ?
+**Berbagi informasi semakin mudah:** Akses internet dan jaringan ponsel telah tersebar ke seluruh negeri dan juga ke daerah-daerah yang sebelumnya terisolir. Saat ini semua organisasi dapat mendokumentasikan dan berbagi informasi mengenai kejadian tepat saat itu berlangsung (dalam 'seketika’). Teknologi juga semakin memudahkan kolaborasi dengan organisasi dari negara lain (seperti jaringan RAISG yang fokus pada Amazon) atau di benua lain (seperti jaringan kerja para mitra Rainforest Foundation Norway).
 
-**Un partage plus facile de l’information:** L’accès à internet et les réseaux de téléphonie mobile se développent dans tous les pays et s’étendent à des zones jusque là isolées. Les organisations peuvent à présent consigner et partager des informations sur des incidents au moment même où ils se déroulent (en « temps réel »). La technologie rend aussi plus aisée la collaboration avec des organisations situées dans d’autres pays (comme pour le réseau RAISG axé sur l’Amazonie) ou sur d’autres continents (comme pour le réseau de partenaires de la Rainforest Foundation Norvège).
+**Saat ini tengah dikembangkan alat-alat untuk memenuhi kebutuhan Anda:** Beragam alat – banyak yang didisain untuk digunakan di lingkungan hutan hujan – telah menunjukkan bahwa ia mempermudah kegiatan kampanye dan monitor informasi.
 
-**Des instruments conçus pour répondre à vos besoins:** Aune vaste gamme d’outils – dont beaucoup ont été conçus pour être utilisé en forêt tropicale – facilitent les campagnes et la surveillance d’informations.
+**Sangat mudah sekali mencari dan menggunakan data yang Anda inginkan:** Sebelumnya data-data tentang topik seperti pemanfaatan lahan, tutupan hutan dan sumber daya alam sulit ditemukan, mahal dan sulit digunakan. Sekarang, hal ini telah berubah. Jika digabungkan dengan informasi yang dikumpulkan oleh organisasi Anda (seperti batas-batas komunitas atau keanekaragaman hayati), maka Anda akan memiliki serangkaian data yang sangat kaya dan kuat untuk digunakan dalam advokasi.
 
-**Des données plus faciles à trouver et à utiliser:** par le passé, les données sur des sujets tels que l’utilisation des terres, la couverture forestière ou les ressources naturelles étaient difficiles à trouver, chères et compliquées à utiliser. Tout ceci est en train de changer. En y ajoutant les informations recueillies par votre organisation (telles que les limites communautaires ou la biodiversité), vous pouvez obtenir un ensemble de données riches et à fort impact sur lequel fonder votre plaidoyer.
+**Teknologi semakin murah dan kuat:** Kini semakin banyak organisasi dapat mengakses alat seperti smartphone, dan software visualisasi data yang sebelumnya tidak dapat mereka miliki.
 
-**Des technologies meilleur marché et plus puissantes:** de plus en plus d’organisations peuvent à présent s’équiper d’outils tels que des Smartphones ou des logiciels de visualisation qu’elles ne pouvaient pas s’offrir auparavant.
+#### Apa yang bukan hal baru
 
-#### Qu’est-ce qui ne change pas ?
+**Teknologi masih memerlukan manusia:** Seberapapun canggihnya teknologi, ia tetap tidak bisa menggantikan perlunya hubungan yang kuat dengan masyarakat, yang didasarkan pada kepercayaan dan pengetahuan tentang keadaan setempat.
 
-**La technologie a toujours besoin des humains:** même la technologie la plus sophistiquée ne peut supplanter le besoin de créer des liens forts avec les communautés, fondés sur la confiance et la connaissance du contexte local.
+**Mengenalkan alat baru apapun perlu waktu, biaya dan usaha:** Proyek dapat terhambat jika tidak mengetahui dari awal komponen teknologi apa yang diperlukan. Staf proyek dan masyarakat setempat perlu waktu dan dukungan berkelanjutan agar dapat menggunakan alat atau sumber informasi baru hingga bermanfaat penuh. Teknologi bukanlah obat ajaib dan tidak bisa memperbaiki sesuatu dengan cepat.
 
-**L’utilisation de tout nouvel outil demande du temps, de l’argent et des efforts:** rien ne retarde plus un projet que d’identifier trop tardivement les ressources nécessaires à la mise en œuvre de sa composante technologique. Les équipes de projet et les communautés locales ont besoin de temps et d’un soutien permanent pour tirer le meilleur parti de nouveaux outils ou de nouvelles sources d’information. La technologie n’est jamais un remède miracle et rarement une solution rapide.
+**Teknologi dapat membantu organisasi melindungi hutan atau mata pencaharian masyarakat, namun ia juga dapat membantu pihak-pihak yang memiliki sasaran yang berlawanan:** Pemerintah berupaya menekan data atau perusahaan yang bertindak secara ilegal dari ikut mendapatkan manfaat dari kemajuan teknologi, dan sering kali memiliki keuntungan seperti uang yang lebih banyak dan juga sumber daya manusia.
 
-**La technologie peut aider les organisations à protéger les forêts ou les moyens d’existence des peuples, mais il peut aussi servir des intérêts opposés:** des gouvernements cherchant à faire disparaître des données ou des entreprises menant des activités illégales peuvent aussi bénéficier des avancées technologiques, et ont souvent davantage de ressources financières et humaines à leur disposition.  
+### Prinsip-prinsip dalam mendisain proyek yang melibatkan teknologi
 
-### Principes d’élaboration de projets utilisant la technologie  
+Bagian ini menyajikan pedoman "Dasar-dasar" tentang [Inisiatif Transparansi dan Akuntabilitas](http://tech.transparency-initiative.org/fundamentals/), dan merupakan tempat yang tepat untuk mendapatkan lebih banyak tips.
 
-**Définir des objectifs clairs et utiliser la technologie seulement si elle contribue à leur réalisation –** et non simplement dans le but d’utiliser la technologie. (Pour plus d’informations, voir la section [Planification](#planning) ci-dessous).
+**Tentukan dengan jelas tujuan proyek dan hanya gunakan teknologi jika ia membantu Anda mencapai tujuan tersebut** – bukan hanya semata agar dapat menggunakan teknologi baru.(_Untuk lebih detail lihat bagian **Perencanaan** di bawah._)
 
-**Ne présumez pas – demandez. Cherchez à comprendre la relation à la technologie des personnes avec qui vous travaillez,** et tenez compte de cet élément dans la conception de votre projet. Ne partez pas du principe que vous savez comment vos collaborateurs réagiront à un nouveau logiciel de cartographie, ou ce qu’une communauté jugera utile. Demandez-leur, et continuez à les interroger tout au long du projet.
+**Jangan berasumsi - tanya. Pelajari bagaimana organisasi Anda dan masyarakat yang bekerja bersama Anda berhubungan dengan teknologi,** dan pertimbangkan faktor ini dalam disain proyek. Jangan berasumsi bahwa Anda tahu bagaimana respon staff atas software pemetaan yang baru, atau apa yang akan bermanfaat bagi masyarakat. Tanya pada mereka – dan teruslah bertanya di sepanjang periode proyek.
 
-Soyez conscients que **vous devrez investir des ressources pour utiliser la technologie de manière efficace.** Vous devrez peut-être investir dans du matériel, former du personnel à l’utilisation d’un nouvel outil, ou faire appel à des spécialistes externes. Vous devrez dans tous les cas allouer des fonds à la maintenance et au remplacement des outils et faire appel à des spécialistes en cas de problème.
+Ketahuilah **bahwa Anda harus menyiapkan sumber daya guna memanfaatkan teknologi dengan efektif**. Mungkin di saat-saat awal Anda perlu berinvestasi untuk hardware, melatih orang menggunakan alat baru, atau membawa pakar dari luar. Anda tentu saja harus mengalokasikan dana untuk merawat dan mengganti teknologi, dan juga untuk mencari bantuan pakar jika terjadi kesalahan.
 
-**N’investissez pas votre temps et votre argent dans de nouvelles technologies si une solution adéquate existe déjà.** Prenez le temps de vous renseigner sur les solutions utilisées par d’autres initiatives similaires avant de choisir un outil, et collaborez avec des organisations qui partagent votre expérience.
+**Jangan habiskan waktu dan uang untuk teknologi baru jika sudah tersedia solusi yang baik.** Luangkan waktu untuk meriset apa-apa saja yang berhasil, di alat yang sama, sebelum memilih alat manapun, dan berkolaborasilah dengan organisasi yang telah melakukan hal serupa.
 
-**Réfléchissez aux impacts potentiels de votre projet sur les personnes et l’environnement.** Voici quelques principes:
+**Pikirkan kemungkinan dampak proyek Anda terhadap masyarakat dan lingkungan**: Beberapa prinsip dijabarkan di bawah ini.
 
-* **Ne pas nuire (ou principe d’innocuité):** faites une liste des situations dans lesquelles votre projet pourrait nuire aux personnes ou à l’environnement de manière fortuite, ou pourrait aider d’autres parties à leur porter préjudice. (Par exemple, localiser une communauté particulière ou des ressources précieuses pourrait avantager certaines entreprises).
-* **Laissez les personnes choisir la manière dont les informations les concernant sont recueillies et utilisées,** en particulier les communautés marginalisées. Les communautés doivent pouvoir décider en dernier lieu du niveau de risque et de visibilité qu’elles sont prêtes à accepter. Si vous travaillez sur un projet impliquant des communautés marginalisées, voici une liste des questions à vous poser: http://www.fabriders.net/qafs/.
-* **Faites une utilisation responsable des données:**  réfléchissez à la manière dont les données collectées pourraient affecter les personnes ou l’environnement, et à la gestion de ces risques (voir la section [Stratégie](#strategy)).
-* **Recueillez et présentez vos données de manière rigoureuse, et assumez la responsabilité des données que vous présentez:** les données peuvent être utilisées pour tromper. Soyez conscients de toutes les présomptions qui pourraient affecter votre manière de recueillir ou d’analyser des données. Si vous trouvez des failles ou des lacunes, mentionnez-les en toute transparence lors du partage ou de la publication des données.
+- **Jangan cari bahaya:** Buatlah daftar tertulis tentang cara-cara apa yang dapat menyebabkan proyek Anda membahayakan masyarakat atau lingkungan jika tidak hati-hati, atau membantu aktor lain yang menyebabkan bahaya. (Misalnya, apakah perusahaan dapat mengambil manfaat dari mengetahui lokasi komunitas tertentu atau sumber daya yang berharga).
+- **Biarkan masyarakat memutuskan bagaimana data tentang mereka dikumpulkan dan digunakan**, khususnya jika bekerja dengan masyarakat marjinal/terpinggirkan. Masyarakat sendirilah yang memegang putusan akhir tentang tingkat risiko dan pajanan yang bersedia mereka hadapi (Jika Anda bekerja di proyek yang melibatkan masyarakat marjinal, tanyakan pada diri Anda beberapa hal berikut: [http://www.fabriders.net/qafs/](http://www.fabriders.net/qafs/)).
+- **Gunakan data dengan bertanggung jawab:** Pikirkanlah bagaimana data yang Anda kumpulkan dapat mempengaruhi masyarakat dan lingkungan, dan bagaimana Anda dapat mengelola risiko-risiko tersebut (lihat bagian **Strategi**.)
+- **Kumpul dan sajikan data dengan teliti dan bersiaplah untuk mempertanggungjawabkan data yang Anda sajikan:** data dapat digunakan untuk menyesatkan. Ketahuilah asumsi apa saja yang dapat mempengaruhi bagaimana Anda mengumpulkan dan menganalisa data. Jika Anda menemukan celah atau kekurangan, bersikap terbukalah mengenai hal itu pada saat berbagi informasi atau mempublikasi.
 
+## Strategi
 
-## Strategy
-<a name="strategy"></a>Cette section se base sur le guide des [« principes fondamentaux »](http://tech.transparency-initiative.org/fundamentals/) de l’Initiative Transparency and Accountability (transparence et responsabilité), qui contient de nombreuses suggestions utiles.
+### Perencanaan
 
-### <a name="planning"></a>Planification
+#### Sepakati hal-hal dasar: Strategi, visi dan cek kesehatan organisasi
 
-#### S’accorder sur les principes fondamentaux : stratégie, vision et bilan technologique de votre organisation
+##### Jelaskan strategi jangka panjang Anda
 
-##### Définissez une stratégie à long terme
+Diskusikan strategi jangka-panjang organisasi Anda, dengan melibatkan staff dan siapa saja yang berperan dalam pekerjaan Anda. Tanyakan 3 hal ini: Apa yang ingin Anda ubah? Perilaku siapa yang perlu diubah agar ini berhasil? Bagaimana Anda bisa mengubah perilaku mereka?
 
-Elaborez la stratégie de votre organisation sur le long terme avec vos collaborateurs et toute personne influant sur vos travaux. Posez ces trois questions : Que voulez-vous changer ? Quelles sont les personnes qui doivent modifier leur comportement pour que ce changement ait lieu ? Comment pouvez-vous modifier leur comportement ?  
+Kemudian, jelaskan bagaimana teknologi dapat menunjang strategi tersebut (visi teknologi Anda)
 
-##### Précisez ensuite comment la technologie accompagnera cette stratégie (votre vision de la technologie)
+1. Identifikasi semua kegiatan praktis yang dilakukan organisasi Anda (contoh: berkomunikasi dengan masyarakat setempat atau memonitor citra satelit).
+1. Susun peringkatnya, dengan menempatkan yang paling penting di bagian atas
+1. Putuskan aktivitas apa yang dapat ditingkatkan dengan menggunakan teknologi. Pilih kegiatan-kegiatan penting yang ada di bagian teratas di daftar, kemudian putuskan langkah-langkah praktis apa yang diperlukan guna memperkenalkan teknologi tersebut.
 
-1. Identifiez toutes les activités pratiques effectuées au sein de votre organisation (par exemple : communiquer avec les communautés locales ou étudier des images satellites).  
-2. Classez-les par ordre d’importance, en commençant par la plus importante.  
-3. Décidez quelles activités pourraient être améliorées par la technologie. Choisissez-les parmi les premières de votre liste d’activités importantes, puis décidez de quelles mesures pratiques vous auriez besoin pour intégrer la technologie. (read the [Tools](#tools) section for more details on this).
+> ##### Studi kasus: Bagaimana tiga organisasi memutuskan untuk menggunakan teknologi guna mendukung strategi mereka di Kongo
+>
+> Di Kongo (Republik Demokratik Kongo), pemerintah membuat sebuah wilayah terlindungi dan memberikan konsesi penebangan untuk petak lahan yang sama yang dimiliki oleh desa Mpole dan Mpaha di Maï-Ndombe. Tumpang tindih ini menimbulkan pertikaian antara kelompok-kelompok berbeda yang terlibat.
+>
+> **Bagaimana mereka memutuskan untuk menggunakan teknologi?**
+>
+> - _Strategi jangka-panjang_ organisasi Jaringan Sumber Daya Alam Kongo (Réseau Ressources Naturelles - RRN) adalah memastikan bahwa hak-hak adat masyarakat setempat ikut dipertimbangkan.
+> - _Visi teknologi_ mereka adalah menggunakan pemetaan partisipatif untuk mengumpulkan pengetahuan lokal mengenai area geografis, dan menggabungkannya dengan peta-peta yang ada guna menunjukkan bukti tumpang tindih dan praktik buruk oleh pemerintah dan perusahaan.
+> - RRN mengambil _langkah-langkah praktis_ termasuk melatih kartographer lokal untuk menggunakan alat GPS, merekrut spesialis pemetaan GIS dan memberikan mereka sebuah kantor, dan [bekerja bersama masyarakat untuk memvalidasi peta](https://uclexcites.wordpress.com/2013/06/18/participatory-mapping-in-congo-brazzaville-part-1/).
 
-<blockquote>
-	<h5>Cas d’étude : Comment trois organisations ont décidé d’utiliser la technologie à l’appui de leur stratégie au Congo.</h5>
-	<p>Au Congo (RDC), le gouvernement a créé une aire protégée et a octroyé une concession d’exploitation forestière sur une parcelle de terrain rattachée aux villages de Mpole et Mpaha dans le Maï-Ndombe. Cette superposition a généré des différends entre les groupes impliqués.</p>
-	<p><b>Comment ont-ils décidé d’utiliser la technologie ?
-</b></p>
-	<ul>
-		<li>La <i>Stratégie à long terme</i> de l’organisation congolaise <a href="http://reseaurrnrdc.org/">Réseau Ressources Naturelles (RRN) </a> visait à garantir une prise en compte des droits des communautés locales.</li>
-		<li>Leur <i>vision de la technologie</i> consistait à utiliser la cartographie participative pour recueillir les savoirs locaux dans la zone géographique, et à les intégrer aux cartes existantes pour démontrer les superpositions et les mauvaises pratiques du gouvernement ou des compagnies.</li>
-		<li>RRN a pris des <i>mesures pratiques</i> telles que la formation de cartographes locaux à l’utilisation de récepteurs GPS, le recrutement de spécialistes en cartographie SIG et la mise à disposition d’un bureau, et a <a href="https://uclexcites.wordpress.com/2013/06/18/participatory-mapping-in-congo-brazzaville-part-1/">consulté les communautés</a>  pour la validation des cartes.</li>
-	</ul>
-</blockquote>
+##### Lakukan cek kesehatan teknologi organisasi Anda
 
-##### Effectuez un bilan technologique de votre organisation
+Lakukan penilaian sejauh mana organisasi Anda memanfaatkan teknologi dengan baik – apakah Anda memiliki peralatan yang tepat? Apakah Anda bisa dengan mudah memperoleh bantuan teknis saat membutuhkannya? Selesaikan setiap masalah yang ada sebelum memulai suatu proyek baru.
 
-Evaluez si votre organisation utilise convenablement la technologie – avez-vous l’équipement adéquat ? Pouvez-vous facilement avoir accès à un soutien technologique en cas de besoin ? Identifiez tous les domaines problématiques *avant* d’entamer un nouveau projet.
+#### Disain proyek teknologi Anda
 
-#### Elaborez votre projet technologique  
+##### Tentukan tujuan Anda
 
-##### Définissez vos objectifs
+Tetapkan apa yang Anda harapkan dapat dicapai oleh proyek. Pusatkan tujuan Anda pada tiga poin di atas: strategi organisasi Anda, visi teknologi Anda dan kapasitas teknis Anda.
 
-Listez les réalisations que vous attendez de votre projet. Fondez vos objectifs sur les trois points mentionnés ci-dessus : la stratégie de votre organisation, votre vision de la technologie et vos capacités techniques. (See [Use the Data](#usethedata))
+##### Rancanglah bersama dengan user Anda
 
-##### Impliquez vos utilisateurs
+Pikirkan tentang siapa yang mungkin dilibatkan dalam implementasi proyek (mulai dari staff organisasi Anda hingga masyarakat setempat atau petugas kehutanan), dan libatkan mereka dalam perencanaan. Waktu adalah segalanya: ketika meminta masukan, beri ruang guna memasukkan hal tersebut ke dalam proyek. Berkonsultasilah dengan spesialis seperti pakar teknologi dan pengacara sebelum memutuskan setiap komponen yang paling penting.
 
-Pensez à toutes les personnes qui pourraient être impliquées dans la mise en œuvre du projet (le personnel de l’organisation, les communautés locales ou les autorités forestières), et faites-les participer à la planification. Le facteur temps est essentiel : lorsque vous sollicitez des retours, faites en sorte de pouvoir les incorporer au projet. Consultez des spécialistes comme des technologues ou des juristes avant de prendre une décision sur une composante essentielle.
+##### Buatlah sebuah rencana proyek
 
-##### Faites un planning du projet
+Tentukan fitur-fitur penting yang Anda butuhkan sebelum memilih perangkat teknologi apa saja, dan pastikan bahwa alat tersebut dapat berkembang bersama dengan program Anda. Tanyakan pada organisasi lain apakah mereka pernah melakukan proyek serupa. Apa yang berhasil, dan yang tidak?
 
-Décidez des caractéristiques essentielles dont vous aurez besoin avant de choisir les outils technologiques, et assurez-vous que ces outils peuvent évoluer en fonction de votre programme. Demandez à d’autres organisations si elles ont déjà mené des projets similaires. Qu’est-ce qui a fonctionné et qu’est-ce qui n’a pas marché ?
+Pikirkan rentang-waktu seperti apa yang sesuai untuk proyek Anda. Lalu, berikan lebih banyak waktu tambahan untuk pelatihan, penyelesaian masalah dan keterlambatan pelaksanaan. Mulailah berpikir sejak awal mengenai akhir dari proyek – bagaimana dengan nasib perlengkapan dan data? Beberapa proyek butuh waktu sebelum menghasilkan dampak: rencanakan bagaimana Anda akan terus berlanjut setelah tenggat waktu proyek berakhir.
 
-##### What worked, and what didn’t?
+##### Uji proyek Anda terlebih dahulu
 
-Définissez une durée raisonnable pour votre projet. Ajoutez-y beaucoup de temps pour la formation, la résolution des problèmes et les retards dans la mise en œuvre. Pensez à la clôture du projet bien en amont – que deviendront l’équipement et les données ? Certains projets mettent du temps à montrer leurs effets : prévoyez comment continuer après la date de fin du projet.
+Dengan sebuah percobaan Anda bisa menguji pada skala kecil, mengidentifikasi sejak awal apa yang berhasil dan yang tidak. Pilih sesuatu yang dapat Anda ukur dengan mudah. (Misalnya, untuk suatu sistem monitoring penebangan ilegal, ini bisa berupa jumlah sinyal peringatan yang diterima dari satu area kecil dalam satu minggu). Disain proyek Anda sehingga hasil dari percobaan dapat mempengaruhi bagaimana nantinya proyek berjalan.Dengan demikian rencana Anda akan lebih fleksibel jika nantinya terjadi perubahan situasi.
 
-##### Testez votre projet en amont
+> ##### Studi kasus:Uji coba suatu teknologi baru dapat menimbulkan hasil-hasil yang tidak diharapkan
+>
+> Tahun 2013, [Rainforest Connection](http://news.mongabay.com/2014/0624-rainforest-connection-interview.html) melakukan proyek percobaan di Sumatera Barat (Indonesia) guna menguji sebuah aplikasi untuk memonitor penebangan ilegal dengan menggunakan telepon seluler yang telah dimodifikasi.
+>
+> **Bagaimana hal ini dapat membantu?**
+>
+> - Percobaan ini didisain untuk menilai apakah teknologi berhasil, namun ternyata hasilnya jauh lebih baik, dengan mengumpulkan informasi yang membuat otoritas setempat bisa menangkap pelaku penebangan ilegal dua pekan setelah teknologi tersebut dipasang.
+> - Sejak itu tidak ada lagi penebang yang masuk ke daerah tersebut. [Rainforest Connection](http://news.mongabay.com/2014/0624-rainforest-connection-interview.html) [kini sedang melakukan serangkain percobaan kedua](https://rfcx.org/) di Afrika Equatorial.
 
-Un pilote vous permettra de tester votre projet sur une petite échelle et d’identifier rapidement ce qui fonctionne et ce qui ne fonctionne pas. Choisissez des éléments facilement mesurables (par exemple, pour un système de contrôle de l’abattage illégal d’arbres, vous pouvez choisir le nombre d’alertes reçues dans une zone restreinte sur une semaine). Faites en sorte que les résultats issus du test pilote puissent modifier l’évolution du reste du projet. Votre planification en sera plus flexible en cas de changement de circonstances.
+##### Monitor perbedaan yang Anda hasilkan
 
-<blockquote>
-	<h5>Cas d’étude : Tester un outil technique peut apporter des avantages inattendus.</h5>
-	<p>En 2013, <a href="https://rfcx.org">Rainforest Connection</a> a mis en œuvre un projet pilote à Sumatra Ouest (Indonésie) pour tester une application contrôlant la coupe illégale de bois sur un téléphone mobile modifié.</p>
-	<p><b>Quelle a été l’utilité du test ?</b></p>
-	<ul>
-		<li>Le pilote devait évaluer le bon fonctionnement de la technologie, il a fait mieux que ça. Il a recueilli des informations qui ont permis aux autorités locales d’appréhender les auteurs de coupes illégales après deux semaines d’installation.</li>
-		<li>Les bûcherons ne sont pas revenus dans cette zone jusqu’à présent. <a href="http://news.mongabay.com/2014/0624-rainforest-connection-interview.html">Rainforest Connection</a> met actuellement en place une <a href="https://rfcx.org">deuxième série de pilotes</a> en Afrique équatoriale.</li>
-	</ul>
-</blockquote>
+Sebelum mulai, nilai dulu situasinya. Dengan demikian Anda akan memiliki suatu ‘baseline’ yang dapat digunakan untuk mengukur apa saja yang telah berubah seiring perkembangan proyek, dan guna menunjukkan hasil-hasil untuk tujuan kemitraan dan penggalangan dana.
 
-#### Evaluez les changements que vous engendrez
+Kemudian, pikirkan kemungkinan dampak proyek dalam situasi tersebut, dan bagaimana Anda mengukur setiap perubahan.Putuskan kapan dan seberapa sering Anda melacak kemajuan dengan menggunakan cara pengukuran ini.
 
-Avant de commencer, faites le bilan de la situation. Il vous servira de base pour mesurer les changements qui interviendront au cours de la mise en œuvre du projet et présenter les résultats à vos partenaires ou donateurs potentiels.
-
-Puis, identifiez les effets potentiels de votre projet sur la situation, et les méthodes de mesure des changements. Décidez du moment et de la fréquence d’évaluation des progrès à l’aide de ces méthodes.
+Data box yang bertanggung jawab:Rencanakan untuk menggunakan data dengan bertanggung jawab
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
-	<h5 style="color:white">Encadré sur les données responsables: Planifier une utilisation responsable des données. </h5>
-	<p style="color:white">L’immense majorité des projets impliquent de gérer des données d’une manière ou d’une autre, parfois simplement en envoyant des emails ou en utilisant des tableurs. Une gestion négligente des données peut présenter des risques pour votre organisation ou les personnes avec qui vous collaborez. Des fuites de données peuvent mener à la violence, l’ouverture des données peut bénéficier aux spéculateurs fonciers, et le matériel informatique peut être localisé pour traquer les activistes. Il est essentiel d’intégrer une évaluation des risques à la planification d’un projet pour être prêt à gérer les imprévus.</p>
+	<h5 style="color:white">Data box yang bertanggung jawab: Rencanakan untuk menggunakan data dengan bertanggung jawab</h5>
+	<p style="color:white">Hampir semua proyek melibatkan pekerjaan yang terkait data, bahkan seperti mengirim email atau menggunakan spreadsheet. Jika gagal mengelola data dengan hati-hati maka akan berisiko terhadap organisasi Anda dan orang-orang yang bekerja sama dengan Anda.Kebocoran data dapat mengarah kepada tindak kekerasan, open data mungkin dapat membantu para spekulator tanah, dan hardware mungkin saja dilacak dengan tujuan menyasar para aktivis. Penilaian risiko adalah bagian penting dari rencana proyek yang membantu Anda menghadapi hal-hal yang tak diduga.
+</p>
 	<ul style="color:white">
-		<li>Identifiez tout d’abord des événements ou des acteurs (individus ou organisations) qui pourraient faire obstacle à la réalisation des objectifs du projet. Envisagez d’y inclure <a href="https://securityinabox.org" style="color:white">la sécurité numérique</a>, <a href="https://responsibledata.io" style="color:white">et d’identifier l’impact que pourrait avoir la collecte de données sur l’équilibre des pouvoirs au niveau local,</a> ou comment les données pourraient être réutilisées par d’autres acteurs.</li>
-		<li>Formulez par écrit les réponses à ces trois questions : Quelle est la probabilité de chaque événement ? Quelle est la gravité des impacts qu’ils pourraient avoir sur le projet ? </li>
-		<li>Donnez la priorité aux événements les plus probables et à ceux qui auraient les impacts les plus graves. </li>
-		<li>Définissez les étapes pratiques à suivre : Comment rendre ces événements moins probables ? Pouvez-vous limiter le préjudice qu’ils causeraient ? Quel est votre plan de secours ? </li>
+		<li>Mulailah dengan mengidentifikasi serangkaian kejadian dan aktor (orang atau organisasi) yang bisa menghambat proyek dari mencapai sasarannya. Pertimbangkan untuk memasukkan risiko keamanan digital, dan pikirkan juga tentang bagaimana data mungkin berdampak pada hubungan kekuatan lokal, atau bagaimana data dapat digunakan ulang oleh pihak lain (lihat <a style="color:white" href="https://securityinabox.org/"">https://securityinabox.org/</a> dan <a style="color:white" href="https://responsibledata.io">https://responsibledata.io</a> untuk contoh-contoh risiko).</li>
+		<li>Tuliskan jawaban untuk pertanyaan berikut ini:Seberapa sering setiap kejadian ini dapat terjadi? Seberapa serius dampak mereka terhadap proyek?</li>
+		<li>Prioritaskan kejadian yang paling mungkin terjadi dan yang paling serius.</li>
+		<li>Buatlah satu set langkah-langkah praktis: apa yang dapat Anda lakukan agar kemungkinan kejadian berkurang? Dapatkah Anda membatasi kerusakan jika hal tersebut terjadi? Apa rencana cadangan Anda?</li>
 	</ul>
-	<p style="color:white"><b>Vous préparer au pire.</b> Même si la planification est parfaite, des urgences peuvent survenir. Y remédier peut nécessiter des ressources additionnelles, comme un soutien externe, des fonds médicaux d’urgence, un appui juridique, une augmentation du budget de sécurité, ou des frais de remplacement des outils. <a href="https://digitaldefenders.org/digitalfirstaid" style="color:white">Le kit de premier secours de Digital Defenders </a> fournit des conseils simples pour la gestion des urgences, et une liste d’organisations à contacter en cas de besoin.</p>
+	<p style="color:white"><b>Bersiap untuk yang terburuk.</b> Bahkan pada rencana yang terbaik sekalipun, keadaan darurat bisa terjadi.Untuk meresponnya mungkin memerlukan sumber daya mulai dari bantuan advokasi eksternal hingga dana medis darurat, bantuan hukum, peningkatan dana keamanan, atau biaya penggantian alat.  Digital Defenders’ Digital First Aid Kit memberikan beberapa saran sederhana dalam mengatasi keadaan darurat, dan menyarankan organisasi untuk menghubungi jika membutuhkan bantuan lebih lanjut: <a style="color:white" href="https://digitaldefenders.org/digitalfirstaid">https://digitaldefenders.org/digitalfirstaid</a> </p>
 </blockquote>
 
-##### Budgétisez vos besoins
+#### Anggarkan kebutuhan Anda
+Bersikap realistis: jangan menyepelekan biaya. Tanyakan organisasi lain berapa yang mereka habiskan untuk proyek yang sama, dan ingatlah biaya tak terduga akan selalu ada.
 
-Soyez réalistes : ne sous estimez pas les coûts. Demandez à d’autres organisations ce qu’elles dépensent pour des projets similaires, et gardez en tête qu’il y aura toujours des dépenses inattendues.
+##### Pelatihan
 
-##### Formation
+Pelatihan mungkin mengambil porsi terbesar dari anggaran: pastikan dananya cukup agar orang-orang bisa memperoleh keahlian yang mereka perlukan. Hal lain yang harus dipikirkan adalah:
 
-La formation peut représenter une portion significative du budget : assurez-vous de fournir les fonds nécessaires à l’acquisition des compétences. Les choses suivantes doivent aussi être prises en compte :
+- Apakah staff Anda memiliki keahlian yang tepat, atau apakah perlu ada orang luar untuk bekerja bersama mereka?
+- Jangan bergantung hanya pada satu 'pakar' yang memiliki keahlian yang paling utama di bidang tersebut – bagaimana jika mereka pergi?
+- Apa yang perlu diketahui oleh staff teknis mengenai masyarakat yang bekerja bersama Anda (misalnya, ketika merencanakan alat-alat teknis?
+- Apakah staff memerlukan pelatihan tentang keamanan?
 
-* Votre personnel dispose-t-il des compétences adéquates ou devez-vous demander le soutien de personnes extérieures ?
-Ne dépendez pas d’un seul spécialiste qui a des compétences essentielles dans un domaine – que se passera-t-il s’il part ?
-* De quelles informations le personnel technique a-t-il besoin au sujet des communautés avec lesquelles vous travaillez ? (par exemple, pour l’élaboration d’outils techniques ?)
-* Votre personnel a-t-il besoin d’une formation aux questions de sécurité ?
+##### Biaya teknologi
 
-##### Coûts technologiques
+Selalu masukkan user development, testing, perawatan dan dukungan bantuan. Berapa biaya untuk penggunaan atau penggantian teknologi dalam satu tahun?Lima tahun? Jika Anda mengumpulkan informasi sensitif, apakah software sudah diaudit secara independen guna memeriksa adanya kekurangan? Semua ini membutuhkan biaya, dan jika Anda tidak memikirkannya sekarang, ini dapat menjadi kejutan yang tidak menyenangkan nantinya.
 
-Intégrez toujours les coûts de développement par les utilisateurs, de test, de maintenance et de support. Combien vous coûtera le remplacement de la technologie au bout d’un an ? Cinq ans ? Si vous collectez des informations sensibles, votre logiciel a-t-il été contôlé par un expert indépendant pour l’absence de failles ? Tout ceci coûte de l’argent. Mais si vous n’y pensez pas tout de suite, vous pourriez avoir des surprises désagréables plus tard.
+### Kumpulkan datanya
 
-### Se procurer les données
+**Setiap potongan informasi yang Anda kumpulkan selama proyek adalah ‘data.’** Lihat lagi tujuan proyek Anda dan buatlah daftar apa yang mungkin tersedia (dari peta hingga respon survey, foto atau wawancara). Pilih data yang membantu Anda mencapai tujuan.
 
-**Toute information collectée dans le cadre d’un projet constitue une donnée.** Référez-vous aux objectifs de votre projet pour identifier les données disponibles, sous quelque forme que ce soit (cartes, réponses à des enquêtes, photos ou entretiens). Sélectionnez les données qui contribuent à la réalisation de vos objectifs.
+#### Dimana Anda bisa mengumpulkan data?
 
-#### Où trouver les données ?
+Jika sudah tersedia data yang bagus, jangan habiskan waktu dan uang untuk mengumpulkannya lagi. Berpikir kreatif: apakah datasets internasional sudah memasukkan negara Anda? Apakah ada organisasi lain yang telah membuat database untuk isu yang sama? Anda dapat menemukan datasets di daftar tempat penyimpanan data [Open Access Directory](http://oad.simmons.edu/oadwiki/Data_repositories), [Data Portals](http://dataportals.org/) apa Open Knowledge Foundation [DataHub](http://datahub.io/about). Jika Anda tidak bisa mengakses data peta tentang suatu topik, bisakah Anda menggunakan informasi yang telah dipublikasikan oleh perusahaan tersebut? Misalnya, Environmental Justice Atlas adalah peta dunia tentang konflik lingkungan ([https://ejatlas.org/](https://ejatlas.org/)), sementara proyek GDELT memberikan data gratis tentang laporan media mengenai protes dan konflik ([http://www.gdeltproject.org/](http://www.gdeltproject.org/)). Jika data telah terkumpulkan namun tidak tersedia untuk publik, cek apakah undang-undang Kebebasan Informasi bisa digunakan untuk mendorong pemerintah mempublikasikannya. The Data Journalism Handbook memberikan informasi bagaimana membuat Pengajuan Kebebasan Informasi: [http://datajournalismhandbook.org/1.0/en/getting_data_1.html](http://datajournalismhandbook.org/1.0/en/getting_data_1.html). Di Brasil, Anda dapat menggunakan website Queremos Saber untuk mengajukan permintaan: [http://queremossaber.org.br/](http://queremossaber.org.br/)
 
-Si de bonnes données sont disponibles, ne gaspillez pas votre temps et votre argent à les recueillir à nouveau. Soyez créatifs dans vos réflexions : les fichiers internationaux de données  couvrent-ils votre pays ? Une base de données sur la même question a-t-elle déjà été créée par une autre organisation ? Vous trouverez les fichiers accessibles au public dans le référentiel de données du Open Access Directory http://oad.simmons.edu/oadwiki/Data_repositories, de Data Portals (http://dataportals.org/) ou sur le site DataHub de la Fondation Open Knowledge : http://datahub.io/about. Si vous n’avez pas accès à des données cartographiques dans un domaine, pouvez-vous utiliser à leur place des informations publiées par une entreprise ?  Par exemple, l’Atlas de la justice environnementale fournit une carte du monde des conflits environnementaux (https://ejatlas.org/), et le projet GDELT fournit des données gratuites sur les articles et reportages de presse au sujet des contestations et des conflits (http://www.gdeltproject.org/).
+> ##### Studi kasus: berbagi data dari sumber yang berbeda
+> Situs berita Indonesia, Ekuatorial, membuat peta interaktif dan menyajikannya bersama artikel mengenai isu-isu lingkungan yang ditulis oleh mitra penerbitan. Peta tersebut mengombinasikan data geo-referenced dari Global Forest Watch tentang konsesi perkebunan kelapa sawit dan kehutanan; informasi yang dikumpulkan oleh Kementerian Kehutanan Indonesia, serangkaian data internasional seperti data global tentang daerah yang dilindungi (World Database on Protected Areas), dan informasi yang dikirimkan oleh sukarelawan dari Humanitarian OpenStreetMap. Untuk membuat peta, Ekuatorial merekrut kartografer profesional, yang menggunakan CARTO dan MapBox untuk membuat peta dan kemudian langsung mempublikasikannya melalui JEO (lihat bagian Pemetaan Online di bawah).
+>
+> **Bagaimana hal ini dapat membantu?**
+>
+> - [Ekuatorial](http://ekuatorial.com/) mengijinkan organisasi lain mempublikasi ulang petanya di website mereka masing-masing dengan menggunakan fungsi berbagi peta ‘share this map’ yang mudah digunakan.
+> - Data mentah yang telah dikumpulkan juga bermanfaat bagi organisasi lain di Indonesia karena diperbarui secara berkala, dan dapat diunduh gratis.
 
- Si des données collectées ne sont pas accessibles au public, vérifiez si la législation sur la liberté d’information peut inciter les gouvernements à les publier. Le Guide du datajournalisme contient des informations sur la manière de solliciter la publication d’informations: http://datajournalismhandbook.org/1.0/en/getting_data_1.html. Au Brésil, le site Queremos Saber peut vous aider à soumettre des demandes : http://queremossaber.org.br/
+#### Buatlah standar untuk data Anda
 
-<blockquote>
-	<h5>Cas d’étude: partager des données de sources différentes.</h5>
-	<p>Le site d’informations indonésien <a href="http://ekuatorial.com">Ekuatorial</a> fournit des cartes interactives accompagnées d’articles sur des questions environnementales rédigés par des publications partenaires. Les cartes combinent des données géoréférencées du Global Forest Watch sur les plantations d’huile de palme et les concessions forestières, des informations recueillies par le ministère indonésien de la Forêt, des fichiers de données internationaux comme la Base de données mondiale sur les aires protégées, et les informations entrées par les bénévoles sur l’Humanitarian OpenStreetMap. Pour réaliser les cartes, Ekuatorial a fait appel à des cartographes professionnels qui ont utilisé CartoDB et MapBox pour élaborer les cartes avant de les publier directement sur JEO (voir la section sur la <a href="/rainforest-tech-online-maps">Cartographie en ligne</a> ci-dessous).</p>
-	<p><b>Quelle en est l’utilité ? </b></p>
-	<p>Ekuatorial autorise d’autres organisations à publier ses cartes sur leurs propres sites grâce à la fonction « partagez cette carte » facile d’utilisation. Les données brutes sont aussi utiles à d’autres organisations indonésiennes car elles sont régulièrement mises à jour et peuvent être téléchargées <a href="http://ekuatorial.com">gratuitement.</a>.</p>
-</blockquote>
+Sebelum memulai, periksa ulang bahwa metode Anda akan memberikan data yang memang dapat dipergunakan. Mengumpulkan jenis data yang salah bisa membuatnya jadi mahal dan menghabiskan banyak waktu. **Data ‘kualitatif’** seperti teks wawancara dengan masyarakat hutan sangat kuat untuk advokasi, namun **data ‘kuantitatif’** yang bisa dihitung lebih mudah untuk dianalisa, lebih mudah dikelola dalam jumlah besar dan lebih simpel dibandingkan sumber lain.
 
-#### Fixez des normes pour vos données  
+Buat kategori data, untuk membantu Anda mengelola dan menganalisanya nanti. Luangkan waktu untuk memutuskan kategori yang Anda perlukan, dan uji terlebih dulu guna memastikan semua data akan sesuai dengan kategorinya (nanti akan menghabiskan banyak waktu jika harus mengkategori ulang di tengah jalan).
 
-Avant de commencer, vérifiez bien que vos méthodes vous fourniront des données que vous pourrez effectivement exploiter. Recueillir le mauvais type de données peut vous faire perdre de l’argent et du temps. Les données « qualitatives » comme les transcriptions d’entretiens avec les communautés forestières peuvent être très utiles au plaidoyer, mais des données « quantitatives » qui peuvent être comptées seront plus faciles à analyser et à gérer en grand nombre, et simples à comparer avec d’autres sources.
+##### Pilih format tepat
 
-Créez des catégories de données, elles vous aideront à les organiser et à les analyser par la suite. Prenez le temps d’identifier les catégories dont vous aurez besoin, et testez-les pour vous assurer qu’elles contiennent l’ensemble de vos données (changer de catégories en cours de projet vous fera perdre beaucoup de temps).
+Kumpulkan data dalam format yang dapat dibaca dan diproses secara otomatis oleh program komputer. Hindari format yang hanya dapat dibaca oleh software dari perusahaan tertentu (seperti Microsoft), yang mungkin tidak akan dapat dibaca jika perusahaan tersebut berhenti membuat software.
 
-##### Choisissez le bon format
+Pertimbangkan untuk mencatat dan mempublikasikannya sebagai Open Data, yang artinya dapat  digunakan dengan bebas, dipergunakan kembali atau didistribusikan kembali oleh siapa saja. Hal ini melibatkan dua hal: memilih format yang sesuai (daftarnya ada di sini) dan melisensikannya sehingga dapat dipergunakan kembali.Ada banyak manfaat dengan mempublikasikan seperti ini: menunjukkan bahwa organisasi Anda transparan dengan data yang dikumpulkan; dan organisasi lain dapat menggunakan data Anda untuk membantu kerja mereka. [The Open Data Handbook](http://opendatahandbook.org) memiliki banyak informasi yang berguna tentang ini, termasuk satu set format open file yang dapat Anda gunakan untuk mempublikasikan data secara terbuka. Situs Open Knowledge dari Open Data Commons memiliki panduan 2-menit untuk membuka lisensi: [http://opendatacommons.org/guide/](http://opendatacommons.org/guide/)
 
-Collectez vos données dans un format que les programmes informatiques pourront lire et traiter automatiquement. Evitez d’utiliser des formats qui ne peuvent être lus que par un logiciel d’une entreprise particulière (comme Microsoft), et qui pourraient devenir indéchiffrables quand l’entreprise cessera de le produire.
+##### Pahami dimana Anda bisa membandingkan data – dan tidak bisa
 
-Envisagez d’enregistrer et de publier vos données comme « données ouvertes », ce qui signifie qu’elles pourront être librement utilisées, réutilisées et redistribuées par tous. Pour ce faire, il est nécessaire d’adopter un format adéquat (vous en trouverez une liste [ici](http://opendatahandbook.org)) et d’en autoriser la [réutilisation](http://opendatacommons.org/guide/) à l’aide d’une licence. Cette démarche apporte de nombreux avantages : elle prouve que votre organisation applique la transparence dans la collecte de données, et d’autres organisations pourraient utiliser vos données à l’appui de leurs travaux.
+Penggabungkan sumber data yang berbeda dapat mengungkap sebuah informasi baru dan menyajikan pesan yang sangat kuat untuk kegiatan kampanye. Misalnya, Anda bisa menggabungkan foto udara yang dikumpulkan melalui fotografi satelit-yang dilakukan sendiri dan data pemetaan partisipatif. Namun periksa dengan seksama sumber data ini. Apakah mereka dapat dibandingkan?Apakah kedua sumber mencakup wilayah geografis yang sama, dan apakah kualitas datanya cukup konsisten? Jika data yang tepat tidak tersedia, pikirkan bagaimana Anda dapat mengubah cara pengumpulan data sehingga hasilnya tepat sesuai dengan data yang sudah ada.
 
-##### Comprendre comment comparer des données, et quand c’est impossible
+> ##### Studi kasus:Menggabungkan jenis informasi yang berbeda
+>
+> [Organización Regional AIDESEP Ucayali (ORAU)](http://www. oraucom.pe/inicio/index.php) telah membuat sebuah sistem monitoring yang dirancang untuk mendokumentasikan keberadaan masyarakat adat yang hidup terisolir secara sukarela (IPVI) dan ancaman-ancaman terhadap lingkungan di Peru.
+>
+> **Bagaimana hal ini dapat membantu?**
+>
+> - Foto bukti-bukti, data GPS dan informasi lain disimpan dan disistematisasi di database digital.
+> - Digabungkan dengan informasi serupa dari organisasi masyarakat adat lain, sistem ini membuat pemerintah Peru tidak bisa lagi membantah keberadaan IPVI.
+> - Saat ini pihak berwenang lebih kooperatif pada ORAU dalam menangani kasus-kasus yang melibatkan IPVI dan mengembangkan kebijakan yang berhubungan dengan teritorial IPVI, dan telah mengalokasikan dana untuk tujuan tersebut.
 
-La combinaison de différentes sources de données peut mettre à jour des informations complètement nouvelles et servir de base solide aux messages des campagnes. Par exemple, il est possible de combiner des photographies aériennes collectées à l’aide d’images satellites DIY avec des données issues de la cartographie participative. Mais il convient d’examiner attentivement ces sources. Peuvent-elles être comparées ? Couvrent-elles la même zone géographique, et sont-elles suffisamment uniformes ? Si les données voulues ne sont pas disponibles, pensez à changer la manière dont vous recueillez les informations pour qu’elles puissent mieux compléter les données déjà existantes.
+##### Kadang pilihan yang paling simpel adalah yang terbaik
 
-<blockquote>
-	<h5>Cas d’étude: Combiner différents types d’informations. </h5>
-	<p> <a href="http://www.orau.com.pe/inicio/index.php"> L’Organización Regional AIDESEP Ucayali (ORAU)</a> a mis en place un système de surveillance permettant de recenser les peuples autochtones volontairement isolés (IPVI pour l’acronyme anglais) et les menaces environnementales au Pérou.</p>
-	<p><b>Quelle en est l’utilité ? </b></p>
-	<ul>
-		<li>Des preuves photographiques, des données GPS et d’autres informations sont sauvegardées et systémisées dans une base de données numérique.</li>
-		<li>Combinées avec des informations similaires provenant d’autres organisations de peuples autochtones, elles ont obligé l’état péruvien à cesser de nier l’existence des IPVI.</li>
-		<li>Les autorités coopèrent à présent davantage avec ORAU sur des problématiques impliquant les IPVI et pour le développement des politiques liées aux territoires des IPVI, et ont consacré des fonds à ces fins. </li>
-	</ul>
-</blockquote>
+Jangan habiskan uang untuk teknologi kecuali jika Anda yakin itu perlu. Misalnya, jika Anda perlu mengumpulkan data  dari sejumlah kecil orang di daerah yang dapat dijangkau, mungkin lebih murah dan mudah jika dilakukan dengan menggunakan kertas ketimbang menggunakan teknologi yang khusus.
 
-##### L’option la plus simple est parfois la meilleure  
+#### Pertimbangan praktis saat bekerja dengan data dan hutan hujan
 
-N’investissez pas dans la technologie si vous n’êtes pas certains d’en avoir besoin. Par exemple, si vous collectez des données auprès d’un groupe restreint de personnes vivant dans une zone accessible, il peut être moins coûteux et plus simple d’utiliser du papier que des solutions technologiques spécifiques.
+**Listrik:** Pasokan listrik yang tidak stabil dapat merusak data: jika bisa, gunakan _uninterrupted power supply_ (UPS) dan pelindung arus listrik, atau _external hard drives_ yang menggunakan batere.Ada batere telepon seluler yang tahan lebih lama dari yang lain - tes dengan seksama sebelum penggunaan.
 
-#### Considérations pratiques pour l’exploitation de données dans la forêt tropicale
+**Konektivitas:** Pikirkan baik-baik sebelum bergantung pada jaringan komunikasi. Jika tidak tersedia mobile internet, pilih alat yang menggunakan jaringan telepon seluler reguler (GPRS); jika jaringan telepon tidak tersedia, jangan gunakan telepon. Selalu siap dengan rencana cadangan jika jaringan mati.
 
-**Electricité :** une alimentation électrique instable peut corrompre les données : utilisez si possible une alimentation sans interruption (ASI) et des dispositifs de protection des surtensions, ou des disques durs externes sur batteries. Certaines batteries de téléphone mobile ont une durée de charge plus grande que d’autres – testez-les rigoureusement avant de les utiliser.
-
-**Connectivité :** Réfléchissez bien avant de vous fier aux réseaux de communication. Si l’internet mobile n’est pas disponible, choisissez des outils qui utilisent les réseaux de téléphonie mobile ordinaires (GPRS) ; si aucun réseau n’est disponible, n’utilisez pas de téléphones. Ayez toujours un dispositif de secours en cas de panne de réseau.
-
-**Connection internet :** Be realistic about what you can achieve with a weak internet connection – it will slow progress and increase costs. Consider modifying project websites to work in low bandwidth or choose tools that work offline. [Aptivate](http://www.aptivate.org/webguidelines/Home.html) has a guide to designing websites that work better in poor internet connections, and [Engage Media](http://www.engagemedia.org/help/how-to-compress-video) provides advice on compressing files that work better in low-bandwidth areas.
+**Koneksi Internet:** Bersikap realistis tentang apa yang bisa Anda capai dengan koneksi internet yang lemah – ini bisa memperlambat kemajuan dan menambah biaya. Pertimbangkan memodifikasi website proyek untuk bandwidth rendah atau pilih alat yang bisa bekerja offline. Aptivate memiliki panduan untuk mendisain websites yang bisa berfungsi dengan baik pada koneksi internet yang lemah: [http://www.aptivate.org/webguidelines/Home.html](http://www.aptivate.org/webguidelines/Home.html); Engage Media memberikan saran meng-kompres file untuk daerah dengan bandwidth yang rendah: [http://www.engagemedia.org/help/how-to-compress-video](http://www.engagemedia.org/help/how-to-compress-video)
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
-	<p style="color:white"><b>Ne dépendez pas d’une société de stockage de données en ligne.</b> Des millions de photos hébergées par le service <a href="http://www.dailydot.com/technology/twitpic-twitter-acquisition/" style="color:white">Twitpic</a> ont failli être effacées en 2014 quand l’entreprise a cessé ses activités . En 2011, ce sont des milliers de vidéos hébergées sur le site sud africain MyVideo qui ont été <a href="http://www.archiveteam.org/index.php?title=Deathwatch" style="color:white">perdues,</a>  le site n’ayant pas de système de sauvegarde et la maintenance des serveurs n’ayant pas été <a href="http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf" style="color:white">correctement effectuée</a></p>
-</blockquote>
+	<p style="color:white"><b>Jangan hanya bergantung pada satu perusahaan untuk menyimpan data online</b> Anda Misalnya, jutaan foto yang disimpan di layanan <a href="http://www.dailydot.com/technology/twitpic-twitter-acquisition/" style="color:white">Twitpic</a> berisiko terhapus di tahun 2014 ketika perusahaan tutup, sementara tahun 2011, ribuan video yang tersimpan di situs <a style="color:white" href="http://www.archiveteam.org/index.php?title=Deathwatch">MyVideo</a> di Afrika Selatan hilang karena layanannya tidak memiliki back-up yang memadai dan servernya tidak dipelihara dengan baik (<a style="color:white" href="http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf">http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf</a>).</p>
+  </blockquote>
 
-**Stockage des données :** Les outils de stockage physiques comme les DVD ou les clés à mémoire flash peuvent moisir ou accumuler de la poussière : gardez-les dans des sacs en plastique hermétiques et étanches. Ne stockez pas toutes vos données au même endroit : faites des sauvegardes sur différents sites.
+**Penyimpanan data:** Penyimpanan dalam bentuk fisik seperti DVD dan _flash memory drives_ bisa berjamur atau dalamnya berdebu: simpan di tempat kedap udara, plastik tahan-air. Jangan hanya bergantung pada satu tempat penyimpanan: back up data Anda di beberapa tempat.
 
-#### Préparation
+#### Persiapan
 
-Commencez par **élaborer une méthodologie* (une explication de la manière de collecter et d’analyser les données). Faites vérifier la qualité de votre méthodologie par des experts, et donnez-en une explication claire lorsque vous publiez vos résultats. Soyez prêts à expliquer votre méthodologie ou à l’utiliser pour défendre la qualité de vos travaux. Référez-vous par [exemple](http://maaproject.org/about-maap/) à [Open Development Cambodia](http://www.opendevelopmentcambodia.net/briefings/forest-cover/) (pour une méthodologie simple) et à [Land Matrix](http://landmatrix.org/en/about/) (pour une méthodologie plus détaillée).
+Mulai dengan, **membuat satu metodologi** (sebuah penjelasan tentang bagaimana Anda mengumpulkan dan menganalisa data). Cek dengan pakar untuk mengetahui apakah metodologi Anda sudah kuat, dan sajikan dengan jelas setiap kali Anda mempublikasikan hasil-hasil. Bersiaplah untuk menjelaskan metodologi yang Anda terapkan atau manfaatkan hal itu untuk mempertahankan kredibilitas kerja Anda. Misalnya, lihat [Open Development Cambodia](http://www.opendevelopmentcambodia.net/briefings/forest-cover/) (untuk metodologi yang simpel) dan [Land Matrix](http://landmatrix.org/en/about/) (untuk yang lebih detail).
 
-<blockquote>
-	<h5>Cas d’étude : être reconnu pour la qualité de ses preuves.</h5>
-	<p><a href="https://www.facebook.com/brimassarawak">L’Institut des ressources de Borneo (Brimas)</a> apprend à des communautés de Sarawak (Malaisie) à cartographier leurs communautés à l’aide d’outils GPS, en délimitant les territoires autochtones, les utilisations des terres et les zones contenant des ressources naturelles. Le gouvernement et les entreprises privées ont tout d’abord nié la base de connaissances du Brimas. Les tribunaux ont cependant reconnu la qualité des données recueillies dans des affaires visant à prouver les droits de propriété des peuples autochtones, et leur ont donné une réputation d’exactitue. Le Département des terres et du cadastre malaisien utilise à présent les cartes du Brimas pour valider ses propres produits.</p>
-</blockquote>
+> ##### Studi kasus:Mendapatkan pengakuan atas kualitas fakta-fakta Anda
+>
+> Borneo Resources Institute (Brimas) melatih masyarakat di Sarawak (Malaysia) untuk memetakan komunitas mereka sendiri dengan menggunakan GPS, membuat plot teritorial adat, pemanfaatan lahan dan wilayah-wilayah yang memiliki sumber daya alam. Pemerintah dan perusahaan swasta pada awalnya menolak Brimas karena dianggap tidak memiliki pengetahuan yang cukup. Namun, putusan pengadilan mengakui kualitas data yang dikumpulkan sepanjang perkara untuk membuktikan kepemilikan lahan adat, yang menaikkan reputasi Brimas dalam hal akurasi. Saat ini Jabatan Tanah dan Ukur di Malaysia menggunakan peta Brimas untuk memvalidasi produk-produk mereka.
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
-	<h5 style="color:white">Encadré sur les données responsables : Quand <b>ne pas</b> collecter d’informations</h5>
-	<p style="color:white">Afin de réduire les risques, collectez uniquement le nombre minimum de données dont vous avez besoin pour réaliser votre projet. (see <a href="http://forestcompass.org/how/resources/data-sharing-community-based-forest-monitoring-lessons-guyana" style="color:white">this example</a>). Référez-vous à votre évaluation des risques (voir <a href="#planning" style="color:white">la Section planification</a>) et collectez les données sensibles de manière sécurisée<a href="https://responsibledata.io/resources/handbook/chapters/chapter-02a-getting-data.html" style="color:white">(1)</a> <a href="https://www.accessnow.org/help" style="color:white">(2)</a> si nécessaire.</p>
-	<p style="color:white"><b>Consentement éclairé</b></p>
-	<p style="color:white">Quand vous collectez des données sur un individu, vous détenez des informations qui lui sont personnelles. C’est la personne qui fournit les données – et non votre organisation – qui doit décider de la manière dont ces informations seront utilisées. Elaborez un processus à suivre pour collecter des données personnelles qui contient les étapes suivantes :</p>
+	<h5 style="color:white">Data box yang bertanggung jawab:Kenali kapan tidak mengumpulkan data</h5>
+	<p style="color:white">Untuk mengurangi risiko, kumpulkan saja data minimal yang Anda perlukan untuk menjalankan proyek. Ingat kembali penilaian risiko Anda (lihat bagian Perencanaan) dan jika perlu kumpulkan data sensitif dengan cara yang paling aman.</p>
+	<p style="color:white"><b>Persetujuan awal</b></p>
+	<p style="color:white">Ketika Anda mengumpulkan data tentang individu, jaga informasi pribadi mereka.Terserah pada pihak yang memberikan data – bukan pada Anda atau organisasi Anda – untuk memutuskan bagaimana informasi tersebut sebaiknya digunakan. Buatlah sebuah proses untuk diikuti setiap kali Anda mengumpulkan data dari masyarakat dan memasukkan langkah-langkah berikut:</p>
 	<ul style="color:white">
-		<li>Expliquez comment les données que vous collectez seront utilisées, publiées et stockées</li>
-		<li>Abordez tous les risques avec la personne, et demandez-lui si elle a d’autres inquiétudes</li>
-		<li>Si la personne accepte tout de même de participer, recueillez une déclaration de son consentement (par la signature d’un document ou l’enregistrement d’une déclaration orale). </li>
-		<li><a href="https://wiki.responsibledata.io/Framework_for_consent_policies" style="color:white">Autorisez</a> les personnes à changer d’avis sur le stockage et l’utilisation de leurs données par la suite.</li>
+		<li>Jelaskan bagaimana data yang Anda kumpulkan akan digunakan, dipublikasikan dan disimpan.</li>
+		<li>Diskusikan setiap risiko dengan masyarakat, dan cek apakah mereka memiliki kekhawatiran tambahan. </li>
+		<li>Jika mereka memutuskan dengan senang hati berpartisipasi, dokumentasikan pernyataan mereka yang menyetujui hal ini (baik dengan menandatangani dokumen atau merekam pernyataan lisan).</li>
+		<li>Ijinkan masyarakat mengubah keputusan mereka mengenai bagaimana data disimpan atau digunakan ke depan. Responsible Data Forum memiliki daftar langkah-langkah untuk membuat kebijakan Persetujuan Awal <a style="color:white" href="https://wiki.responsibledata.io/Framework_for_consent_policies">https://wiki.responsibledata.io/Framework_for_consent_policies</a></li>
 	</ul>
 </blockquote>
 
-#### Sollicitez des retours d’information
+#### Minta umpan balik
 
-N’attendez pas la fin du projet pour savoir si tout se déroule bien : demandez à intervalles réguliers et ajustez vos activités en fonction des réponses. Vous pouvez [recueillir](https://www.theengineroom.org/diy-for-me/) ces retours d’information par le biais de questionnaires, de réunions physiques ou [td’autres méthodes ](http://feedbacklabs.org/toolkit/) comme l’analyse des discussions en ligne.
+Jangan tunggu hingga akhir proyek untuk mengetahui seberapa baik proyek berjalan: tanyakan secara teratur, dan sesuaikan kegiatan Anda. Anda dapat mengumpulkan informasi ini menggunakan metode seperti survei, pertemuan tatap-muka dan menelusuri langkah-langkah lain seperti interaksi online. The Engine Room memiliki panduan untuk melakukan monitoring dan evaluasi proyek: [https://www.theengineroom.org/diy-for-me/](https://www.theengineroom.org/diy-for-me/). Toolkit Feedback Labs memiliki lebih banyak sumber dan alat untuk membantu Anda mengumpulkan informasi ([http://feedbacklabs.org/toolkit/](http://feedbacklabs.org/toolkit/))
 
-### Gestion des données
+### Kelola data
 
-Avant de commencer à collecter des informations, planifiez des catégories pour une meilleure classification des données. Elles vous aideront à observer les tendances et les lacunes – vous pourrez en changer plus trad. (see [Use the Data](#usethedata) for more on how to do this).
+Sebelum Anda mulai mengumpulkan informasi, rencanakan beberapa kategori untuk membantu mengelola data. Ini akan membantu Anda mengetahui tren dan area-area yang masih kurang - Anda dapat merevisi kategorinya nanti.
 
-#### Contrôlez la qualité de vos données dès le départ
+#### Kontrol kualitas data Anda sedini mungkin
 
-N’attendez pas d’avoir collecté toutes les données avant de contrôler leur qualité : vérifiez ces facteurs avant de commencer.
+Jangan tunggu hingga Anda selesai mengumpulkan data baru memeriksanya: cek faktor-faktor ini sebelum memulai.
 
-##### Adoptez des formats uniformes
+##### Buat format yang konsisten
 
-Définissez un système, un format et des catégories clairs pour la collecte d’informations. Vous gagnerez ainsi du temps pour les analyser plus tard : par exemple, utiliser le même format de datation pour l’ensemble des données (plutôt que « 12 mars 2015 » pour certaines et « 12/03/15 » pour d’autres). Vérifiez bien que toutes les personnes qui entrent des données comprennent le système.
+Buatlah sistem, format dan serangkaian kategori pengumpulan informasi yang didefinisikan dengan jelas. Ini bisa menghemat waktu saat nanti akan menyiapkan analisa: misalnya, catat tanggal dalam format yang sama (jangan campur-campur seperti ‘12-Maret-2015’ dan lainnya ‘12/03/15’). Periksa-ulang agar semua orang yang menginput data memahami sistem ini.
 
-##### Identifiez où des problèmes sont susceptibles d’apparaître
+##### Identifikasi di mana masalah kemungkinan sering terjadi
 
-Où les personnes utilisant la technologie peuvent-elles commettre des erreurs ? Une fois que vous avez identifié ces points, procédez à une nouvelle vérification des données ou prévoyez une formation complémentaire de vos collaborateurs. Des outils technologiques peuvent vous être utiles : vous pouvez par exemple envoyer un questionnaire en ligne avec des champs n’acceptant qu’un format de réponse spécifique.
+Pikirkan orang yang akan menggunakan teknologi: di mana mereka akan membuat kesalahan? Setelah Anda mengetahui di mana titik-titik tersebut, ajukan pemeriksaan data tahap kedua atau berikan pelatihan tambahan untuk staff. Alat teknologi yang dapat membantu: misalnya, Anda dapat memastikan beberapa field/bagian tertentu dalam survei online hanya menerima respon sesuai dengan format yang Anda tentukan.
 
-##### Assurez-vous que toutes vos données soient traitées de la même manière
+##### Pastikan semua data Anda melewati proses yang sama
 
-Faites en sorte que l’ensemble des données soient collectées de la même manière et analysées par le même logiciel – elles seront plus simples à comparer et analyser ainsi.
+Pastikan semua data dikumpulkan dengan menggunakan metode yang sama dan dianalisa dengan software yang sama - ini akan memudahkan perbandingan dan analisa.
 
-#### Rendre les données utilisables
+#### Menjadikan data tersebut berguna
 
-Voici les points principaux à prendre en considération lors de la préparation et de l’analyse des données. [Les cours de School of Data](http://schoolofdata.org/courses/#DataFundamentals) sur les principes fondamentaux de la gestion de données contiennent des informations plus détaillées sur toutes les sections ci-dessous.
+Berikut ini adalah hal utama yang harus Anda pikirkan ketika menyiapkan dan menganalisa data (Kursus School of Data’s ‘Data Fundamentals’ memiliki lebih banyak informasi tentang semua bagian di bawah: [http://schoolofdata.org/courses/#DataFundamentals](http://schoolofdata.org/courses/#DataFundamentals)).
 
-##### Préparation des données
+##### Persiapkan data Anda
 
-Vous aurez peut-être besoin de « nettoyer » les données (retirer toute erreur et corriger les fautes de frappes) et de les convertir dans un autre format. On appelle cette étape le remaniement des données (data wrangling en anglais), et elle peut prendre un temps considérable. Intégrez-la à votre budget.
+Anda mungkin perlu membersihkan data (membuang error/kesalahan secara manual atau memperbaiki kesalahan keyboard) dan menggantinya ke format lain. Tahap ini sering disebut ‘data wrangling’, dan mungkin menghabiskan banyak waktu. Masukkan hal ini dalam anggaran Anda.
 
-##### Le b.a. ba des statistiques  
+##### Pengantar Statistik
 
-Plusieurs techniques existent pour faire parler les données. L’augmentation d’un pourcentage constitue une des méthodes les plus simples. Des techniques plus complexes incluent les corrélations (« l’augmentation des coupes correspond à une augmentation similaire des inondations »). Si votre fichier de données est très complexe, les membres de votre équipe devront pouvoir comprendre l’analyse statistique afin d’en extraire des informations significatives et fiables. Si vous avez besoin d’expertise supplémentaire pour votre projet, songez à recruter un consultant ou à faire appel à une ONG offrant bénévolement de l’aide pour la gestion de données. Par exemple : [School of Data](http://schoolofdata.org), [DataKind](http://www.datakind.org), [DoingGood Fellows](http://www.doinggoodfellows.org), [Data Look](http://datalook.io).
+Ada banyak teknik untuk menemukan arti pada data. Ini termasuk metode langsung seperti kenaikan persentase dan teknik statistik yang lebih rumit seperti korelasi (“peningkatan penebangan dipadankan dengan peningkatan banjir”). Jika rangkaian datanya sangat rumit, orang-orang di tim Anda mungkin perlu memahami analisa statistik agar dapat menggali informasi yang lebih berarti dan kuat. Jika proyek Anda perlu keahlian tambahan, pertimbangkan untuk merekrut konsultan atau meminta pada LSM yang memberikan dukungan data tanpa meminta bayaran.  Misalnya: [School of Data](http://schoolofdata.org), [DataKind](http://www.datakind.org), [DoingGood](http://www.doinggoodfellows.org), [Data Look](http://datalook.io)
 
-##### Une présentation claire
+##### Menyajikan data dengan jelas
 
-Communiquer sur les constats tirés de l’analyse des données est un des aspects les plus importants d’un projet – si vous le faites correctement, vous retiendrez l’attention du public et l’encouragerez à agir. De nombreux outils sont disponibles gratuitement ou à un coût peu élevé pour vous aider à visualiser vos données – comme le projet [Visualising Advocacy](https://visualisingadvocacy.org/resources/visualisationtools) (visualiser le plaidoyer) de Tactical Technology qui fournit des exemples selon les besoins.
+Mengkomunikasikan apa yang ditunjukkan oleh data Anda adalah bagian terpenting dari sebuah proyek – jika Anda melakukannya dengan baik, Anda bisa menarik perhatian target Anda dan mendorong mereka untuk bertindak. Ada banyak alat gratis dan murah yang bisa membantu Anda membuat data visual - misalnya lihat proyek [Tactical Technology’s Visualising Advocacy](https://visualisingadvocacy.org/resources/visualisationtools) sesuai dengan kebutuhan Anda.
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
-	<h5 style="color:white">Encadré sur les données responsables : Prenez soin de vos données</h5>
+	<h5 style="color:white">Data box yang bertanggung jawab:Rawat data Anda</h5>
 		<br>
-	<p style="color:white"><b>HComment allez-vous conserver les données au sein de votre organisation?</b></p>
-	<p style="color:white">Si vous stockez des données sur un réseau de votre organisation, elles seront conservées sur un serveur (un ordinateur qui fournit des données à d’autre ordinateurs). Si votre serveur est physiquement situé dans vos locaux, investissez dans du personnel qualifié pour s’en occuper. Si vous payez un hébergement sur un serveur externe, vérifiez que votre fournisseur de service offre<a href="https://wiki.responsibledata.io/Newbie_guide_to_select_hosting" style="color:white">toutes les fonctions</a> dont vous aurez besoin et prend des mesures de sécurité adéquates.</p>
-	<p style="color:white"><b>Chiffrez/cryptez les données stockées physiquement</b></p>
-	<p style="color:white">Les données stockées physiquement sur les disques durs des ordinateurs ou sur des disques durs externes peuvent être cryptées/chiffrées à l’aide de logiciels comme TrueCrypt ou FileVault. (Ce procédé ne se substitue pas à l’adoption de mesures strictes de sécurité numérique. Si quelqu’un parvient à se procurer votre mot de passe, le chiffrement ne vous sera d’aucun secours).</p>
-	<p style="color:white"><b>Effacer ou archiver les données</b></p>
-	<p style="color:white">Il est préférable de ne pas conserver vos données au-delà de la période pendant laquelle vous les utiliserez. Même si elles ne sont pas en danger actuellement, il est difficile de prévoir ce que réserve l’avenir. Pour effacer des données d’un disque dur, il faut les écraser plusieurs fois. Cependant, si ces données ont une valeur culturelle ou historique à long terme, ou si elles pourraient servir de preuve à l’avenir, il serait souhaitable de les conserver. Pour ce faire, choisissez un format qui sera sûrement utilisable dans le futur. Vous pouvez faire appel à une société d’archivage pour la maintenance des <a href="https://responsibledata.io/resources/handbook/chapters/chapter-03-closing-a-project.html" style="color:white">systèmes d’archives.</a></p>
+	<p style="color:white"><b>Bagaimana Anda menyimpan data di dalam organisasi?</b></p>
+	<p style="color:white">Jika Anda menyimpan data di satu jaringan di organisasi Anda, data akan disimpan di sebuah server (sebuah komputer yang memberikan data ke komputer lain). Jika  memiliki server yang diletakkan di tempat Anda, anggarkan biaya untuk merekrut orang yang ahli merawatnya. Jika membayar untuk menyimpan data di server eksternal, cek apakah provider menawarkan semua fitur yang diperlukan dan memiliki langkah pengamanan yang baik. <a style="color:white" href="https://wiki.responsibledata.io/Newbie_guide_to_select_hosting">https://wiki.responsibledata.io/Newbie_guide_to_select_hosting</a>.</p>
+	<p style="color:white"><b>Enkripsi data yang disimpan secara fisik</b></p>
+	<p style="color:white">Data dapat disimpan secara fisik di hard drive komputer atau hard drive eksternal, yang bisa di-enkripsi dengan software seperti TrueCrypt atau FileVault. (Ini bukan pengganti dari langkah-langkah keamanan digital yang baik: jika seseorang bisa mengakses password Anda, maka enkripsi sama sekali tidak membantu.)</p>
+	<p style="color:white"><b>Menghapus atau mengarsip data</b></p>
+	<p style="color:white">Sebaiknya data disimpan hanya untuk periode saat Anda memerlukan sajaSekarang mungkin data sudah tak berisiko, tapi sulit mengetahui apa yang akan terjadi di masa depan. Untuk benar-benar menghapus data di hard disk, Anda harus menghapusnya berkali-kali. Namun, jika data memiliki nilai budaya atau historis yang abadi, atau mungkin berguna sebagai bukti di masa depan, Anda mungkin ingin menyimpannya. Pilih format yang mungkin bisa digunakan di masa depan, dan pertimbangkan untuk bermitra dengan suatu badan arsip yang akan mengurus sistem pengarsipan untuk Anda. Daftar organisasi yang bisa dihubungi ada di sini: <a style="color:white" href="http://the-engine-room.github.io/rdf-primer/closing-a-project/project-closure-what-happens-to-the-data.html">http://the-engine-room.github.io/rdf-primer/closing-a-project/project-closure-what-happens-to-the-data.html</a>.</p>
 </blockquote>
 
-##### Vérifiez les restrictions légales
+##### Cek batasan-batasan hukum
 
-Les dispositions juridiques relatives aux données varient selon les pays et le type de données détenues, mais elles peuvent concerner la protection, les droits de reproduction ou l’interdiction de techniques de chiffrage. Si vous vous retrouvez dans l’illégalité au milieu d’un projet, vous devrez peut-être payer une amende ou même cesser vos travaux. [Etudiez soigneusement cet aspect](https://responsibledata.io/resources/handbook/chapters/chapter-02-managing-data.html#what-types-of-laws-and-procedures-apply-to-your-data-project) et sollicitez des conseils juridiques en cas de doute.
+Isu-isu hukum akan beragam tergantung pada negara Anda dan jenis data yang Anda miliki, bisa termasuk proteksi data, isu-isu hak cipta dan bahkan pelarangan teknologi enkripsi. Jika Anda tahu telah melanggar hukum di tengah jalannya proyek, Anda mungkin harus membayar denda atau bahkan menghentikan kegiatan. Perhatikan hal ini dengan seksama, dan mintalah nasihat hukum jika Anda tidak yakin. Untuk informasi lebih banyak lihat Responsible Data Toolkit: [http://the-engine-room.github.io/rdf-primer/managing-data/legal-considerations.html](http://the-engine-room.github.io/rdf-primer/managing-data/legal-considerations.html)
 
-##### Qui peut avoir accès à vos données ?
+##### Siapa lagi yang dapat mengakses data Anda?
 
-Si des personnes sont identifiées individuellement dans vos données, vos collaborateurs, partenaires ou les communautés locales pourraient être menacés. Réduisez les risques en appliquant trois principes : ne recueillez et ne stockez que les informations qui vous sont indispensables ; [effacez les noms et les éléments qui permettent d’identifier des individus quand c’est possible](http://theodi.github.io/ukan-course/) ; et évitez d’utiliser les technologies particulièrement risquées dans votre pays.
+Jika ada individu-individu yang dapat teridentifikasi dari data yang Anda kumpulkan, maka staff Anda, sekutu atau masyarakat setempat menjadi terancam. Kurangi risiko dengan mengambil tiga langkah ini: hanya kumpulkan dan unggah informasi  yang memang betul-betul Anda perlukan; sebisa mungkin hilangkan nama dan informasi yang mungkin bisa membuka identifikasi orang; dan hindari menggunakan layanan teknologi yang berisiko di negara Anda.
 
-<a name="usethedata"></a>
+### Gunakan data
 
-### Utilisation des données
+Setelah mengumpulkan data, Anda perlu strategi kampanye yang dirancang dengan hati-hati agar dapat memanfaatkannya dengan baik.
 
-Maintenant que vous avez collecté les informations, il va vous falloir adopter une [stratégie d’utilisation soigneusement élaborée](http://www.fern.org/sites/fern.org/files/provokingchange_LR.pdf).
+#### Rencanakan kampanye Anda
 
-#### Planifier la campagne
+##### Petakan lapangan
 
-##### Déterminez le contexte
+Buatlah daftar orang-orang dan organisasi yang terlibat dalam isu ini. Usahakan se-spesifik mungkin: hindari kategori umum (seperti ‘publik’ atau ‘pejabat pemerintah’) dan pilihlah sub-kelompok yang spesifik (wartawan bisnis). Kemudian kelompokkan ke dalam tiga kategori:
 
-Dressez la liste de toutes les personnes concernées par une même question. Soyez aussi précis que possible : évitez les catégories trop vagues (comme « le public » ou « l’administration ») et définissez des sous-groupes spécifiques (comme les journalistes économiques). Regroupez-les ensuite en trois catégories :
+- Sekutu – orang-orang atau masyarakat yang telah mendukung pekerjaan Anda.A nda harus membuat mereka mendukung kampanye secara aktif.
+- Pihak netral – orang-orang yang saat ini belum terlibat. Anda perlu mengedukasi agar mereka berubah menjadi sekutu.
+- Lawan – orang-orang yang menentang perubahan yang ingin Anda ciptakan. Anda perlu melawan mereka – baik dengan cara merubah pemikiran mereka atau membatasi dampak mereka.
 
-* Les alliés – personnes ou organisations qui vous soutiennent d’ores et déjà. **Faites en sorte qu’ils soutiennent activement votre campagne.**
-* Les acteurs neutres – personnes qui ne sont pas impliquées. **Faites en sorte qu’ils deviennent vos alliés.**
-* Les opposants – personnes opposées aux changements que vous attendez. **Faites en sorte de contrecarrer leurs actions, soit en leur faisant changer d’opinion ou en limitant leur influence.**
+##### Identifikasi para sekutu
 
-##### Identifiez vos alliés
+Setiap kampanye advokasi memerlukan sebuah jaringan sekutu. Rencanakan bagaimana Anda melibatkan kelompok yang ada di daftar di atas, menjaga agar mereka tetap tertarik dan terlibat. Pikirkan secara kreatif apakah Anda dapat menolong satu sama lain: apakah data Anda berguna bagi mereka? Apakah mereka memiliki kontak yang Anda perlukan?
 
-Une campagne de plaidoyer nécessite un réseau d’alliances. Définissez les manières d’impliquer les groupes identifiés comme alliés et maintenez leur intérêt et leur engagement. Soyez créatifs dans votre soutien mutuel : vos données leur seront-elles utiles ? Possèdent-ils des contacts dont vous avez besoin ?
+> ##### Studi kasus: memanfaatkan sekutu Anda
+>
+> Tahun 2007, organisasi masyarakat Chile  Movement for the Defence of the Environment (MODEMA) membuat serangkaian poster Punta de Choros untuk menyadarkan penduduk setempat akan bahaya dari pembangunan empat pembangkit listrik thermoelectric. Poster-poster ini dilihat oleh sekelompok pembuat video asal Chile yang sedang berkunjung, yang kemudian membuat film dokumenter mengenai daerah tersebut dan memulai kampanye berjudul Chao Pescao (‘Bye-Bye Ikan’ dalam Bahasa Spanyol).
+>
+> **Bagaimana hal ini dapat membantu?**
+>
+> - Kelompok bekerja sama untuk meningkatkan dampak dari pekerjaan mereka.Saat kampanye semakin besar, maka semakin banyak sekutu yang terlibat, dengan liputan media nasional selama lebih sepuluh hari.
+> - Kampanye digabungkan dengan taktik online dan offline: film dokumenter diputar di jalanan ibu kota Santiago di bioskop dengan listrik-tenaga sepeda, dan demonstrasi warga langsung diunggah dan disebarkan di YouTube dan diantara 10.000 anggota Chao Pescao di  grup Facebook.
+> - Pada Januari 2010 pemerintah membatalkan pembangunan pembangkit listrik thermoelectric, dan para kandidat presiden saat itu ditekan untuk menjaga agar Punta de Choros tetap bersih. [https://archive.informationactivism.org/en/chaopescao](https://archive.informationactivism.org/en/chaopescao)
 
-<blockquote>
- <h5>Cas d’étude : utilisez vos alliés.</h5>
- <p>En 2007, l’organisation chilienne Mouvement pour la défense de l’environnement (MODEMA) a élaboré une série d’affiches de Punta de Choros qui présentent aux habitants de la zone les risques que posent la construction de quatre centrales thermoélectriques. Un groupe de vidéastes chiliens qui visitait cette région a vu les affiches et a lancé la campagne Chao Pescao (« Au revoir les poissons » en espagnol).</p>
- <p><b>Quelle en est l’utilité ?</b></p>
- <ul>
- <li>Ces groupes ont travaillé ensemble pour accroître leur impact. Au fur et à mesure de la campagne, d’autres alliés les ont rejoints et les médias nationaux ont couvert l’événement pendant plus de dix jours. </li>
- <li>TLa campagne a combiné des stratégies en ligne et hors ligne : le documentaire a été projeté dans les rues de la capitale Santiago, avec du courant électrique fournit par des bicyclettes, et les manifestations citoyennes ont immédiatement été publiées sur Youtube et partagées avec les 10 000 abonnés de Chao Pescao <a href="https://www.facebook.com/groups/172364371563/?ref=br_rs">sur Facebook</a> </li>
- <li>En janvier 2010, le gouvernement <a href="https://archive.informationactivism.org/en/chaopescao">a renoncé</a> à construire les centrales thermoélectriques, et les nouveaux candidats à la présidence sont sous pression pour préserver Punta de Choros.</li>
- </ul>
-</blockquote>
+##### Pikirkan bagaimana menjangkau kelompok tersebut
 
-##### Choisir un public cible
+Mulai dengan apa yang telah Anda ketahui: darimana mereka mendapatkan informasi? Mereka tertarik pada apa? Media apa yang mereka gunakan?Secara realistis perubahan seperti apa yang bisa mereka pengaruhi? Tambah pengetahuan Anda: datangi pertemuan-pertemuan umum, pantau media sosial atau bertemu langsung dengan orang-orang.
 
-Choisissez un ou plusieurs groupes dont vous voulez modifier le comportement : ils constituent votre public cible. Voulez-vous que les fonctionnaires changent leur politique du droit à la terre, ou qu’une entreprise améliore sa gestion de la forêt ? Evitez de cibler des groupes trop larges : il serait difficile de trouver des messages de campagne adaptés.
+#### Jalankan kampanye Anda
 
-<blockquote>
-	<h5>Cas d’étude : choisir sa cible.</h5>
-	<p>L’organisation indonésienne Aliansi Masyarakat Adat Nusantara (AMAN) a été informée  par son système d’alerte par SMS que 30 personnes étaient détenues au Nord de Sumatra (Indonésie) pour avoir entravé les activités d’une compagnie.</p>
-	<p><b>Quelle en a été l’utilité ?</b></p>
-	<ul>
-		<li>AMAN a utilisé les informations reçues par SMS pour identifier par qui ces personnes avaient été détenues – et identifier qui cibler dans leur campagne de plaidoyer.</li>
-		<li>Ils ont ensuite mis sur pied une équipe d’experts en communication, cartographie et droit qui est  parvenue à faire libérer les individus.</li>
-	</ul>
-</blockquote>
+##### Pilih taktik yang tepat untuk setiap situasi
 
-##### Identifiez comment atteindre chaque groupe
+Gunakan pengetahuan Anda tentang data dan target audiens untuk memutuskan taktik apa yang harus digunakan.
 
-Commencez par ce que vous savez déjà : où cherchent-ils leurs informations ? Qu’est-ce qui les intéresse ? Quels médias utilisent-ils ? Quels sont les domaines dans lesquelles ils ont une réelle influence ? Recherchez les informations qui vous manquent en vous rendant à des réunions publiques, en consultant les réseaux sociaux ou en rencontrant directement des personnes.
+##### Sajikan data dengan cara yang dapat dimanfaatkan dan dipahami oleh kelompok sasaran
 
-#### Mener votre campagne
+Cari tahu informasi apa yang diinginkan audiens Anda. Jika audiens tidak memahami data Anda atau tidak tahu apa yang harus dilakukan dengan data tersebut, mereka tidak akan bertindak. Terkadang Anda harus menyasar pembaca surat kabar tertentu; atau, Anda perlu mencari masukan tentang dokumen kebijakan.
 
-##### Choisissez les stratégies adéquates en fonction de la situation
+**Pikirkan tentang kata-kata yang Anda gunakan dan bagaimana Anda menyajikannya:** Pilih kata-kata Anda dengan seksama dan buat materi yang berbeda untuk kelompok yang berbeda. Beberapa kelompok mungkin tidak paham istilah teknis yang digunakan dalam negosiasi hak-hak tanah, sementara yang lain baru akan memperhatikan serius jika Anda menggunakan istilah tersebut. Menggunakan Bahasa Inggris mungkin membantu Anda mencapai audiens internasional, tapi membatasi jangkauan Anda di negara sendiri.Buat beragam cara untuk menyajikan data Anda ke audiens yang berbeda. Anggota masyarakat yang memiliki waktu terbatas mungkin hanya akan membaca ringkasan temuan Anda, sementara pembuat kebijakan memerlukan laporan yang lebih detail.
 
-Utilisez les connaissances que vous avez acquises grâce à vos données et ciblez votre public pour définir vos stratégies.
+> ##### Studi kasus:Menggunakan video panjang untuk menggalang dukungan
+>
+> Tahun 2009, organisasi [AIDESEP](http://www.aidesep.org.pe/) di Peru merekam video saksi mata tindak kekerasan polisi terhadap kelompok masyarakat adat di wilayah Bagua dan mengunggahnya di YouTube.
+>
+> **Bagaimana hal ini dapat membantu?**
+>
+> - Video kemudian disebarluaskan secara online oleh para blogger, menjadi bukti kejadian dan jika tidak dilakukan mungkin akan diabaikan oleh masyarakat luas.
+> - Aksi solidaritas muncul di seluruh dunia dan kemudian dibentuk komisi pemerintah untuk menginvestigasi kejadian itu. Tahun 2013 badan pemerintah Peru yang bertanggung jawab atas masyarakat adat secara resmi mengakui masyarakat yang hidup terisolir dengan sukarela adalah penduduk wilayah Napo-Tigre (namun kampanye untuk membuat cagar adat masih terus berjalan). [http://hub.witness.org/en/blog/social-media-and-online-technologies-indigenous-rights-peru](http://hub.witness.org/en/blog/social-media-and-online-technologies-indigenous-rights-peru)
 
-##### Présentez vos données sous une forme compréhensible et utilisable par votre public cible
+#### Cek apakah kampanye Anda berhasil
 
-Identifiez les informations dont votre public a besoin. S’il ne comprend pas vos données ou ne sait pas comment les utiliser, ils ne réagira pas. Vous pouvez choisir de vous adresser aux lecteurs d’un journal en particulier, ou de soumettre des suggestions à l’appui d’un document politique.
+Jika Anda dapat menganalisa bagian-bagian berbeda dari kampanye pada saat kampanye tengah berjalan, Anda akan mampu memutuskan di mana harus memusatkan tenaga.
 
-**Réflechissez aux mots que vous employez et à la manière de les présenter : ** Faites attention à bien choisir vos mots, et envisagez d’utiliser des documents différents pour vous adresser à des groupes différents. Certains groupes ne connaissent peut-être pas les termes techniques employés dans les négociations sur les droits fonciers, alors que d’autres vous prendront au sérieux seulement si vous les utilisez. Utiliser l’anglais peut vous permettre d’atteindre des cibles internationales, mais peut limiter votre rayonnement au niveau national. Adaptez la manière dont vous présentez vos informations selon la cible visée. Un public pressé ne prendra le temps de lire qu’un court résumé de vos conclusions, mais les décideurs politiques auront besoin de rapports détaillés.
+##### Apa yang harus ditelusuri
 
-<blockquote>
-	<h5>Cas d’étude : Utiliser la vidéo pour mobiliser du soutien.</h5>
-	<p>En 2009, l’organisation péruvienne <a href="http://www.aidesep.org.pe/">AIDESEP</a> a utilisé des vidéos prises par des témoins de violences policières à l’encontre d’un groupe autochtone dans la région de Bagua, et les a téléchargées sur le site de partage YouTube.</p>
-	<p><b>Quelle en a été l’utilité ?</b></p>
-	<ul>
-		<li>La vidéo a été largement partagée et reprise par des bloggeurs, et a servi de preuve à un incident qui aurait pu être ignoré du grand public.</li>
-		<li>Des manifestations de solidarité ont eu lieu à travers le monde, et une commission gouvernementale a été créée pour enquêter sur l’incident. En 2013, l’entité nationale péruvienne responsable des questions autochtones a officiellement reconnu qu’un peuple vivant en isolement volontaire était résident de la région Napo-Tigre (une campagne pour la création d’une réserve autochtone est toujours <a href="http://hub.witness.org/en/blog/social-media-and-online-technologies-indigenous-rights-peru">en cours).</a></li>
-	</ul>
-</blockquote>
+Ada banyak sumber yang dapat digunakan untuk mempelajari bagaimana orang merespon, tapi memonitor _semuanya ini_ bisa menghabiskan waktu: fokus pada sumber yang paling penting untuk kampanye Anda. Tiga hal yang harus Anda telusuri:
 
-#### Vérifiez que votre campagne est efficace
+- _Siapa yang berbicara tentang isu itu:_ apakah hal ini mengalami perubahan pada masa kampanye Anda?
+- _Data atau pesan kampanye Anda:_ apakah disebut-sebut di publik? Di mana, dan bagaimana?
+- _Audiens target, lawan dan sekutu:_ apakah mereka merespon kampanye Anda, atau mengalami perubahan dalam hal apapun?
 
-En analysant les différentes composantes de votre campagne pendant son déroulement, vous identifierez où concentrer vos efforts.
+##### Buatlah agar pencapaian dapat dihitung
 
-##### Que faut-il vérifier ?
+Ciptakan target yang ingin dicapai dalam kampanye Anda dan telusuri kemajuannya. Target yang bagus adalah yang ‘smart’:
 
-Il y a de nombreux moyens de sonder les réactions à une campagne, mais tout mesurer peut prendre un temps considérable : limitez-vous aux sources d’informations les plus importantes pour votre campagne. Voici trois choses que vous devez identifier :
+- **S**pesifik - buat definisi yang jelas tentang apa yang Anda ukur (misalnya, jumlah artikel surat kabar yang menggunakan data Anda tentang serangan terhadap tanah adat)
+- **M**easurable atau dapat diukur - pilih hal-hal yang dapat dihitung, seperti jumlah orang yang menandatangani petisi dalam satu bulan.
+- **A**chievable atau dapat dicapai - jangan bermaksud untuk menjangkau 100% kelompok tertentu, kecuali memang bisa dilakukan
+- **R**elevan - pilih indikator yang berguna: misalnya, jika audiens Anda tidak terlalu banyak menggunakan media sosial, jangan mengukur hal tersebut.
+- **T**ime-bound atau batas waktu - pilih waktu kapan Anda berharap tujuan dapat tercapai.
 
-* Qui parle du sujet : la situation a-t-elle évolué au cours de la campagne ?
-* Vos données ou messages de campagne sont-ils mentionnés par le public ? Où et quand ?
-* Votre public cible, vos opposants et vos alliés ont-ils réagi à la campagne ou changé leur comportement ?
+##### Menggunakan teknologi untuk melacak kampanye Anda
 
-##### Rendez vos progrès mesurables
-
-Etablissez des objectifs à atteindre pour votre campagne et mesurez votre progression. Les bons objectifs doivent être « smart » :
-
-* **S**pécifiques – définissez précisément ce que vous souhaitez mesurer (par exemple, le nombre d’articles de presse qui utilisent vos données sur les incursions dans les territoires autochtones) ;
-* **M**eesurables – choisissez des éléments qui peuvent être quantifiés, comme le nombre de personnes qui ont signé une pétition sur un mois ;
-* **A**tteignables – ne prévoyez pas de toucher 100% des individus d’un groupe particulier, sauf si c’est réellement possible ;
-* Pertinents (**R**elevant) – choisissez des indicateurs utiles : par exemple, si votre cible n’utilise pas beaucoup les réseaux sociaux, inutile de le mesurer.
-* Limités dans le **T**emps – fixez une période au terme de laquelle vous aimeriez avoir atteint votre objectif.
-
-##### Utilisez la technologie pour évaluer la progression de votre campagne
-
-Les outils technologiques peuvent améliorer les campagnes de plaidoyer de différentes manières, du suivi de la campagne  et de la gestion des données à la visualisation d’informations dans des présentations efficaces.  Pour des suggestions sur l’utilisation de la technologie pour mesurer l’attention médiatique, l’engagement des utilisateiurs ou la mise en œuvre des projets, référez-vous au [guide suivant]( https://www.theengineroom.org/diy-for-me/).  Visualising Advocacy fournit de nombreux autres exemples d’utilisation [des données](https://visualisingadvocacy.org).
+Alat-alat teknologi dapat memperkuat kampanye advokasi dengan berbagai cara, mulai dari monitoring kampanye, pengelolaan data, hingga visualisasi data sehingga menjadi presentasi yang sangat kuat. Untuk saran-saran mengenai penggunaan teknologi untuk melacak perhatian media, keterlibatan user atau implementasi proyek, lihat panduan ini: [https://www.theengineroom.org/diy-for-me/](https://www.theengineroom.org/diy-for-me/). Visualising Advocacy menawarkan banyak contoh hal yang dapat dilakukan dengan data Anda: [Visualising Advocacy menawarkan banyak contoh hal yang dapat dilakukan dengan data Anda: https://visualisingadvocacy.org
+](https://visualisingadvocacy.org)
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
-	<h5 style="color:white">Encadré sur les données responsables :  Publication responsable des données</h5>
-	<p style="color:white">Si vous utilisez des services externes en ligne pour visualiser ou présenter vos données, soyez conscients des risques. Une fois vos données transférées, vous ne pouvez pas toujours savoir si l’entreprise y a accès ou si elle peut les fournir à d’autres personnes, ni ce qu’elles deviendraient si le service cessait de fonctionner.</p>
+	<h5 style="color:white">Data box yang bertanggung jawab: Mempublikasikan data secara bertanggung jawab</h5>
+	<p style="color:white">Jika menggunakan layanan online eksternal untuk memvisualisasi atau menyajikan data Anda, ingatlah akan risiko-risikonya. Sekali Anda mengunggah data, Anda tidak selalu tahu apakah perusahaan bisa mengaksesnya atau memberikannya pada orang lain, atau apa yang akan terjadi jika layanan tersebut tutup.</p>
 </blockquote>
 
-## Les bons outils pour les bons objectifs
+## Memadankan tujuan Anda dengan perangkat {#matching-objectives-with-tools}
 
-Les objectifs de votre organisation sont clairs mais vous n’êtes pas certains de la place à attribuer à la technologie ? Le tableau ci-dessous vous fournit une liste d’objectifs courants et le type d’outils qui peuvent être utiles à leur réalisation.
+Apakah Anda sudah memahami tentang tujuan organisasi Anda namun belum yakin dimana teknologi dapat membantu? Sejumlah sasaran yang umum ada di daftar tabel di bawah, dengan beberapa jenis alat yang mungkin dapat membantu pencapaiannya.
 
-Gardez à l’esprit que les outils technologiques ne peuvent contribuer à atteindre vos objectifs qu’à condition d’être intégrés à une stratégie de projet bien conçue. La [section Stratégie](#strategy) vous donne des pistes pour vous assurer que les outils correspondent bien à vos priorités, et la section [Outils](#tools) vous fournit des indications plus détaillées sur chacun des outils.
+Ingatlah bahwa perangkat teknologi dapat membantu mencapai sasaran tersebut jika mereka sesuai dengan strategi program yang telah didisain dengan baik. Bagian **Strategi** memberikan tips untuk memikirkan bagaimana memastikan alat tersebut sesuai dengan prioritas Anda, dan **bagian Alat dan Perangkat** memberikan rincian mengenai setiap alat.
 
-Souvenez vous que l’outil adéquat pour différents objectifs sera différent dans chaque situation. Le tableau ci-dessous liste quelques usages ordinaires, mais ne constitue pas une feuille de route.
+Ingatlah bahwa alat yang terbaik berbeda-beda untuk setiap situasi.Tabel di bawah menunjukkan beberapa yang umum digunakan, namun ini bukanlah sebuah acuan.
 
-| Objectif      | Outils qui peuvent contribuer à atteindre cet objectif |
-| ------------- | ------------------------------------------------------ |
-| Initier ou soutenir un dialogue entre les communautés et le gouvernement. | Cartographie participative, outils vidéo et audio. |
-| Fournir des preuves matérielles aux gouvernements pour qu’ils reconnaissent les terres autochtones. | Cartographie participative, cartographie en ligne, photographie aérienne indépendante, applications mobiles, outils vidéo et audio. |
-| Recueillir des preuves de la déforestation et de la dégradation des forêts. | Cartographie satellite, cartographie participative, applications mobiles, photographie aérienne indépendante, outils vidéo et audio. |
-| Fournir des preuves d’abus d’individus ou de communautés. | Applications mobiles, outils vidéo et audio. |
-| Fournir des preuves de pratiques illicites des entreprises dans l’utilisation des terres | Cartographie satellite, cartographie en ligne, photographie aérienne indépendante, outils vidéo et audio, applications mobiles |
-| Consigner et suivre la valeur environnementale des zones territoriales | Cartographie satellite, cartographie en ligne, cartographie participative, applications mobiles, cartographie aérienne indépendante |
-| Soutenir les communautés en leur fournissant et en leur présentant des connaissances | Cartographie participative, outils audio et vidéo, photographie aérienne indépendante. |
+| Sasaran | Alat yang dapat membantu mencapai sasaran |
+|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Memulai atau mendukung dialog antara masyarakat dan pemerintah | Pemetaan partisipatif, Video dan audio |
+| Memberikan bukti kepada pemerintah guna mendorong mereka mengakui tanah adat | Pemetaan partisipatif, Pemetaan online, foto udara lakukan-sendiri, aplikasi mobile, Video dan audio |
+| Mengumpulkan bukti deforestasi atau degradasi hutan | Pemetaan satelit, Pemetaan partisipatif, Aplikasi mobile, foto udara lakukan-sendiri, Video dan Audio |
+| Menyampaikan bukti pelanggaran terhadap individu atau masyarakat | Aplikasi mobile, Video dan Audio, |
+| Menyampaikan bukti pelanggaran perusahaan dalam pemanfaatan lahan mereka | Pemetaan satelit, Pemetaan partisipatif, Pemetaan online, Pemetaan udara lakukan-sendiri, aplikasi mobile |
+| Pencatatan dan monitoring nilai lingkungan dari area lahan | Pemetaan satelit, Pemetaan online, pemetaan partisipatif, Aplikasi mobile, pemetaan udara lakukan-sendiri, |
+| Mendukung masyarakat dengan menyajikan dan memberikan pengetahuan | Pemetaan partisipatif, Audio dan Video, foto udara lakukan-sendiri |
 
-## Tools
 
-* <a name="tools"></a>[mobile (cell) phone applications to collect and record data from the field](/rainforest-tech-mobile-phones) can be used for a wide range of purposes, including recording illegal mining or logging; biodiversity surveys; helping communities to map their own land; or validating government maps. If used carefully, they can make collecting data quicker and more accurate.
-* [maps produced together with communities (participatory mapping)](/rainforest-tech-participatory-mapping) can be used to show how an area is actually being used, compare this with “official” maps, and use the information to claim communities’ rights to land.
-* [satellite imagery](/rainforest-tech-satellite-imagery) or analysing changes to a forest area over time, or combined aerial imagery with other forms of information such as other types of maps. Comparing regular images of the same area can provide proof of deforestation, trends like increased commercial activity, or visible results of forest degradation.
-* [do-it-yourself aerial photography (such as drones)](/rainforest-tech-diy-aerial) can be used for making maps or 3D models to monitor wildlife, record land claims and document climate change impacts. It can produce images that are more detailed than satellite data, and that can be updated in real time.
-* [audio and video](/rainforest-tech-audio-video) can be used to simply and effectively present short advocacy messages, collect visual evidence of human rights violations, publish participatory films by community members, or document deforestation over time.
-* [online maps that combine and layer different types of data on top of each other](/rainforest-tech-online-maps) can be used for real-time monitoring (showing the places where most incidents happen), campaigning (such as showing where forest cover is being dramatically reduced) or analysis (gaining new insights by overlaying different types of data on the same map).
+## Sumber lain
+Daftar sumber termasuk yang telah disebutkan di Panduan, dengan beberapa tambahan. Daftar ini tidak lengkap, namun bertujuan untuk menyoroti beberapa sumber bermanfaat yang paling praktis untuk organisasi hutan hujan yang menggunakan teknologi dalam pekerjaan mereka.
 
-## Ressources complémentaires
+### Mendapatkan data
 
-<a name="resources"></a>Cette liste reprend de nombreuses ressources mentionnées dans le document, ainsi que des ressources additionnelles. Elle n’est pas exhaustive mais constitue une sélection des ressources les plus utiles dans la pratique pour les organisations de défense de la forêt tropicale qui utilisent la technologie.
+- Situs Open Knowledge Foundation’s **DataHub** menyajikan data yang ada secara terbuka tentang beragam isu: [http://datahub.io/](http://datahub.io/)
+- **Data Portals** adalah daftar lengkap situs pemerintah yang menyajikan open data [http://dataportals.org/](http://dataportals.org/)
+- Daftar **Open Access Directory** berisi dataset isu-isu spesifik, termasuk isu lingkungan: [http://oad.simmons.edu/oadwiki/Data_repositories](http://oad.simmons.edu/oadwiki/Data_repositories)
+- The **Environmental Justice Atlas** adalah peta global tentang konflik lingkungan: [https://ejatlas.org/](https://ejatlas.org/)
+- **Data Journalism Handbook** memberikan saran tentang pengajuan Kebebasan Informasi: [http://datajournalismhandbook.org/1.0/en/getting_data_1.html](http://datajournalismhandbook.org/1.0/en/getting_data_1.html)
+- **Supply Change** melacak komitmen dan kinerja perusahaan pada kartu-skor LSM [http://www.supply-change.org/](http://www.supply-change.org/)
+- **Feedback Labs** adalah toolkit yang memiliki beragam sumber dan alat untuk membantu Anda mengumpulkan informasi dari masyarakat tempat Anda bekerja [https://feedbacklabs.org/toolkit/](https://feedbacklabs.org/toolkit/)
 
-### Obtenir des données
+### Mengelola data
 
-*  Le site **DataHub** de la Fondation Open Knowledge fournit des données libres d’accès sur une vaste gamme de sujets : [http://datahub.io/](http://datahub.io/)
+- **Security in-a-Box** adalah panduan keamanan digital untuk para aktivis dan pejuang HAM di seluruh dunia yang dibuat oleh Frontline Defenders and Tactical Technology Collective [https://securityinabox.org/](https://securityinabox.org/)
+ - The **Responsible Data Forum** memberikan sumber dan panduan untuk membantu organisasi menggunakan data dan juga mengatasi isu-isu yang bersifat pribadi dan persetujuan awal [https://responsibledata.io](https://responsibledata.io)
+- **Digital Defenders’** Digital First Aid Kit menawarkan satu set alat mendiagnosis-sendiri bagi organisasi dan perusahaan yang menghadapi serangan: [https://digitaldefenders.org/digitalfirstaid/](https://digitaldefenders.org/digitalfirstaid/)
+- **EngageMedia’s** Secure My Video Guide memberikan tools bagi aktivis pembuat video agar pekerjaan mereka lebih aman dan terlindungi.Situs ini memiliki bagian yang fokus pada Indonesia dan juga relevan untuk konteks yang lain. [http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf](http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf)
 
-* **Data Portals** est une liste complète de sites gouvernementaux fournissant des données libres : [http://dataportals.org/](http://dataportals.org/)
+### Dukungan bagi pengumpulan dan penggunaan data
 
-* Liste de fichiers de données de l’**Open Access Directory** sur des sujets spécifiques, dont les questions environnementales : [http://oad.simmons.edu/oadwiki/Data_repositories](http://oad.simmons.edu/oadwiki/Data_repositories),
+- **School of Data** memberikan kursus termasuk pengantar tentang data dan informasi spesifik pada topik-topik seperti scraping: [http://schoolofdata.org/courses](http://schoolofdata.org/courses)
+- **DataKind** membentuk tim ilmuwan data yang bekerja gratis, bekerja sama dengan organisasi non-profit untuk membantu mereka menyelesaikan masalah yang melibatkan data: [http://www.datakind.org](http://www.datakind.org)
+- **DoingGood Fellows** menghubungkan para profesional yang memiliki keahlian teknologi dan proyek-proyek non-profit: [http://www.doinggoodfellows.org](http://www.doinggoodfellows.org)
+- **Data Look** adalah komunitas online untuk orang-orang yang memanfaatkan data untuk mengatasi masalah sosial: [http://datalook.io](http://datalook.io)
+- Open Knowledge’s **Open Data Commons** memiliki panduan 2-menit tentang open licences [http://opendatacommons.org/guide/](http://opendatacommons.org/guide/)
+ - The **Open Data Handbook** menyajikan daftar open file formats yang dapat Anda gunakan untuk mempublikasi data secara terbuka: [http://opendatahandbook.org/en/appendices/file-formats.html](http://opendatahandbook.org/en/appendices/file-formats.html)
 
-* L’**Environmental Justice Atlas** (atlas de la justice environnementale) est une carte du monde des conflits liés à l’environnement : [https://ejatlas.org/](https://ejatlas.org/)
+### Bantuan menggunakan teknologi
 
-* Conseils issus du **Guide du datajournalisme** sur les demandes liées à la liberté d’information : [http://datajournalismhandbook.org/1.0/en/getting_data_1.html](http://datajournalismhandbook.org/1.0/en/getting_data_1.html).
+**Aspiration** telah membuat satu template untuk membuat proposal permintaan dukungan teknologi: http://www.aspirationtech.org/training/workflow/templates/rfp
+- Aptivate memiliki panduan untuk mendisain website yang dapat bekerja lebih baik pada kondisi koneksi internet lemah: [http://www.aptivate.org/webguidelines/Home.html](http://www.aptivate.org/webguidelines/Home.html)
+- **Engage Media** memberikan saran mengenai meng-compress file yang dapat bekerja dengan baik di daerah dengan bandwidth rendah: [http://www.engagemedia.org/help/how-to-compress-video](http://www.engagemedia.org/help/how-to-compress-video)
 
-* **Supply Change** rassemble tous les engagements pris par les entreprises suivies par les ONG : [http://www.supply-change.org/](http://www.supply-change.org/)
+### Visualisasi
 
-* La boîte à outils de **Feedback Labs** offre une grande variété de ressources et d’outils pour trouver des informations auprès de vos partenaires : [https://feedbacklabs.org/toolkit/](https://feedbacklabs.org/toolkit/)
+- **Earth Journalism Network** memberikan pelatihan dan sumber daya untuk membantu wartawan di negara-negara berkembang meliput isu lingkungan dengan lebih efektif, termasuk melalui visualisasi [http://earthjournalism.net/resources](http://earthjournalism.net/resources)
+- **Environmental News Lab** memberikan tools dan tutorial mengenai pelaporan isu-isu lingkungan di Brasil dan di sepanjang kawasan Amazon [http://lab.oeco.org.br/](http://lab.oeco.org.br/)
+- Tactical Technology Collective’s **Visualising Information for Advocacy** memberikan contoh dan saran tentang penggunaan data dan visualisasi dalam kampanye: [https://visualisingadvocacy.org](https://visualisingadvocacy.org)
+- **Geojournalism** memberikan sumber daya dan pelatihan online untuk wartawan, designer dan developer tentang cara memvisualisasi data geografis [http://geojournalism.org](http://geojournalism.org)
 
-### Gestion des données
+### Aplikasi telepon seluler
 
-* **Security in-a-Box** est un guide de sécurité numérique s’adressant aux activistes et aux défenseurs des droits de l’Homme dans le monde entier. Il est produit par Frontline Defenders et Tactical Technology Collective : [https://securityinabox.org/](https://securityinabox.org/)
+- Laporan dari The Engine Room’s **Mobiles in Development** memberikan sebuah penggambaran mengenai penggunaan perangkat mobile dalam pembangunan, termasuk informasi bagaimana pengumpulan data secara mobile dilakukan [http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development](http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development)
+- **NetHope** dan **Humanitarian Nomad** keduanya menawarkan rangkaian pertanyaan yang membantu Anda memilih perangkat mobile: [http://solutionscenter.nethope.org/](http://solutionscenter.nethope.org/) dan [http://humanitarian-nomad.org/online-selection-tool/](http://humanitarian-nomad.org/online-selection-tool/)
+- **Kopernik** memberikan informasi untuk organisasi kecil mengenai alat pengumpulan data secara mobile, platform pemetaan dan sensor, dengan informasi yang membantu untuk membandingkannya. [http://impacttrackertech.kopernik.info/](http://impacttrackertech.kopernik.info/)
+- **TechChange** menawarkan kursus online gratis mengenai aplikasi pengumpulan data secara mobile: [https://www.techchange.org/online-courses/mobile-data-solutions/](https://www.techchange.org/online-courses/mobile-data-solutions/)
+- The World Bank’s ‘**Opportunities and guidance on mobile applications for forest and agricultural sectors**’ report includes guidance on comparing mobile applications’ memberikan informasi dan perencanaan biaya jangka-pendek dan panjang [http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors](http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors)
+- FrontlineSMS’s Data Integrity User Guide memberikan kerangka kerja guna memahami tingkat risiko dalam setiap kegiatan berbasis SMS [http://www.frontlinesms.com/wp-content/uploads/2011/08/frontlinesms_userguide.pdf](http://www.frontlinesms.com/wp-content/uploads/2011/08/frontlinesms_userguide.pdf)
+- **Forest Compass** mengumpulkan sumber daya monitoring hutan berbasis masyarakat [http://forestcompass.org/how/resources](http://forestcompass.org/how/resources)
+- **OpenForis** adalah satu set aplikasi mobile dan software tools yang membantu Anda dalam mengumpulkan dan menganalisa data: [http://www.openforis.org/](http://www.openforis.org/)
+- **TechSoup** memiliki saran dalam memilih perangkat mobile yang sesuai dengan kebutuhan Anda [http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for](http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for)
 
-* Le forum **Responsible Data** offre des ressources et des guides pour aider les organisations à utiliser des données tout en respectant les règles de confidentialité et de consentement : [https://responsibledata.io](https://responsible/)
+### Pemetaan satelit
 
-* Le kit de premier secours numérique de **Digital Defenders** contient des outils d’auto-diagnostic à l’attention d’organisations ou d’activistes menacés : [https://digitaldefenders.org/digitalfirstaid/](https://digitaldefenders.org/digitalfirstaid/)
+- **Global Forest Watch** merupakan sistem monitoring dan peringatan hutan online secara interaktif yang memberikan informasi satelit dan lainnya: [www.globalforestwatch.org](www.globalforestwatch.org)
+- [http://maaproject.org/about-maap/](http://maaproject.org/about-maap/)
+- **CLASlite** didisain untuk memberikan informasi terbaru setiap minggunya tentang pemetaan resolusi tinggi dan monitoring hutan menggunakan citra satelit. [http://claslite.carnegiescience.edu/en/index.html](http://claslite.carnegiescience.edu/en/index.html) (Inggris dan Spanyol)
+- AAAS’s **Geospatial Technologies Project** berisi detail kasus tentang bagaimana citra satelit dikumpulkan, dikategorisasi dan dianalisa guna mendokumentasikan pelanggaran HAM. [http://www.aaas.org/case-studies](http://www.aaas.org/case-studies)
 
-* Le guide « sécuriser ma vidéo » d’**EngageMedia** fournit aux vidéo-activistes des outils pour sécuriser leurs activités. Il porte principalement sur l’Indonésie mais peut être appliqué à d’autres contextes : [http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf](http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf)
+### Video dan audio
 
-### Aide à la collecte et à l’utilisation de données :
+- The Guardian Project’s **Informacam**, adalah plugin yang dapat berfungsi dengan **Obscuracam** Android app, yang dapat membantu mengumpulkan bukti video dan photo dengan aman dan dapat diverifikasi: [https://guardianproject.info/informa/](https://guardianproject.info/informa/) dan [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam)
+- The **StoryMaker** app untuk ponsel Android membantu untuk membuat kisah-kisah multimedia di perangkat Android Anda: [http://smallworldnews.tv/projects/storymaker/](http://smallworldnews.tv/projects/storymaker/)
+- **WITNESS** dan **Video4Change** memiliki perpustakaan yang sangat membantu kerja Anda: [https://www.v4c.org/en/resources](https://www.v4c.org/en/resources) dan [http://library.witness.org](http://library.witness.org)
+- **Small World News** menawarkan panduan membuat video dan audio [http://smallworldnews.com/guides](http://smallworldnews.com/guides)
+- **Audacity** menawarkan kemampuan mengedit audio secara gratis [http://audacity.sourceforge.net/](http://audacity.sourceforge.net/), sementara versi **Lightworks Free** dapat menangani tugas editing video yang simpel: [http://www.lwks.com/](http://www.lwks.com/)
 
-* Les cours de la **School of Data** comprennent des introductions aux données et des informations spécifiques sur certaines techniques telle que le scraping (grattage de données) :[ http://schoolofdata.org/courses](http://schoolofdata.org/courses/#DataFundamentals)
+### Foto udara lakukan-sendiri
 
-* **DataKind** forme des équipes d’experts en gestion de données bénévoles pour aider les organisations à but non lucratif à résoudre leurs problèmes de données : [http://www.datakind.org](http://www.datakind.org)
+- **Conservation Drones’** site memberikan panduan untuk membuat dan menerbangkan drone, dan juga contoh bagaimana ia dipergunakan di kegiatan konservasi: [http://conservationdrones.org/](http://conservationdrones.org/)
+- **DIY Drones** memiliki panduan pengantar untuk UAVs: [http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs)
+- **Public Laboratory** memberikan panduan dan dukungan untuk membuat layang-layang, balon dan sensor untuk pemetaan [http://publiclaboratory.org](http://publiclaboratory.org)
+- **The Humanitarian UAV network** (UAViators) memiliki beragam informasi yang bermanfaat [http://uaviators.org/about-this-site-rules](http://uaviators.org/about-this-site-rules) dan sebuah survey mengenai undang-undang yang mempengaruhi penerbangan drone di negara-negara di dunia [http://wiki.uaviators.org/doku.php](http://wiki.uaviators.org/doku.php)
+- **Geojournalism’s** panduan untuk pemetaan balon: [http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/)
+- **NetHope’s Solutions Center** memiliki webinar dan sumber daya untuk menggunakan drone [http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles)
 
-* **DoingGood Fellows** fait le lien entre des professionnels de la technologie et des projets à but non lucratif : [http://www.doinggoodfellows.org](http://www.doinggoodfellows.org)
+### Sumber berdasarkan bahasa
 
-* **Data Look** est une communauté en ligne de personnes qui utilisent des données pour résoudre des problèmes sociaux : [http://datalook.io](http://datalook.io)
-
-* **Open Data Commons** d’Open Knowledge a élaboré un guide rapide sur les licences ouvertes : [http://opendatacommons.org/guide/](http://opendatacommons.org/guide/)
-
-* Le **Guide de l’Open Data** contient une liste de formats de fichiers ouverts pour publier des données libres : [http://opendatahandbook.org/en/appendices/file-formats.html](http://opendatahandbook.org/en/appendices/file-formats.html)
-
-### Aide au choix de la technologie
-
-* **Aspiration** a créé un modèle de demande de propositions pour de l’aide technologique : [http://www.aspirationtech.org/training/workflow/templates/rfp](http://www.aspirationtech.org/training/workflow/templates/rfp)
-
-* **Aptivate** a rédigé un guide pour la création de sites internet qui fonctionnent mieux avec des connections internet lentes :[ http://www.aptivate.org/webguidelines/Home.html](http://www.aptivate.org/webguidelines/Home.html)
-
-* **Engage Media** fournit des conseils sur la compression de fichiers qui fonctionne mieux avec une bande passante faible :[ http://www.engagemedia.org/help/how-to-compress-video](http://www.engagemedia.org/help/how-to-compress-video)
-
-### Visualisation
-
-* Le réseau **Earth Journalism** offre des formations et des ressources pour aider les journalistes des pays en développement à couvrir les sujets liés à l’environnement, notamment à l’aide de visuels : [http://earthjournalism.net/resources](http://earthjournalism.net/resources)
-
-* **Environmental News Lab** contient des outils et des tutoriels sur la manière de traiter les questions environnementales au Brésil et dans toute l’Amazonie : [http://lab.oeco.org.br/](http://lab.oeco.org.br/)
-
-* **Tactical Technology Collective** donne des exemples et des conseils sur l’utilisation de données et de visuels en soutien à une campagne dans l’ouvrage Visualising Information for Advocacy : [https://visualisingadvocacy.org](https://visualisingadvocacy.org)
-
-* **Geojournalism** offre des ressoures et des formations s’adressant aux journalistes, designers et développeur pour visualiser des données géographiques : [http://geojournalism.org](http://geojournalism.org)
-
-### Application pour téléphone mobiles
-
-* Le rapport Mobiles in Development (mobiles en développement) de **Engine Room** fournit une vue d’ensemble de l’utilisation des téléphones mobiles pour le développement, et contient des informations sur le fonctionnement de la collecte mobile d’informations : [http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development](http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development)
-
-* **NetHope** et **Humanitarian Nomad** ont rédigé une série de questions pour vous aider à choisir un outil mobile : [http://solutionscenter.nethope.org/](http://solutionscenter.nethope.org/) et [http://humanitarian-nomad.org/online-selection-tool/](http://humanitarian-nomad.org/online-selection-tool/)
-
-* **Kopernik** fournit des informations et des éléments de comparaison pour les petites organisations sur les outils mobiles de collecte de données, les plateformes de cartographie et les capteurs cartographiques : [http://impacttrackertech.kopernik.info/](http://impacttrackertech.kopernik.info/)
-
-* **TechChange** offre un cours gratuit en ligne sur les applications mobiles de collecte de données : https://www.techchange.org/online-courses/mobile-data-solutions/
-
-* Le rapport de la **Banque Mondiale** « Opportunités et Conseils sur les Applications Mobiles pour les Secteurs Forestiers et Agricoles » contient des conseils sur la comparaison des fonctionnalités des applications mobiles et la planification des coûts à court et long terme : [http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors](http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors)
-
-* Le Guide d’utilisation de l’intégrité des données de **FrontlineSMS** offre un cadre pour la compréhension du niveau de risque de toute activité par SMS : http://www.frontlinesms.com/wp-content/uploads/2011/08/frontlinesms_userguide.pdf
-
-* **Forest Compass** rassemble des ressources pour la surveillance des forêts par les communautés : [http://forestcompass.org/how/resources](http://forestcompass.org/how/resources)
-
-* **OpenForis** est un ensemble d’applications mobiles et d’outils logiciels pour la collecte et l’analyse de données : [http://www.openforis.org/](http://www.openforis.org/)
-
-* **TechSoup** donne des conseils sur le choix d’appareils mobiles qui répondent à vos besoins : http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for
-
-### Cartographie satellite
-
-* **Global Forest Watch** est un système de surveillance et d’alerte sur les forêts en ligne et interactif, qui contient des images satellite et d’autres informations : [www.globalforestwatch.org](http://www.globalforestwatch.org)
-
-* [http://maaproject.org/about-maap/](http://maaproject.org/about-maap/)
-
-* **CLASlite** est conçu pour fournir une cartographie et un système de surveillance des forêts mis à jour chaque semaine grâce à des images satellites à haute résolution : [http://claslite.carnegiescience.edu/en/index.html](http://claslite.carnegiescience.edu/en/index.html) (anglais et espagnol).
-
-* Le projet de technologies géospatiales de **AAAS** contient des cas d’études détaillés sur la collecte, la catégorisation et l’analyse d’images satellites pour constituer des preuves de violations des droits de l’Homme : http://www.aaas.org/case-studies
-
-### Vidéo et audio
-
-* **Informacam **du Guardian Project est un plugin fonctionnant avec l’application Android **Obscuracam** qui permet de recueillir des preuves vidéo et audio en toute sécurité pouvant être vérifiées : [https://guardianproject.info/informa/](https://guardianproject.info/informa/) et [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam)
-
-* L’application **StoryMaker** pour les téléphones Android permettent de créer des articles multimédias sur un téléphone Android :[ http://smallworldnews.tv/projects/storymaker/](http://smallworldnews.tv/projects/storymaker/)
-
-* **WITNESS** et **Video4Change** disposent de bibliothèques utiles pour l’utilisation de vidéos pour accompagner vos activités : [https://www.v4c.org/en/resources](https://www.v4c.org/en/resources) et [http://library.witness.org](http://library.witness.org/)
-
-* **Small World News** fournit des guides pour la réalisation de produits vidéo et audio : [http://smallworldnews.com/guides](http://smallworldnews.com/guides)
-
-* **Audacity** est un logiciel de montage audio gratuit [http://audacity.sourceforge.net/](http://audacity.sourceforge.net/), et **Lightworks Free** peut prendre en charge de nombreuses fonctions simples de montage vidéo : http://www.lwks.com/
-
-### Photographie aérienne indépendante
-
-* Le site **Conservation Drones** contient un guide pour la fabrication et le pilotage de drones, et des exemples d’utilisation à des fins de conservation : [http://conservationdrones.org/](http://conservationdrones.org/2014/10/24/recycle/)
-
-* **DIY Drones** fournti un guide introductif sur les drones : [http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs)
-
-* **Public Laboratory** offre des guides et un soutien à la construction de cerfs-volants, aérostats et capteurs pour la cartographie : [http://publiclaboratory.org](http://publiclaboratory.org/wiki/kite-mapping)
-
-* Le réseau **Humanitarian UAV (UAViators)** possède une foule d’informations utiles : [http://uaviators.org/about-this-site-rules](http://uaviators.org/about-this-site-rules) et a listé les lois relatives à l’utilisation de drones à travers le monde : [http://wiki.uaviators.org/doku.php](http://wiki.uaviators.org/doku.php)
-
-* Guide de **Géojournalisme** sur la cartographie à l’aide d’aérostats : [http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/)
-
-* Le **Centre de solutions** de NetHope offre des webinaires et d’autres ressources sur l’utilisation de drones : [http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles)
-
-### Ressources par langue
-
-Les ressources ci-dessous sont disponibles dans la langue indiquée, et ont généralement une version anglaise.
+Sumber-sumber di bawah ini tersedia dalam bahasa tertentu, dan biasanya juga memiliki versi Inggris.
 
 #### Bahasa Indonesia
 
-* **Ekuatorial** création de cartes interactives qui associent les données de nombreuses sources à des articles sur des sujets liés à l’environnement rédigés par des publications partenaires : [http://ekuatorial.com/](http://ekuatorial.com/)
-
-* **Global Forest Watch** est un système de surveillance et d’alerte en ligne qui collecte des données sur les paysages forestiers mondiaux : [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/)
-
-* **EngageMedia** fournit des ressources pour les organisations sur l’utilisation de la vidéo pour les changements sociaux : [http://www.engagemedia.org/Bantuan-Dan-Tutorial?set_language=id](http://www.engagemedia.org/Bantuan-Dan-Tutorial?set_language=id)
-
-* **Le Manuel de l’Open Data** contient des indications pour se procurer et utiliser de l’open data : [http://opendatahandbook.org/id/](http://opendatahandbook.org/id/)
-
-* **Kopernik** contient des informations pour les petites structures sur les outils mobiles de collecte de données, les plateformes et les capteurs cartographiques, ainsi que des éléments de comparaison : [http://kopernik.info/id/technologies](http://kopernik.info/id/technologieshttp://kopernik.info/id/technologies)
-
-* **Datahub** est une plateforme de gestion de données qui vous permet de rechercher des données, d’enregistrer des fichiers de données publiés, de créer et de gérer des groupes de fichiers et d’être informé des mises à jour des fichiers et des groupes qui vous intéressent : [http://datahub.io](http://datahub.io)
-
-* **Video4Change** rassemble des guides, des manuels et d’autres ressources utiles pour les vidéoactivistes : [https://www.v4c.org/id/bahasa-indonesia](https://www.v4c.org/id/bahasa-indonesia)
-
-* **Security in-a-Box** est un guide sur la sécurité numérique pour les activistes et les défenseurs des droits de l’Homme produit par Frontline Defenders et le Tactical Technology Collective [https://securityinabox.org/id](https://securityinabox.org/id)
-
-#### Français
-
-* **Le Manuel de l’Open Data** contient des indications pour se procurer et utiliser de l’open data : [http://opendatahandbook.org/fr/](http://opendatahandbook.org/id/)
-
-* **Security in-a-Box** est un guide sur la sécurité numérique pour les activistes et les défenseurs des droits de l’Homme produit par Frontline Defenders et le Tactical Technology Collective : [https://info.securityinabox.org/fr](https://info.securityinabox.org/fr)
-
-* **Frontline Defenders** offre des formations et des ressources pour les défenseurs des droits de l’Homme : [http://www.frontlinedefenders.org/fr/](http://www.frontlinedefenders.org/fr/)
-
-* **Aptivate** offre des conseils pour la création de sites internet adaptés à une faible bande passante : [http://www.aptivate.org/webguidelines/Home.html](http://www.aptivate.org/webguidelines/Home.html)
-
-* **Global Forest Watch** est un système de surveillance et d’alerte qui collecte des données sur les paysages forestiers mondiaux : [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/)
-
-* **Le Manuel de l’Open Data** contient des indications pour se procurer et utiliser de l’open data : [http://opendatahandbook.org/fr](http://opendatahandbook.org/fr)
-
-* **Resource Extraction Monitoring** fournit un manuel pour la surveillance indépendante [http://www.rem.org.uk/documents/ManuelOIFLEG2013.pdf](http://www.rem.org.uk/documents/ManuelOIFLEG2013.pdf)
-
-* **Resource Extraction Monitoring** fournit un guide sur le consentement des communautés forestières : [http://www.rem.org.uk/documents/FM_kit_formation_CLIP.pdf](http://www.rem.org.uk/documents/FM_kit_formation_CLIP.pdf)
-
-* **WITNESS** a une bibliothèque de ressources sur l’utilisation sécurisée et efficace de la vidéo : [http://fr.witness.org/ressources/](http://fr.witness.org/ressources/)
-
-* **FCTV** a des modèles de textes pour les organisations qui font de la surveillance avec l’aide des communautés, dont une convention sur l’utilisation de téléphones mobiles consacrée à un projet par les communautés : [http://flegtcameroon.ning.com/page/documents](http://flegtcameroon.ning.com/page/documents)
+- **Ekuatorial** membuat peta interaktif yang menggabungkan data dari beragam sumber dan mengombinasikannya dengan artikel isu-isu lingkungan yang ditulis oleh para mitra penerbitan. [http://ekuatorial.com/](http://ekuatorial.com/)
+- **Global Forest Watch** merupakan sistem monitoring dan peringatan online yang mengumpulkan data tentang lanskap hutan di seluruh dunia [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/)
+- **EngageMedia** memberikan sumber daya bagi organisasi yang memanfaatkan video untuk perubahan sosial [http://www.engagemedia.org/Bantuan-Dan-Tutorial?set_language=id](http://www.engagemedia.org/Bantuan-Dan-Tutorial?set_language=id)
+- The **Open Data Handbook** memiliki panduan untuk menemukan dan menggunakan open data [http://opendatahandbook.org/id/](http://opendatahandbook.org/id/)
+- **Kopernik** memberikan informasi untuk organisasi kecil mengenai alat pengumpulan data secara mobile, platform pemetaan dan sensor, dengan informasi untuk membantu Anda membandingkanya. [http://kopernik.info/id/technologies](http://kopernik.info/id/technologies)
+- **Datahub** adalah platform manajemen data yang membantu Anda mencari data, mendaftarkan dataset yang telah dipublikasikan, membuat dan mengelola sekelompok dataset, dan mendapatkan informasi terbaru dari dataset dan kelompok yang menjadi perhatian Anda. [http://datahub.io](http://datahub.io)
+- **Video4Change** mengumpulkan panduan, manual dan sumber daya lain yang berguna untuk para aktivis video [https://www.v4c.org/id/bahasa-indonesia](https://www.v4c.org/id/bahasa-indonesia)
+- **Security in-a-Box** adalah panduan  keamanan digital bagi aktivis dan pembela HAM yang dibuat oleh Frontline Defenders and Tactical Technology Collective [https://securityinabox.org/id](https://securityinabox.org/id)
 
 #### Khmer
 
-* **Global Forest Watch** est un système de surveillance et d’alerte qui collecte des données sur les paysages forestiers mondiaux : [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/)
+- **Global Forest Watch** merupakan sistem monitoring dan peringatan online yang mengumpulkan data tentang lanskap hutan di seluruh dunia [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/)
+- **Open Development Cambodia** menawarkan peta, pengarahan singkat tentang sektor perusahaan dan ekonomi, dan informasi mengenai hukum dan peraturan di Kamboja [http://www.opendevelopmentcambodia.net/kh/](http://www.opendevelopmentcambodia.net/kh/)
+- **Datahub** adalah platform manajemen data yang membantu Anda mencari data, mendaftarkan dataset yang telah dipublikasikan, membuat dan mengelola sekelompok dataset, dan mendapatkan informasi terbaru dari dataset dan kelompok yang menjadi perhatian Anda. [http://datahub.io](http://datahub.io)
 
-* **Open Development Cambodia** offre des cartes, des dossiers d’information sur des entreprises ou des secteurs économiques et des informations sur les lois et les règlements applicables au Cambodge : [http://www.opendevelopmentcambodia.net/kh/](http://www.opendevelopmentcambodia.net/kh/)
+#### Portugis
 
-* **Datahub** est une plateforme de gestion de données qui vous permet de rechercher des données, d’enregistrer des fichiers de données publiés, de créer et de gérer des groupes de fichiers et d’être informé des mises à jour des fichiers et des groupes qui vous intéressent : [http://datahub.io](http://datahub.io)
-
-#### Português
-
-* **WITNESS** a une bibliothèque de ressources sur l’utilisation de la vidéo de manière sécurisée et efficace : [http://pt.witness.org/](http://pt.witness.org/)
-
-* **Environmental News Lab** contient des outils et des tutoriels sur la manière de traiter les questions environnementales au Brésil et dans toute l’Amazonie :[http://lab.oeco.org.br/](http://lab.oeco.org.br/)
-
-* **Geojournalism.org** offre des ressoures et des formations s’adressant aux journalistes, designers et développeurs pour visualiser des données géographiques : [http://geojournalism.org/](http://geojournalism.org/)
-
-* **Le Manuel de l’Open Data** contient des indications pour se procurer et utiliser de l’open data **: **[http://opendatahandbook.org/pt/](http://opendatahandbook.org/pt/)
-
-* **Security in-a-Box** est un guide sur la sécurité numérique pour les activistes et les défenseurs des droits de l’Homme produit par Frontline Defenders et le Tactical Technology Collective : [https://securityinabox.org/pt](https://securityinabox.org/pt)
-
-* **Imazon** fournit des cartes de la déforestation en Amazonie mises à jour tous les mois : [http://imazon.org.br/](http://imazon.org.br/)
-
-* **Datahub** est une plateforme de gestion de données qui vous permet de rechercher des données, d’enregistrer des fichiers de données publiés, de créer et de gérer des groupes de fichiers et d’être informé des mises à jour des fichiers et des groupes qui vous intéressent : [http://datahub.io](http://datahub.io)
-
-* **Global Forest Watch** est un système de surveillance et d’alerte qui collecte des données sur les paysages forestiers mondiaux : [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/)
-
-#### Español
-
-* **RAISG** (Réseau amazonien d’informations socioenvironnementales géoréférencées) rassemble des informations sur les aires protégées, les terres autochtones, les bassins hydrographiques et les coupes illégales : [http://raisg.socioambiental.org/mapa-online/index.html](http://raisg.socioambiental.org/mapa-online/index.html)
-
-* **Security in-a-Box** est un guide sur la sécurité numérique pour les activistes et les défenseurs des droits de l’Homme produit par Frontline Defenders et le Tactical Technology Collective : [https://securityinabox.org/es](https://securityinabox.org/es)
-
-* **The Monitoring Project of the Andean Amazon** (MAAP) recueille des données et des cartes pour la surveillance de l’Amazonie andine : [http://maaproject.org/acerca-d-maap/](http://maaproject.org/acerca-d-maap/)
-
-* **Frontline Defenders** offre des formations et des ressources pour les défenseurs des droits de l’Homme : [http://www.frontlinedefenders.org/es/](http://www.frontlinedefenders.org/es/)
-
-* **Le Manuel de l’Open Data** contient des indications pour se procurer et utiliser de l’open data **:**[http://opendatahandbook.org/es](http://opendatahandbook.org/es)
-
-* **WITNESS** a une bibliothèque de ressources sur l’utilisation de la vidéo de manière sécurisée et efficace :[http://library.witness.org](http://library.witness.org/)
-
-* **Video4Change** rassemble des guides, des manuels et d’autres ressources utiles pour les vidéoactivistes : [https://www.v4c.org/es/espanol](https://www.v4c.org/es/espanol)
-
-* **Global Forest Watch** est un système de surveillance et d’alerte qui collecte des données sur les paysages forestiers mondiaux :[http://www.globalforestwatch.org/](http://www.globalforestwatch.org/)
-
-* **CLASlite** est conçu pour fournir une cartographie et un système de surveillance des forêts mis à jour chaque semaine grâce à des images satellite à haute résolution : [http://claslite.carnegiescience.edu/en/index.html](http://claslite.carnegiescience.edu/en/index.html)
-
-* **Datahub** est une plateforme de gestion de données qui vous permet de rechercher des données, d’enregistrer des fichiers de données publiés, de créer et de gérer des groupes de fichiers et d’être informé des mises à jour des fichiers et des groupes qui vous intéressent : [http://datahub.io](http://datahub.io/es)
+- **Environmental News Lab **memberikan tools dan tutorial mengenai pelaporan isu-isu lingkungan di Brasil dan di sepanjang kawasan Amazon [http://lab.oeco.org.br/](http://lab.oeco.org.br/)
+- **Geojournalism.org** memberikan sumber daya dan pelatihan online bagi wartawan, designer dan developer untuk memvisualisasi data geografis [http://geojournalism.org/](http://geojournalism.org/)
+- **Imazon** memberikan peta bulanan tentang deforestasi di kawasan Amazon [http://imazon.org.br/](http://imazon.org.br/)
 
 #### tiếng Việt
 
-* **Security in-a-Box** est un guide sur la sécurité numérique pour les activistes et les défenseurs des droits de l’Homme produit par Frontline Defenders et le Tactical Technology Collective : [https://info.securityinabox.org/vi](https://info.securityinabox.org/vi)
-
-* **Datahub** est une plateforme de gestion de données qui vous permet de rechercher des données, d’enregistrer des fichiers de données publiés et de créer et gérer des groupes de fichiers : [http://datahub.io/vi/about](http://datahub.io/vi/about)
+- **Security in-a-Box** adalah panduan keamanan digital untuk aktivis dan pembela HAM di seluruh dunia yang dibuat oleh Frontline Defeners and Tactical Technology Collective [https://info.securityinabox.org/vi](https://info.securityinabox.org/vi)
+- **Datahub** adalah platform manajemen data yang membantu Anda mencari data, mendaftarkan dataset yang telah dipublikasikan, membuat dan mengelola sekelompok dataset [http://datahub.io/vi/about](http://datahub.io/vi/about)
 
 ---
 
