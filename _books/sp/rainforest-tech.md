@@ -24,10 +24,7 @@ categories:
 
 ## Introducción
 
-La presente guía es una introducción al uso de la tecnología para monitorear los bosques lluviosos e intercambiar información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar avances tecnológicos en la mejora de sus esfuerzos de defensa; puede servir igualmente a aquellas organizaciones que ya cuentan con cierta experiencia en el uso de la tecnología para reflejar cómo pueden aumentar el impacto de sus esfuerzos.
-
-
-It is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
+La presente introducción es parte de una Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org).
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
@@ -135,9 +132,6 @@ Reconocer que **será necesario designar recursos para la enseñanza de usos efe
 * **Recopilar y presentar datos de manera rigurosa y hacerse responsable de la misma:** Los datos pueden ser utilizados con fines engañosos. Tener en cuenta cualquier supuesto que pueda afectar cómo se recopila y se analiza la información. Si se identifican errores o faltas, es importante hacerlos evidentes al compartir o publicar la información.
 
 ## Planificación
-<a name="strategy"></a>This section draws on the Transparency and Accountability Initiative’s [‘Fundamentals’ guide](http://tech.transparency-initiative.org/fundamentals/), which is a great place to go for more tips.
-
-### <a name="planning"></a>Planning
 
 #### Coincidir en las bases: estrategia, visión y “control de salud organizacional”
 
@@ -443,7 +437,7 @@ Determinar qué información necesita su público; si éste no logra comprender 
 	<p><b>Contribución</b></p>
 	<ul>
 		<li>El video logró amplia distribución en línea por parte de blogueros, como prueba de un incidente que de otra manera hubiese podido terminar ignorado por el público en general.</li>
-		<li>Se realizaron marchas de solidaridad alrededor del mundo y se estableció una comisión gubernamental  para investigar el incidente. En 2013, el organismo gubernamental peruano responsable de los pueblos indígenas reconoció de manera oficial que Pueblos indígenas que viven en aislamiento voluntario residen en la región Napo-Tigre (aunque la campaña para establecer una reserva indígena sigue en marcha). <a href=" http://hub.witness.org/en/blog/social-media-and-online-technologies-indigenous-rights-peru">35</a></li>
+		<li>Se realizaron marchas de solidaridad alrededor del mundo y se estableció una comisión gubernamental  para investigar el incidente. En 2013, el organismo gubernamental peruano responsable de los pueblos indígenas reconoció de manera oficial que Pueblos indígenas que viven en aislamiento voluntario residen en la región Napo-Tigre (aunque la campaña para establecer una reserva indígena sigue en marcha).</li><a href="http://hub.witness.org/en/blog/social-media-and-online-technologies-indigenous-rights-peru">35</a>
 	</ul>
 </blockquote>
 
