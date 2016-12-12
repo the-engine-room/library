@@ -78,6 +78,18 @@ En 2014, ConservationDrones y el Sumatran Orangutan Conservation Programme (SOCP
 * Sin la fotografía aérea, quizá no hubiese sido posible descubrir la tala: los taladores habían escondido sus actividades sobre el terreno dejando una banda de árboles alrededor del área talada.
 * ConservationDrones y SOCP presentó las pruebas a los funcionarios de los parques, quienes lograron frenar la tala ilegal en el área.
 
+### Otros recursos
+* El sitio **Conservation Drones** contiene una guía para construir drones y ejemplos de su uso en esfuerzos de conservación: [http://conservationdrones.org/](http://conservationdrones.org/2014/10/24/recycle/)
+
+* **DIY Drones** contiene una guía básica sobre los VANTs: [http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs)
+
+* **Public Laboratory** ofrece guías y soporte para la construcción de voladores, globos y sensores para propósitos de mapeo: [http://publiclaboratory.org](http://publiclaboratory.org/wiki/kite-mapping)
+
+* La red **Humanitarian UAV (UAViators)** cuenta con una gran variedad de información útil: [http://uaviators.org/about-this-site-rules](http://uaviators.org/about-this-site-rules) y una encuesta sobre leyes que afectan el vuelo de drones alrededor del mundo: [http://wiki.uaviators.org/doku.php](http://wiki.uaviators.org/doku.php)
+
+* Guía de **Geojournalism** para mapeo con globos: [http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/)
+
+* NetHope de **Solutions Center** ofrece webinars y recursos sobre el uso de drones: [http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles)
 
 ### **Acerca de este sitio**
 Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
