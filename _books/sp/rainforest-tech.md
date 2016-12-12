@@ -377,124 +377,124 @@ Si se identifican individuos en los datos recopilados, su personal, sus aliados 
 
 <a name="usethedata"></a>
 
-### Use the data
+### Uso de datos
 
-Now you’ve collected the data, you need a [carefully planned campaign strategy](http://www.fern.org/sites/fern.org/files/provokingchange_LR.pdf) to use it well.
+Ahora que se ha recopilado un conjunto de datos, es necesario planificar una estrategia de campaña apropiada para utilizar información de la manera correcta.
 
-#### Planning your campaign
+#### Planificación de la campaña
 
-##### Map out the field
+##### Mapa de campo
 
-List all the people and organisations that are involved in an issue. Be as specific as possible: avoid broad categories (like ‘the public’ or ‘government officials’) and choose specific sub-groups (like business journalists). Then group them into three categories:
+Crear un listado preciso de todas las personas y organizaciones involucradas en el asunto. Evitar categorías generales (por ejemplo, “el público” o “funcionarios del gobierno”) y seleccionar subgrupos específicos (por ejemplo, periodistas de negocios). A continuación, agruparlos en las tres categorías siguientes:
 
-* Allies – people or organisations that already support what you do. **You need to get these people to actively support your campaign.**
-* Neutral parties – people who are not currently involved. **You need to educate these people to turn them into allies.**
-* Opponents – people who oppose the change you want to see. **You need to counter these people – either by changing their mind or limiting the impact they can have.**
+* Aliados – personas u organizaciones que apoyan sus esfuerzos. **Hay que lograr que brinden apoyo activo a su campaña.**
+* Partes neutrales – personas que no participan actualmente. **Hay que educar a estas personas y convertirlas en aliadas.**
+* Opositores – personas que oponen el cambio que desea lograr. **Hay que contrarrestar a estas personas, ya sea logrando que cambien de opinión o limitando su impacto.**
 
-##### Identify allies
+##### Identificar aliados 
 
-Any advocacy campaign needs a network of allies. Plan how to engage the groups you listed above, keeping them interested and involved. Think creatively about whether you can help each other: would your data be useful for them? Do they have contacts that you need?
+Toda campaña de defensa necesita una red de aliados. Planificar cómo involucrar a los grupos incluidos en el listado anterior y mantener su interés y participación. Considerar de manera creativa cómo se pueden brindar ayuda mutua: ¿Les serían útiles los datos recopilados en este proyecto? ¿Cuentan ellos con contactos que usted necesite?
 
 <blockquote>
- <h5>Case study: Using your allies</h5>
- <p>In 2007, the Chilean organisation Movement for the Defence of the Environment (MODEMA) produced a series of posters of the Punta de Choros to make local residents aware of the risks of building four thermoelectric plants. The posters were seen by a visiting group of Chilean video-makers, who filmed a documentary about the area and started a campaign called Chao Pescao (‘Bye-Bye Fish’ in Spanish).</p>
- <p><b>How did it help?</b></p>
+ <h5>Caso de estudio: usar aliados</h5>
+ <p>En 2007, la organización chilena Movimiento en Defensa del Medio Ambiente (MODEMA) produjo una serie de afiches sobre la Punta de Choros para concientizar a los residentes locales sobre los riesgos que implicaría construir cuatro plantas termoeléctricas. Al ver los afiches, un grupo de camarógrafos chilenos que visitaba la región decidió filmar un documental sobre el área e inició una campaña llamada Chao Pescao.</p>
+ <p><b>Contribución</b></p>
  <ul>
- <li>The groups worked together to increase their impact. As the campaign grew, more allies got involved, with national media covering the issue for over ten days.</li>
- <li>The campaign combined online and offline tactics: the documentary was screened on the streets of the capital Santiago using bicycle-powered cinemas, and citizen demonstrations were immediately uploaded and shared through YouTube and among the 10,000 members of Chao Pescao's <a href="https://www.facebook.com/groups/172364371563/?ref=br_rs">Facebook group</a> </li>
- <li>In January 2010 the government <a href="https://archive.informationactivism.org/en/chaopescao">cancelled</a> building the thermoelectric plants, and new presidential candidates were pressured to keep Punta de Choros clean.</li>
+ <li>Los grupos obraron juntos para aumentar su impacto. A medida que creció la campaña, aumentó la participación de otros aliados y se logro cobertura del problema en los medios nacionales durante más de diez días.</li>
+ <li>La campaña combinó tácticas en línea y sobre el terreno: se proyectó el documental en las calles de Santiago utilizando cines accionadas por bicicletas y las demostraciones de ciudadanos se publicaron de inmediato por YouTube y se compartieron con 10.000 miembros del grupo de Facebook Chao Pescao.</li>
+ <li>En enero del 2010, el gobierno canceló la construcción de las plantas termoeléctricas y los nuevos candidatos presidenciales fueron objeto de presión para preservar Punta de Choros. <a href="https://archive.informationactivism.org/en/chaopescao
+">34</li>
  </ul>
 </blockquote>
 
-##### Choose a target audience
+##### Seleccionar público
 
-Choose one or more of these groups whose behaviour you want to change: they are your target audience. Do you want civil servants to change policy on land rights, or get a company to improve forest management practices? Avoid targeting very large groups: the more difficult it will be to craft relevant campaign messages.
+Elegir uno o más grupos cuya conducta se desea cambiar: estos constituyen su público objetivo. ¿Desea que los funcionarios públicos cambien una política sobre derechos de tierras, o lograr que una compañía mejore sus prácticas de manejo forestal? Evitar seleccionar un grupo demasiado grande ya que se dificulta construir mensajes de campaña relevantes.
 
 <blockquote>
-	<h5>Case study: Choosing your target</h5>
-	<p>Indonesian organisation Aliansi Masyarakat Adat Nusantara (AMAN) received information through its SMS reporting platform that 30 people had been detained in north Sumatra (Indonesia) for allegedly obstructing a company's operations.</p>
-	<p><b>How did it help?</b></p>
+	<h5>Caso de estudio: selección del objetivo</h5>
+	<p>La organización indonesia Aliansi Masyarakat Adat Nusantara (AMAN) recibió información a través de su plataforma de reportajes por SMS acerca de 30 personas que habían sido detenidas en Sumatra norte (Indonesia) por una supuesta obstrucción de las operaciones de una compañía.</p>
+	<p><b>Contribución</b></p>
 	<ul>
-		<li>AMAN used the information from the SMS alert to identify who had detained them – and who they should target in their advocacy campaign.</li>
-		<li>They then created a team of communications, mapping and legal experts, who successfully lobbied for the people to be released.</li>
+		<li>La AMAN utilizó la información de la alerta SMS para identificar quién los había detenido, es decir, quién debería ser el objetivo de su campaña de defensa.</li>
+		<li>A continuación, crearon un equipo de expertos en comunicaciones, mapeo y materia jurídica que logró ejercer presión para que se liberara al grupo detenido.</li>
 	</ul>
 </blockquote>
 
-##### Figure out how to reach that group
+##### Determinar cómo alcanzar al grupo objetivo
 
-Start with what you already know: where do they get their information? What are they interested in? What media do they use? What kind of change can they realistically influence? Fill in the gaps in your knowledge: go public meetings, scan social media or meet people directly.
+Partir de lo que ya se conoce: ¿Dónde obtiene el grupo su información? ¿Cuáles son sus intereses? ¿Qué medios usan? ¿Qué tipo de cambio son capaces de influenciar? Compensar las carencias de información: asistir a reuniones públicas, explorar los medios los medios sociales o reunirse con las personas directamente.
 
-#### Running your campaign
+#### Llevar a cabo la campaña
 
-##### Choose the right tactics for the situation
+##### Seleccionar tácticas adaptadas a la situación
 
-Use your knowledge of your data and target audience to decide which tactics you should use:
+Utilizar el conocimiento existente acerca de sus datos y el público objetivo para determinar decide qué tácticas utilizar:
 
-##### Present data in a way your target audience can use and understand
+##### Presentar los datos en un formato que el público pueda comprender y utilizar
 
-Find out what information your audience needs. If your audience doesn’t understand your data or work out what to do with it, they won’t act on it. Sometimes you might want to target a particular newspaper’s readers; at others, you might need to give input to policy documents.
+Determinar qué información necesita su público; si éste no logra comprender los datos o concretar cómo utilizarlos no podrá actuar en base a ellos. A veces el público objetivo será los lectores de un periódico en particular; otras, se necesitarán aportes a documentos normativos.
 
-**Think about both the words you use and the way you present them:** Choose the words you use carefully and think about developing different materials for different groups. Some groups might not know the technical terms involved in land rights negotiations, while others might only take you seriously if you use them. Using English might let you reach an international audience, but could limit your reach in your home country. Vary how you present your data according to your audience. Members of the public with limited time may only read a short summary of your findings, while policy-makers may need detailed reports.
+**Considerar las palabras utilizadas y la manera en que se presentan:** Elegir cuidadosamente las palabras utilizadas y considerar maneras de elaborar material apropiado a distintos grupos. Ciertos grupos no conocerán los términos técnicos relacionados a negociaciones de derechos de tierras; otros quizá no tomen en serio su material a menos que se utilice dicha terminología. Usar el inglés puede ayudar a alcanzar un público internacional pero puede limitar el alcance dentro de su país. La presentación de los datos deberá variar según el público al que se dirige. Habrá miembros del público con tiempo limitado que solamente deseen leer un breve resumen de los resultados, mientras que las autoridades reglamentarias tal vez requieran informes detallados.
 
 <blockquote>
-	<h5>Case study: Using video footage to mobilise support</h5>
-	<p>In 2009, the Peruvian organisation <a href="http://www.aidesep.org.pe/">AIDESEP</a>recorded eyewitness footage of police violence against a group of indigenous people in Bagua region and uploaded it to the video sharing site YouTube.</p>
-	<p><b>How did it help?</b></p>
+	<h5>Caso de estudio: usar video para movilizar apoyos</h5>
+	<p>En 2009, la organización peruana AIDESEP grabó videos de testigos de violencia policial contra un grupo de pueblos indígenas en la región Bagua y publicó el video por YouTube.</p>
+	<p><b>Contribución</b></p>
 	<ul>
-		<li>The video was distributed widely online by bloggers, providing evidence of an incident that might otherwise have been ignored by a wider audience.</li>
-		<li>Solidarity marches took place worldwide and a government commission was established to investigate the incident. In 2013 Peru's state entity responsible for indigenous peoples officially recognised that people living in voluntary isolation were resident in the Napo-Tigre region (although a campaign to establish an indigenous reserve is still <a href="http://hub.witness.org/en/blog/social-media-and-online-technologies-indigenous-rights-peru">continuing</a>).</li>
+		<li>El video logró amplia distribución en línea por parte de blogueros, como prueba de un incidente que de otra manera hubiese podido terminar ignorado por el público en general.</li>
+		<li>Se realizaron marchas de solidaridad alrededor del mundo y se estableció una comisión gubernamental  para investigar el incidente. En 2013, el organismo gubernamental peruano responsable de los pueblos indígenas reconoció de manera oficial que Pueblos indígenas que viven en aislamiento voluntario residen en la región Napo-Tigre (aunque la campaña para establecer una reserva indígena sigue en marcha). <a href=" http://hub.witness.org/en/blog/social-media-and-online-technologies-indigenous-rights-peru">35</a></li>
 	</ul>
 </blockquote>
 
-#### Check whether your campaign is working
+#### Evaluar la efectividad de la campaña
 
-If you can analyse different parts of your campaign while it’s in progress, you’ll be able to work out where to focus your effort.
+Es posible concentrar los esfuerzos de la campaña si se logra analizar distintas partes de la misma a medida que progresa.
 
-##### What to track
+##### Factores a evaluar
 
-The list of potential sources to check how people are responding is long, but monitoring everything can be time-consuming: focus the most important sources for your campaign. Three things you should be tracking:
+Existen numerosas fuentes que permiten verificar respuestas a una campaña pero hacer un seguimiento de todos los elementos puede tardarse mucho tiempo: es mejor concentrarse en las fuentes más importantes. Se debe hacer seguimiento a tres factores:
 
-* Who is talking about the issue: has it changed during your campaign?
-* Your data or campaign message: is it being mentioned in public? Where, and how?
-* Your target audience, opponents and allies: have they responded to the campaign, or changed in any way?
+* ¿Quién está hablando del tema? ¿Ha cambiado durante la campaña?
+* Los datos o mensaje de la campaña: ¿Lo ha mencionado el público? ¿Dónde? ¿Cómo?
+* El público objetivo, los opositores y los aliados: ¿Han respondido a la campaña o cambiado o manifestado algún cambio?
 
-##### Make progress measurable
+##### Progreso mensurable
 
-Create targets that you want your campaign to achieve and track progress against them. Good targets are 'SMART':
+Crear objetivos que desea alcanzar con la campaña y medir el progreso en base a los mismos. Todo buen objetivo es inteligente, o “SMART” (por sus siglas en inglés):
 
-* **S**pecific - make a precise definition of what you are measuring (for example, the number of newspaper articles that use your data on incursions into indigenous land)
-* **M**easurable - choose things that can be counted, like the number of people that sign a petition in one month.
-* **A**chievable - don’t aim to reach 100% of a particular group, unless it’s actually feasible
-* **R**elevant - pick useful indicators: for example, if your audience doesn’t use social media much, don’t measure it.
-* **T**ime-bound - pick a time by which you expect to have achieved your goal.
+* **Specific** – Específico: contar con una definición precisa de lo que se está midiendo (por ejemplo, el número de artículos de prensa que utilizan sus datos en incursiones a tierras indígenas).
+* **M**easurable – Mensurable: seleccionar factores que se pueden contar (por ejemplo, el número de personas que firmaron una petición en un mes).
+* **A**chievable – Alcanzable: no buscar alcanzar el 100% de un grupo en particular a menos que sea en realidad factible.
+* **R**elevant – Relevante: seleccionar indicadores útiles: por ejemplo, si su audiencia no hace mucho uso de los medios sociales, no medir dicho factor.
+* **T**ime-bound – Plazo limitado dentro del cual se espera alcanzar la meta.
 
-##### Using technology to track your campaign
+##### Usar la tecnología para el seguimiento de la campaña
 
-Technology tools can improve advocacy campaigns in a number of ways, from monitoring campaigns, to managing data, to visualizing data for powerful presentations. For suggestions on using technology to track media attention, user engagement or project implementation, see this [guide](https://www.theengineroom.org/diy-for-me). The [Visualising Advocacy](https://visualisingadvocacy.org) gives many more examples of things that you can do with your data.
+Las herramientas tecnológicas pueden complementar las campañas de defensa de varias maneras, entre ellas, el seguimiento de una campaña, el manejo de datos y la visualización de datos para crear presentaciones impactantes. [36](https://www.theengineroom.org/diy-for-me) [37](https://visualisingadvocacy.org)
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
-	<h5 style="color:white">Responsible data box: Publishing data responsibly</h5>
-	<p style="color:white">If you use an external online service to visualise or present your data, remember the risks. Once you have uploaded your data, you can’t always know whether the company can access it or will provide it to other people, or what would happen if that service went out of business. If you do decide to upload data to them, try not to  include data that could put people at risk.</p>
+	<h5 style="color:white">Información sobre uso responsable de datos: Publicación responsable de los datos</h5>
+	<p style="color:white">Es importante tener en cuenta los riesgos de utilizar un servicio en línea externo para visualizar o presentar los datos. Una vez cargados los datos, no siempre es posible saber si la compañía puede acceder a ellos, si los hará disponibles a terceros o qué sucederá con los datos si el servicio deja de operar.</p>
 </blockquote>
 
-## Matching objectives with tools
+## Adaptar las herramientas a los objetivos
 
-Are you clear about your organisation’s goals but not sure where technology could fit in? A few common objectives are listed in the table below, with some types of tools that might help achieve them.
+¿Su organización tiene metas claras pero ignora cómo encaja la tecnología? El siguiente cuadro enumera algunos objetivos comunes y algunos tipos de herramientas que pueden contribuir a alcanzarlos.
 
-Keep in mind that technology tools can only help achieve these objectives when they fit into a well-designed programme strategy. The [Strategy](#strategy) section gives tips for thinking about how to ensure a tool fits with your priorities, and the [Tools](#tools) section provides more detail on each tool.
+Se debe tener en cuenta que las herramientas tecnológicas solamente pueden contribuir a alcanzar los objetivos cuando se ajustan a una estrategia de proyecto bien diseñada. La **sección Estrategia** propone maneras de verificar que una herramienta se ajuste a sus prioridades; la **sección Herramientas** contiene mayores detalles sobre cada herramienta.
 
-Remember, the best tool for different objectives will be different in every situation. The table below shows some common uses, but isn’t a roadmap.
+Cabe recordar que la mejor herramienta para distintos objetivos varía según cada situación. El cuadro siguiente, sin pretender ser una hoja de ruta, presenta algunos usos comunes.
 
-
-| Objective     | Tools that could help achieve that objective |
+| Objetivo     | Herramientas que pueden contribuir a alcanzar el objetivo |
 | ------------- | -------------------------------------------- |
-| Starting or supporting dialogue between communities and the government | Participatory mapping, Video and audio |
-| Providing evidence to governments to encourage them to recognise indigenous lands | Participatory mapping, Online mapping, DIY aerial photography, Mobile applications, Video and audio |
-| Collecting evidence of deforestation or forest degradation | Satellite mapping, Participatory mapping, Mobile applications, DIY aerial photography, Video and Audio |
-| Providing evidence of wrongdoing towards individuals or communities| Mobile applications, Video and Audio |
-| Providing evidence of companies’ wrongdoing in their use of land | Satellite mapping, Online mapping, DIY aerial mapping, Video and audio, Mobile applications |
-| Recording and monitoring the environmental value of areas of land | Satellite mapping, Online mapping, Participatory mapping, Mobile applications, DIY aerial mapping |
-| Supporting communities by presenting and providing knowledge | Participatory mapping, Audio and Video, DIY aerial photography |
+| Dar inicio o apoyo al diálogo entre las comunidades y el gobierno | Mapeo participativo, video y audio |
+| Presentar pruebas a los gobiernos para lograr que reconozcan las tierras indígenas | PMapeo participativo, mapas en línea, fotografía aérea creada por usuarios, aplicaciones móviles, video y audio |
+| Registrar pruebas de deforestación o degradación forestal | Mapas satelitales, mapeo participativo, aplicaciones móviles, fotografía aérea creada por usuarios, video y audio |
+| Presentar pruebas de irregularidades cometidas contra individuos o comunidades| Aplicaciones móviles, video y audio |
+| Presentar pruebas de irregularidades cometidas por las compañías en su uso de la tierra | Mapas satelitales, mapas en línea, mapeo aéreo creado por usuarios, Video and audio, aplicaciones móviles |
+| Grabar o monitorear el valor ambiental de terrenos | Mapas satelitales, mapas en línea, mapeo participativo, aplicaciones móviles, mapeo aéreo creado por usuarios |
+| Dar apoyo a las comunidades presentando y aportando conocimiento | Mapeo participativo, Audio and Video, fotografía aérea creada por usuarios |
 
 
 ## Tools
