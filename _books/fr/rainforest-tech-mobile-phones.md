@@ -1,21 +1,21 @@
 ---
 layout: rainforest
-title: Mobile Phone Applications
-description: An introduction to using mobile (cell) phone applications to collect and record data in rainforest-related projects for purposes including recording illegal mining or logging; biodiversity surveys; helping communities to map their own land; or validating government maps.<p>Part of the <a href="/rainforest-tech">Rainforest Technology</a> report.</p>
+title: Applications pour téléphones mobiles
+description: Introduction à l’utilisation d’applications pour téléphones mobiles (cellulaires) pour collecter et rapporter des données pour des projets liés aux forêts tropicales, afin d’apporter des preuves d’exploitation illégale de mines ou de bois; effectuer des relevés de la biodiversité; aider les communautés à cartographier leurs terres; ou valider les cartes établies par le gouvernement. <p>Extrait du rapport sur <a href="/rainforest-tech"> la Technologie pour les Forêts Tropicales</a>.</p>
 image: /media/index/mobile.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
 funder_link: //www.regnskog.no/en
 published: true
 navigation:
-  - What is it
-  - How it can help
-  - Tools
-  - Cost
-  - Risks and challenges
-  - Case studies
-  - Further resources
-  - About
+  - Que sont les techniques audio et vidéo?
+  - Quelle en est l’utilité?
+  - Outils
+  - Coûts
+  - Risques et difficultés
+  - Études de cas
+  - Ressources complémentaires
+  - À propos
 ref: rt-mp
 lang: fr
 categories:
@@ -34,7 +34,7 @@ This introduction to mobile phone applications is part of a [Primer for using te
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
-### What is it
+### Que sont les techniques audio et vidéo?
 
 * Les applications (ou « applis ») mobiles sont des logiciels de programme fonctionnant sur des appareils mobiles tels que les téléphones et les tablettes tactiles. Dans les projets liés à la forêt tropicale, elles sont principalement utilisées pour collecter des données sur le terrain et les transmettre directement à une organisation.  
 * Les applications mobiles ont de nombreuses utilisations possibles, dont recueillir des preuves de coupe de bois ou d’exploitation minière illégales, surveiller la biodiversité, aider les communautés à cartographier leurs territoires ou valider les cartes élaborées par le gouvernement. 
@@ -47,9 +47,11 @@ Une des approches les plus communes consiste à fournir aux observateurs foresti
 
 ### Outils
 
-La gamme des applications existantes est vaste : la plus pertinente pour vous dépend du volume de données à collecter, de votre besoin en soutien technique, et du niveau de spécificité de vos besoins. Des sites internet peuvent vous aider à identifier les outils et applications mobiles les plus adaptés, dont Humanitarian Nomad (http://humanitarian-nomad.org/online-selection-tool/) et Solutions Center ( http://solutionscenter.nethope.org/).
+La gamme des applications existantes est vaste : la plus pertinente pour vous dépend du volume de données à collecter, de votre besoin en soutien technique, et du niveau de spécificité de vos besoins. Des sites internet peuvent vous aider à identifier les outils et applications mobiles les plus adaptés, dont Humanitarian Nomad (http://humanitarian-nomad.org/online-selection-tool/) et Solutions Center (http://solutionscenter.nethope.org/).
 
-### Coût – trois facteurs d’influence 
+### Coûts
+
+Il y a trois facteurs d’influence: 
 
 **Le type d’appareil :** Les traceurs GPS spécifiques ont souvent une plus longue durée de vie et une plus grande autonomie de charge, mais les téléphones mobiles sont assez précis pour les activités en forêt tropicale. Les Smartphones avec un système d’exploitation Android coûtent moins de 100 dollars US, et leur prix baisse constamment. Si vous n’utilisez que des fonctions simples, les téléphones numériques de base sont l’option la moins coûteuse. Vous pouvez les utiliser pour collecter des données à l’aide de SMS ou de programmes utilisant un code Java (J2ME).
 
@@ -69,7 +71,7 @@ La suite d’applications ArcGIS est un produit SIG de très haute qualité qui 
 
 Il est impossible de collecter et partager des données de manière totalement sécurisée sur des téléphones mobiles à cause de la conception même de ces appareils (pour en connaître les raisons, voir See Security in a Box for : https://securityinabox.org/en/guide/mobile-phones). Cette faille peut mettre en danger les personnes qui recueillent les informations ; le simple fait de posséder une application présente un danger pour les observateurs communautaires. Les peuples et l’environnement peuvent aussi être menacés par l’impact des informations que vous publiez sur eux (voir les sections « données responsables » de la partie Stratégie ).
 
-### Cas d’étude :
+### Études de cas
 
 #### Utilisation d’observateurs communautaires pour la cartographie au Guyana.
 
@@ -90,42 +92,37 @@ La Commission pro-indienne d’Acre (Comissão Pró-Indio do Acre, ou CPI-AC) a 
 * Les informations que les peuples autochtones ont collectées ont été utilisées pour élaborer des cartes qui démontrent le problème et pour présenter des preuves des pires situations.
 * Une de ces cartes des invasions a été soumise à l’ancien ministre de l’Environnement, ce qui a incité le gouvernement fédéral à adopter des actions multisecteurs pour prévenir les invasions.
 
-
-#### Using participatory mapping with online maps for advocacy in the Congo Basin
-
-In 2013, Rainforest Foundation UK used the [MappingForRights](http://mappingforrights.org) (MfR) platform to present information about the presence, land use and rights of indigenous peoples and other forest-dependent communities in the Congo Basin. MfR allows It enables communities to map their lands through simple icon-based apps that can be downloaded onto most Android phones.
-
-**How did it help?**
-
-* Communities in the region used MfR to defend their rights in relation to strictly protected areas and lobby for community forest legislation.
-* Authorised users can view the data through an [online interactive map](http://mappingforrights.org), which also shows the use of (and claims on) particular forest areas. This allows users to identify where logging activities, and infrastructure and agricultural expansion, affect areas, as well as analysing the implementation of REDD projects and protected areas..
-MfR was used to inform a major REDD project development in Democratic Republic of Congo support the development of a new mapping tool aimed at reducing the damage caused by palm oil expansion in Cameroon.
-
 ### Further resources
 
-* The [Guardian Project](https://guardianproject.info/)’s [CameraV app](https://guardianproject.info/apps/camerav) can help to collect video and photo evidence securely and in a way that can be verified by others.
-* The [StoryMaker](http://smallworldnews.tv/projects/storymaker/) app for Android phones helps you create multimedia stories on your Android device
-* [WITNESS](http://library.witness.org ) and [Video4Change](https://www.v4c.org/en/resources) both have useful resource libraries on using video in your work 
-* [Small World News](http://smallworldnews.com/guides) offers guides on making video and audio 
-* [Audacity](http://www.audacityteam.org/download/) offers free audio editing capabilities, while [Lightworks](http://www.lwks.com/) Free version can tackle many simple video editing tasks
+* **CameraV** du Guardian Project est un plugin fonctionnant avec l’application Android **Obscuracam **qui permet de recueillir des preuves vidéo et audio en toute sécurité pouvant être vérifiées : [https://guardianproject.info/apps/camerav] (https://guardianproject.info/apps/camerav) et [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam) 
 
-### About 
+* L’application **StoryMaker** pour les téléphones Android permettent de créer des articles multimédias sur un téléphone Android :[ http://smallworldnews.tv/projects/storymaker/](http://smallworldnews.tv/projects/storymaker/) 
 
-This site was created by __[Rainforest Foundation Norway](www.regnskog.no/en/)__ and __[The Engine Room](//theengineroom.org)__  as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. [*Download the whole primer here.*](media/rainforest/Rainforest-tech-primer.pdf)
-  
-Rainforest Foundation Norway (RFN) is one of the world's leading organisations in the field of rights-based rainforest protection. Its mission is to support indigenous peoples and traditional populations of the world's rainforests in their efforts to protect their environment and fulfil their rights by assisting them in:
+* **WITNESS** et** Video4Change** disposent de bibliothèques utiles pour l’utilisation de vidéos pour accompagner vos activités : [https://www.v4c.org/en/resources](https://www.v4c.org/en/resources) et [http://library.witness.org](http://library.witness.org/) 
 
-- Securing and controlling the natural resources necessary for their long-term well-being and managing these resources in ways which do not harm their environment, violate their culture or compromise their future;
-- and developing the means to protect their individual and collective rights and to obtain, shape, and control basic services from the state.
+* **Small World News **fournit des guides pour la réalisation de produits vidéo et audio : [http://smallworldnews.com/guides](http://smallworldnews.com/guides) 
 
-RFN collaborates closely with more than 70 local and national environmental, indigenous and human rights organisations in 11 countries in the Amazon region, Central Africa, Southeast Asia, and Oceania.
-  
-#### Contributors
-  
-The Engine Room is an international organisation that helps activists, social change organisations, and change agents make the most of data and technology to increase their impact. The Engine Room provides direct, project-level support for social change organisations; brings together communities to coordinate emerging ideas and collect practitioners; and documents and publishes findings to help anyone in the sector make better decisions about using data and technology.
+* **Audacity** est un logiciel de montage audio gratuit [http://audacity.sourceforge.net/](http://audacity.sourceforge.net/), et **Lightworks Free** peut prendre en charge de nombreuses fonctions simples de montage vidéo: http://www.lwks.com/
 
-[Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) and [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) researched and wrote the main narrative, while [Ruth Miller](http://ruthmiller.net/) led work on the design and visuals creation. Vemund Olsen and Christopher Wilson provided invaluable input and editing support. The site sourcecode is available on [Github](https://github.com/the-engine-room/library/). Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org) or [rainforest@rainforest.no](rainforest@rainforest.no).
+### À propos 
 
+Ce site a été créé par la [Rainforest Foundation Norway](http://regnskog.no/en/) et [The Engine Room](https://theengineroom.org/) comme introduction à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale, le droit à la terre et les droits des peuples forestiers. Téléchargez le guide introductif complet ici.
+
+Des commentaires ou des questions ? Écrivez à [post@theengineroom.org](mailto:post@theengineroom.org) ou à [rainforest@rainforest.no](mailto:rainforest@rainforest.no).
+
+Rainforest Foundation Norway (RFN) est une organisation phare au niveau mondial dans protection des forêts tropicales basée sur les droits. Elle a pour mission de soutenir les peuples autochtones et les communautés traditionnelles vivant dans les forêts tropicales à travers le monde dans la protection de leur environnement, et d’assurer le respect de leurs droits en les aidant à: 
+
+* Sécuriser et contrôler les ressources naturelles nécessaires à leur bien-être à long terme, et gérer ces ressources d’une manière qui ne nuise pas à leur environnement, ne porte pas atteinte à leur culture et ne compromette pas leur avenir;
+
+* Développer les moyens de protéger leurs droits individuels et collectifs et obtenir, adapter et contrôler les services de base fournis par l’état. 
+
+RFN collabore étroitement avec plus de 70 organisations locales et nationales œuvrant à la protection de l’environnement, des droits des peuples autochtones et des droits de l’homme dans 11 pays d’Amazonie, d’Afrique Centrale, d’Asie du Sud-Est et d’Océanie. 
+
+#### Auteurs 
+
+The Engine Room est une organisation internationale qui aide les activistes, les organisations de promotion du changement social et les acteurs du changement à tirer parti des données et de la technologie pour accroître leur influence. The Engine Room offre un soutien direct aux projets des organisations de promotion du changement social; fédère les communautés afin de coordonner les idées émergentes et d’identifier des spécialistes ; et publie des recommandations étayées pour aider tous les membres du secteur à prendre les décisions adéquates pour l’utilisation des données et de la technologie. 
+
+[Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) et [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) ont effectué les recherches et rédigé les éléments principaux de l’ouvrage, et Ruth Miller a réalisé la mise en page et la conception graphique du document. Les contributions et les corrections apportées par Vemund Olsen et Christopher Wilson ont été d’un soutien inestimable. Le code source du site est disponible sur [Github](https://github.com/the-engine-room/library/).
 <hr>
 
-[Return to the Primer on Technology for Forest Peoples' Rights.](/rainforest-tech)
+Retour à [La Technologie pour les Forêts Tropicales.](/rainforest-tech)

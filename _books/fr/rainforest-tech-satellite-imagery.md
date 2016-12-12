@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Satellite Imagery
-description: An introduction to using satellite imagery in rainforest-related projects for analysing change over time in a forest area, or generating evidence of deforestation, trends like increased commercial activity, or visible results of forest degradation.<p>Part of the <a href="/rainforest-tech">Rainforest Technology</a> report.</p>
+description: Introduction à l’utilisation d’images satellite dans les projets liés à la forêt tropicale afin d’analyser les changements intervenus dans une zone au fil du temps, ou établir des preuves de déforestation, de tendances telles que l’augmentation des activités commerciales, ou de montrer les effets visibles de la dégradation forestière. <p>Extrait du rapport sur <a href="/rainforest-tech">la Technologie pour les Forêts Tropicales</a>.</p>
 image: /media/index/satellite.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
@@ -13,8 +13,9 @@ navigation:
   - Outils
   - Coût
   - Risques et difficultés
-  - Cas d’étude
-  - About
+  - Cas d’études
+  - Ressources complémentaires
+  - À propos
 ref: rt-si
 lang: fr
 categories:
@@ -28,9 +29,11 @@ categories:
 > * Consigner des preuves d’utilisations illégales des terres par les entreprises   
 > * Enregistrer et surveiller la valeur environnementale des terres ou des zones forestières.
 
-This introduction to satellite imagery is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
+Cette introduction est issue du [*Guide introductif à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale et les droits des peuples forestiers.*](/fr/rainforest-tech) Il fournit un point de départ aux organisations et activistes désireux d’intégrer des technologies en appui à leurs actions de plaidoyer, et est le fruit d’un partenariat entre la *[Rainforest Foundation Norway]*(http://www.regnskog.no/en/) et *[The Engine Room]*(https://theengineroom.org/).
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
+
+Téléchargez le guide introductif complet (1,6 MB pdf), ou consultez le en ligne ci-dessous.
 
 ## Qu’est-ce que l’imagerie satellite?
 
@@ -50,9 +53,11 @@ Il existe des outils open-source gratuits de très bonne qualité pour analyser 
 Les images satellite peuvent être gratuites (http://earthexplorer.usgs.gov/ ou l’outil Collect Earth d’OpenForis, qui analyse des données de Google Earth http://www.openforis.org/tools/collect-earth.html), ou vendues entre $10 et $50 par kilomètre carré pour les achats commerciaux (En général par un revendeur http://www.aaas.org/page/high-resolution-satellite-imagery-ordering-and-analysis-handbook#VI). Outre leur prix d’achat, les images satellite nécessitent beaucoup de travail et un investissement considérable en temps (pour analyser des milliers d’images à haute résolution), en ressources (des ordinateurs rapides) et en compétences (experts SIG). Global Forest Watch tente de pallier ces inconvénients, mais manque de souplesse et ne fournit pas d’images de haute qualité à même de montrer des changements de manière détaillée (voir **résolution**, ci-dessous).
 
 ### Risques et difficultés
-L’inconvénient principal de l’imagerie satellite réside dans la **résolution** des images, actuellement trop basse pour montrer des changements dans le détail. Global Forest Watch fournit des images à une échelle de 50 mètres par pixel, ce qui n’est pas très précis (il produit également des images à 30 mètres par pixel, mais une fois par an seulement, ce qui n’est parfois pas assez rapide pour pouvoir les utiliser comme preuve de déforestation). Ceci nous amène à un deuxième problème : **la mise à jour**. Les images sont généralement mises à jour mensuellement, et parfois annuellement ( Cette situation pourrait changer : des entreprises comme Planet Labs (www.planet.com) évoquent des images quotidiennes à l’avenir, alors que Libra fournit des données Landsat toutes les deux semaines (http://libra.developmentseed.org). Le projet MAAP vise à produire des mises à jour hebdomadaires pour l’Amazonie andine. (http://maaproject.org/about-maap/)). Ce délai permet les analyses historiques mais n’est pas pratique pour la surveillance en temps réel (toutefois, les photographies aériennes indépendantes IY Aerial Photography, page X, peut fournir des images plus à jour).
+L’inconvénient principal de l’imagerie satellite réside dans la **résolution** des images, actuellement trop basse pour montrer des changements dans le détail. Global Forest Watch fournit des images à une échelle de 50 mètres par pixel, ce qui n’est pas très précis (il produit également des images à 30 mètres par pixel, mais une fois par an seulement, ce qui n’est parfois pas assez rapide pour pouvoir les utiliser comme preuve de déforestation). 
 
-### Cas d’étude
+Ceci nous amène à un deuxième problème : **la mise à jour**. Les images sont généralement mises à jour mensuellement, et parfois annuellement ( Cette situation pourrait changer : des entreprises comme Planet Labs (www.planet.com) évoquent des images quotidiennes à l’avenir, alors que Libra fournit des données Landsat toutes les deux semaines (http://libra.developmentseed.org). Le projet MAAP vise à produire des mises à jour hebdomadaires pour l’Amazonie andine. (http://maaproject.org/about-maap/)). Ce délai permet les analyses historiques mais n’est pas pratique pour la surveillance en temps réel (toutefois, les photographies aériennes indépendantes IY Aerial Photography, page X, peut fournir des images plus à jour).
+
+### Cas d’études
 
 #### Combiner les données satellite avec d’autres sources d’information.
 
@@ -73,30 +78,32 @@ En janvier 2015, l’analyse réalisée par Greenomics-Indonesia de deux images 
 * Greenomics a utilisé l’information pour attaquer l’entreprise de papier Asia Pacific Resources International Holdings Limited (APRIL), qui a s’est publiquement engagée à mettre fin à toute nouvelle plantation d’ici janvier 2014.  
 * Greenomics a fait le choix de transmettre ces informations aux médias en anglais, et a rédigé une déclaration accompagnée d’images à l’appui de ses arguments. En mars 2015, APRIL a admis que des fautes avaient été commises et a renvoyé un entrepreneur et un responsable des plantations (http://www.greenomics.org/docs/Greenomics_Press-Release_SFMP_Violation-(LowRes).pdf).
 
-### Further resources
+### Ressources complémentaires
 
-* [Global Forest Watch](www.globalforestwatch.org) is an interactive online forest monitoring and alert system that provides satellite and other types of information
-* [MAAP (Monitoring of the Andean Amazon Project)](http://maaproject.org/about-maap/) is a project of Amazon Conservation Association and ACCA-Conservación Amazónica
-* [CLASlite](http://claslite.carnegiescience.edu/en/index.html) is designed to provide weekly updated high-resolution mapping and monitoring of forests with satellite imagery. (English and Spanish)
-* [AAAS’s Geospatial Technologies Project](http://www.aaas.org/case-studies) contains detailed case studies of how satellite imagery was collected, categorised and analysed to document human rights abuses
+* **Global Forest Watch** est un système de surveillance et d’alerte sur les forêts en ligne et interactif, qui contient des images satellite et d’autres informations : [www.globalforestwatch.org](http://www.globalforestwatch.org)
+* **CLASlite** est conçu pour fournir une cartographie et un système de surveillance des forêts mis à jour chaque semaine grâce à des images satellites à haute résolution : [http://claslite.carnegiescience.edu/en/index.html](http://claslite.carnegiescience.edu/en/index.html) (anglais et espagnol).
+* Le projet de technologies géospatiales de  **AAAS** contient des cas d’études détaillés sur la collecte, la catégorisation et l’analyse d’images satellites pour constituer des preuves de violations des droits de l’Homme : http://www.aaas.org/case-studies
 
-### About
+### À propos 
 
-This site was created by __[Rainforest Foundation Norway](www.regnskog.no/en/)__ and __[The Engine Room](//theengineroom.org)__  as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. [*Download the whole primer here.*](media/rainforest/Rainforest-tech-primer.pdf)
+Ce site a été créé par la [Rainforest Foundation Norway](http://regnskog.no/en/) et [The Engine Room](https://theengineroom.org/) comme introduction à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale, le droit à la terre et les droits des peuples forestiers. Téléchargez le guide introductif complet ici.
 
-Rainforest Foundation Norway (RFN) is one of the world's leading organisations in the field of rights-based rainforest protection. Its mission is to support indigenous peoples and traditional populations of the world's rainforests in their efforts to protect their environment and fulfil their rights by assisting them in:
+Des commentaires ou des questions ? Écrivez à [post@theengineroom.org](mailto:post@theengineroom.org) ou à [rainforest@rainforest.no](mailto:rainforest@rainforest.no).
 
-- Securing and controlling the natural resources necessary for their long-term well-being and managing these resources in ways which do not harm their environment, violate their culture or compromise their future;
-- and developing the means to protect their individual and collective rights and to obtain, shape, and control basic services from the state.
+Rainforest Foundation Norway (RFN) est une organisation phare au niveau mondial dans protection des forêts tropicales basée sur les droits. Elle a pour mission de soutenir les peuples autochtones et les communautés traditionnelles vivant dans les forêts tropicales à travers le monde dans la protection de leur environnement, et d’assurer le respect de leurs droits en les aidant à: 
 
-RFN collaborates closely with more than 70 local and national environmental, indigenous and human rights organisations in 11 countries in the Amazon region, Central Africa, Southeast Asia, and Oceania.
+* Sécuriser et contrôler les ressources naturelles nécessaires à leur bien-être à long terme, et gérer ces ressources d’une manière qui ne nuise pas à leur environnement, ne porte pas atteinte à leur culture et ne compromette pas leur avenir;
 
-#### Contributors
+* Développer les moyens de protéger leurs droits individuels et collectifs et obtenir, adapter et contrôler les services de base fournis par l’état. 
 
-The Engine Room is an international organisation that helps activists, social change organisations, and change agents make the most of data and technology to increase their impact. The Engine Room provides direct, project-level support for social change organisations; brings together communities to coordinate emerging ideas and collect practitioners; and documents and publishes findings to help anyone in the sector make better decisions about using data and technology.
+RFN collabore étroitement avec plus de 70 organisations locales et nationales œuvrant à la protection de l’environnement, des droits des peuples autochtones et des droits de l’homme dans 11 pays d’Amazonie, d’Afrique Centrale, d’Asie du Sud-Est et d’Océanie. 
 
-[Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) and [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) researched and wrote the main narrative, while [Ruth Miller](http://ruthmiller.net/) led work on the design and visuals creation. Vemund Olsen and Christopher Wilson provided invaluable input and editing support. The site sourcecode is available on [Github](https://github.com/the-engine-room/library/). Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org) or [rainforest@rainforest.no](rainforest@rainforest.no).
+#### Auteurs 
+
+The Engine Room est une organisation internationale qui aide les activistes, les organisations de promotion du changement social et les acteurs du changement à tirer parti des données et de la technologie pour accroître leur influence. The Engine Room offre un soutien direct aux projets des organisations de promotion du changement social; fédère les communautés afin de coordonner les idées émergentes et d’identifier des spécialistes ; et publie des recommandations étayées pour aider tous les membres du secteur à prendre les décisions adéquates pour l’utilisation des données et de la technologie. 
+
+[Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) et [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) ont effectué les recherches et rédigé les éléments principaux de l’ouvrage, et Ruth Miller a réalisé la mise en page et la conception graphique du document. Les contributions et les corrections apportées par Vemund Olsen et Christopher Wilson ont été d’un soutien inestimable. Le code source du site est disponible sur [Github](https://github.com/the-engine-room/library/).
 
 <hr>
 
-[Return to the Primer on Technology for Forest Peoples' Rights.](/rainforest-tech)
+Retour à [La Technologie pour les Forêts Tropicales.](/rainforest-tech)

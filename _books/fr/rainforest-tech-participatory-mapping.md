@@ -1,20 +1,20 @@
 ---
 layout: rainforest
-title: Participatory and GPS Mapping
-description: An introduction to producing maps together with communities (participatory mapping), to show how an area is actually being used, compare this with “official” maps, and use the information to claim communities’ rights to land.<p>Part of the <a href="/rainforest-tech">Rainforest Technology</a> report.</p>
+title: Cartographie participative et GPS
+description: Introduction à la production conjointe de cartes avec les communautés (cartographie participative), afin de révéler l’utilisation réelle des terres, différente de celle figurant aux cartes « officielles », et d’utiliser ces informations pour revendiquer les droits à la terre des communautés.<p>Extrait du rapport sur <a href="/rainforest-tech">la Technologie pour les Forêts Tropicales</a>.</p>
 image: /media/index/participatory.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
 funder_link: //www.regnskog.no/en
 published: true
 navigation:
-  - What is it
-  - How it can help
-  - Tools
-  - Cost
-  - Risks and challenges
-  - Case studies
-  - About
+  - Qu’est-ce que la cartographie participative?
+  - Quelle en est l’utilité?
+  - Outils
+  - Coûts
+  - Risques et difficultés
+  - Études de cas
+  - À propos
 ref: rt-pm
 lang: fr
 categories:
@@ -28,9 +28,11 @@ categories:
 > * Fournir aux gouvernements des preuves concrètes pour les inciter à reconnaître les terres autochtones
 > * Soutenir les communautés en leur apportant et en leur présentant des connaissances 
 
-This introduction to participatory mapping is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
+Cette introduction est issue du [*Guide introductif à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale et les droits des peuples forestiers.*](/fr/rainforest-tech) Il fournit un point de départ aux organisations et activistes désireux d’intégrer des technologies en appui à leurs actions de plaidoyer, et est le fruit d’un partenariat entre la [Rainforest Foundation Norway](http://www.regnskog.no/en/) et [The Engine Room](https://theengineroom.org/).
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
+
+Téléchargez le guide introductif complet (1,6 MB pdf), ou consultez le en ligne ci-dessous.
 
 ### Qu’est-ce que la cartographie participative ?
 
@@ -45,7 +47,7 @@ La cartographie officielle et les registres de propriété (cadastres) tiennent 
 Il existe de nombreuses manières de réaliser une cartographie participative, couvrant une vaste gamme d’outils technologiques et de conditions d’accessibilité. La technique adéquate dépend des ressources disponibles et des préférences de la communauté. Voici quelques exemples :
 
 * **Mener des entretiens** au sein des communautés sur l’utilisation des terres, sur leur vision du territoire et de son écosystème. Laisser le choix des moyens aux communautés : la narration orale, les dessins sur du papier ou à terre.
-* **Imprimer des cartes officielles **de la zone, en expliquant leur lien avec les communautés, puis leur demander d’y ajouter des informations additionnelles. Une méthode plus sophistiquée consiste à produire une réplique du territoire en **3D**.
+* **Imprimer des cartes officielles** de la zone, en expliquant leur lien avec les communautés, puis leur demander d’y ajouter des informations additionnelles. Une méthode plus sophistiquée consiste à produire une réplique du territoire en **3D**.
 * Equiper les communautés avec des **traceurs GPS** pour enregistrer des informations en marchant à travers la zone. Les données peuvent être ajoutées aux cartes officielles par superposition.
 
 ### Coûts
@@ -69,30 +71,34 @@ Le Programme Forest Peoples, le Centre pour l’environnement et le développeme
 #### Évaluation du braconnage au Congo 
 En 2013, les chasseurs cueilleurs Mbendjele ont travaillé avec le groupe de recherche ExCiteS du University College de Londres à la collecte de données pour mesurer les actes de braconnage à l’aide d’une application Android. Le projet a utilisé le téléphone Samsung Galaxy X Cover et une version modifiée de Collect de l’Open Data qui utilise des icônes à la place du texte. Afin de minimiser les risques pour les observateurs d’être surpris par les braconneurs, un simple procédé de verrouillage automatique a été installé sur les téléphones pour pouvoir dissimuler la fonction de l’application. 
 
-**Quelle en a été l’utilité ?**
+**Quelle en a été l’utilité?**
 
 * Le projet a développé des relations étroites depuis 2005 avec les Mbendjele impliqués dans la collecte de données, qui ont été impressionnés de l’intérêt qu’ont porté les entreprises d’exploitation du bois aux cartes qu’ils avaient produites.
 * Les observateurs ont appris à maîtriser l’utilisation des fonctions audio, photo et vidéo et ont enregistré des images de haute qualité. La conception robuste des téléphones leur a permis de fonctionner idéalement en milieu forestier. 
 *  Le projet a utilisé le Hatsuden Nabe, une casserole qui convertit l’énergie thermique du feu en électricité et permet de recharger les téléphones (60% de charge en 90 minutes). Des panneaux solaires ont aussi été utilisés par les observateurs lorsqu’ils n’étaient pas sous la canopée. 
 * Bien que les réseaux de communication ne soient pas disponibles en pleine forêt, les observateurs ont pu transférer les informations par SMS ou internet 3G en se rendant dans des villes voisines ( http://dev3.acmdev.org/papers/dev-final45.pdf).
 
-### About
 
-This site was created by __[Rainforest Foundation Norway](www.regnskog.no/en/)__ and __[The Engine Room](//theengineroom.org)__  as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. [*Download the whole primer here.*](media/rainforest/Rainforest-tech-primer.pdf)
-  
-Rainforest Foundation Norway (RFN) is one of the world's leading organisations in the field of rights-based rainforest protection. Its mission is to support indigenous peoples and traditional populations of the world's rainforests in their efforts to protect their environment and fulfil their rights by assisting them in:
 
-- Securing and controlling the natural resources necessary for their long-term well-being and managing these resources in ways which do not harm their environment, violate their culture or compromise their future;
-- and developing the means to protect their individual and collective rights and to obtain, shape, and control basic services from the state.
+### À propos 
 
-RFN collaborates closely with more than 70 local and national environmental, indigenous and human rights organisations in 11 countries in the Amazon region, Central Africa, Southeast Asia, and Oceania.
-  
-#### Contributors
-  
-The Engine Room is an international organisation that helps activists, social change organisations, and change agents make the most of data and technology to increase their impact. The Engine Room provides direct, project-level support for social change organisations; brings together communities to coordinate emerging ideas and collect practitioners; and documents and publishes findings to help anyone in the sector make better decisions about using data and technology.
+Ce site a été créé par la [Rainforest Foundation Norway](http://regnskog.no/en/) et [The Engine Room](https://theengineroom.org/) comme introduction à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale, le droit à la terre et les droits des peuples forestiers. Téléchargez le guide introductif complet ici.
 
-[Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) and [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) researched and wrote the main narrative, while [Ruth Miller](http://ruthmiller.net/) led work on the design and visuals creation. Vemund Olsen and Christopher Wilson provided invaluable input and editing support. The site sourcecode is available on [Github](https://github.com/the-engine-room/library/). Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org) or [rainforest@rainforest.no](rainforest@rainforest.no).
+Des commentaires ou des questions ? Écrivez à [post@theengineroom.org](mailto:post@theengineroom.org) ou à [rainforest@rainforest.no](mailto:rainforest@rainforest.no).
 
+Rainforest Foundation Norway (RFN) est une organisation phare au niveau mondial dans protection des forêts tropicales basée sur les droits. Elle a pour mission de soutenir les peuples autochtones et les communautés traditionnelles vivant dans les forêts tropicales à travers le monde dans la protection de leur environnement, et d’assurer le respect de leurs droits en les aidant à: 
+
+* Sécuriser et contrôler les ressources naturelles nécessaires à leur bien-être à long terme, et gérer ces ressources d’une manière qui ne nuise pas à leur environnement, ne porte pas atteinte à leur culture et ne compromette pas leur avenir;
+
+* Développer les moyens de protéger leurs droits individuels et collectifs et obtenir, adapter et contrôler les services de base fournis par l’état. 
+
+RFN collabore étroitement avec plus de 70 organisations locales et nationales œuvrant à la protection de l’environnement, des droits des peuples autochtones et des droits de l’homme dans 11 pays d’Amazonie, d’Afrique Centrale, d’Asie du Sud-Est et d’Océanie. 
+
+#### Auteurs 
+
+The Engine Room est une organisation internationale qui aide les activistes, les organisations de promotion du changement social et les acteurs du changement à tirer parti des données et de la technologie pour accroître leur influence. The Engine Room offre un soutien direct aux projets des organisations de promotion du changement social; fédère les communautés afin de coordonner les idées émergentes et d’identifier des spécialistes ; et publie des recommandations étayées pour aider tous les membres du secteur à prendre les décisions adéquates pour l’utilisation des données et de la technologie. 
+
+[Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) et [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) ont effectué les recherches et rédigé les éléments principaux de l’ouvrage, et Ruth Miller a réalisé la mise en page et la conception graphique du document. Les contributions et les corrections apportées par Vemund Olsen et Christopher Wilson ont été d’un soutien inestimable. Le code source du site est disponible sur [Github](https://github.com/the-engine-room/library/).
 <hr>
 
-[Return to the Primer on Technology for Forest Peoples' Rights.](/rainforest-tech)
+Retour à [La Technologie pour les Forêts Tropicales.](/rainforest-tech)

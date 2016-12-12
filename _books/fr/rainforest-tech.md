@@ -1,7 +1,7 @@
 ---
 layout: rainforest
-title: Rainforest Technology
-description: An introduction (or 'primer') for using technology to monitor and share information on rainforest issues, land rights and indigenous rights. It is designed as a starting point for organisations and activists that are thinking about adding technology to improve their advocacy work.
+title: La Technologie pour les Forêts Tropicales
+description: Guide introductif à l’utilisation de la technologie pour surveiller l’évolution et partager des informations sur les forêts tropicales, les droits fonciers et les droits des peuples autochtones. Il vise à fournir une base de travail aux activistes souhaitant améliorer leur plaidoyer à l’aide de la technologie.
 image: /media/index/rainforest.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
@@ -9,11 +9,11 @@ funder_link: http://regnskog.no/en
 published: true
 navigation:
   - Introduction
-  - Strategy
-  - Matching objectives with tools
-  - Tools
-  - Further resources
-  - About
+  - Planification
+  - Les bons outils pour les bons objectifs
+  - Outils
+  - Ressources complémentaires
+  - À propos 
 ref: rt
 lang: fr
 categories:
@@ -35,7 +35,6 @@ Cet ouvrage élémentaire:
 * Présente certains des outils disponibles ;
 * Fournit des informations pratiques qui vous permettront d’évaluer vos propres besoins ; 
 * Vous oriente vers des sources d’informations détaillées sur des outils et stratégies spécifiques. 
-
 
 ### Qu’entend-on par « technologie » ? 
 
@@ -494,12 +493,17 @@ Souvenez vous que l’outil adéquat pour différents objectifs sera différent 
 
 ## Tools
 
-* <a name="tools"></a>[mobile (cell) phone applications to collect and record data from the field](/rainforest-tech-mobile-phones) can be used for a wide range of purposes, including recording illegal mining or logging; biodiversity surveys; helping communities to map their own land; or validating government maps. If used carefully, they can make collecting data quicker and more accurate. 
-* [maps produced together with communities (participatory mapping)](/rainforest-tech-participatory-mapping) can be used to show how an area is actually being used, compare this with “official” maps, and use the information to claim communities’ rights to land.
-* [satellite imagery](/rainforest-tech-satellite-imagery) or analysing changes to a forest area over time, or combined aerial imagery with other forms of information such as other types of maps. Comparing regular images of the same area can provide proof of deforestation, trends like increased commercial activity, or visible results of forest degradation.
-* [do-it-yourself aerial photography (such as drones)](/rainforest-tech-diy-aerial) can be used for making maps or 3D models to monitor wildlife, record land claims and document climate change impacts. It can produce images that are more detailed than satellite data, and that can be updated in real time.
-* [audio and video](/rainforest-tech-audio-video) can be used to simply and effectively present short advocacy messages, collect visual evidence of human rights violations, publish participatory films by community members, or document deforestation over time.
-* [online maps that combine and layer different types of data on top of each other](/rainforest-tech-online-maps) can be used for real-time monitoring (showing the places where most incidents happen), campaigning (such as showing where forest cover is being dramatically reduced) or analysis (gaining new insights by overlaying different types of data on the same map).
+- [Applications mobiles](/fr/rainforest-tech-mobile-phones)
+
+- [Imagerie satellite](/fr/rainforest-tech-satellite-imagery)
+
+- [Cartographie participative et GPS](/fr/rainforest-tech-participatory-mapping)
+
+- [Audio et vidéo](/fr/rainforest-tech-audio-video)
+
+- [Photographies aériennes indépendantes](/fr/rainforest-tech-diy-aerial)
+
+- [Cartes en ligne](/fr/rainforest-tech-online-maps)
 
 ## Ressources complémentaires 
 

@@ -2,7 +2,7 @@
 layout: rainforest
 title: Áudio e vídeo
 description: Uma introdução ao uso de áudio e vídeo em projetos relacionados a florestas tropicais para apresentar, de forma simples, mensagens curtas de defesa da causa, coletar evidências visuais de violações de direitos humanos, publicar filmes com a participação de membros da comunidade, ou documentar o desflorestamento ao longo do tempo. Parte do relatório Tecnologia Rainforest.
-image: /media/index/rainforest.svg
+image: /media/index/audio.svg
 funder_name: Fundação Rainforest da Noruega
 funder_logo: /images/logos/rfn.svg
 funder_link: http://regnskog.no/en
