@@ -207,12 +207,12 @@ A continuación, considerar los posibles efectos del proyecto sobre la situació
 	<h5 style="color:white">Información sobre uso responsable de datos: Planificar un uso responsable de los datos</h5>
 	<p style="color:white">Casi cada proyecto implica algún tipo de tratamiento de datos, aunque sea solamente enviar correos electrónicos o el uso de hojas de cálculo. La falta de cuidado en el manejo de los datos puede poner a riesgo a la organización y a las personas con quienes trabaja. Las fugas de datos pueden causar violencia, los datos abiertos pueden ayudar a los especuladores de tierras, y el hardware puede ser rastreado para actuar en contra de los activistas. Una evaluación de riesgo es una parte esencial de todo plan de proyecto y le ayudará a prepararse para imprevistos.</p>
 	<ul style="color:white">
-		<li>Empezar por identificar un conjunto de eventos y actores (personas u organizaciones) que podrían impedir que el proyecto alcance sus metas. <a href="https://securityinabox.org/">[2]</a> [3](https://responsibledata.io)</li> 
+		<li>Empezar por identificar un conjunto de eventos y actores (personas u organizaciones) que podrían impedir que el proyecto alcance sus metas. <a href="https://securityinabox.org/">2</a> <a href="https://responsibledata.io">3</a></li> 
 		<li>Escribir respuestas a las siguientes preguntas: ¿Qué probabilidad hay de que cada uno de estos eventos ocurra? ¿Cuán grave sería su impacto sobre el proyecto?</li>
 		<li>Dar prioridad a los eventos más probables y los más grave.</li>
 		<li>Crear un conjunto de pasos concretos: ¿Qué se puede hacer para disminuir la probabilidad de cada evento? ¿En caso de llegar a ocurrir, se puede limitar el daño? ¿Cuál es el plan alterno?</li>
 	</ul>
-	<p style="color:white"><b>Prepararse para lo peor</b> Incluso en casos de una excelente planificación se pueden presentar emergencias. Responder a ellas puede exigir recursos tales como apoyo externo y fondos médicos de emergencia, apoyo jurídico, mayores fondos de respaldo o costos para reponer herramientas. [4](https://digitaldefenders.org/digitalfirstaid) </p>
+	<p style="color:white"><b>Prepararse para lo peor</b> Incluso en casos de una excelente planificación se pueden presentar emergencias. Responder a ellas puede exigir recursos tales como apoyo externo y fondos médicos de emergencia, apoyo jurídico, mayores fondos de respaldo o costos para reponer herramientas. <a href="https://digitaldefenders.org/digitalfirstaid">4</a></p>
 </blockquote>
 
 ##### Presupuestar las necesidades
@@ -239,7 +239,7 @@ Incluir siempre desarrollo, pruebas, mantenimiento y apoyo al usuario en los cos
 
 #### ¿Dónde conseguir los datos?
 
-Si existen datos de calidad, no se debe perder tiempo ni dinero obteniéndolos de nuevo. Pensar creativamente: ¿Existen bases de datos internacionales que incluyen su país? ¿Hay otra organización que haya creado bases de datos con el mismo tópico? [5](http://oad.simmons.edu/oadwiki/Data_repositories)[6](http://dataportals.org/)[7](http://datahub.io/about) Si no se puede acceder a los mapas de datos de determinado tema, ¿es posible, en vez de ello, usar información publicada por una compañía? [8](https://ejatlas.org/)[9](http://www.gdeltproject.org/) Si los datos han sido recabados pero no tienen acceso al público, revisar si las regulaciones de libertad de información podrían influir en los gobiernos para su publicación. [10](http://datajournalismhandbook.org/1.0/en/getting_data_1.html)[11](http://queremossaber.org.br/) 
+Si existen datos de calidad, no se debe perder tiempo ni dinero obteniéndolos de nuevo. Pensar creativamente: ¿Existen bases de datos internacionales que incluyen su país? ¿Hay otra organización que haya creado bases de datos con el mismo tópico? [5](http://oad.simmons.edu/oadwiki/Data_repositories) [6](http://dataportals.org/) [7](http://datahub.io/about) Si no se puede acceder a los mapas de datos de determinado tema, ¿es posible, en vez de ello, usar información publicada por una compañía? [8](https://ejatlas.org/) [9](http://www.gdeltproject.org/) Si los datos han sido recabados pero no tienen acceso al público, revisar si las regulaciones de libertad de información podrían influir en los gobiernos para su publicación. [10](http://datajournalismhandbook.org/1.0/en/getting_data_1.html) [11](http://queremossaber.org.br/) 
 
 
 <blockquote>
