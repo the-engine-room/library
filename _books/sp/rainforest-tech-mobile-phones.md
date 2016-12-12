@@ -22,13 +22,13 @@ categories:
   - en
 ---
 
-## Mobile Phone Applications
+## Aplicaciones para teléfonos móviles
 
-> ### Possible objectives
-> * Collecting evidence of deforestation or forest degradation
-> * Capturing evidence of wrongdoing towards individuals or communities
-> * Recording and monitoring the environmental value of land or forest areas
-> * Providing concrete evidence to governments to encourage them to recognise indigenous lands
+> ### Objetivos posibles
+> * Recolectar pruebas de deforestación o degradación forestal
+> * Registrar pruebas de infracciones cometidas contra individuos o comunidades
+> * Grabar y monitorear el valor ambiental de las tierras o áreas forestales
+> * Presentar pruebas concretas a los gobiernos para lograr que reconozcan las tierras indígenas 
 
 This introduction to mobile phone applications is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
 
@@ -37,59 +37,60 @@ This introduction to mobile phone applications is part of a [Primer for using te
 
 ### What is it
 
-* Mobile applications (or ‘apps’) are software programs that work on mobile devices like phones or tablets. In rainforest-related projects, they are mainly used to collect data in the field and transmit it directly to an organisation.
-* Mobile applications can be used for many purposes, including recording illegal mining or logging; biodiversity surveys; helping communities to map their own land; or validating government maps.
-* Applications can work on both low-tech ‘feature phones’ using SMS (Short Message Service) or more expensive smartphones (which include GPS sensors and cameras).
+* Las aplicaciones móviles (o “apps”) son programas de software diseñados para dispositivos móviles como teléfonos o tabletas. En proyectos sobre los bosques lluviosos, las aplicaciones se utilizan principalmente para recoger datos en el terreno y trasmitirlos directamente a una organización.
+* Las aplicaciones móviles se pueden utilizar para diversos propósitos, entre ellos registrar casos de minería o tala ilegal, realizar encuestas sobre biodiversidad, asistir a las comunidades en el mapeado de sus tierras o validar mapas del gobierno.
+* Las aplicaciones pueden funcionar tanto en teléfonos básicos utilizando servicios de SMS (por sus siglas en inglés, Short Message Service) o para teléfonos inteligentes (equipados con sensores de GPS y cámaras).
 
-### How it can help
+### Contribuciones posibles
 
-Collecting information from the field can be a time-consuming process that involves physically transporting large numbers of paper forms through remote areas, then manually transcribing them. Mobile applications make this process much quicker and easier.
-One common approach is that forest monitors are given a mobile device pre-loaded with an application. They upload data to this application and transmit it over phone networks or a mobile internet connection to a server, where an organisation can access it. Most applications automatically capture common errors and ask for corrections. Most smartphones capture geolocation data that can be mapped and combined with other forms of data (see [Online maps](/rainforest-tech-online-maps)).
+Recopilar información sobre el terreno puede ser un proceso largo que implica transportar grandes cantidades de formularios impresos en áreas remotas para luego transcribir su contenido. Las aplicaciones móviles logran facilitar y agilizar este proceso.
 
-### Tools
+Un enfoque común es proporcionar a los monitores forestales un dispositivo móvil con una aplicación ya cargada que pueden utilizar para subir y transmitir datos a la organización a través de las redes de telefonía móvil o conexión internet móvil a un servidor. La mayoría de las aplicaciones captura automáticamente los errores y piden correcciones. La mayoría de los teléfonos inteligentes capturan datos de GPS que pueden ser mapeados y combinados con otros tipos de datos (ver Mapas en línea).
 
-You can choose from a wide range of applications: the right one for you depends on how much data you’re collecting, how much technical support you need, and how specific your needs are. There are websites that can help you identify what tools and mobile apps are the best fit, including [Humanitarian Nomad](http://humanitarian-nomad.org/online-selection-tool/) and [Solutions Center](http://solutionscenter.nethope.org). Specifically for forest monitoring, [Forest Compass](http://forestcompass.org/how/choosing-suitable-software) has collected a range of options and discusses their strengths and weaknesses for use in community-based mapping.
+### Herramientas
 
-### Cost
+Existe una amplia gama de aplicaciones: la más apropiada dependerá de cuántos datos necesita recopilar, el nivel de soporte técnico necesario y otras necesidades particulares. Hay sitios web disponibles para asistir en la identificación de herramientas y aplicaciones móviles más apropiadas, entre ellos Humanitarian Nomad y Solutions Center. [1](http://humanitarian-nomad.org/online-selection-tool/) [2]( http://solutionscenter.nethope.org/)
 
-**Type of device**: For collecting geolocation data, dedicated GPS trackers are more accurate, and usually have longer battery life and are more durable. For collecting other types of data, smartphones with Android operating systems are available for under USD100, and prices are dropping all the time. If you only need simple functions, cheaper feature phones are a good option. These can be used to collect data using SMS or programmes designed in Java (J2ME).
+### Costo – tres factores determinantes
 
-**How complex is the application?** The more features you want, the more training and troubleshooting support you’ll need. Support is included in services like ArcGIS, but it is expensive. Open source solutions like Open Data Kit, on the other hand, force you to figure problems out (which takes staff time) or call external experts (which usually costs money). Remember that remote technical support may only be available and accessible if you can access a good internet connection.
+**Tipo de dispositivo:** Los rastreadores especializados GPS a menudo son más duraderos y sus baterías duran más pero a veces el nivel de precisión de los teléfonos móviles es suficiente para estos esfuerzos. Existen teléfonos inteligentes con sistemas operativos Android disponibles a menos 100 USD, con precios cada vez menores. Si solamente se necesitan funciones sencillas, los teléfonos básicos con una buena opción para recoger datos usando plataformas SMS o programas diseñados en Java (J2ME).
 
-**How much data do you want to collect?** The more data you capture, the more you’ll spend on the database that holds the information, backing up data offline, or SMS message fees.
+**Complejidad de la aplicación:** Mientras más funciones desee, mayor capacitación y soporte técnico necesitará. Servicios como ArcGIS incluyen soporte técnico pero es costoso; sin embargo, existen soluciones de código abierto como Open Data Kit que obligan a los usuarios a encontrar su propia solución a los problemas (en su propio tiempo) o llamar a expertos externos (a costa propia).
 
-To give you a taste of the options available, here are two examples from opposite ends of the cost spectrum:
+**¿Qué cantidad de datos se desea recabar?** Mientras más datos se recolecten, mayores serán los costos por base de datos donde almacenar la información, respaldos offline y cuotas de mensajes SMS.
 
-#### Free and open source, but technically challenging - Open Data Kit
-[Open Data Kit (ODK)](https://opendatakit.org/) is a collection of open source tools for mobile data collection that has been used successfully in a range of rainforest-related projects. It is free, can be modified for you, and has an [active community](https://groups.google.com/forum/#!forum/opendatakit) of developers providing technical and strategic support. The downside is that it is not perfect software: built by layers of volunteers, you can expect things to go wrong. You will probably need to budget for a software developer to modify, and make sure you can get technical support for when things go wrong. See [Forest Compass](http://forestcompass.org/how/digital-technologies/open-data-kit) for more on ODK.
+A manera de ejemplo, a continuación se describen dos opciones disponibles en extremos opuestos según su costo:
 
-#### Highly capable, but not cheap - Collector for ArcGIS
-The [ArcGIS suite of applications](www.esri.com/nonprofit/) is a premium GIS product that offers powerful options for producing and analysing map data. A basic user licence currently costs around USD 1,500 per year, which includes some technical support online and by telephone (though a limited free version is available for non-profits). To make the most of it, you will need to pay for its full suite: an Android app, a programme that manages the collected data on your server, and a programme to publish the maps online. The advantage of using premium paid software is that it will have more features, and you can rely on it to function as it supposed to. The downside is that it is expensive, and because the code is closed, you cannot hire a developer to change it to match your project better.
+#### Código abierto, gratuito pero presenta dificultades técnicas - Open Data Kit
+Open Data Kit (ODK) es un conjunto de herramientas de código abierto (open source) para la recolección móvil de datos. Ha sido utilizada con éxito en un gran variedad de proyectos relacionados con la protección forestal. Es gratuito, puede ser modificado según sus necesidades y cuenta con una comunidad activa de programadores que proveen soporte técnico y estratégico. La desventaja del software es que no es perfecto: ha sido diseñado por un sinfín de voluntarios, y por tanto es de esperarse que a veces las cosas no funcionen. Es probable que se necesite presupuestar un programador que modifique el software y asegurar acceso a soporte técnico en caso de surgir dificultades.
 
-### Risks and challenges
+#### Potente pero costoso - Collector de ArcGIS
+El paquete de aplicaciones ArcGIS es un producto SIG de primer nivel que ofrece potentes opciones para producir y analizar datos de mapas. Una licencia básica de usuario asciende actualmente a 1.500 USD al año, lo cual incluye soporte técnico en línea y por teléfono. Para aprovecharlo al máximo es necesario adquirir el paquete completo: aplicación para Android, un programa que maneja los datos recogidos en su servidor y un programa para publicar mapas en línea. La ventaja de utilizar un software pago de alto nivel es que contiene un mayor número de funciones y se puede confiar en que funcionarán como se espera. Las desventajas radican en su alto costo y, dado que es un modelo de código cerrado, la imposibilidad de contratar a un programador para adaptarlo a las necesidades de su proyecto.
 
-It is impossible to collect and share data completely securely on mobile phones because of the way that the devices themselves are [designed](https://securityinabox.org/en/guide/mobile-phones). This could threaten people collecting information; sometimes just possessing an application can put a community monitor at risk. People and environments can also be threatened as a result of information that you publish about them (see the Responsible Data sections of the [Strategy](/rainforest-tech/#strategy) section).
+### Riesgos y desafíos
 
-### Case studies
+Es imposible recoger y compartir datos con total seguridad utilizando teléfonos móviles debido al diseño de los dispositivos mismos. [3](https://securityinabox.org/en/guide/mobile-phones) Esto puede poner en peligro a las personas implicadas en la recolección de información; a veces el solo hecho de poseer una aplicación implica riesgos para los monitores comunitarios. Las personas y los entornos también pueden verse amenazados como resultado de la información que se publica sobre los mismos (ver secciones “Información sobre uso responsable de datos” en la sección Estrategia).
 
-#### Using community-based monitors for mapping in Guyana
+### Casos de estudio
 
-Since 2011, the Global Canopy Programme has run a community-based monitoring system with 16 Amerindian communities of the North Rupununi (Guyana) to provide information on causes of forest loss, land-use practices and socio-economic issues. Community monitors complete forms on Android (Samsung Galaxy X Cover) smartphones using a mobile application developed from Open Data Kit. Each form submitted contains location data from the phone’s in-built GPS and photos from its camera. The resulting data is then uploaded to an online data storage system for analysis using Microsoft Excel, ArcGIS, and ODK Aggregate, and later SMAP software, QGIS, and Google Maps Engine.
+#### Usar monitores comunitarios para la creación de mapas en Guayana
 
-**How did it help?**
+Desde 2011, el programa Global Canopy ha operado un sistema de monitoreo comunitario con 16 comunidades amerindias del norte de Rupununi (Guayana) para proporcionar información sobre causas de las pérdidas de masa forestal, sobre prácticas de uso de la tierra y sobre asuntos socio-económicos. Los monitores comunitarios completan formularios en teléfonos inteligentes Android (Samsung Galaxy X Cover) utilizando una aplicación móvil diseñada a partir del Open Data Kit. Cada formulario enviado contiene datos de ubicación captados por el GPS integrado y fotografías provenientes de la cámara. Los datos obtenidos se cargan a un sistema de almacenamiento de información en línea para su análisis con Microsoft Excel, ArcGIS, y ODK Aggregate, y posteriormente con software SMAP, QGIS, y Google Maps Engine.
 
-* The technology enabled real-time, straightforward collection and aggregation of data, and removed the need to transcribe data from the field.
-* It was popular with local communities – 87% of local leaders and village councillors said the phones had been a positive addition to the community that helped them improve their knowledge of local resources.
-* The project encouraged collaboration between elders with knowledge about natural resources and young people, who were quick to pick up [mobile devices](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&ved=0CFEQFjAI&url=http%3A%2F%2Fforestcompass.org%2Ffile%2F141%2Fdownload%3Ftoken%3DT8kkcwrb&ei=GeWWVKqYPKev7AaOjIHYDg&usg=AFQjCNEmkRESu9clZiHKBdoBmYvnxK83cw&sig2=JCkp9ZzKCGIYed2s9tXAYA&bvm=bv.82001339,d.ZGU&cad=rja).
+**Contribución**
 
-#### Using GPS devices to document invasions of indigenous territory
+* La tecnología facilitó la recolección e incorporación de datos en tiempo real, eliminando la necesidad de transcribir datos sobre el terreno.
+* Tuvo gran popularidad con las comunidades locales: 87% de los líderes locales y los consejeros de los poblados expresaron que los teléfonos habían sido un complemento favorable que ayudó a que la comunidad mejorara sus conocimientos sobre los recursos locales. 
+* El proyecto motivó la colaboración entre los ancianos líderes que poseían conocimientos sobre los recursos naturales y la gente joven que manejaba los dispositivos móviles más fácilmente. [4](http://tinyurl.com/q9jg3xt)
 
-The Pro-Indian Commission of Acre (Comissão Pró-Indio do Acre, or CPI-AC) trained indigenous people in the Acre region to use GPS devices to record invasions of indigenous territory.
+#### Uso de dispositivos GPS para documentar invasiones de territorio indígena
 
-**How did it help?**
+La Comisión Pro-Indio de Acre (Comissão Pró-Indio do Acre, o CPI-AC) capacitó a personas indígenas de la región de Acre en el uso de dispositivos GPS para registrar invasiones de territorios indígenas.
 
-* The information that the indigenous people gathered was then used to make maps that highlighted the problem and presented evidence of where the situation was worst.
-* One of these invasion maps was presented to the country’s former Minister of the Environment, prompting a multi-sectoral action from the federal government against invasions.
+**Contribución**
+
+* La información recogida por las personas indígenas se utilizó para elaborar mapas que resaltaban el problema y presentar pruebas de las áreas más problemáticas.
+* Al presentar uno de los mapas de invasiones al antiguo Ministro del Medioambiente, se desencadenó una acción multisectorial por parte del gobierno federal en contra de las invasiones.
 
 
 #### Using participatory mapping with online maps for advocacy in the Congo Basin
@@ -110,22 +111,25 @@ MfR was used to inform a major REDD project development in Democratic Republic o
 * [Small World News](http://smallworldnews.com/guides) offers guides on making video and audio
 * [Audacity](http://www.audacityteam.org/download/) offers free audio editing capabilities, while [Lightworks](http://www.lwks.com/) Free version can tackle many simple video editing tasks
 
-### About
+### Sobre
 
-This site was created by __[Rainforest Foundation Norway](www.regnskog.no/en/)__ and __[The Engine Room](//theengineroom.org)__  as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. [*Download the whole primer here.*](media/rainforest/Rainforest-tech-primer.pdf)
+Este site foi criado pela Fundação Rainforest da Noruega e The Engine Room como uma introdução ao uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direito à terra e direitos dos indígenas. Baixe a cartilha completa aqui.
 
-Rainforest Foundation Norway (RFN) is one of the world's leading organisations in the field of rights-based rainforest protection. Its mission is to support indigenous peoples and traditional populations of the world's rainforests in their efforts to protect their environment and fulfil their rights by assisting them in:
+Comentários ou perguntas? Entre em contato post@theengineroom.org ou rainforest@rainforest.no.
 
-- Securing and controlling the natural resources necessary for their long-term well-being and managing these resources in ways which do not harm their environment, violate their culture or compromise their future;
-- and developing the means to protect their individual and collective rights and to obtain, shape, and control basic services from the state.
+A Fundação Rainforest da Noruega (RFN) é uma das organizações líderes mundiais de proteção das florestas tropicais com base em direitos. Sua missão é apoiar as iniciativas dos povos indígenas e populações tradicionais das florestas tropicais do mundo de proteção ao seu meio ambiente e garantia de seus direitos, auxiliando-os a:
 
-RFN collaborates closely with more than 70 local and national environmental, indigenous and human rights organisations in 11 countries in the Amazon region, Central Africa, Southeast Asia, and Oceania.
+- Garantir e controlar os recursos naturais necessários para seu bem-estar em longo prazo e a gerenciar esses recursos de formas que não prejudiquem o meio ambiente, violem sua cultura ou comprometam seu futuro.
+- E desenvolver meios para proteger seus direitos individuais e coletivos, e obter, modelar e controlar serviços básicos do Estado.
 
-#### Contributors
+A RFN colabora de perto com mais de 70 organizações ambientais, de direitos humanos e indígenas, locais e nacionais, em 11 países na região Amazônica, África Central, Sudeste da Ásia, e Oceania.
 
-The Engine Room is an international organisation that helps activists, social change organisations, and change agents make the most of data and technology to increase their impact. The Engine Room provides direct, project-level support for social change organisations; brings together communities to coordinate emerging ideas and collect practitioners; and documents and publishes findings to help anyone in the sector make better decisions about using data and technology.
+#### Contribuidores
 
-[Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) and [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) researched and wrote the main narrative, while [Ruth Miller](http://ruthmiller.net/) led work on the design and visuals creation. Vemund Olsen and Christopher Wilson provided invaluable input and editing support. The site sourcecode is available on [Github](https://github.com/the-engine-room/library/). Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org) or [rainforest@rainforest.no](rainforest@rainforest.no).
+The Engine Room é uma organização internacional que ajuda ativistas, instituições que promovem mudança social e agentes de mudança a tirar o máximo proveito de dados e tecnologia para aumentar seu impacto. The Engine Room fornece apoio direto a projetos de organizações de mudança social; reúne comunidades para sincronizar as ideias emergentes e conseguir profissionais; além de documentar e publicar descobertas para ajudar qualquer pessoa do setor a tomar melhores decisões sobre o uso de dados e tecnologia.
+
+Tom Walker e Tin Geber pesquisaram e redigiram a história principal, e Ruth Miller liderou o trabalho de design e criação visual. Foram inestimáveis a contribuição e o apoio à edição de Vemund Olsen e Christopher Wilson. O código-fonte do site está disponível em Github.
+
 
 <hr>
 
