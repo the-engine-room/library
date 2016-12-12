@@ -397,7 +397,7 @@ Toda campaña de defensa necesita una red de aliados. Planificar cómo involucra
  <li>Los grupos obraron juntos para aumentar su impacto. A medida que creció la campaña, aumentó la participación de otros aliados y se logro cobertura del problema en los medios nacionales durante más de diez días.</li>
  <li>La campaña combinó tácticas en línea y sobre el terreno: se proyectó el documental en las calles de Santiago utilizando cines accionadas por bicicletas y las demostraciones de ciudadanos se publicaron de inmediato por YouTube y se compartieron con 10.000 miembros del grupo de Facebook Chao Pescao.</li>
  <li>En enero del 2010, el gobierno canceló la construcción de las plantas termoeléctricas y los nuevos candidatos presidenciales fueron objeto de presión para preservar Punta de Choros. <a href="https://archive.informationactivism.org/en/chaopescao
-">34</li>
+">34</a></li>
  </ul>
 </blockquote>
 
@@ -491,14 +491,15 @@ Cabe recordar que la mejor herramienta para distintos objetivos varía según ca
 | Dar apoyo a las comunidades presentando y aportando conocimiento | Mapeo participativo, Audio and Video, fotografía aérea creada por usuarios |
 
 
-## Tools
+## Herramientas
 
-* <a name="tools"></a>[mobile (cell) phone applications to collect and record data from the field](/rainforest-tech-mobile-phones) can be used for a wide range of purposes, including recording illegal mining or logging; biodiversity surveys; helping communities to map their own land; or validating government maps. If used carefully, they can make collecting data quicker and more accurate.
-* [maps produced together with communities (participatory mapping)](/rainforest-tech-participatory-mapping) can be used to show how an area is actually being used, compare this with “official” maps, and use the information to claim communities’ rights to land.
-* [satellite imagery](/rainforest-tech-satellite-imagery) or analysing changes to a forest area over time, or combined aerial imagery with other forms of information such as other types of maps. Comparing regular images of the same area can provide proof of deforestation, trends like increased commercial activity, or visible results of forest degradation.
-* [do-it-yourself aerial photography (such as drones)](/rainforest-tech-diy-aerial) can be used for making maps or 3D models to monitor wildlife, record land claims and document climate change impacts. It can produce images that are more detailed than satellite data, and that can be updated in real time.
-* [audio and video](/rainforest-tech-audio-video) can be used to simply and effectively present short advocacy messages, collect visual evidence of human rights violations, publish participatory films by community members, or document deforestation over time.
-* [online maps that combine and layer different types of data on top of each other](/rainforest-tech-online-maps) can be used for real-time monitoring (showing the places where most incidents happen), campaigning (such as showing where forest cover is being dramatically reduced) or analysis (gaining new insights by overlaying different types of data on the same map).
+* <a name="tools"></a>[APLICACIONES PARA TELÉFONOS MÓVILES](/rainforest-tech-mobile-phones) Una introducción al uso de aplicaciones para teléfonos móviles (celulares) para recopilar y grabar datos en proyectos relacionados a bosques lluviosos a fin de registrar minería o talas ilegales, llevar a cabo encuestas sobre biodiversidad, ayudar a las comunidades a crear mapas de sus propias tierras o validar mapas del gobierno.
+* [MAPEO PARTICIPATIVO Y DE GPS](/rainforest-tech-participatory-mapping) Una introducción a la producción de mapas en colaboración con las comunidades (mapeo participativo) a fin de mostrar el uso real de un área, comparar un área con mapas “oficiales” y usar dicha información en reclamaciones comunitarias de derechos territoriales.
+* [IMÁGENES SATELITALES](/rainforest-tech-satellite-imagery)Una introducción al uso de imágenes satelitales en proyectos relacionados a bosques lluviosos para analizar cambios ocurridos en un área forestal durante un período determinado, o generar pruebas de deforestación, tendencias tales como aumentos en actividad comercial o resultados visibles de la degradación forestal.
+* [FOTOGRAFÍA AÉREA CREADA POR USUARIOS](/rainforest-tech-diy-aerial) Una introducción a maneras de producir fotografías aéreas usted mismo (por ejemplo, utilizando drones) para elaborar mapas o modelos en 3D para monitorear la vida silvestre, registrar reclamaciones de tierras y documentar impacto de cambio climático. De esta manera se pueden producir imágenes más detalladas que aquellas obtenidas de datos satelitales, y actualizables en tiempo real.
+* [AUDIO Y VIDEO](/rainforest-tech-audio-video) Una introducción al uso de audio y video en proyectos relacionados a los bosques lluviosos para maneras sencillas de presentar mensajes de defensa, recopilar pruebas visuales sobre violaciones de derechos humanos, publicar películas participativas creadas por miembros de la comunidad o documentar deforestación durante un período determinado.
+* [MAPAS EN LÍNEA](/rainforest-tech-online-maps) Una introducción al uso de mapas en línea que combinan diferentes tipos de datos en proyectos relacionados a bosques lluviosos a fin de incluir monitoreo en tiempo real (mostrar los lugares donde ocurre la mayoría de los incidentes), llevar a cabo campañas (por ejemplo, mostrar la ubicación de reducciones drásticas de la cubierta forestal) o realizar análisis (obtener nuevas perspectivas al superponer diferentes tipos de datos sobre el mismo mapa).
+
 
 # Otros recursos
 
