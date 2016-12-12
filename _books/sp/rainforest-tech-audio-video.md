@@ -1,19 +1,15 @@
 ---
 layout: rainforest
-<<<<<<< HEAD
 title: Audio y video
 description: Una introducción al uso de audio y video en proyectos relacionados a los bosques lluviosos para maneras sencillas de presentar mensajes de defensa, recopilar pruebas visuales sobre violaciones de derechos humanos, publicar películas participativas creadas por miembros de la comunidad o documentar deforestación durante un período determinado. Parte del <p>informe <a href="/rainforest-tech">Tecnología para bosques lluviosos</a>.</p>
-=======
 title: Audio and Video
 description: An introduction to using audio and video in rainforest-related projects to simply present short advocacy messages, collect visual evidence of human rights violations, publish participatory films by community members, or document deforestation over time.<p>Part of the <a href="/rainforest-tech">Rainforest Technology</a> report.</p>
->>>>>>> origin/multilang
 image: /media/index/audio.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
 funder_link: //www.regnskog.no/en
 published: true
 navigation:
-<<<<<<< HEAD
   - ¿En qué consiste?
   - Contribuciones posibles
   - Herramientas
