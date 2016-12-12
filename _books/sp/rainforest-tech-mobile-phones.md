@@ -194,4 +194,4 @@ The Engine Room es una organización internacional que brinda apoyo a activistas
 
 Para todo comentario o pregunta, comunicarse con [The Engine Room](mailto:post@theengineroom.org) o la [Fundación Rainforest Noruega](mailto:rainforest@rainforest.no).
 
-[Return to the Primer on Technology for Forest Peoples' Rights.](/rainforest-tech)
+[Volver a la página de inicio de la Biblioteca.](/rainforest-tech)
