@@ -270,110 +270,110 @@ La combinación de distintas fuentes de datos puede revelar información complet
 	<p> <a href="http://www.orau.com.pe/inicio/index.php"> La Organización Regional AIDESEP (Asociación Interétnica de Desarrollo de la Selva Peruana) Ucayali (URAU)</a> estableció un sistema de monitoreo orientado a documentar la existencia de Pueblos indígenas que viven en aislamiento voluntario (PIAV) y las amenazas a su ambiente en Perú.</p>
 	<p><b>How did it help?</b></p>
 	<ul>
-		<li>Photographs of evidence, GPS data and other information is saved and systematized in a digital database.</li>
-		<li>Together with similar information from other indigenous peoples’ organizations, this has  made it impossible for the Peruvian state to keep denying the existence of IPVI.</li>
-		<li>The authorities are now more cooperative with ORAU on address cases involving IPVI and developing policies relating to IPVI territories, and have allocated funds for this purpose.</li>
+		<li>Evidencias fotográficas, datos geo-referenciados (GPS) y otra información es guardada y automatizada en una base de datos digital.</li>
+		<li>Junto con información similar de otras organizaciones de pueblos indígenas ha sido imposible para el Estado peruano continuar negando la existencia de los PIAV.</li>
+		<li>Las autoridades ahora están más dispuestas a cooperar con URAU para hacer frente a los casos donde hay PIAV involucrados, desarrollar políticas relacionadas a los territorios PIAV y conceder fondos para ese propósito.</li>
 	</ul>
 </blockquote>
 
-##### Sometimes the simplest option is the best
+##### A veces la opción más simple es la mejor
 
-Don’t spend money on technology unless you’re certain that you need to. For example, if you are collecting data from a small number of people in an accessible area, it may be cheaper and easier to do it using paper rather than a specific technology solution.
+No gastar dinero en tecnología salvo cuando se está completamente seguro de su necesidad. Por ejemplo, si se están recolectando datos de un pequeño número de personas en determinada área, podría ser más barato y más fácil utilizar papel en vez de una determinada solución tecnológica.
 
-#### Practical considerations when working with data and rainforests
+#### Consideraciones prácticas para el tratamiento de datos sobre bosques lluviosos
 
-**Power:** Unstable power supply can corrupt data: if possible, use an uninterrupted power supply (UPS) and power surge protectors, or battery-powered external hard drives. Some mobile phone batteries have much longer lives than others - test thoroughly before use.
+**Poder:** energía inestable y datos corruptos: utilizar una fuente de energía ininterrumpida (UPS por sus siglas en ingles) y protectores de corriente o discos de datos externos. Ciertas baterías de teléfonos móviles pueden durar más que otras; hacer pruebas a fondo antes de utilizarlas.
 
-**Connectivity:** Think carefully before relying on communications networks. If mobile internet isn’t available, pick tools that use regular mobile phone (GPRS) networks; if phone networks aren’t available, don’t use them. Always have a back-up plan if any network goes down.
+**Conectividad:** Considerar cuidadosamente antes de depender de las redes de comunicación. Si la red móvil de Internet no está disponible, elegir herramientas que utilicen redes celulares regulares (GPRS por sus siglas en inglés); no usar la red de telefonía si no está disponible. Siempre tener un plan de respaldo en caso de que se interrumpa el servicio de alguna red.
 
-**Internet connection:** Be realistic about what you can achieve with a weak internet connection – it will slow progress and increase costs. Consider modifying project websites to work in low bandwidth or choose tools that work offline. [Aptivate](http://www.aptivate.org/webguidelines/Home.html) has a guide to designing websites that work better in poor internet connections, and [Engage Media](http://www.engagemedia.org/help/how-to-compress-video) provides advice on compressing files that work better in low-bandwidth areas.
+Conexión a Internet: ser realista acerca de lo que se puede lograr con una conexión a Internet lenta; esto puede retrasar el progreso e incrementar los costos. Considerar modificar el proyecto o el diseño de la página web para que funcione en conexiones lentas o selecciona herramientas que trabajen en modo offline. [14](http://www.aptivate.org/webguidelines/Home.html) [15](http://www.engagemedia.org/help/how-to-compress-video)
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
-	<p style="color:white"><b>Don’t rely only a company to store your data online:</b> For example, millions of photos hosted on the <a href="http://www.dailydot.com/technology/twitpic-twitter-acquisition/" style="color:white">Twitpic</a> service were at risk of deletion in 2014 when the company closed down, while in 2011, thousands of videos hosted on the South African site MyVideo were <a href="http://www.archiveteam.org/index.php?title=Deathwatch" style="color:white">lost</a> because the service lacked back-ups and servers hadn’t been properly <a href="http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf" style="color:white">maintained</a>.</p>
+	<p style="color:white"><b>No confiar en una única empresa para respaldar sus datos en línea</b> Por ejemplo, millones de fotos colocadas en el servicio Twitpic estaban en riesgo de ser eliminadas en el 2014 cuando la empresa cerró, mientras que en el 2011 miles de videos colocados en el sitio surafricano MyVideo se perdieron porque el servicio carecía de respaldo y los servidores tenían mantenimiento adecuado.</p> <a href="http://www.pcworld.com/article/2839172/twitter-keeps-alive-twitpic-domain-and-photo-archive.html">16</a> <a href="http://www.archiveteam.org/index.php?title=Deathwatch">17</a> <a href="http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf">18</a>
 </blockquote>
 
-**Storing data:** Physical storage like DVDs and flash memory drives can develop mould or get dust inside them: keep them in airtight, waterproof plastic bags. Don’t rely on any one piece of storage: back up your data in several locations.
+**Respaldar los datos:** opciones de almacenamiento físico como DVDs y unidades de memorias flash se pueden enmohecer o ensuciarse de arena o tierra: resguardarlas siempre en bolsas plásticas cerradas e impermeables. No confiar ciegamente en los dispositivos de almacenamiento: respaldar los datos en distintas ubicaciones.
 
-#### Preparation
+#### Preparación
 
-To start with, **create a methodology** (an explanation of how you have collected and analysed the data). Check your methodology is robust with experts, and present it clearly whenever you publish results. Be ready to explain your methodology or use it to defend the credibility of your work. For [examples](http://maaproject.org/about-maap/), look at [Open Development Cambodia](http://www.opendevelopmentcambodia.net/briefings/forest-cover/) (for a simple methodology) and the [Land Matrix](http://landmatrix.org/en/about/) (for a more detailed one).
+Para comenzar, **crear una metodología** (una explicación de cómo se obtienen y analizan los datos). Verificar la metodología, compleméntala con expertos, y describirla claramente al publicar los resultados. Estar preparado para explicar la metodología o utilizarla para defender la credibilidad de su trabajo. Por ejemplo, ver Open Development Cambodia, un sitio web de datos abiertos o “open data” (para una metodología simple) y Land Matrix (para una metodología más detallada). [19](http://www.opendevelopmentcambodia.net/briefings/forest-cover/) [20]( http://landmatrix.org/en/about/) [21](http://maaproject.org/about-maap/)
 
 <blockquote>
-	<h5>Case study: Getting recognition for the quality of your evidence</h5>
-	<p><a href="https://www.facebook.com/brimassarawak">Borneo Resources Institute (Brimas)</a> trains communities in Sarawak (Malaysia) to map their own communities using GPS, plotting indigenous territories, land use and areas with natural resources. The government and private sector companies initially dismissed Brimas as not being knowledgeable enough. However, law courts recognised the quality of the data collected during cases to prove indigenous ownership of land, improving Brimas’ reputation for accuracy. Malaysia’s Land and Survey Department now uses Brimas’ maps to validate their own products.</p>
+	<h5>Caso de estudio: recibir reconocimiento por la calidad de su evidencia</h5>
+	<p>El Instituto de Recursos de Borneo (Brimas, por sus siglas en inglés) educa comunidades en Sarawak (Malasia) para mapear sus comunidades utilizando GPS trazando los territorios indígenas, el uso de la tierra y los recursos naturales. El gobierno y las compañías del sector privado inicialmente desconocieron a Brimas como una entidad con suficiente conocimiento de la materia. Sin embargo, los tribunales reconocieron la calidad de los datos obtenidos durante los casos para probar la propiedad de la tierra de los indígenas, mejorando la reputación y fiabilidad de Brimas. El Departamento de Investigación y Tierras de Malasia utiliza ahora los mapas de Brimas para validar sus propios productos.</p>
 </blockquote>
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
-	<h5 style="color:white">Responsible data box: Know when <b>not</b> to collect data</h5>
-	<p style="color:white">To reduce risks, only collect the minimum amount of data that you need to carry out your project (see <a href="http://forestcompass.org/how/resources/data-sharing-community-based-forest-monitoring-lessons-guyana" style="color:white">this example</a>). Think back to your risk assessment (see <a href="#planning" style="color:white">Planning</a> section) and collect sensitive data in a more secure way <a href="https://responsibledata.io/resources/handbook/chapters/chapter-02a-getting-data.html" style="color:white">(1)</a> <a href="https://www.accessnow.org/help" style="color:white">(2)</a> if necessary.</p>
-	<p style="color:white"><b>Informed consent</b></p>
-	<p style="color:white">When you collect data about an individual, you hold information that is personal to them. It is up to the person providing the data – not you or your organisation – to decide how that information should be used. Create a process to follow whenever you collect data from people that includes the following steps:</p>
+	<h5 style="color:white"><i>Información sobre uso responsable de datos:</i> <b>Reconocer cuándo no recolectar datos</b></h5>
+	<p style="color:white">Para reducir riesgos obtener la menor cantidad de los datos necesaria para llevar a cabo el proyecto. Recordar la valoración de los riesgos (ver <b>Sección de Planificación</b>) y obtener datos sensibles de una manera más segura de ser necesario.</p>
+	<p style="color:white"><b>Consentimiento informado</b></p>
+	<p style="color:white">Al obtener datos acerca de una individuo, se tiene acceso a información personal. Es decisión de dicha persona – no tuya ni de tu organización – entregar la información y decidir cómo se podrá utilizar. Al recolectar información de las personas, crear un proceso a seguir que incluya los siguientes pasos:</p>
 	<ul style="color:white">
-		<li>Explain how the data you are collecting will be used, published and stored.</li>
-		<li>Discuss any risks with the person, and check if they have additional concerns.</li>
-		<li>If they decide that they are still happy to participate, record a statement from them agreeing to this (either by signing a document or recording a spoken statement).</li>
-		<li><a href="https://wiki.responsibledata.io/Framework_for_consent_policies" style="color:white">Allow</a> people to change their decision about how their data is held or used later on.</li>
+		<li>Explicar cómo se utilizarán, publicarán y almacenarán los datos recolectados.</li>
+		<li>Revisar los riesgos con la persona y verificar si tiene alguna preocupación adicional.</li>
+		<li>Si la persona decide que aún está dispuesta a participar, tomar una declaración de la misma que acepta este acuerdo (puede ser un documento firmado o una conversación grabada).</li>
+		<li>Permitir a la persona cambiar su decisión acerca de cómo sus datos pueden ser mantenidos o utilizados posteriormente. <a href="https://wiki.responsibledata.io/Framework_for_consent_policies">22</a></li>
 	</ul>
 </blockquote>
 
-#### Get feedback
+#### Obtener feedback
 
-Don’t wait until the end of your project to find out how well it is working: ask at regular intervals, and adjust your activities accordingly. You can [collect](https://www.theengineroom.org/diy-for-me/) this information using methods like surveys, face-to-face meetings and [tracking](http://feedbacklabs.org/toolkit/) other measures like online interactions.
+No esperar hasta finalizar el proyecto para conocer cómo va funcionando: preguntar regularmente y ajustar las actividades según corresponda. Se puede obtener información utilizando métodos como entrevistas, reuniones en persona y seguimiento de otros factores medidos, tales como interacciones en línea. [23](https://www.theengineroom.org/diy-for-me/) [24](http://feedbacklabs.org/toolkit/)
 
-### Manage the data
+### Manejo de datos
 
-Before you start collecting information, plan out some categories to help organise the data. Before you start collecting information, plan out some categories to help organise the data. Base these categories on the people you want to reach (see [Use the Data](#usethedata) for more on how to do this).
+Antes de comenzar a obtener o recolectar la información, planificar algunas categorías que ayuden a organizar la información. Esto contribuirá a localizar tendencias y áreas faltantes; se podrán revisar estas categorías posteriormente.
 
-#### Control the quality of your data early
+#### Controlar la calidad de los datos en las primeras etapas
 
-Don’t wait until you have finished collecting the data to check it: check these factors before starting.
+No esperar hasta terminar de recolectar todos los datos para validarlos: verificar estos aspectos o parámetros antes de comenzar.
 
-##### Make your formats consistent
+##### Preparar formatos uniformes
 
-Have a clearly defined system, format and set of categories for collecting information. This will save time in preparing it for analysis later: for example, record dates in the same way throughout (rather than some like ‘12-March-2015’ and others like ‘12/03/15’). Double-check that anyone inputting data understands the system.
+Contar con un sistema, un formato y un conjunto de categorías para recolectar la información claramente definidos. Esto permitirá ahorrar tiempo preparando los datos para su análisis posterior: por ejemplo, grabar las fechas de la misma manera (en lugar de “12-Marzo-2015” a veces y en otros como “12/03/15”). Comprobar minuciosamente que toda persona que manipula los datos conoce y entiende el sistema de clasificación y las categorías.
 
-##### Identify where problems are most likely to occur
+##### Identificar áreas propensas a problemas
 
-Think about the people using the technology: where will they make mistakes? Once you know where these points are, introduce a second check on the data or include extra training for staff. Technology tools can help: for example, you can make certain fields in an online survey only accept a response in a format you specify.
+Pensar en las personas que usarán la tecnología: ¿dónde ocurrirán los errores? Una vez que se localicen dichos elementos, incluir una segunda verificación en los datos o una capacitación para el personal. Las herramientas de tecnología pueden ayudar: por ejemplo, ciertos campos de una encuesta en línea podría aceptar únicamente respuestas en el formato especificado.
 
-##### Make sure all your data goes through the same process
+##### Tratar todos los datos utilizando siempre el mismo proceso
 
-Ensure all data is collected with the same methods and analysed in the same piece of software - this will make it easier to compare and analyse.
+Garantizar que se obtiene toda la información con el mismo método y se analiza con el mismo elemento de software; esto facilitará su comparación y análisis.
 
-#### Making the data useful
+#### Consideraciones para garantizar la utilidad de los datos
 
-Here are the main things you need to think about when preparing and analysing data. School of Data’s [‘Data Fundamentals’ course](http://schoolofdata.org/courses/#DataFundamentals) has more information on all the sections below.
+A continuación se enumeran los elementos principales a tener en cuenta al preparar y analizar los datos: [25](http://schoolofdata.org/courses/#DataFundamentals)
 
-##### Preparing your data
+##### Preparar los datos
 
-You may need to clean data (manually removing any errors or fixing keyboard mistakes) and convert it into another format. This stage is commonly called ‘data wrangling’, and it may take up a lot of of time. Include it in your budget.
+A veces es necesario limpiar los datos (remover manualmente los errores o reparar errores de teclado) y convertir los datos a otro formato. Este paso, conocido en inglés como “data wrangling”, puede tomar bastante tiempo y se debe tener en cuenta en el presupuesto.
 
-##### Statistics 101
+##### Estadística 101
 
-There are many techniques for finding meaning in data. These include straightforward methods like percentage increases and more complex statistical techniques like correlation (“increased logging has been matched by increased flooding”). If the dataset is very complex, people on your team may need to understand statistical analysis to extract meaningful, robust information. If your project needs more expertise, consider hiring a consultant or asking an NGO that provides pro bono data support. See [School of Data](http://schoolofdata.org), [DataKind](http://www.datakind.org), and [Data Look](http://datalook.io).
+Existen muchas técnicas para extraer sentido de los datos, entre ellas, métodos directos como incrementos de porcentajes y técnicas estadísticas más complejas como la correlación (por ejemplo, “un aumento en la tala se correlaciona con un aumento en las inundaciones”). Si el conjunto de datos es muy complejo, el personal del equipo podría necesitar entender de análisis estadístico para lograr extraer información sólida y valiosa. Si su proyecto necesita mayora capacitación, considerar contratar a un consultor o pedir asistencia a una ONG que provea asesoramiento gratuito. [26](http://schoolofdata.org) [27](http://www.datakind.org) [28](http://www.doinggoodfellows.org) [29](http://datalook.io)
 
-##### Presenting data clearly
+##### Presentación clara
 
-Communicating what your data shows is one of the most important parts of a project – if you do it well, you can grab your audience’s attention and encourage them to act. There are many free or cheap tools that can help you make data visual - see Tactical Technology’s [Visualising Advocacy](https://visualisingadvocacy.org/resources/visualisationtools) project for examples based on your needs.
+Comunicar lo que muestran los datos es una de las partes más importantes de un proyecto; si logra, se puede capturar la atención de la audiencia y motivarla a actuar. Hay muchas herramientas gratuitas que pueden facilitarlo; ver el Visualising Advocacy Project de Tactical Technology para más ejemplos según las necesidades del proyecto. [30]( https://visualisingadvocacy.org/resources/visualisationtools)
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
-	<h5 style="color:white">Responsible data box: Look after your data</h5>
+	<h5 style="color:white"><i>Información sobre uso responsable de datos:</i> <b>Proteger los datos</b></h5>
 		<br>
-	<p style="color:white"><b>How will you store your data within your organisation?</b></p>
-	<p style="color:white">If you are storing data on a network in your organisation, it will be kept on a server (a computer that provides data to other computers). If you have a server that is kept physically in your location, budget for someone with skills to take care of it. If you are paying to host your data on an external server, check that the provider offers <a href="https://wiki.responsibledata.io/Newbie_guide_to_select_hosting" style="color:white">all the features</a> you need and has good security measures.</p>
-	<p style="color:white"><b>Encrypt physically stored data</b></p>
-	<p style="color:white">Data can be stored physically on computer hard drives or external hard drives, which can be encrypted using software like TrueCrypt or FileVault. (This is not a substitute for the strong digital security measures: if a person can access your password, encryption will not help you.)</p>
-	<p style="color:white"><b>Deleting or archiving your data</b></p>
-	<p style="color:white">It is best to keep your data only for the period that you need it. The data may not be at risk now, but it is difficult to know what the future will hold. To delete data on a hard disk properly, you need to write over it several times. However, if the data has lasting cultural or historical value, or might be useful as evidence in the future, you may want to preserve it. Pick a format that is likely to be usable in future, and consider partnering with an archive that will maintain the <a href="https://responsibledata.io/resources/handbook/chapters/chapter-03-closing-a-project.html" style="color:white">archival systems</a> for you.</p>
+	<p style="color:white"><b>¿Cómo se almacenarán los datos en su organización?</b></p>
+	<p style="color:white">Cuando se almacenan datos en una red dentro de su organización, éstos se guardan en un servidor (una computadora que proporciona datos a otras computadoras). Si la ubicación física del servidor es la organización misma, se debe incluir en el presupuesto una persona capacitada para su debido mantenimiento. Si su organización contrata los servicios de un host para almacenar datos en un servidor externo, verificar que el proveedor ofrece todas las funciones necesarias y que cuenta con medidas de seguridad sólidas. <a href=" https://wiki.responsibledata.io/Newbie_guide_to_select_hosting">31</a></p>
+	<p style="color:white"><b>Codificar los datos físicos</b></p>
+	<p style="color:white">Los datos se pueden guardar físicamente en el disco duro de computadoras o en discos externos, que pueden ser encriptados utilizando software como TrueCrypt o FileVault. (No obstante, no es un sustituto de medidas de seguridad digital sólidas: si una persona obtiene acceso a su contraseña, la encripción no servirá de nada.)</p>
+	<p style="color:white"><b>Borrar o archivar datos</b></p>
+	<p style="color:white">La mejor práctica es guardar datos únicamente durante el período en el cual se necesitan. Es posible que no exista riesgo actual pero es difícil saber si esto llegue a cambiar. La única manera segura de eliminar los datos contenidos en un disco duro es formatearlo varias veces seguidas. No obstante, quizá sea recomendable preservar datos que posean valor cultural o histórico duradero, o que pueda llegar a ser útil como prueba en el futuro. Se recomienda elegir un formato con mayor probabilidad de ser utilizable en el futuro y posiblemente asociarse con un servicio de archivo que mantenga los sistemas.<a href="http://the-engine-room.github.io/rdf-primer/closing-a-project/project-closure-what-happens-to-the-data.html">32</a></p>
 </blockquote>
 
-##### Check for legal restrictions
+##### Verificar las restricciones legales
 
-Legal issues will vary depending on your country and the kind of data you have, but can include data protection, copyright issues and even prohibitions on encryption technology. If you find that you have been breaking the law halfway through the project, you may have to pay a fine or even stop work. [Look into this carefully](https://responsibledata.io/resources/handbook/chapters/chapter-02-managing-data.html#what-types-of-laws-and-procedures-apply-to-your-data-project), and get legal advice if you are unsure.
+Los asuntos jurídicos varían de un país a otro y el tipo de datos en cuestión, pero en general entre ellos se cuentan protección de datos, derechos de autor y hasta prohibiciones del uso de tecnología de encripción. Si, durante el curso del proyecto, se descubre que se ha infringido alguna ley, es posible que sea objeto de multas o incluso frenar el proyecto. Se recomienda estudiar este aspecto detenidamente y obtener asesoría jurídica si no se sabe con seguridad. [33](http://the-engine-room.github.io/rdf-primer/managing-data/legal-considerations.html)
 
-##### Who else can access your data?
+##### ¿Quién más tiene acceso a sus datos?
 
-If individuals are identified in data you collect, your staff, allies or local communities could face threats. Lower the risks by taking three steps: only collect and upload the information that you really cannot do without; [remove names and information that might identify people wherever possible](http://theodi.github.io/ukan-course/); and avoid using any technology services that are a particular risk in your country.
+Si se identifican individuos en los datos recopilados, su personal, sus aliados o las comunidades locales podrían ser objeto de amenazas. Reducir el nivel de riesgo tomando los tres pasos siguientes: recopilar y subir únicamente aquella información que es verdaderamente imprescindible; en la medida de lo posible, borrar nombres e información que pueda servir para identificar a las personas, y evitar utilizar servicios tecnológicos que constituyan un riesgo particular en su país.
 
 <a name="usethedata"></a>
 
