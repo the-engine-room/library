@@ -22,11 +22,8 @@ categories:
   - sp
 ---
 
-<<<<<<< HEAD
 ## **Aplicaciones para teléfonos móviles**
-=======
 ## Aplicaciones para teléfonos móviles
->>>>>>> origin/multilang
 
 > ### Objetivos posibles
 > * Recolectar pruebas de deforestación o degradación forestal
@@ -34,9 +31,7 @@ categories:
 > * Grabar y monitorear el valor ambiental de las tierras o áreas forestales
 <<<<<<< HEAD
 > * Presentar pruebas concretas a los gobiernos para lograr que reconozcan las tierras indígenas
-=======
 > * Presentar pruebas concretas a los gobiernos para lograr que reconozcan las tierras indígenas 
->>>>>>> origin/multilang
 
 La presente introducción es parte de una [Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos](https://library.theengineroom.org/rainforest-tech/), los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org).
 
@@ -44,7 +39,6 @@ _Descargar [la guía completa](http://d5i6is0eze552.cloudfront.net/documents/Pub
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
-<<<<<<< HEAD
 ### **¿En qué consiste?**
 
 * Las aplicaciones móviles (o "apps") son programas de software diseñados para dispositivos móviles como teléfonos o tabletas. En proyectos sobre los bosques lluviosos, las aplicaciones se utilizan principalmente para recoger datos en el terreno y trasmitirlos directamente a una organización.
@@ -91,7 +85,6 @@ Es imposible recoger y compartir datos con total seguridad utilizando teléfonos
 Desde 2011, el programa Global Canopy ha operado un sistema de monitoreo comunitario con 16 comunidades amerindias del norte de Rupununi (Guayana) para proporcionar información sobre causas de las pérdidas de masa forestal, sobre prácticas de uso de la tierra y sobre asuntos socio-económicos. Los monitores comunitarios completan formularios en teléfonos inteligentes Android (Samsung Galaxy X Cover) utilizando una aplicación móvil diseñada a partir del Open Data Kit. Cada formulario enviado contiene datos de ubicación captados por el GPS integrado y fotografías provenientes de la cámara. Los datos obtenidos se cargan a un sistema de almacenamiento de información en línea para su análisis con Microsoft Excel, ArcGIS, y ODK Aggregate, y posteriormente con software SMAP, QGIS, y Google Maps Engine.
 
 **Contribución**
-=======
 * Las aplicaciones móviles (o “apps”) son programas de software diseñados para dispositivos móviles como teléfonos o tabletas. En proyectos sobre los bosques lluviosos, las aplicaciones se utilizan principalmente para recoger datos en el terreno y trasmitirlos directamente a una organización.
 * Las aplicaciones móviles se pueden utilizar para diversos propósitos, entre ellos registrar casos de minería o tala ilegal, realizar encuestas sobre biodiversidad, asistir a las comunidades en el mapeado de sus tierras o validar mapas del gobierno.
 * Las aplicaciones pueden funcionar tanto en teléfonos básicos utilizando servicios de SMS (por sus siglas en inglés, Short Message Service) o para teléfonos inteligentes (equipados con sensores de GPS y cámaras).
@@ -146,7 +139,6 @@ La Comisión Pro-Indio de Acre (Comissão Pró-Indio do Acre, o CPI-AC) capacit�
 
 * La información recogida por las personas indígenas se utilizó para elaborar mapas que resaltaban el problema y presentar pruebas de las áreas más problemáticas.
 * Al presentar uno de los mapas de invasiones al antiguo Ministro del Medioambiente, se desencadenó una acción multisectorial por parte del gobierno federal en contra de las invasiones.
->>>>>>> origin/multilang
 
 * La tecnología facilitó la recolección e incorporación de datos en tiempo real, eliminando la necesidad de transcribir datos sobre el terreno.
 
@@ -162,9 +154,7 @@ La Comisión Pro-Indio de Acre (Comissão Pró-Indio do Acre, o CPI-AC) capacit�
 
 * La información recogida por las personas indígenas se utilizó para elaborar mapas que resaltaban el problema y presentar pruebas de las áreas más problemáticas.
 
-<<<<<<< HEAD
 * Al presentar uno de los mapas de invasiones al antiguo Ministro del Medioambiente, se desencadenó una acción multisectorial por parte del gobierno federal en contra de las invasiones.
-
 
 ### **Acerca de este sitio**
 Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
@@ -178,28 +168,9 @@ La RFN colabora de cerca con más de 70 organizaciones medioambientales, indíge
 
 #### Colaboradores
 The Engine Room es una organización internacional que brinda apoyo a activistas, organizaciones que obran en pos del cambio social y agentes de cambio para sacar el máximo provecho a los datos y a la tecnología para aumentar su impacto. The Engine Room brinda apoyo directo a nivel de proyecto para organizaciones que obran en pos del cambio social; junta comunidades para coordinar ideas emergentes y reunir profesionales; y documenta y publica sus resultados para ayudar a cualquier persona en el sector a tomar mejores decisiones en el uso de los datos y la tecnología.
-=======
-### Sobre
-
-Este site foi criado pela Fundação Rainforest da Noruega e The Engine Room como uma introdução ao uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direito à terra e direitos dos indígenas. Baixe a cartilha completa aqui.
-
-Comentários ou perguntas? Entre em contato post@theengineroom.org ou rainforest@rainforest.no.
-
-A Fundação Rainforest da Noruega (RFN) é uma das organizações líderes mundiais de proteção das florestas tropicais com base em direitos. Sua missão é apoiar as iniciativas dos povos indígenas e populações tradicionais das florestas tropicais do mundo de proteção ao seu meio ambiente e garantia de seus direitos, auxiliando-os a:
-
-- Garantir e controlar os recursos naturais necessários para seu bem-estar em longo prazo e a gerenciar esses recursos de formas que não prejudiquem o meio ambiente, violem sua cultura ou comprometam seu futuro.
-- E desenvolver meios para proteger seus direitos individuais e coletivos, e obter, modelar e controlar serviços básicos do Estado.
-
-A RFN colabora de perto com mais de 70 organizações ambientais, de direitos humanos e indígenas, locais e nacionais, em 11 países na região Amazônica, África Central, Sudeste da Ásia, e Oceania.
-
-#### Contribuidores
-
-The Engine Room é uma organização internacional que ajuda ativistas, instituições que promovem mudança social e agentes de mudança a tirar o máximo proveito de dados e tecnologia para aumentar seu impacto. The Engine Room fornece apoio direto a projetos de organizações de mudança social; reúne comunidades para sincronizar as ideias emergentes e conseguir profissionais; além de documentar e publicar descobertas para ajudar qualquer pessoa do setor a tomar melhores decisões sobre o uso de dados e tecnologia.
-
-Tom Walker e Tin Geber pesquisaram e redigiram a história principal, e Ruth Miller liderou o trabalho de design e criação visual. Foram inestimáveis a contribuição e o apoio à edição de Vemund Olsen e Christopher Wilson. O código-fonte do site está disponível em Github.
->>>>>>> origin/multilang
-
 
 [Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) y [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) realizaron la investigación y redactaron la narrativa principal; [Ruth Miller](http://ruthmiller.net/) dirigió las tareas de diseño y creación visual. Vemund Olsen y Christopher Wilson proporcionaron inestimables aportes en edició­n. María José Giménez se encargó de la traducción al español. El código de soporte se encuentra disponible en [Github](https://github.com/the-engine-room/library/).
 
 Para todo comentario o pregunta, comunicarse con [The Engine Room](mailto:post@theengineroom.org) o la [Fundación Rainforest Noruega](mailto:rainforest@rainforest.no).
+
+[Return to the Primer on Technology for Forest Peoples' Rights.](/rainforest-tech)
