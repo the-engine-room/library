@@ -81,6 +81,15 @@ En enero del 2015, un análisis realizado por [Greenomics-Indonesia](http://www.
 * Greenomics utilizó la información para dirigir sus esfuerzos contra la empresa papelera Asia Pacific Resources International Holdings Limited (APRIL), que había prometido dar fin al desarrollo de nuevas plantaciones para enero del 2014.
 * Greenomics decidió comunicar esta información a los medios en inglés mediante una declaración con imágenes relacionadas a su reclamo. En marzo del 2015, APRIL admitió que había tomado lugar un incumplimiento y suspendió al contratista y al gerente de plantación.
 
+### Otros recursos
+* **Global Forest Watch** es un sistema interactivo de monitoreo y alertas forestales que brinda datos satelitales y otros tipos de información: [www.globalforestwatch.org](http://www.globalforestwatch.org/)
+
+* [http://maaproject.org/about-maap/](http://maaproject.org/about-maap/)
+
+* **CLASlite** ha sido diseñado para proporcionar mapas y monitoreo forestal de alta resolución; actualización semanal e imágenes satelitales: [http://claslite.carnegiescience.edu/en/index.html](http://claslite.carnegiescience.edu/en/index.html) (inglés y español)
+
+* El Proyecto Geospatial Technologies de **AAAS** contiene casos de estudio detallados sobre la recolección, categorización y análisis de imágenes satelitales para documentar abusos de derechos humanos: [http://www.aaas.org/case-studies](http://www.aaas.org/case-studies) 
+
 ### **Acerca de este sitio**
 Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
 
