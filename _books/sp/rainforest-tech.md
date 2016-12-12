@@ -578,7 +578,7 @@ La siguiente lista de recursos incluye muchos ya mencionados en la presente Guí
 
 * **TechChange** ofrece un curso en línea gratis sobre aplicaciones para recolección de datos móvil: [https://www.techchange.org/online-courses/mobile-data-solutions/](https://www.techchange.org/online-courses/mobile-data-solutions/)
 
-* El informe "Opportunities and guidance on aplicaciones móviles for forest and agricultural sectors" del **Banco Mundial **contiene orientación útil para comparar funciones de aplicaciones móviles y planificar costos a corto y a largo plazo: [http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors](http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors)
+* El informe "Opportunities and guidance on aplicaciones móviles for forest and agricultural sectors" del **Banco Mundial** contiene orientación útil para comparar funciones de aplicaciones móviles y planificar costos a corto y a largo plazo: [http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors](http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors)
 
 * La guía Data Integrity User Guide de **FrontlineSMS** propone un marco para la comprensión del nivel de riesgo que implica toda actividad basada en SMS: http://www.frontlinesms.com/wp-content/uploads/2011/08/frontlinesms_userguide.pdf
 
