@@ -156,6 +156,27 @@ La Comisión Pro-Indio de Acre (Comissão Pró-Indio do Acre, o CPI-AC) capacit�
 
 * Al presentar uno de los mapas de invasiones al antiguo Ministro del Medioambiente, se desencadenó una acción multisectorial por parte del gobierno federal en contra de las invasiones.
 
+
+### Otros recursos
+
+* El informe Mobiles in Development de **The engine room** presenta un panorama del uso móvil en el desarrollo, incluida información adicional sobre la recolección de datos móvil: [http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development](http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development)
+
+* **NetHope** y **Humanitarian Nomad** ofrecen conjuntos de preguntas que ayudan en la selección de una herramienta móvil: [http://solutionscenter.nethope.org/](http://solutionscenter.nethope.org/) y [http://humanitarian-nomad.org/online-selection-tool/](http://humanitarian-nomad.org/online-selection-tool/)
+
+* **Kopernik** brinda información para pequeñas organizaciones sobre herramientas para la recolección de datos móvil, plataformas de mapeo y sensores, con información que ayuda a compararlas: [http://impacttrackertech.kopernik.info/](http://impacttrackertech.kopernik.info/)
+
+* **TechChange** ofrece un curso en línea gratis sobre aplicaciones para recolección de datos móvil: [https://www.techchange.org/online-courses/mobile-data-solutions/](https://www.techchange.org/online-courses/mobile-data-solutions/)
+
+* El informe "Opportunities and guidance on aplicaciones móviles for forest and agricultural sectors" del **Banco Mundial** contiene orientación útil para comparar funciones de aplicaciones móviles y planificar costos a corto y a largo plazo: [http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors](http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors)
+
+* La guía Data Integrity User Guide de **FrontlineSMS** propone un marco para la comprensión del nivel de riesgo que implica toda actividad basada en SMS: http://www.frontlinesms.com/wp-content/uploads/2011/08/frontlinesms_userguide.pdf
+
+* **Forest Compass** recopila recursos para monitoreo forestal comunitario: [http://forestcompass.org/how/resources](http://forestcompass.org/how/resources)
+
+* **OpenForis** es un conjunto de aplicaciones móviles y herramientas de software para la recolección y el análisis de datos: [http://www.openforis.org/](http://www.openforis.org/)
+
+* **TechSoup** contiene guías para la selección de dispositivos móviles según sus necesidades: [http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for](http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for) 
+
 ### **Acerca de este sitio**
 Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
 
