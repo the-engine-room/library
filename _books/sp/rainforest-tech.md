@@ -243,31 +243,31 @@ Si existen datos de calidad, no se debe perder tiempo ni dinero obteniéndolos d
 
 
 <blockquote>
-	<h5>Case study: Sharing data from different sources</h5>
-	<p>The Indonesian news site <a href="http://ekuatorial.com">Ekuatorial</a> creates interactive maps and presents them with articles on environmental issues written by partner publications. The maps combine geo-referenced data from Global Forest Watch on palm oil plantations and forestry concessions; information collected by the Indonesian Forestry Ministry, international datasets like the World Database on Protected Areas, and volunteer-submitted information from Humanitarian OpenStreetMap. To make the map, Ekuatorial hired professional cartographers, who used CartoDB and MapBox to create the maps and then published them directly on their website using the WordPress theme JEO (see <a href="/rainforest-tech-online-maps">Online Mapping</a>).</p>
-	<p><b>How did it help?</b></p>
-	<p>Ekuatorial allows other organisations to republish its maps on their own site using an easy-to-use ‘share this map’ function. The raw data collected is also useful for other Indonesian organisations because it is regularly updated, and available to download for <a href="http://ekuatorial.com">free</a>.</p>
+	<h5>Caso de estudio: compartir datos de distintas fuentes</h5>
+	<p>Ekuatorial, un sitio web de noticias de Indonesia, crea mapas interactivos y los presenta con artículos sobre asuntos medioambientales publicados por sus colaboradores. Los mapas combinan datos geo-referenciados de Global Forest Watch sobre cultivos de aceite de palma y silvicultura; información obtenida por el Ministerio de Silvicultura de Indonesia, hojas de datos internacionales como el World Database on Protected Areas e información enviada por voluntarios de Humanitarian OpenStreeMap. Para elaborar los mapas, Ekuatorial contrató cartógrafos profesionales que usaron aplicaciones como CartoDB y MapBox para crear los mapas y publicarlos directamente en JEO (ver detalles en la sección Mapas en línea).</p>
+	<p><b>Contribución</b></p>
+	<p>Ekuatorial permite que otras organizaciones reutilicen sus mapas en sus propios sitios usando funciones fáciles de usar como “comparte este mapa”. Los datos sin procesar recolectados también son útiles para otras organizaciones en Indonesia porque se actualizan regularmente y pueden ser descargadas sin costo. [11](http://ekuatorial.com/)</p>
 </blockquote>
 
-#### Set standards for your data
+#### Estándares para los datos
 
-Before starting, double-check that your methods will give you data that you can actually use. Collecting the wrong type of data can be expensive and time-consuming. ‘Qualitative’ data like texts of interviews with forest communities can be powerful in advocacy, but ‘quantitative’ data that can be counted will be easier to analyse, more manageable in large quantities and simpler to compare with other sources.
+Antes de comenzar, verificar que los métodos suministrados darán acceso a datos que sean de utilidad. Recabar datos erróneos puede ser costoso y ocasionar pérdida de tiempo. Información **“cualitativa”**, como textos de entrevistas de comunidades forestales, puede ser de gran provecho, mientras que con los datos **“cuantitativos”** se facilita el análisis, se pueden manejar en mayores cantidades y son más simples de comparar con otras fuentes.
 
-Create categories for your data, to help you organise and analyse it later. Take time to decide on the categories that you need, and test them first to make sure that all your data will fit into them (it will be time-consuming if you have to re-categorise half-way through).
+Crear categorías de datos facilitará la organización y el análisis posterior de los mismos. Dedicar el tiempo necesario a determinar las categorías necesarias y hacer pruebas para verificar que sirven para clasificar toda la información (tener en cuenta que puede tomar más tiempo si más adelante hay que reclasificar la información).
 
-##### Pick the right format
+##### Seleccionar el formato adecuado
 
-Collect data in a format that computer programmes can read and process automatically. Avoid formats that can only be read by software from a particular company (like Microsoft), which may become unreadable if the company stops making the software.
+Obtener los datos en un formato que los programadores puedan leer y procesar automáticamente. Evitar formatos que sólo puedan ser utilizados por un software propietario (como Microsoft) y que no podrían volverse a utilizar si la compañía dejara de desarrollar ese software.
 
-Consider recording and publishing it as Open Data, which means that it that can be freely used, reused and redistributed by anyone. This involves two things: choosing a [suitable format](http://opendatahandbook.org) and licensing it so that it can be [re-used](http://opendatacommons.org/guide/). There are many benefits to publishing like this: it shows that your organisation is transparent about the data it collects; and other organisations may be able to use your data to help them.
+Se puede grabar y publicar los datos en formatos de software abierto (Open Data), ya que en tal caso los datos pueden ser utilizados, reutilizados y redistribuidos por terceros de forma gratuita. Este proceso implica dos aspectos: seleccionar el formato apropiado (ver lista)[12](http://opendatahandbook.org) y licenciarlo para que pueda ser reutilizado.[13](http://opendatacommons.org/guide/) Publicar de esta manera aporta muchos beneficios: muestra la transparencia con la cual su organización ha obtenido los datos y otras organizaciones pudieran hacer uso de estos datos.
 
-##### Understand where you can compare data – and where you can’t
+##### Entender en cuáles casos se pueden comparar los datos – y dónde no
 
-Combining different data sources can reveal entirely new information and present powerful messages for campaigning. For example, you can combine aerial photography collected by DIY satellite photography with participatory mapping data. But examine these data sources carefully. Can they be compared? Do both sources cover the same geographical area, and is the quality of the data consistent enough? If the right data isn’t available, think about changing the way you collect it so that the results fit better with data that already exists.
+La combinación de distintas fuentes de datos puede revelar información completamente nueva y presentar potentes mensajes para su campaña. Por ejemplo, se puede combinar fotografías aéreas obtenidas mediante fotografías satelitales creadas por usuarios con mapeado participativo de datos. No obstante, es preciso examinar estas fuentes de datos cuidadosamente. ¿Pueden ser comparados? ¿Ambas fuentes de datos cubren la misma área geográfica y es la calidad de los datos suficientemente consistente? Si los datos correctos no estuviesen disponibles, considerar cómo cambiar el método de recolección de datos para ajustar el resultado con datos existentes.
 
 <blockquote>
-	<h5>Case study: Combining different types of information</h5>
-	<p> <a href="http://www.orau.com.pe/inicio/index.php"> Organización Regional AIDESEP Ucayali (ORAU)</a> established a monitoring system designed to document the existence of indigenous peoples living in voluntary isolation (IPVI) and threats to the environment in Peru.</p>
+	<h5>Caso de estudio: combinar diferentes tipos de información</h5>
+	<p> <a href="http://www.orau.com.pe/inicio/index.php"> La Organización Regional AIDESEP (Asociación Interétnica de Desarrollo de la Selva Peruana) Ucayali (URAU)</a> estableció un sistema de monitoreo orientado a documentar la existencia de Pueblos indígenas que viven en aislamiento voluntario (PIAV) y las amenazas a su ambiente en Perú.</p>
 	<p><b>How did it help?</b></p>
 	<ul>
 		<li>Photographs of evidence, GPS data and other information is saved and systematized in a digital database.</li>
