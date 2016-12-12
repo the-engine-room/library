@@ -522,13 +522,13 @@ La siguiente lista de recursos incluye muchos ya mencionados en la presente Guí
 
 * El **Data Journalism Handbook** contiene consejos sobre solicitudes de libertad de información: [http://datajournalismhandbook.org/1.0/en/getting_data_1.html](http://datajournalismhandbook.org/1.0/en/getting_data_1.html)
 
-* **Supply Change **hace seguimiento a los compromisos y desempeño de las compañías en puntuaciones de ONGs: [http://www.supply-change.org/](http://www.supply-change.org/)
+* **Supply Change** hace seguimiento a los compromisos y desempeño de las compañías en puntuaciones de ONGs: [http://www.supply-change.org/](http://www.supply-change.org/)
 
 * El manual **Feedback Labs** ofrece una amplia gama de recursos y herramientas para recoger información de las personas con las que colabora: [https://feedbacklabs.org/toolkit/](https://feedbacklabs.org/toolkit/)
 
 #### Manejo de datos
 
-* **Security in-a-Box **es una guía sobre seguridad digital para activistas y defensores de derechos humanos alrededor del mundo producida por Frontline Defenders y Tactical Technology Collective: [https://securityinabox.org/](https://securityinabox.org/)
+* **Security in-a-Box** es una guía sobre seguridad digital para activistas y defensores de derechos humanos alrededor del mundo producida por Frontline Defenders y Tactical Technology Collective: [https://securityinabox.org/](https://securityinabox.org/)
 
 * El **Responsible Data Forum** provee recursos and guías para asistir a organizaciones en el uso de datos atendiendo asuntos de privacidad y consentimiento: [https://responsibledata.io](https://responsible/)
 
@@ -538,7 +538,7 @@ La siguiente lista de recursos incluye muchos ya mencionados en la presente Guí
 
 #### Apoyo en la obtención y el uso de datos
 
-* Los cursos de** School of Data** contienen introducciones a datos e información especifica sobre tópicos tales como borrado de disco duro:[ http://schoolofdata.org/courses](http://schoolofdata.org/courses/#DataFundamentals)
+* Los cursos de **School of Data** contienen introducciones a datos e información especifica sobre tópicos tales como borrado de disco duro:[ http://schoolofdata.org/courses](http://schoolofdata.org/courses/#DataFundamentals)
 
 * **DataKind** crea equipos de científicos voluntarios que colaboran con organizaciones sin fines de lucro para ayudarlas a resolver problemas relacionados a datos: [http://www.datakind.org](http://www.datakind.org/)
 
@@ -578,15 +578,15 @@ La siguiente lista de recursos incluye muchos ya mencionados en la presente Guí
 
 * **TechChange** ofrece un curso en línea gratis sobre aplicaciones para recolección de datos móvil: [https://www.techchange.org/online-courses/mobile-data-solutions/](https://www.techchange.org/online-courses/mobile-data-solutions/)
 
-* El informe "Opportunities and guidance on aplicaciones móviles for forest and agricultural sectors" del** Banco Mundial **contiene orientación útil para comparar funciones de aplicaciones móviles y planificar costos a corto y a largo plazo: [http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors](http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors)
+* El informe "Opportunities and guidance on aplicaciones móviles for forest and agricultural sectors" del **Banco Mundial **contiene orientación útil para comparar funciones de aplicaciones móviles y planificar costos a corto y a largo plazo: [http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors](http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors)
 
 * La guía Data Integrity User Guide de **FrontlineSMS** propone un marco para la comprensión del nivel de riesgo que implica toda actividad basada en SMS: http://www.frontlinesms.com/wp-content/uploads/2011/08/frontlinesms_userguide.pdf
 
 * **Forest Compass** recopila recursos para monitoreo forestal comunitario: [http://forestcompass.org/how/resources](http://forestcompass.org/how/resources)
 
-* **OpenForis **es un conjunto de aplicaciones móviles y herramientas de software para la recolección y el análisis de datos: [http://www.openforis.org/](http://www.openforis.org/)
+* **OpenForis** es un conjunto de aplicaciones móviles y herramientas de software para la recolección y el análisis de datos: [http://www.openforis.org/](http://www.openforis.org/)
 
-* **TechSoup **contiene guías para la selección de dispositivos móviles según sus necesidades: [http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for](http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for) 
+* **TechSoup** contiene guías para la selección de dispositivos móviles según sus necesidades: [http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for](http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for) 
 
 #### Mapas satelitales
 
@@ -600,13 +600,13 @@ La siguiente lista de recursos incluye muchos ya mencionados en la presente Guí
 
 #### Video and audio
 
-* La **Informacam **de The Guardian Project, un plugin que funciona con la aplicación **Obscuracam **para Android, puede contribuir a la recolección segura y verificable de pruebas en video y foto:[ https://guardianproject.info/informa/](https://guardianproject.info/informa/) y [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam) 
+* La **Informacam** de The Guardian Project, un plugin que funciona con la aplicación **Obscuracam **para Android, puede contribuir a la recolección segura y verificable de pruebas en video y foto:[ https://guardianproject.info/informa/](https://guardianproject.info/informa/) y [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam) 
 
 * La aplicación **StoryMaker** para teléfonos Android ayuda permite utilizar dispositivos Android para crear historias multimedia:[ http://smallworldnews.tv/projects/storymaker/](http://smallworldnews.tv/projects/storymaker/) 
 
-* **WITNESS** y** Video4Change** ofrecen bibliotecas de recursos útiles sobre cómo usar videos en su trabajo: [https://www.v4c.org/en/resources](https://www.v4c.org/en/resources) and [http://library.witness.org](http://library.witness.org/) 
+* **WITNESS** y **Video4Change** ofrecen bibliotecas de recursos útiles sobre cómo usar videos en su trabajo: [https://www.v4c.org/en/resources](https://www.v4c.org/en/resources) and [http://library.witness.org](http://library.witness.org/) 
 
-* **Small World News **ofrece guías para la creación de video y audio: [http://smallworldnews.com/guides](http://smallworldnews.com/guides) 
+* **Small World News** ofrece guías para la creación de video y audio: [http://smallworldnews.com/guides](http://smallworldnews.com/guides) 
 
 * **Audacity** ofrece funcionalidades gratuitas para edición de audio: [http://audacity.sourceforge.net/](http://audacity.sourceforge.net/); la versión **Lightworks Free** sirve para tareas sencillas de edición de video: [http://www.lwks.com/](http://www.lwks.com/) 
 
@@ -616,13 +616,13 @@ La siguiente lista de recursos incluye muchos ya mencionados en la presente Guí
 
 * **DIY Drones** contiene una guía básica sobre los VANTs: [http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs)
 
-* **Public Laboratory **ofrece guías y soporte para la construcción de voladores, globos y sensores para propósitos de mapeo: [http://publiclaboratory.org](http://publiclaboratory.org/wiki/kite-mapping)
+* **Public Laboratory** ofrece guías y soporte para la construcción de voladores, globos y sensores para propósitos de mapeo: [http://publiclaboratory.org](http://publiclaboratory.org/wiki/kite-mapping)
 
 * La red **Humanitarian UAV (UAViators)** cuenta con una gran variedad de información útil: [http://uaviators.org/about-this-site-rules](http://uaviators.org/about-this-site-rules) y una encuesta sobre leyes que afectan el vuelo de drones alrededor del mundo: [http://wiki.uaviators.org/doku.php](http://wiki.uaviators.org/doku.php)
 
 * Guía de **Geojournalism** para mapeo con globos: [http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/)
 
-* NetHope de **Solutions Center **ofrece webinars y recursos sobre el uso de drones: [http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles)
+* NetHope de **Solutions Center** ofrece webinars y recursos sobre el uso de drones: [http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles)
 
 ### Recursos por idioma
 
@@ -648,9 +648,9 @@ Los recursos que se enumeran a continuación se encuentran disponibles en el idi
 
 #### Français
 
-* El** Open Data Handbook** contiene guías sobre localización y uso de datos abiertos: [http://opendatahandbook.org/fr/](http://opendatahandbook.org/id/)
+* El **Open Data Handbook** contiene guías sobre localización y uso de datos abiertos: [http://opendatahandbook.org/fr/](http://opendatahandbook.org/id/)
 
-* **Security in-a-Box **es una guía sobre seguridad digital para activistas y defensores de derechos humanos alrededor del mundo producida por Frontline Defenders y Tactical Technology Collective: [https://info.securityinabox.org/fr](https://info.securityinabox.org/fr)
+* **Security in-a-Box** es una guía sobre seguridad digital para activistas y defensores de derechos humanos alrededor del mundo producida por Frontline Defenders y Tactical Technology Collective: [https://info.securityinabox.org/fr](https://info.securityinabox.org/fr)
 
 * **Frontline Defenders** ofrece capacitación y recursos para defensores de derechos humanos: [http://www.frontlinedefenders.org/fr/](http://www.frontlinedefenders.org/fr/)
 
@@ -662,7 +662,7 @@ Los recursos que se enumeran a continuación se encuentran disponibles en el idi
 
 * **Resource Extraction Monitoring** ofrece un manual para monitoreo independiente: [http://www.rem.org.uk/documents/ManuelOIFLEG2013.pdf](http://www.rem.org.uk/documents/ManuelOIFLEG2013.pdf)
 
-* **Resource Extraction Monitoring **ofrece una guía sobre el consentimiento en comunidades forestales: [http://www.rem.org.uk/documents/FM_kit_formation_CLIP.pdf](http://www.rem.org.uk/documents/FM_kit_formation_CLIP.pdf) 
+* **Resource Extraction Monitoring** ofrece una guía sobre el consentimiento en comunidades forestales: [http://www.rem.org.uk/documents/FM_kit_formation_CLIP.pdf](http://www.rem.org.uk/documents/FM_kit_formation_CLIP.pdf) 
 
 * **WITNESS** contiene una biblioteca de recursos sobre el uso seguro y efectivo del video: [http://fr.witness.org/ressources/](http://fr.witness.org/ressources/) 
 
@@ -688,7 +688,7 @@ Los recursos que se enumeran a continuación se encuentran disponibles en el idi
 
 * **Security in-a-Box** es una guía sobre seguridad digital para activistas y defensores de derechos humanos producida por Frontline Defenders y Tactical Technology Collective: [https://securityinabox.org/pt](https://securityinabox.org/pt)
 
-* **Imazon **ofrece mapas mensuales de deforestación en la región amazónica: [http://imazon.org.br/](http://imazon.org.br/)
+* **Imazon** ofrece mapas mensuales de deforestación en la región amazónica: [http://imazon.org.br/](http://imazon.org.br/)
 
 * **Datahub** es una plataforma de manejo de datos para la búsqueda, registro de hojas de datos publicadas, creación y manejo de grupos de hojas de datos: [http://datahub.io](http://datahub.io/) 
 
@@ -698,7 +698,7 @@ Los recursos que se enumeran a continuación se encuentran disponibles en el idi
 
 * **RAISG** (Red Amazónica de Información Socioambiental Georeferenciada) recopila información sobre áreas protegidas, tierras indígenas, cuencas hidrográficas y talas ilegales: [http://raisg.socioambiental.org/mapa-online/index.html](http://raisg.socioambiental.org/mapa-online/index.html) 
 
-* **Security in-a-Box **es una guía sobre seguridad digital para activistas y defensores de derechos humanos alrededor del mundo producida por Frontline Defenders y Tactical Technology Collective: [https://securityinabox.org/es](https://securityinabox.org/es)
+* **Security in-a-Box** es una guía sobre seguridad digital para activistas y defensores de derechos humanos alrededor del mundo producida por Frontline Defenders y Tactical Technology Collective: [https://securityinabox.org/es](https://securityinabox.org/es)
 
 * **The Monitoring Project of the Andean Amazon** (MAAP) recopila datos and mapas para monitorear the Andean Amazon región [http://maaproject.org/acerca-d-maap/](http://maaproject.org/acerca-d-maap/) 
 
@@ -718,6 +718,6 @@ Los recursos que se enumeran a continuación se encuentran disponibles en el idi
 
 #### tiếng Việt
 
-* **Security in-a-Box **es una guía sobre seguridad digital para activistas y defensores de derechos humanos alrededor del mundo producida por Frontline Defenders y Tactical Technology Collective: [https://info.securityinabox.org/vi](https://info.securityinabox.org/vi)
+* **Security in-a-Box** es una guía sobre seguridad digital para activistas y defensores de derechos humanos alrededor del mundo producida por Frontline Defenders y Tactical Technology Collective: [https://info.securityinabox.org/vi](https://info.securityinabox.org/vi)
 
 * **Datahub** es una plataforma de manejo de datos para la búsqueda, registro de hojas de datos publicadas, creación y manejo de grupos de hojas de datos: [http://datahub.io/vi/about](http://datahub.io/vi/about) 
