@@ -103,3 +103,5 @@ The Engine Room es una organización internacional que brinda apoyo a activistas
 [Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) y [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) realizaron la investigación y redactaron la narrativa principal; [Ruth Miller](http://ruthmiller.net/) dirigió las tareas de diseño y creación visual. Vemund Olsen y Christopher Wilson proporcionaron inestimables aportes en edició­n. María José Giménez se encargó de la traducción al español. El código de soporte se encuentra disponible en [Github](https://github.com/the-engine-room/library/).
 
 Para todo comentario o pregunta, comunicarse con [The Engine Room](mailto:post@theengineroom.org) o la [Fundación Rainforest Noruega](mailto:rainforest@rainforest.no).
+
+[Return to the Primer on Technology for Forest Peoples' Rights.](/rainforest-tech)
