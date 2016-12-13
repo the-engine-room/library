@@ -22,10 +22,6 @@ categories:
   - pt
 ---
 
-Esta introdução faz parte de uma [Cartilha de uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direitos territoriais e dos indígenas](https://library.theengineroom.org/rainforest-tech). Foi criada como um ponto de partida para organizações e ativistas interessados em utilizar tecnologia para realizar melhor seu trabalho de proteção, e resultou de uma parceria entre a [Fundação Rainforest da Noruega](http://www.regnskog.no/en/) e [The Engine Room](https://theengineroom.org/).
-
-*[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online.*
-
 ## **Mapeamento participativo e por GPS**
 
 > **Objetivos possíveis**
@@ -33,15 +29,13 @@ Esta introdução faz parte de uma [Cartilha de uso da tecnologia para monitora
 > * Fornecer evidências concretas ao poder público para incentivá-los a reconhecer terras indígenas.
 > * Apoiar as comunidades apresentando e fornecendo conhecimento
 
-
 Uma introdução (ou 'cartilha') ao uso da tecnologia para monitorar e compartilhar informações sobre problemas das florestas tropicais, direito à terra e direito dos indígenas. Foi criada como um ponto de partida para organizações e ativistas que estão pensando em utilizar tecnologia para realizar melhor seu trabalho de defesa.
 
 Resultou de uma parceria entre a Fundação [Rainforest da Noruega](http://www.regnskog.no/en/) e [The Engine Room](https://theengineroom.org/).
 
-_[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online._
-
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
+_[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online._
 
 ### O que é
 

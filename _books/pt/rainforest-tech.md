@@ -311,7 +311,7 @@ Só gaste dinheiro em tecnologia se tiver certeza que de que é absolutamente ne
 
 #### **Preparação**
 
-Para começar, **crie uma metodologia** (uma explicação de como você coletou e analisou os dados). Verifique com os especialistas se a sua metodologia é robusta, e apresente-a claramente sempre que publicar os resultados. Esteja pronto para explicar a sua metodologia ou use-a para defender a credibilidade do seu trabalho. Para exemplos, veja [Open Development Cambodia](http://www.opendevelopmentcambodia.net/briefings/forest-cover/) (para uma metodologia simples) e [Land Matrix](http://landmatrix.org/en/about/) (para uma mais detalhada). Veja também http://maaproject.org/about-maap/.
+Para começar, **crie uma metodologia** (uma explicação de como você coletou e analisou os dados). Verifique com os especialistas se a sua metodologia é robusta, e apresente-a claramente sempre que publicar os resultados. Esteja pronto para explicar a sua metodologia ou use-a para defender a credibilidade do seu trabalho. Para exemplos, veja [Open Development Cambodia](http://www.opendevelopmentcambodia.net/briefings/forest-cover/) (para uma metodologia simples) e [Land Matrix](http://landmatrix.org/en/about/) (para uma mais detalhada). Veja também [http://maaproject.org/about-maap/](http://maaproject.org/about-maap/). 
 
 <blockquote>
   <h5>Estudo de caso: Sendo reconhecido pela qualidade da sua evidência</h5>
