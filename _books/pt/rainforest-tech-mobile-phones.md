@@ -14,6 +14,7 @@ navigation:
   - Custo
   - Riscos e desafios
   - Estudos de caso
+  - Outros recursos
   - Sobre
 ref: pt
 lang: pt
@@ -21,19 +22,19 @@ categories:
   - pt
 ---
 
-Esta introdução faz parte de uma [Cartilha de uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direitos territoriais e dos indígenas](https://library.theengineroom.org/rainforest-tech). Foi criada como um ponto de partida para organizações e ativistas interessados em utilizar tecnologia para realizar melhor seu trabalho de proteção, e resultou de uma parceria entre a [Fundação Rainforest da Noruega](http://www.regnskog.no/en/) e [The Engine Room](https://theengineroom.org/).
-
-*[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online.*
-
 ## **Aplicativos para celular**
 
 > ### Objetivos possíveis
 > * Coletar indícios de desflorestamento ou degradação florestal
-Coletar evidências de irregularidades que prejudiquem pessoas ou comunidades
+> * Coletar evidências de irregularidades que prejudiquem pessoas ou comunidades
 > * Registrar e monitorar o valor ambiental da terra ou de áreas florestais
 > * Fornecer evidências concretas ao poder público para incentivá-los a reconhecer terras indígenas.
 
+Esta introdução faz parte de uma [Cartilha de uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direitos territoriais e dos indígenas](https://library.theengineroom.org/rainforest-tech). Foi criada como um ponto de partida para organizações e ativistas interessados em utilizar tecnologia para realizar melhor seu trabalho de proteção, e resultou de uma parceria entre a [Fundação Rainforest da Noruega](http://www.regnskog.no/en/) e [The Engine Room](https://theengineroom.org/).
+
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
+
+*[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online.*
 
 ### **O que é**
 
@@ -87,7 +88,6 @@ Desde 2011, o Programa Global Canopy tem executado um sistema de monitoramento d
 - Popular com as comunidades locais, 87% dos líderes locais e conselheiros do vilarejo disseram que os telefones ajudaram a comunidade a conhecer melhor os recursos locais.
 - O projeto incentivou a colaboração dos mais velhos, conhecedores dos recursos naturais, e dos jovens que são ágeis com dispositivos móveis.
 
-
 **Usando dispositivos GPS para documentar invasões de territórios indígenas**
 
 Povos indígenas no Acre foram treinados pela Comissão Pró-Índio do Acre, (CPI-AC) para usarem dispositivos GPS para registrar invasões de territórios indígenas.
@@ -96,6 +96,18 @@ Povos indígenas no Acre foram treinados pela Comissão Pró-Índio do Acre, (CP
 
 - As informações reunidas pelos indígenas foram usadas para criar mapas que destacam o problema e apresentam evidências de onde a situação está pior.
 - Um desses mapas de invasão foi apresentado ao ex-Ministro do Meio Ambiente do país, desencadeando uma ação de diversos setores do governo federal contra invasões.
+
+### Outros recursos
+
+- O relatório Mobiles in Development do The engine room dá uma visão geral de uso de dispositivos móveis em desenvolvimento, incluindo mais informações sobre como funciona a coleta de dados móveis [http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development](http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development)
+- NetHope e Humanitarian Nomad oferece conjuntos de perguntas para ajudá-lo a escolher uma ferramenta móvel: [http://solutionscenter.nethope.org/](http://solutionscenter.nethope.org/) e [http://humanitarian-nomad.org/online-selection-tool/](http://humanitarian-nomad.org/online-selection-tool/)
+- Kopernik dá informações para organizações pequenas sobre ferramentas de coleta de dados móveis, plataformas de mapeamento e sensores, com informações para ajudar você a compará-las. [http://impacttrackertech.kopernik.info/](http://impacttrackertech.kopernik.info/)
+- TechChange oferece um curso online grátis sobre aplicativos de coleta de dados móveis: [https://www.techchange.org/online-courses/mobile-data-solutions/](https://www.techchange.org/online-courses/mobile-data-solutions/)
+- Oportunidades e orientação do The World Bank sobre aplicativos móveis de relatórios para setores florestais e agrícolas inclui orientação na comparação de recursos de aplicativos móveis e planejamento de custos em curto e longo prazo [http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors](http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors)
+- O Guia do usuário Integridade de dados da FrontlineSMS dá uma estrutura para entender o nível de risco envolvido em qualquer atividade SMS [http://www.frontlinesms.com/wp-content/uploads/2011/08/frontlinesms_userguide.pdf](http://www.frontlinesms.com/wp-content/uploads/2011/08/frontlinesms_userguide.pdf)
+- Forest Compass coleta recursos para monitoramento florestal feito pela comunidade [http://forestcompass.org/how/resources](http://forestcompass.org/how/resources)
+- OpenForis é um conjunto de aplicativos móveis e ferramentas de software que podem ajudar você a coletar e analisar dados [http://www.openforis.org/](http://www.openforis.org/)
+- TechSoup aconselha na escolha de dispositivo móvel que supra as suas necessidades [http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for](http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for).
 
 ### **Sobre**
 Este site foi criado pela [Fundação Rainforest da Noruega](www.regnskog.no/en/) e [The Engine Room](//theengineroom.org) como uma introdução ao uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direito à terra e direitos dos indígenas. Baixe a cartilha completa aqui.

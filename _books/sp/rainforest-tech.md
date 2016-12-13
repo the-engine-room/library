@@ -22,14 +22,14 @@ categories:
 
 # Guía sobre el uso de la tecnología en el monitoreo e intercambio de información sobre los bosques lluviosos y los derechos de los pueblos forestales
 
-## Introducción
+### Introducción
 
 La presente introducción es parte de una Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org).
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
 La estructura de la guía permite una consulta parcial y explorar secciones relevantes por separado si se desea obtener pautas más detalladas.
- *[Download the whole primer (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) or read it online below.*
+[Descargar la guía completa (1.6MB pdf)](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) o leerla en línea (a continuación).
 
 La guía:
 
@@ -125,7 +125,7 @@ Reconocer que **será necesario designar recursos para la enseñanza de usos efe
 
 * **No hacer daño:** Crear una lista escrita de las maneras en que el proyecto podría causar daños inadvertidos a las personas o al medio ambiente o ayudar a otros actores que causen daño. Por ejemplo, si hay compañías que pudieran beneficiarse al conocer la ubicación de una comunidad en particular o de un recurso de valor).
 
-* **Permitir que las personas decidan cómo se recopilan y se utilizan datos vinculados a ellas,** en particular si se trabaja con comunidades marginadas. Las propias comunidades deben tener la última palabra respecto al grado de riesgo y exposición al que están dispuestas. [1](http://www.fabriders.net/qafs/)
+* **Permitir que las personas decidan cómo se recopilan y se utilizan datos vinculados a ellas,** en particular si se trabaja con comunidades marginadas. Las propias comunidades deben tener la última palabra respecto al grado de riesgo y exposición al que están dispuestas. [[1]](http://www.fabriders.net/qafs/)
 
 * **Usar los datos de manera responsable:** Considerar cómo los datos recopilados podrían afectar a las personas y a los entornos y cómo se manejarán dichos riesgos (ver sección **Estrategia**.)
 
@@ -201,12 +201,12 @@ A continuación, considerar los posibles efectos del proyecto sobre la situació
 	<h5 style="color:white">Información sobre uso responsable de datos: Planificar un uso responsable de los datos</h5>
 	<p style="color:white">Casi cada proyecto implica algún tipo de tratamiento de datos, aunque sea solamente enviar correos electrónicos o el uso de hojas de cálculo. La falta de cuidado en el manejo de los datos puede poner a riesgo a la organización y a las personas con quienes trabaja. Las fugas de datos pueden causar violencia, los datos abiertos pueden ayudar a los especuladores de tierras, y el hardware puede ser rastreado para actuar en contra de los activistas. Una evaluación de riesgo es una parte esencial de todo plan de proyecto y le ayudará a prepararse para imprevistos.</p>
 	<ul style="color:white">
-		<li>Empezar por identificar un conjunto de eventos y actores (personas u organizaciones) que podrían impedir que el proyecto alcance sus metas. <a href="https://securityinabox.org/">2</a> <a href="https://responsibledata.io">3</a></li> 
+		<li>Empezar por identificar un conjunto de eventos y actores (personas u organizaciones) que podrían impedir que el proyecto alcance sus metas. <a href="https://securityinabox.org/">2</a> <a href="https://responsibledata.io">[3]</a></li> 
 		<li>Escribir respuestas a las siguientes preguntas: ¿Qué probabilidad hay de que cada uno de estos eventos ocurra? ¿Cuán grave sería su impacto sobre el proyecto?</li>
 		<li>Dar prioridad a los eventos más probables y los más grave.</li>
 		<li>Crear un conjunto de pasos concretos: ¿Qué se puede hacer para disminuir la probabilidad de cada evento? ¿En caso de llegar a ocurrir, se puede limitar el daño? ¿Cuál es el plan alterno?</li>
 	</ul>
-	<p style="color:white"><b>Prepararse para lo peor</b> Incluso en casos de una excelente planificación se pueden presentar emergencias. Responder a ellas puede exigir recursos tales como apoyo externo y fondos médicos de emergencia, apoyo jurídico, mayores fondos de respaldo o costos para reponer herramientas. <a href="https://digitaldefenders.org/digitalfirstaid">4</a></p>
+	<p style="color:white"><b>Prepararse para lo peor</b> Incluso en casos de una excelente planificación se pueden presentar emergencias. Responder a ellas puede exigir recursos tales como apoyo externo y fondos médicos de emergencia, apoyo jurídico, mayores fondos de respaldo o costos para reponer herramientas. <a href="https://digitaldefenders.org/digitalfirstaid">[4]</a></p>
 </blockquote>
 
 ##### Presupuestar las necesidades
@@ -233,7 +233,7 @@ Incluir siempre desarrollo, pruebas, mantenimiento y apoyo al usuario en los cos
 
 #### ¿Dónde conseguir los datos?
 
-Si existen datos de calidad, no se debe perder tiempo ni dinero obteniéndolos de nuevo. Pensar creativamente: ¿Existen bases de datos internacionales que incluyen su país? ¿Hay otra organización que haya creado bases de datos con el mismo tópico? [5](http://oad.simmons.edu/oadwiki/Data_repositories) [6](http://dataportals.org/) [7](http://datahub.io/about) Si no se puede acceder a los mapas de datos de determinado tema, ¿es posible, en vez de ello, usar información publicada por una compañía? [8](https://ejatlas.org/) [9](http://www.gdeltproject.org/) Si los datos han sido recabados pero no tienen acceso al público, revisar si las regulaciones de libertad de información podrían influir en los gobiernos para su publicación. [10](http://datajournalismhandbook.org/1.0/en/getting_data_1.html) [11](http://queremossaber.org.br/) 
+Si existen datos de calidad, no se debe perder tiempo ni dinero obteniéndolos de nuevo. Pensar creativamente: ¿Existen bases de datos internacionales que incluyen su país? ¿Hay otra organización que haya creado bases de datos con el mismo tópico? [[5]](http://oad.simmons.edu/oadwiki/Data_repositories) [[6]](http://dataportals.org/) [[7]](http://datahub.io/about) Si no se puede acceder a los mapas de datos de determinado tema, ¿es posible, en vez de ello, usar información publicada por una compañía? [[8]](https://ejatlas.org/) [[9]](http://www.gdeltproject.org/) Si los datos han sido recabados pero no tienen acceso al público, revisar si las regulaciones de libertad de información podrían influir en los gobiernos para su publicación. [[10]](http://datajournalismhandbook.org/1.0/en/getting_data_1.html) [11](http://queremossaber.org.br/) 
 
 
 <blockquote>
@@ -253,7 +253,7 @@ Crear categorías de datos facilitará la organización y el análisis posterior
 
 Obtener los datos en un formato que los programadores puedan leer y procesar automáticamente. Evitar formatos que sólo puedan ser utilizados por un software propietario (como Microsoft) y que no podrían volverse a utilizar si la compañía dejara de desarrollar ese software.
 
-Se puede grabar y publicar los datos en formatos de software abierto (Open Data), ya que en tal caso los datos pueden ser utilizados, reutilizados y redistribuidos por terceros de forma gratuita. Este proceso implica dos aspectos: seleccionar el formato apropiado (ver lista)[12](http://opendatahandbook.org) y licenciarlo para que pueda ser reutilizado.[13](http://opendatacommons.org/guide/) Publicar de esta manera aporta muchos beneficios: muestra la transparencia con la cual su organización ha obtenido los datos y otras organizaciones pudieran hacer uso de estos datos.
+Se puede grabar y publicar los datos en formatos de software abierto (Open Data), ya que en tal caso los datos pueden ser utilizados, reutilizados y redistribuidos por terceros de forma gratuita. Este proceso implica dos aspectos: seleccionar el formato apropiado (ver lista)[[12]](http://opendatahandbook.org) y licenciarlo para que pueda ser reutilizado.[[13]](http://opendatacommons.org/guide/) Publicar de esta manera aporta muchos beneficios: muestra la transparencia con la cual su organización ha obtenido los datos y otras organizaciones pudieran hacer uso de estos datos.
 
 ##### Entender en cuáles casos se pueden comparar los datos – y dónde no
 
@@ -280,7 +280,7 @@ No gastar dinero en tecnología salvo cuando se está completamente seguro de su
 
 **Conectividad:** Considerar cuidadosamente antes de depender de las redes de comunicación. Si la red móvil de Internet no está disponible, elegir herramientas que utilicen redes celulares regulares (GPRS por sus siglas en inglés); no usar la red de telefonía si no está disponible. Siempre tener un plan de respaldo en caso de que se interrumpa el servicio de alguna red.
 
-Conexión a Internet: ser realista acerca de lo que se puede lograr con una conexión a Internet lenta; esto puede retrasar el progreso e incrementar los costos. Considerar modificar el proyecto o el diseño de la página web para que funcione en conexiones lentas o selecciona herramientas que trabajen en modo offline. [14](http://www.aptivate.org/webguidelines/Home.html) [15](http://www.engagemedia.org/help/how-to-compress-video)
+Conexión a Internet: ser realista acerca de lo que se puede lograr con una conexión a Internet lenta; esto puede retrasar el progreso e incrementar los costos. Considerar modificar el proyecto o el diseño de la página web para que funcione en conexiones lentas o selecciona herramientas que trabajen en modo offline. [[14]](http://www.aptivate.org/webguidelines/Home.html) [[15]](http://www.engagemedia.org/help/how-to-compress-video)
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
 	<p style="color:white"><b>No confiar en una única empresa para respaldar sus datos en línea</b> Por ejemplo, millones de fotos colocadas en el servicio Twitpic estaban en riesgo de ser eliminadas en el 2014 cuando la empresa cerró, mientras que en el 2011 miles de videos colocados en el sitio surafricano MyVideo se perdieron porque el servicio carecía de respaldo y los servidores tenían mantenimiento adecuado.</p> <a href="http://www.pcworld.com/article/2839172/twitter-keeps-alive-twitpic-domain-and-photo-archive.html">16</a> <a href="http://www.archiveteam.org/index.php?title=Deathwatch">17</a> <a href="http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf">18</a>
@@ -290,7 +290,7 @@ Conexión a Internet: ser realista acerca de lo que se puede lograr con una cone
 
 #### Preparación
 
-Para comenzar, **crear una metodología** (una explicación de cómo se obtienen y analizan los datos). Verificar la metodología, compleméntala con expertos, y describirla claramente al publicar los resultados. Estar preparado para explicar la metodología o utilizarla para defender la credibilidad de su trabajo. Por ejemplo, ver Open Development Cambodia, un sitio web de datos abiertos o “open data” (para una metodología simple) y Land Matrix (para una metodología más detallada). [19](http://www.opendevelopmentcambodia.net/briefings/forest-cover/) [20]( http://landmatrix.org/en/about/) [21](http://maaproject.org/about-maap/)
+Para comenzar, **crear una metodología** (una explicación de cómo se obtienen y analizan los datos). Verificar la metodología, compleméntala con expertos, y describirla claramente al publicar los resultados. Estar preparado para explicar la metodología o utilizarla para defender la credibilidad de su trabajo. Por ejemplo, ver Open Development Cambodia, un sitio web de datos abiertos o “open data” (para una metodología simple) y Land Matrix (para una metodología más detallada). [[19]](http://www.opendevelopmentcambodia.net/briefings/forest-cover/) [[20]]( http://landmatrix.org/en/about/) [[21]](http://maaproject.org/about-maap/)
 
 <blockquote>
 	<h5>Caso de estudio: recibir reconocimiento por la calidad de su evidencia</h5>
@@ -312,7 +312,7 @@ Para comenzar, **crear una metodología** (una explicación de cómo se obtienen
 
 #### Obtener feedback
 
-No esperar hasta finalizar el proyecto para conocer cómo va funcionando: preguntar regularmente y ajustar las actividades según corresponda. Se puede obtener información utilizando métodos como entrevistas, reuniones en persona y seguimiento de otros factores medidos, tales como interacciones en línea. [23](https://www.theengineroom.org/diy-for-me/) [24](http://feedbacklabs.org/toolkit/)
+No esperar hasta finalizar el proyecto para conocer cómo va funcionando: preguntar regularmente y ajustar las actividades según corresponda. Se puede obtener información utilizando métodos como entrevistas, reuniones en persona y seguimiento de otros factores medidos, tales como interacciones en línea. [[23]](https://www.theengineroom.org/diy-for-me/) [[24]](http://feedbacklabs.org/toolkit/)
 
 ### Manejo de datos
 

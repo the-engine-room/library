@@ -40,7 +40,7 @@ Cette introduction est issue du [*Guide introductif à l’utilisation de la tec
 ### Que sont les techniques audio et vidéo ?
 * Les enregistrements vidéo ou audio peuvent être réalisés avec des téléphones ou des appareils spéciaux comme des appareils photo numériques, des dictaphones ou des caméras vidéo.
 * Les vidéos permettent faire passer un message de plaidoyer, de recueillir des preuves visuelles de violations des droits de l’Homme, de disséminer des films produits de manière participative par les communautés, ou encore de suivre l’évolution de la déforestation. Les enregistrements audio peuvent remplir les mêmes fonctions. [http://www.managingforimpact.org/sites/default/files/resource/insights_into_participatory_video_a_handbook_for_the_field.pdf](http://www.managingforimpact.org/sites/default/files/resource/insights_into_participatory_video_a_handbook_for_the_field.pdf)
-* De nombreux Smartphones vous permettent d’enregistrer, de monter et de transférer des enregistrements vidéo ou audio sur internet. Ils peuvent aussi localiser automatiquement une photo ou un film par GPS ce qui vous permet de les associer à des cartes ou à d’autres données.
+* De nombreux smartphones vous permettent d’enregistrer, de monter et de transférer des enregistrements vidéo ou audio sur internet. Ils peuvent aussi localiser automatiquement une photo ou un film par GPS ce qui vous permet de les associer à des cartes ou à d’autres données.
 
 ### Quelle en est l’utilité ?
 Les enregistrements vidéo et sonores peuvent transmettre des informations sur les peuples et les lieux qu’il est impossible de décrire par des textes, des cartes ou des données seules. Ils permettent d’expliquer le but d’une campagne de manière rapide et personnalisée ce qui en fait des outils de plaidoyer efficaces. L’application StoryMaker pour téléphones Android est conçue pour vous aider à créer des documents multimédias sur un appareil Android : http://smallworldnews.tv/projects/storymaker/. Les preuves vidéo et audio peuvent aussi être utilisées dans des actions en justice sur des violations des droits de lHomme ou des activités illégales si elles remplissent des critères spécifiques. L’application Iformacam de Guardian Project sert à collecter des preuves numériques de manière sécurisée à un format qui peut être utilisé devant les tribunaux: https://guardianproject.info/informa/.
@@ -107,4 +107,4 @@ The Engine Room est une organisation internationale qui aide les activistes, les
 
 <hr>
 
-Retour à [La Technologie pour les Forêts Tropicales.](/rainforest-tech)
+Retour à [La Technologie pour les Forêts Tropicales.](/fr/rainforest-tech)

@@ -24,7 +24,7 @@ categories:
 
 # Fotografia aérea faça você mesmo
 
-> **Objetivos possíveis**
+> ### Objetivos possíveis
 
 > * Coletar indícios de desflorestamento ou degradação florestal
 

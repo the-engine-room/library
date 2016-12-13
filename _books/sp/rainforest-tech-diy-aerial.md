@@ -15,6 +15,7 @@ navigation:
   - Riesgos y desafíos
   - Casos de estudio
   - Acerca de este sitio
+  - Sobre
 ref: rt-da
 lang: sp
 categories:
@@ -79,6 +80,7 @@ En 2014, ConservationDrones y el Sumatran Orangutan Conservation Programme (SOCP
 * ConservationDrones y SOCP presentó las pruebas a los funcionarios de los parques, quienes lograron frenar la tala ilegal en el área.
 
 ### Otros recursos
+
 * El sitio **Conservation Drones** contiene una guía para construir drones y ejemplos de su uso en esfuerzos de conservación: [http://conservationdrones.org/](http://conservationdrones.org/2014/10/24/recycle/)
 
 * **DIY Drones** contiene una guía básica sobre los VANTs: [http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs)
@@ -91,7 +93,8 @@ En 2014, ConservationDrones y el Sumatran Orangutan Conservation Programme (SOCP
 
 * NetHope de **Solutions Center** ofrece webinars y recursos sobre el uso de drones: [http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles)
 
-### **Acerca de este sitio**
+### Acerca de este sitio
+
 Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
 
 La Fundación Rainforest Noruega (RFN) es una de las organizaciones líderes en el campo de la protección de bosques lluviosos basada en los derechos humanos. Su misión es brindar apoyo a los pueblos indígenas y a las poblaciones tradicionales de los bosques lluviosos del mundo en sus esfuerzos de protección medioambiental y lograr el pleno uso de sus derechos brindándoles asistencia en:
@@ -104,9 +107,8 @@ La RFN colabora de cerca con más de 70 organizaciones medioambientales, indíge
 #### Colaboradores
 The Engine Room es una organización internacional que brinda apoyo a activistas, organizaciones que obran en pos del cambio social y agentes de cambio para sacar el máximo provecho a los datos y a la tecnología para aumentar su impacto. The Engine Room brinda apoyo directo a nivel de proyecto para organizaciones que obran en pos del cambio social; junta comunidades para coordinar ideas emergentes y reunir profesionales; y documenta y publica sus resultados para ayudar a cualquier persona en el sector a tomar mejores decisiones en el uso de los datos y la tecnología.
 
-
 [Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) y [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) realizaron la investigación y redactaron la narrativa principal; [Ruth Miller](http://ruthmiller.net/) dirigió las tareas de diseño y creación visual. Vemund Olsen y Christopher Wilson proporcionaron inestimables aportes en edició­n. María José Giménez se encargó de la traducción al español. El código de soporte se encuentra disponible en [Github](https://github.com/the-engine-room/library/).
 
 Para todo comentario o pregunta, comunicarse con [The Engine Room](mailto:post@theengineroom.org) o la [Fundación Rainforest Noruega](mailto:rainforest@rainforest.no).
 
-[Volver a la página de inicio de la Biblioteca.](/rainforest-tech)
+[Volver a la página de inicio de la Biblioteca.](/pt/rainforest-tech)

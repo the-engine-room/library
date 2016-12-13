@@ -22,13 +22,7 @@ categories:
   - pt
 ---
 
-## **Áudio e vídeo**
-
-Esta introdução faz parte de uma [Cartilha de uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direitos territoriais e dos indígenas](https://library.theengineroom.org/rainforest-tech). Foi criada como um ponto de partida para organizações e ativistas interessados em utilizar tecnologia para realizar melhor seu trabalho de proteção, e resultou de uma parceria entre a [Fundação Rainforest da Noruega](http://www.regnskog.no/en/) e [The Engine Room](https://theengineroom.org/).
-
-![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
-
-*[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online.*
+## Áudio e vídeo
 
 > ### Objetivos possíveis
 > * Iniciar ou apoiar o diálogo entre as comunidades e o poder público
@@ -37,14 +31,13 @@ Esta introdução faz parte de uma [Cartilha de uso da tecnologia para monitora
 > * Coletar indícios de desflorestamento ou degradação florestal
 > * Fornecer evidências de irregularidades que prejudiquem pessoas ou comunidades
 
+Esta introdução faz parte de uma [Cartilha de uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direitos territoriais e dos indígenas](https://library.theengineroom.org/rainforest-tech). Foi criada como um ponto de partida para organizações e ativistas interessados em utilizar tecnologia para realizar melhor seu trabalho de proteção, e resultou de uma parceria entre a [Fundação Rainforest da Noruega](http://www.regnskog.no/en/) e [The Engine Room](https://theengineroom.org/).
 
-Uma introdução (ou 'cartilha') ao uso da tecnologia para monitorar e compartilhar informações sobre problemas das florestas tropicais, direito à terra e direito dos indígenas. Foi criada como um ponto de partida para organizações e ativistas que estão pensando em utilizar tecnologia para realizar melhor seu trabalho de defesa.
+![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
-Resultou de uma parceria entre a Fundação [Rainforest da Noruega](http://www.regnskog.no/en/) e [The Engine Room](https://theengineroom.org/).
+[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online.*
 
-[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online.
-
-### **O que é**
+### O que é
 
 * Gravações de filmes ou áudios podem ser registrados em telefones celulares, ou dispositivos especializados como câmeras digitais, dictafones ou filmadoras.
 
@@ -56,15 +49,15 @@ Resultou de uma parceria entre a Fundação [Rainforest da Noruega](http://www.
 
 Vídeo e áudio podem comunicar informações sobre pessoas e lugares que são impossíveis explicar somente com texto, mapas ou dados. Isso faz uma ferramenta eficaz de defesa que pode explicar uma campanha rapidamente de forma pessoal. (O aplicativo [StoryMaker](http://smallworldnews.tv/projects/storymaker/) para telefones Android foi criado para ajudar você a criar histórias multimídia no seu dispositivo Android) Evidência em vídeo e áudio também pode ser usada em casos jurídicos de violações de diretos humanos ou atividades ilegais se você seguir os procedimentos específicos. (O aplicativo [Informacam](https://guardianproject.info/informa/) do The Guardian Project ajuda a coletar evidências digitais de forma segura para ser usada em juízo.)
 
-### **Ferramentas**
+### Ferramentas
 
 Não vá supondo que precisa comprar um novo smartphone ou câmera. Muitos dispositivos mais antigos ainda fornecem imagens de alta qualidade (procure os com 5 megapixels ou mais). (NOTE:  https://www.v4c.org/content/effective-video-low-cost-devices ) Arquivos de áudio e vídeo usam muita memória digital – compacte-os usando software grátis, ou use arquivos de qualidade inferior que sejam mais fáceis de publicar onde a internet for lenta. Você pode editar diretamente de um smartphone ou usar software grátis como Lightworks Free e Audacity. (NOTE:  http://www.lwks.com ou http://audacity.sourceforge.net/ ) Acessórios como tripés e microfones externos não são essenciais, mas melhoram a qualidade. Video4Change (NOTE:  https://www.v4c.org/en/resources ) e WITNESS (NOTE:  http://library.witness.org ) têm uma ampla gama de recursos para aconselhamento técnico.
 
-### **Custos**
+### Custos
 
 Você agora pode criar vídeo e áudio a baixo custo, mas em geral, quanto mais complexo o produto, mas caro ele será. Filmar um protesto de um grupo de indígenas com um smartphone sairá muito mais barato que um documentário de qualidade profissional de 20 minutos. Filmar, editar e carregar também podem levar muito tempo: a sua organização tem tempo para produzir um vídeo, ou seria mais realista pagar um profissional?
 
-### **Riscos e desafios**
+### Riscos e desafios
 
 **Riscos às pessoas que estão gravando:** Gravar áudio ou vídeo pode ser arriscado.  Exclua ou criptografe dados pessoais em dispositivos, e limpe os dispositivos frequentemente. Impressões digitais ou resíduos podem mostrar onde eles estiveram. Somente compartilhe informações confidenciais com grupos de confiança ou advogados antes de publicar, e verifique se é legal gravar antes de começar.
 
@@ -82,8 +75,6 @@ HuMa coleta dados sobre conflitos de terra na Indonésia, incluindo vídeos de c
 - Os dados têm sido usados por grupos incluindo a Comissão Nacional de Direitos Humanos, o Chefe da Polícia Nacional e outras ONGs.
 - A agência de certificação de Perhutani (uma madeireira estatal indonésia) também consultou os dados HuMa como base para investigar determinados incidentes.
 
-
-
 **Estudo de caso: Uso de vídeo para documentar exploração ilegal na Indonésia**
 
 Em resposta a campanhas de defesa, a empresa de papel indonésia APP assinou um compromisso de desflorestamento zero. Em setembro de 2013, Olhos na Floresta (Eyes on the Forest - uma coalizão de 3 organizações ambientais locais na Indonésia), filmaram uma madeireira conhecida como fornecedora da APP desmatando floresta natural.
@@ -95,7 +86,7 @@ Em resposta a campanhas de defesa, a empresa de papel indonésia APP assinou um 
 - APP foi forçada a responder ao vídeo declarando que a exploração era em uma zona de exclusão que não tinha sido divulgada.
 
 
-### **Sobre**
+### Sobre
 
 Este site foi criado pela [Fundação Rainforest da Noruega](http://regnskog.no/en/) e [The Engine Room](https://theengineroom.org/) como uma introdução ao uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direito à terra e direitos dos indígenas. [Baixe a cartilha completa aqui.](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642)
 

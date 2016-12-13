@@ -30,7 +30,7 @@ categories:
 > * Documenter et faire le suivi de la valeur environnementale de territoires ou de forêts 
 > * Fournir des témoignages concrets pour inciter les gouvernements à reconnaître les terres autochtones. 
 
-This introduction to mobile phone applications is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
+Cette introduction est issue du [*Guide introductif à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale et les droits des peuples forestiers.*](/fr/rainforest-tech) Il fournit un point de départ aux organisations et activistes désireux d’intégrer des technologies en appui à leurs actions de plaidoyer, et est le fruit d’un partenariat entre la [Rainforest Foundation Norway](http://www.regnskog.no/en/) et [The Engine Room](https://theengineroom.org/).
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
@@ -67,9 +67,9 @@ L’Open Data Kit (ODK) est une gamme d’outils open-source pour la collecte mo
 #### Ultra fiable, mais coûteux – le Collector d’ArcGIS  
 La suite d’applications ArcGIS est un produit SIG de très haute qualité qui offre des possibilités puissantes pour la production et l’analyse de données cartographiques. Une licence basique pour un an coûte environ 1,500 dollars US, et comprend un support technique en ligne et par téléphone. Pour pouvoir utiliser toutes les fonctionnalités vous devez acheter la suite complète : une application Android, un programme qui gère les données collectées sur votre serveur et un programme de publications de cartes en ligne. L’avantage d’utiliser ces logiciels payants de haute qualité est qu’ils ont plus de fonctionnalités et que leur fonctionnement est fiable. Leur inconvénient est leur prix élevé et qu’ils ne peuvent être modifiés par un développeur pour s’adapter à un projet car leur code est fermé. 
 
-### Risques et difficultés. 
+### Risques et difficultés
 
-Il est impossible de collecter et partager des données de manière totalement sécurisée sur des téléphones mobiles à cause de la conception même de ces appareils (pour en connaître les raisons, voir See Security in a Box for : https://securityinabox.org/en/guide/mobile-phones). Cette faille peut mettre en danger les personnes qui recueillent les informations ; le simple fait de posséder une application présente un danger pour les observateurs communautaires. Les peuples et l’environnement peuvent aussi être menacés par l’impact des informations que vous publiez sur eux (voir les sections « données responsables » de la partie Stratégie ).
+Il est impossible de collecter et partager des données de manière totalement sécurisée sur des téléphones mobiles à cause de la conception même de ces appareils (pour en connaître les raisons, voir [Security in a Box](https://securityinabox.org/fr/). Cette faille peut mettre en danger les personnes qui recueillent les informations ; le simple fait de posséder une application présente un danger pour les observateurs communautaires. Les peuples et l’environnement peuvent aussi être menacés par l’impact des informations que vous publiez sur eux (voir les sections « données responsables » de la partie Stratégie).
 
 ### Études de cas
 
@@ -81,7 +81,7 @@ Depuis 2011, le Programme mondial pour la canopée (Global Canopy Programme) gè
 
 * La technologie a permis de collecter et agréger les données de manière simple et en temps réel, sans avoir besoin de retranscrire les données de terrain.
 * Elle a été bien accueillie par les communautés : 87% des chefs locaux et des conseillers de villages ont estimé que les téléphones ont été bénéfiques à la communauté et l’ont aidée à accroître les connaissances des ressources locales.  
-* Le projet a favorisé la collaboration entre les anciens qui détiennent la connaissance des ressources naturelles et les jeunes qui ont rapidement intégré le fonctionnement des appareils mobiles (http://tinyurl.com/q9jg3xt).
+* Le projet a favorisé la collaboration entre les anciens qui détiennent la connaissance des ressources naturelles et les jeunes qui ont [rapidement intégré le fonctionnement des appareils mobiles](http://tinyurl.com/q9jg3xt).
 
 #### Utiliser les appareils GPS pour recenser les invasions de territoires autochtones.
 
@@ -92,7 +92,7 @@ La Commission pro-indienne d’Acre (Comissão Pró-Indio do Acre, ou CPI-AC) a 
 * Les informations que les peuples autochtones ont collectées ont été utilisées pour élaborer des cartes qui démontrent le problème et pour présenter des preuves des pires situations.
 * Une de ces cartes des invasions a été soumise à l’ancien ministre de l’Environnement, ce qui a incité le gouvernement fédéral à adopter des actions multisecteurs pour prévenir les invasions.
 
-### Further resources
+### Ressources complémentaires
 
 * **CameraV** du Guardian Project est un plugin fonctionnant avec l’application Android **Obscuracam **qui permet de recueillir des preuves vidéo et audio en toute sécurité pouvant être vérifiées : [https://guardianproject.info/apps/camerav] (https://guardianproject.info/apps/camerav) et [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam) 
 

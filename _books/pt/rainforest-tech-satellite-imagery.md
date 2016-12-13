@@ -14,6 +14,7 @@ navigation:
   - Custos
   - Riscos e desafios
   - Estudos de caso
+  - Outros recursos
   - Sobre
 ref: pt
 lang: pt
@@ -87,6 +88,12 @@ Em janeiro de 2015 a Greenomics-Indonesia analisou duas imagens Landsat da NASA 
 
 - Greenomics usou as informações para identificar a empresa de papel Asia Pacific Resources International Holdings Limited (APRIL), que prometeu publicamente acabar com o desenvolvimento de nova plantação até janeiro de 2014.
 - Greenomics decidiu liberar essas informações para a mídia em inglês, produzindo uma declaração com imagens da reclamação. Em março de 2015, APRIL admitiu publicamente que houve uma violação e suspendeu um empreiteiro e um gerente da plantação.
+
+### Outros recursos
+
+- Global Forest Watch é um sistema de alerta de monitoramento de floresta interativo online que fornece informações de satélite e outros tipos de informações: [www.globalforestwatch.org](www.globalforestwatch.org)
+- CLASlite foi criado para fornecer mapeamento e monitoramento de florestas com imagens de satélite de alta resolução atualizado semanalmente. [http://claslite.carnegiescience.edu/en/index.html](http://claslite.carnegiescience.edu/en/index.html)
+- O Projeto de Tecnologias Geoespaciais AAAS contém estudos de caso detalhados de imagens de satélite coletadas, categorizadas e analisadas para documentar abusos de direitos humanos. [http://www.aaas.org/case-studies](http://www.aaas.org/case-studies)
 
 ### **Sobre**
 Este site foi criado pela [Fundação Rainforest da Noruega](www.regnskog.no/en/) e [The Engine Room](//theengineroom.org) como uma introdução ao uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direito à terra e direitos dos indígenas. Baixe a cartilha completa aqui.

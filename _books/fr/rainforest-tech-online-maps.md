@@ -93,4 +93,4 @@ RFN collabore étroitement avec plus de 70 organisations locales et nationales �
 
 [Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) et [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) ont effectué les recherches et rédigé les éléments principaux de l’ouvrage, et Ruth Miller a réalisé la mise en page et la conception graphique du document. Les contributions et les corrections apportées par Vemund Olsen et Christopher Wilson ont été d’un soutien inestimable. Le code source du site est disponible sur [Github](https://github.com/the-engine-room/library/).<hr>
 
-Retour à [La Technologie pour les Forêts Tropicales.](/rainforest-tech)
+Retour à [La Technologie pour les Forêts Tropicales.](/fr/rainforest-tech)
