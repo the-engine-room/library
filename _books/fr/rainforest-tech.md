@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: La Technologie pour les Forêts Tropicales
-description: Guide introductif à l’utilisation de la technologie pour surveiller l’évolution et partager des informations sur les forêts tropicales, les droits fonciers et les droits des peuples autochtones. Il vise à fournir une base de travail aux activistes souhaitant améliorer leur plaidoyer à l’aide de la technologie.
+description: Guide introductif à l’utilisation de la technologie pour surveiller l’évolution et partager des informations sur les forêts tropicales, les droits fonciers et les droits des communautés locales. Il vise à fournir une base de travail aux activistes souhaitant améliorer leur plaidoyer à l’aide de la technologie.
 image: /media/index/rainforest.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
@@ -22,7 +22,7 @@ categories:
 
 ## Introduction
 
-Cet ouvrage élémentaire constitue une introduction à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur les questions liées à la forêt tropicale, les droits à la terre et les droits des peuples autochtones. 
+Cet ouvrage élémentaire constitue une introduction à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur les questions liées à la forêt tropicale, les droits à la terre et les droits des communautés locales. 
 
 It is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org). 
 
@@ -74,19 +74,19 @@ Comment les technologies nouvelles et celles en pleine évolution peuvent-elles 
 Les technologies de pointe sont devenues plus abordables, plus disponibles et leur utilisation plus facile, créant ainsi de nouvelles possibilités exaltantes pour la surveillance de la forêt tropicale et le partage d’informations. Chaque semaine, un nouvel outil ou une nouvelle plateforme voit le jour pour cartographier les ressources forestières, détecter l’abattage illégal d’arbres, signaler des violations des droits humains ou retracer l’origine des matières premières. 
 
 
-Toutefois, certaines choses n’ont pas changé du tout. Les peuples autochtones et les organisations locales dans les pays à forêt tropicale luttent toujours pour faire reconnaître leurs droits coutumiers et protéger les forêts tropicales dans des conditions difficiles. Bien souvent, les infrastructures et les moyens de communication sont médiocres, et il est très difficile de tirer parti des possibilités offertes par les technologies en l’absence de connaissances et de financements. 
+Toutefois, certaines choses n’ont pas changé du tout. Les communautés locales et les organisations locales dans les pays à forêt tropicale luttent toujours pour faire reconnaître leurs droits coutumiers et protéger les forêts tropicales dans des conditions difficiles. Bien souvent, les infrastructures et les moyens de communication sont médiocres, et il est très difficile de tirer parti des possibilités offertes par les technologies en l’absence de connaissances et de financements. 
 
 
 De manière générale, les groupes d’intérêts à l’origine de l’exploitation non durable des forêts ont davantage de ressources à leur disposition pour utiliser les nouvelles technologies et les évolutions technologiques que les groupes locaux ou les organisations de la société civile œuvrant à la protection des forêts. Pour autant, il existe de nombreux exemples remarquables d’utilisation ingénieuse des nouvelles technologies par des militants locaux pour rendre leur travail plus efficace et plus performant. Malheureusement, il existe aussi de nombreux exemples de projets infructueux pour lesquels beaucoup de temps et d’efforts ont été gaspillés. 
 Bien que les objectifs poursuivis et les instruments utilisés varient grandement d’un projet à l’autre, les exemples de succès ont en commun une conception robuste, des objectifs clairs et une analyse approfondie du problème à résoudre. 
 
-Au vu de l’importance d’une planification et d’une conception sérieuse pour le succès de tout projet technologique, [la Rainforest Foundation Norvège](http://www.regnskog.no/en/) a conclu un partenariat avec [Engine Room](https://theengineroom.org) pour élaborer une introduction élémentaire à l’utilisation des technologies pour la protection des forêts tropicales fondée sur les droits. Alors que nous recensions une multitude d’initiatives existantes qui pourraient être utiles à nos travaux et à nos partenaires, nous avons estimé qu’une introduction aux principes élémentaires de l’utilisation de la technologie pour la protection des forêts tropicales fondée sur les droits pourrait se révéler utile pour de nombreuses personnes.
+Au vu de l’importance d’une planification et d’une conception sérieuse pour le succès de tout projet technologique, [la Rainforest Foundation Norvège](http://www.regnskog.no/en/) a conclu un partenariat avec [The Engine Room](https://theengineroom.org) pour élaborer une introduction élémentaire à l’utilisation des technologies pour la protection des forêts tropicales fondée sur les droits. Alors que nous recensions une multitude d’initiatives existantes qui pourraient être utiles à nos travaux et à nos partenaires, nous avons estimé qu’une introduction aux principes élémentaires de l’utilisation de la technologie pour la protection des forêts tropicales fondée sur les droits pourrait se révéler utile pour de nombreuses personnes.
 
-Tel est l’objectif de ce rapport : décrire les avantages et les inconvénients des différents outils qui peuvent être utilisés, à l’aide d’exemples concrets. Il contient en outre une orientation étape par étape pour l’élaboration stratégique de projets, en indiquant les questions essentielles auxquelles il faut répondre pour s’assurer que la technologie réponde aux besoins du projet, et non l’inverse. 
+Tel est l’objectif de ce rapport: décrire les avantages et les inconvénients des différents outils qui peuvent être utilisés, à l’aide d’exemples concrets. Il contient en outre une orientation étape par étape pour l’élaboration stratégique de projets, en indiquant les questions essentielles auxquelles il faut répondre pour s’assurer que la technologie réponde aux besoins du projet, et non l’inverse. 
 
 Même si ce rapport peut être lu de bout en bout, il a été conçu pour permettre au lecteur de trouver facilement les informations les plus pertinentes pour lui. Des suggestions d’ouvrages complémentaires s’adressent aux personnes qui désirent en savoir plus sur un outil ou une expérience en particulier. 
 
-L’utilisation de la technologie peut grandement contribuer au renforcement des droits des peuples autochtones et à la protection des forêts – il est enthousiasmant d’observer que de  nombreux peuples autochtones et activistes locaux utilisent déjà la technologie de manière créative. 
+L’utilisation de la technologie peut grandement contribuer au renforcement des droits des communautés locales et à la protection des forêts – il est enthousiasmant d’observer que de nombreux communautés locales et activistes locaux utilisent déjà la technologie de manière créative. 
 
 Nous espérons que cette introduction aidera ceux qui souhaitent initier de nouveaux projets – ou en développer d’existants – à utiliser la technologie de manière efficace, et nous incitera à tirer des leçons de nos expériences mutuelles.
 
@@ -263,11 +263,11 @@ La combinaison de différentes sources de données peut mettre à jour des infor
 
 <blockquote>
 	<h5>Cas d’étude: Combiner différents types d’informations. </h5>
-	<p> <a href="http://www.orau.com.pe/inicio/index.php"> L’Organización Regional AIDESEP Ucayali (ORAU)</a> a mis en place un système de surveillance permettant de recenser les peuples autochtones volontairement isolés (IPVI pour l’acronyme anglais) et les menaces environnementales au Pérou.</p>
+	<p> <a href="http://www.orau.com.pe/inicio/index.php"> L’Organización Regional AIDESEP Ucayali (ORAU)</a> a mis en place un système de surveillance permettant de recenser les communautés locales volontairement isolés (IPVI pour l’acronyme anglais) et les menaces environnementales au Pérou.</p>
 	<p><b>Quelle en est l’utilité ? </b></p>
 	<ul>
 		<li>Des preuves photographiques, des données GPS et d’autres informations sont sauvegardées et systémisées dans une base de données numérique.</li>
-		<li>Combinées avec des informations similaires provenant d’autres organisations de peuples autochtones, elles ont obligé l’état péruvien à cesser de nier l’existence des IPVI.</li>
+		<li>Combinées avec des informations similaires provenant d’autres organisations de communautés locales, elles ont obligé l’état péruvien à cesser de nier l’existence des IPVI.</li>
 		<li>Les autorités coopèrent à présent davantage avec ORAU sur des problématiques impliquant les IPVI et pour le développement des politiques liées aux territoires des IPVI, et ont consacré des fonds à ces fins. </li>
 	</ul>
 </blockquote>
@@ -296,7 +296,7 @@ Commencez par **élaborer une méthodologie* (une explication de la manière de 
 
 <blockquote>
 	<h5>Cas d’étude : être reconnu pour la qualité de ses preuves.</h5>
-	<p><a href="https://www.facebook.com/brimassarawak">L’Institut des ressources de Borneo (Brimas)</a> apprend à des communautés de Sarawak (Malaisie) à cartographier leurs communautés à l’aide d’outils GPS, en délimitant les territoires autochtones, les utilisations des terres et les zones contenant des ressources naturelles. Le gouvernement et les entreprises privées ont tout d’abord nié la base de connaissances du Brimas. Les tribunaux ont cependant reconnu la qualité des données recueillies dans des affaires visant à prouver les droits de propriété des peuples autochtones, et leur ont donné une réputation d’exactitue. Le Département des terres et du cadastre malaisien utilise à présent les cartes du Brimas pour valider ses propres produits.</p>
+	<p><a href="https://www.facebook.com/brimassarawak">L’Institut des ressources de Borneo (Brimas)</a> apprend à des communautés de Sarawak (Malaisie) à cartographier leurs communautés à l’aide d’outils GPS, en délimitant les territoires autochtones, les utilisations des terres et les zones contenant des ressources naturelles. Le gouvernement et les entreprises privées ont tout d’abord nié la base de connaissances du Brimas. Les tribunaux ont cependant reconnu la qualité des données recueillies dans des affaires visant à prouver les droits de propriété des communautés locales, et leur ont donné une réputation d’exactitue. Le Département des terres et du cadastre malaisien utilise à présent les cartes du Brimas pour valider ses propres produits.</p>
 </blockquote>
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
