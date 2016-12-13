@@ -179,7 +179,7 @@ Pikirkan rentang-waktu seperti apa yang sesuai untuk proyek Anda. Lalu, berikan 
 
 Dengan sebuah percobaan Anda bisa menguji pada skala kecil, mengidentifikasi sejak awal apa yang berhasil dan yang tidak. Pilih sesuatu yang dapat Anda ukur dengan mudah. (Misalnya, untuk suatu sistem monitoring penebangan ilegal, ini bisa berupa jumlah sinyal peringatan yang diterima dari satu area kecil dalam satu minggu). Disain proyek Anda sehingga hasil dari percobaan dapat mempengaruhi bagaimana nantinya proyek berjalan.Dengan demikian rencana Anda akan lebih fleksibel jika nantinya terjadi perubahan situasi.
 
-> ##### Studi kasus:Uji coba suatu teknologi baru dapat menimbulkan hasil-hasil yang tidak diharapkan
+> ##### Studi kasus: Uji coba suatu teknologi baru dapat menimbulkan hasil-hasil yang tidak diharapkan
 >
 > Tahun 2013, [Rainforest Connection](http://news.mongabay.com/2014/0624-rainforest-connection-interview.html) melakukan proyek percobaan di Sumatera Barat (Indonesia) guna menguji sebuah aplikasi untuk memonitor penebangan ilegal dengan menggunakan telepon seluler yang telah dimodifikasi.
 >
@@ -201,7 +201,7 @@ Data box yang bertanggung jawab:Rencanakan untuk menggunakan data dengan bertang
 	<p style="color:white">Hampir semua proyek melibatkan pekerjaan yang terkait data, bahkan seperti mengirim email atau menggunakan spreadsheet. Jika gagal mengelola data dengan hati-hati maka akan berisiko terhadap organisasi Anda dan orang-orang yang bekerja sama dengan Anda.Kebocoran data dapat mengarah kepada tindak kekerasan, open data mungkin dapat membantu para spekulator tanah, dan hardware mungkin saja dilacak dengan tujuan menyasar para aktivis. Penilaian risiko adalah bagian penting dari rencana proyek yang membantu Anda menghadapi hal-hal yang tak diduga.
 </p>
 	<ul style="color:white">
-		<li>Mulailah dengan mengidentifikasi serangkaian kejadian dan aktor (orang atau organisasi) yang bisa menghambat proyek dari mencapai sasarannya. Pertimbangkan untuk memasukkan risiko keamanan digital, dan pikirkan juga tentang bagaimana data mungkin berdampak pada hubungan kekuatan lokal, atau bagaimana data dapat digunakan ulang oleh pihak lain (lihat <a style="color:white" href="https://securityinabox.org/"">https://securityinabox.org/</a> dan <a style="color:white" href="https://responsibledata.io">https://responsibledata.io</a> untuk contoh-contoh risiko).</li>
+		<li>Mulailah dengan mengidentifikasi serangkaian kejadian dan aktor (orang atau organisasi) yang bisa menghambat proyek dari mencapai sasarannya. Pertimbangkan untuk memasukkan risiko keamanan digital, dan pikirkan juga tentang bagaimana data mungkin berdampak pada hubungan kekuatan lokal, atau bagaimana data dapat digunakan ulang oleh pihak lain (lihat <a style="color:white" href="https://securityinabox.org/">https://securityinabox.org/</a> dan <a style="color:white" href="https://responsibledata.io">https://responsibledata.io</a> untuk contoh-contoh risiko).</li>
 		<li>Tuliskan jawaban untuk pertanyaan berikut ini:Seberapa sering setiap kejadian ini dapat terjadi? Seberapa serius dampak mereka terhadap proyek?</li>
 		<li>Prioritaskan kejadian yang paling mungkin terjadi dan yang paling serius.</li>
 		<li>Buatlah satu set langkah-langkah praktis: apa yang dapat Anda lakukan agar kemungkinan kejadian berkurang? Dapatkah Anda membatasi kerusakan jika hal tersebut terjadi? Apa rencana cadangan Anda?</li>

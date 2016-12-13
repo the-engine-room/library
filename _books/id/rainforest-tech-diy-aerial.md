@@ -1,8 +1,7 @@
 ---
 layout: rainforest
 title: Foto udara - lakukan sendiri
-description: >-
-  Pengantar penggunaan aerial photography - lakukan sendiri (seperti drone)
+description: Pengantar penggunaan aerial photography - lakukan sendiri (seperti drone)
   untuk membuat peta atau model 3D guna memonitor satwa liar, mencatat klaim
   tanah dan mendokumentasikan dampak perubahan iklim. Cara ini dapat
   menghasilkan gambar yang lebih detil dibandingkan dengan data satelit, dan
@@ -57,7 +56,7 @@ Peta beresolusi-tinggi harganya mahal, kadang sudah ketinggalan zaman atau sulit
 
 Jika Anda memiliki anggaran terbatas dan hanya ingin menjangkau daerah yang kecil, layang-layang atau balon adalah pilihan yang murah dan mudah (lihat bagian **Biaya** di bawah).Alat ini dapat dibuat dari bahan-bahan sederhana atau dirakit dari [kit]([http://publiclaboratory.org/wiki/balloon-mapping](http://publiclaboratory.org/wiki/balloon-mapping); [http://publiclaboratory.org/wiki/kite-mapping](http://publiclaboratory.org/wiki/kite-mapping)) yang sudah ada. 
 
-Jika tutupan pohon membatasi jangkauan terbang, Anda dapat menggunakan balon dan layang-layang, perlu menyisihkan banyak uang untuk drone (lihat **Biaya,** di bawah). Ada dua jenis utama: drone dengan empat multiple rotor atau lebih (mudah diterbangkan, tapi hanya dapat terbang selama 30 menit), atau pesawat dengan ‘fixed-wing’ yang dikendalikan oleh remote-control (pesawat dapat terbang selama 60 menit – mudah diperbaiki namun sulit didaratkan). Anda juga membutuhkan sebuah kamera digital yang simpel, software untuk merencanakan jalur penerbangan, dan mengedit gambar.
+Jika tutupan pohon membatasi jangkauan terbang, Anda dapat menggunakan balon dan layang-layang, perlu menyisihkan banyak uang untuk drone (lihat **[Biaya](/id/rainforest-tech-diy-aerial#biaya)** di bawah). Ada dua jenis utama: drone dengan empat multiple rotor atau lebih (mudah diterbangkan, tapi hanya dapat terbang selama 30 menit), atau pesawat dengan ‘fixed-wing’ yang dikendalikan oleh remote-control (pesawat dapat terbang selama 60 menit – mudah diperbaiki namun sulit didaratkan). Anda juga membutuhkan sebuah kamera digital yang simpel, software untuk merencanakan jalur penerbangan, dan mengedit gambar.
 
 ### Biaya
 
@@ -103,6 +102,8 @@ Tahun 2014, [ConservationDrones](http://conservationdrones.org) dan [Sumatran Or
 * **Public Laboratory **memberikan panduan dan dukungan untuk membuat layang-layang, balon dan sensor untuk pemetaan: [http://publiclaboratory.org](http://publiclaboratory.org/wiki/kite-mapping)
 
 * The **Humanitarian UAV network (UAViators)** memiliki beragam informasi yang bermanfaat [http://uaviators.org/about-this-site-rules](http://uaviators.org/about-this-site-rules) dan sebuah survey mengenai undang-undang yang mempengaruhi penerbangan drone di negara-negara di dunia [http://wiki.uaviators.org/doku.php](http://wiki.uaviators.org/doku.php)
+
+* Swandiri Institute terdiri atas beberapa aktivis dengan keahlian mereka masing-masing, yang telah mendampingi LSM dan mitra lainnya di Kalimantan Barat dalam advokasi tata ruang di tingkat provinsi dan mediasi konflik. [http://swandiri.org/about.php](http://swandiri.org/about.php)
 
 * **Geojournalism**’s panduan untuk pemetaan balon: [http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/)
 

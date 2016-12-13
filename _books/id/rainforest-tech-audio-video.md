@@ -38,12 +38,11 @@ categories:
 
 Pengantar ini adalah bagian dari [Panduan tentang penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu hutan hujan, hak tanah dan hak masyarakat adat](https://library.theengineroom.org/rainforest-tech). Panduan ini didisain sebagai titik awal bagi organisasi dan aktivis yang tertarik untuk menggunakan teknologi demi meningkatkan kerja advokasi, dan merupakan hasil kemitraan antara [Rainforest Foundation Norway](http://www.regnskog.no/en/) dan [The Engine Room](https://theengineroom.org/).
 
-
 [Download Panduan di sini (1.6MB pdf)](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) atau baca online di bawah ini.
 
 ### Apakah ini
 - Film atau rekaman audio dapat disimpan di ponsel, atau perangkat khusus seperti kamera digital, dictaphones atau kamera video.
-- [Video dapat menyajikan pesan-pesan advokasi singkat](http://www.insightshare.org/sites/insightshare.org/files/file/Insights%20into%20Participatory%20Video%20-%20A%20Handbook%20for%20the%20Field%20(English)(1).pdf), mengumpulkan bukti pelanggaran HAM, mempublikasikan film-film partisipasi dari anggota masyarakat, atau mendokumentasikan deforestasi dari waktu ke waktu. Rekaman audio juga dapat melakukan fungsi-fungsi yang sama.
+- [Video dapat menyajikan pesan-pesan advokasi singkat](http://www.managingforimpact.org/sites/default/files/resource/insights_into_participatory_video_a_handbook_for_the_field.pdf), mengumpulkan bukti pelanggaran HAM, mempublikasikan film-film partisipasi dari anggota masyarakat, atau mendokumentasikan deforestasi dari waktu ke waktu. Rekaman audio juga dapat melakukan fungsi-fungsi yang sama.
 - Sekarang banyak smartphone yang bisa digunakan untuk merekam, mengedit dan mengunggah video atau audio ke internet.Mereka juga dapat secara otomatis mengumpulkan lokasi GPS dari sebuah photo atau film, artinya Anda dapat mengombinasikannya dengan peta atau data lain.
 
 ### Bagaimana hal ini dapat membantu
@@ -51,7 +50,7 @@ Video dan audio dapat mengkomunikasikan informasi mengenai masyarakat dan tempat
 
 ### Alat dan perangkat
 
-Jangan berasumsi bahwa Anda perlu membeli ponsel atau kamera baru.Banyak perangkat lama yang masih memberikan gambar berkualitas tinggi (cari yang 5 megapixels atau lebih). (NOTE: https://www.v4c.org/content/effective-video-low-cost-devices)File audio dan video menghabiskan banyak memori digital – compress dengan menggunakan software gratis, atau gunakan file berkualitas lebih rendah agar bisa dipublikasikan saat internet sedang lemah.Anda dapat mengedit langsung dari smartphone atau menggunakan software gratis seperti Lightworks Free dan Audacity. (NOTE: http://www.lwks.com or http://audacity.sourceforge.net/)Asesoris seperti tripod dan mikrofon eksternal tidak terlalu penting, namun bisa menambah kualitas.Video4Change (NOTE: https://www.v4c.org/en/resources) dan WITNESS (NOTE: http://library.witness.org) memiliki sumber beragam mengenai saran-saran teknis.
+Jangan berasumsi bahwa Anda perlu membeli ponsel atau kamera baru.Banyak perangkat lama yang masih memberikan gambar berkualitas tinggi (cari yang 5 megapixels atau lebih) [[1]](https://www.v4c.org/content/effective-video-low-cost-devices). File audio dan video menghabiskan banyak memori digital – compress dengan menggunakan software gratis, atau gunakan file berkualitas lebih rendah agar bisa dipublikasikan saat internet sedang lemah.Anda dapat mengedit langsung dari smartphone atau menggunakan software gratis seperti [Lightworks Free](http://www.lwks.com) dan [Audacity](http://audacity.sourceforge.net/). Asesoris seperti tripod dan mikrofon eksternal tidak terlalu penting, namun bisa menambah kualitas. [Video4Change](https://www.v4c.org/en/resources) dan [WITNESS](http://library.witness.org) memiliki sumber beragam mengenai saran-saran teknis.
 
 ### Biaya
 
@@ -61,7 +60,7 @@ Saat ini Anda bisa membuat video dan audio dengan sangat mudah namun secara umum
 
 **Risiko untuk orang yang merekam: **Merekam audio atau video bisa membawa risiko terhadap si pembuat.Hapus atau enkripsi data pribadi pada alat dan bersihkan alatnya secara teratur – fingerprints atau residu bisa menunjukkan tempat-tempat yang telah mereka kunjungi.Bagikanlah informasi sensitif hanya dengan kelompok yang dipercaya atau pengacara sebelum mempublikasikan, dan sebelum memulai cek apakah melakukan perekaman diperbolehkan.
 
-**Risiko untuk orang-orang yang Anda rekam:**Ikuti langkah-langkah pada paragraf ‘Persetujuan Awal’ untuk **Mengumpulkan Data **(hal X), pastikan orang memahami bahwa rekaman dapat tersebar luas dan dilihat oleh semua orang.Matikan semua fungsi perekaman-lokasi, dan buramkan wajah orang-orang. (NOTE: https://www.v4c.org/en/content/hands-using-obscuracam atau fungsi untuk memburamkan di YouTube http://youtube-global.blogspot.co.uk/2012/07/face-blurring-when-footage-requires.html)
+**Risiko untuk orang-orang yang Anda rekam: **Ikuti langkah-langkah pada paragraf ‘Persetujuan Awal’ untuk **Mengumpulkan Data **(hal X), pastikan orang memahami bahwa rekaman dapat tersebar luas dan dilihat oleh semua orang. Matikan semua fungsi perekaman-lokasi, dan buramkan wajah orang-orang [2](https://www.v4c.org/en/content/hands-using-obscuracam) atau fungsi untuk memburamkan di [YouTube](http://youtube-global.blogspot.co.uk/2012/07/face-blurring-when-footage-requires.html).
 
 ### Sumber lain
 

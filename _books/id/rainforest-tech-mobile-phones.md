@@ -73,7 +73,7 @@ Untuk merasakan sedikit opsi-opsi yang ada, berikut ini adalah dua contoh aplika
 
 Bagian terbaik dari aplikasi [ArcGIS](http://doc.arcgis.com/en/collector/) adalah produk GIS premium yang menawarkan opsi-opsi unggulan guna menghasilkan dan menganalisa data peta. Saat ini lisensi untuk pengguna basic sekitar USD 1500 per tahun, sudah termasuk dukungan bantuan teknis online dan melalui telepon. Agar bermanfaat penuh, Anda perlu membayar untuk mendapatkan keunggulannya secara penuh: sebuah Android app, satu program yang mengelola kumpulan data di server, dan satu program untuk mempublikasikan peta secara online.
 
-Keuntungan dari menggunakan software berbiaya premium ini adalah fiturnya lebih banyak, dan Anda bisa mempercayakan software ini akan berfungsi seperti sebagaimana harusnya.Kekurangannya adalah software ini mahal, dan karena kodenya rahasia, Anda tidak bisa merekrut developer untuk mengubahnya agar lebih sesuai dengan proyek Anda.
+Keuntungan dari menggunakan software berbiaya premium ini adalah fiturnya lebih banyak, dan Anda bisa mempercayakan software ini akan berfungsi seperti sebagaimana harusnya. Kekurangannya adalah software ini mahal, dan karena kodenya rahasia, Anda tidak bisa merekrut developer untuk mengubahnya agar lebih sesuai dengan proyek Anda.
 
 ### Risiko dan tantangan
 
@@ -91,7 +91,7 @@ Sejak tahun 2011, Global Canopy Programme telah menjalankan sistem monitoring be
 
 * Ini sangat populer di masyarakat setempat – 87% pemimpin lokal dan konselor desa mengatakan ponsel merupakan tambahan positif bagi masyarakat, yang membantu mereka meningkatkan pengetahuan mengenai sumber daya lokal. 
 
-* [Proyek ini mendorong kolaborasi ](http://tinyurl.com/q9jg3xt)antara para orang-orang tua yang memiliki banyak pengetahuan tentang sumber daya alam dan anak-anak muda, yang cepat sekali belajar menggunakan ponsel.
+* [Proyek ini mendorong kolaborasi](http://tinyurl.com/q9jg3xt) antara para orang-orang tua yang memiliki banyak pengetahuan tentang sumber daya alam dan anak-anak muda, yang cepat sekali belajar menggunakan ponsel.
 
 #### Menggunakan perangkat GPS untuk mencatat serbuan atas teritori adat. 
 
@@ -113,7 +113,7 @@ Organisasi Pro-Indian Commission of Acre (Comissão Pró-Indio do Acre, or CPI-A
 
 * **TechChange** menawarkan kursus online gratis mengenai aplikasi pengumpulan data secara mobile: https://www.techchange.org/online-courses/mobile-data-solutions/
 
-* **The World Bank**’s ‘Opportunities and guidance on mobile applications for forest and agricultural sectors’ report includes guidance on comparing mobile applications’ memberikan informasi dan perencanaan biaya jangka-pendek dan panjang [http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors](http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors)
+* **The World Bank** memberikan informasi dan perencanaan biaya jangka-pendek dan panjang: [http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors](http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors)
 
 * **FrontlineSMS**’s Data Integrity User Guide memberikan kerangka kerja guna memahami tingkat risiko dalam setiap kegiatan berbasis SMS http://www.frontlinesms.com/wp-content/uploads/2011/08/frontlinesms_userguide.pdf
 

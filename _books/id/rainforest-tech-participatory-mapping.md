@@ -52,7 +52,7 @@ Peta resmi dan registrasi kepemilikan lahan (kadaster/data pengukuran tanah) ser
 
 Ada banyak cara melakukan pemetaan partisipatif, yang mencakup teknologi dan akses yang lebih luas. Teknik yang benar bergantung pada sumber daya dan pilihan masyarakat.Beberapa contoh misalnya:
 
-* **Wawancara** dengan menanyakan bagaimana masyarakat memanfaatkan tanah mereka, dan bagaimana pandangan mengenai tanah mereka dan ekosistem di daerah tersebut.Masyarakat memilih medium apa yang lebih mereka sukai, mulai dari narasi hingga menggambar di atas kertas, atau di tanah.
+* **Wawancara** dengan menanyakan bagaimana masyarakat memanfaatkan tanah mereka, dan bagaimana pandangan mengenai tanah mereka dan ekosistem di daerah tersebut. Masyarakat memilih medium apa yang lebih mereka sukai, mulai dari narasi hingga menggambar di atas kertas, atau di tanah.
 
 * **Mencetak peta resmi** daerah tersebut,yang menjelaskan bagaimana ianya terkait dengan masyarakat, dan meminta masyarakat untuk menggambar informasi tambahan.Metode yang lebih cangggih untuk membuat **model 3D** dari tanah tersebut.
 
@@ -64,7 +64,7 @@ Pemetaan partisipatif memerlukan investasi besar untuk pelatihan dan dukungan pe
 
 ### Risiko dan tantangan
 
-Pemetaan partisipatif mengumpulkan informasi mengenai di mana masyarakat tinggal, dan daerah mana yang paling banyak memiliki sumber daya: perusahaan bisa memanfaatkan ini untuk kepentingan mereka sendiri.Hal ini dapat menimbulkan masalah di masyarakat: kelompok masyarakat yang berbeda-beda mungkin memanfaatkan lahan yang sama, atau mungkin ada pandangan yang berbeda di masyarakat yang sama.Respon terbaik untuk situasi ini bergantung pada konteksnya: sedapat mungkin berkonsultasilah dengan banyak perwakilan, dan selalu pertimbangkan perbedaan gender.
+Pemetaan partisipatif mengumpulkan informasi mengenai di mana masyarakat tinggal, dan daerah mana yang paling banyak memiliki sumber daya: perusahaan bisa memanfaatkan ini untuk kepentingan mereka sendiri. Hal ini dapat menimbulkan masalah di masyarakat: kelompok masyarakat yang berbeda-beda mungkin memanfaatkan lahan yang sama, atau mungkin ada pandangan yang berbeda di masyarakat yang sama.Respon terbaik untuk situasi ini bergantung pada konteksnya: sedapat mungkin berkonsultasilah dengan banyak perwakilan, dan selalu pertimbangkan perbedaan gender.
 
 ### Studi kasus
 
@@ -82,7 +82,7 @@ Pemetaan partisipatif mengumpulkan informasi mengenai di mana masyarakat tinggal
 
 #### Monitoring perburuan liar di Kongo 
 
-Tahun 2013, perkumpulan-pemburu Mbendjele bekerja sama dengan ExCiteS Research Group di University College London untuk mengumpulkan data dengan aplikasi Android guna memonitor perburuan liar. [Proyek](http://dev3.acmdev.org/papers/dev-final45.pdf) itu menggunakan ponsel Samsung Galaxy XCover berbasis Android, dan versi Open Data Kit Collect yang telah dimodifikasi, yang menggunakan ikon gambar dan bukan kata-kata.Untuk mengurangi risiko terhadap petugas monitor, jika mereka tertangkap oleh pemburu liar, proyek ini menambahkan prosedur penguncian ponsel dengan cara sederhana sehingga pengguna bisa menyembunyikan fungsi aplikasi dengan cepat.
+Tahun 2013, perkumpulan-pemburu Mbendjele bekerja sama dengan ExCiteS Research Group di University College London untuk mengumpulkan data dengan aplikasi Android guna memonitor perburuan liar. [Proyek](http://dev3.acmdev.org/papers/dev-final45.pdf) itu menggunakan ponsel Samsung Galaxy XCover berbasis Android, dan versi Open Data Kit Collect yang telah dimodifikasi, yang menggunakan ikon gambar dan bukan kata-kata. Untuk mengurangi risiko terhadap petugas monitor, jika mereka tertangkap oleh pemburu liar, proyek ini menambahkan prosedur penguncian ponsel dengan cara sederhana sehingga pengguna bisa menyembunyikan fungsi aplikasi dengan cepat.
 
 **Bagaimana hal ini dapat membantu?**
 

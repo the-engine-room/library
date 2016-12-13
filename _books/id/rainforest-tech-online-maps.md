@@ -14,7 +14,6 @@ navigation:
   - Biaya
   - Risiko dan tantangan
   - Study kasus
-  - Sumber lain
   - Tentang
 ref: rt
 lang: id

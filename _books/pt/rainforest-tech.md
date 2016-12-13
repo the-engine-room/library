@@ -62,17 +62,18 @@ Aqui é onde a maior parte dos projetos falham. Um projeto bem-sucedido requer m
 
 A segunda seção apresenta algumas ferramentas que podem ser úteis em projetos cujo foco seja as florestas tropicais, agrupados em seis tipos:
 
-* Aplicativos para telefone celular que coletam e registram dados de campo
 
-* Mapas produzidos junto com as comunidades (mapeamento participativo)
+- [Aplicativos para telefone celular que coletam e registram dados de campo](/pt/rainforest-tech-mobile-phones)
 
-* Imagens de satélite
+- [Imagens de satélite](/pt/rainforest-tech-satellite-imagery)
 
-* Fotografia aérea faça você mesmo (tais como drones)
+- [Mapas produzidos junto com as comunidades (mapeamento participativo)](/pt/rainforest-tech-participatory-mapping)
 
-* Áudio e vídeo
+- [Áudio e vídeo](/pt/rainforest-tech-audio-video)
 
-* Mapas online que combinam e sobrepõem em camadas diferentes tipos de dados
+- [Fotografia aérea faça você mesmo (tais como drones)](/pt/rainforest-tech-diy-aerial)
+
+- [Mapas online que combinam e sobrepõem em camadas diferentes tipos de dadose](/pt/rainforest-tech-online-maps)
 
 #### **Outros recursos**
 
