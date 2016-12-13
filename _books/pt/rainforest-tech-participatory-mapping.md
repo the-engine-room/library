@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Mapeamento participativo e por GPS
-description: Uma introdução à produção de mapas em conjunto com a comunidade (mapeamento participativo) para mostrar como uma área está realmente sendo usada, comparar com os mapas oficiais e usar as informações para reclamar os direitos das comunidades à terra. Parte do relatório Tecnologia Rainforest.
+description: Uma introdução à produção de mapas em conjunto com a comunidade (mapeamento participativo) para mostrar como uma área está realmente sendo usada, comparar com os mapas oficiais e usar as informações para reclamar os direitos das comunidades à terra. Parte do relatório <a href="/pt/rainforest-tech/">Tecnologia Rainforest</a>.
 image: /media/index/participatory.svg
 funder_name: Fundação Rainforest da Noruega
 funder_logo: /images/logos/rfn.svg
@@ -14,7 +14,7 @@ navigation:
   - Ferramentas
   - Custos
   - Riscos e desafios
-  - Estudo de caso
+  - Estudos de caso
   - Sobre
 ref: pt
 lang: pt
@@ -43,7 +43,7 @@ _[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/do
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
 
-### **O que é**
+### O que é
 
 * No mapeamento participativo (ou mapeamento da comunidade) são coletadas informações de habitantes de uma área sobre como a área é usada, e as práticas da comunidade local.  
 
@@ -51,11 +51,11 @@ _[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/do
 
 * Essas informações são usadas para criar mapas com base em nomes e definições que a comunidade usa, que podem complementar os mapas oficiais.
 
-### **Como pode ajudar**
+### Como pode ajudar
 
 Mapas oficiais e registros de propriedade de terra (cadastrais) quase sempre só consideram a classificação "oficial" da terra. Eles muitas vezes não reconhecem outras formas de uso da terra, às vezes por pessoas que já vivem lá há muito tempo, antes da criação dos mapas oficiais. Isso é um problema principalmente em áreas florestais, onde é quase sempre difícil desenhar linhas geográficas claras. O mapeamento participativo ajuda mostrando como a área está na verdade sendo usada, comparando isso com os mapas "oficiais", e usando as informações para reclamar os direitos das comunidades à terra.
 
-### **Ferramentas**
+### Ferramentas
 
 Há muitas maneiras de conduzir mapeamento participativo, cobrindo um amplo espectro de tecnologia e acessibilidade. A técnica correta depende dos recursos e da preferência da comunidade, alguns exemplos:
 
@@ -65,15 +65,15 @@ Há muitas maneiras de conduzir mapeamento participativo, cobrindo um amplo espe
 
 * As comunidades recebem **rastreadores GPS** e registram informações enquanto passam por uma área. Os dados podem ser usados para criar camadas de mapas.
 
-### **Custos**
+### Custos
 
 Mapeamento participativo requer investimento em treinamento e apoio dos trabalhadores de campo. Trabalhadores de campo desempenham um papel crucial ao introduzir a atividade, treinar as comunidades para interagir com mapas, e garantir que toda a comunidade entenda. Produzir mapas e inserir as informações coletadas requer aptidões GIS para assegurar que as medições sejam acuradas e bem dimensionadas, Dispositivos rastreadores GPS não são caros (NOTE:  As marcas mais usadas, como [Garmin](https://buy.garmin.com/en-US/US/cIntoSports-c10341-p1.html) e [Magellan](http://www.magellangps.com/Store/eXploristSeries), oferecem localizadores GPS a partir de 100 dólares. Além disso, a maioria dos smartphones mais simples tem capacidades GPS.), mas também exigem treinamento.
 
-### **Riscos e desafios**
+### Riscos e desafios
 
 Mapeamento participativo coleta informações sobre onde vivem as comunidades, e quais áreas têm mais recursos: empresas poderiam usar isso em seu favor. Pode também causar problemas dentro da comunidade: comunidades diferentes podem estar usando a mesma terra, ou podem haver diferentes pontos de vista dentro da mesma comunidade. A melhor resposta a essas situações depende do contexto: debater com o maior número possível de representantes, e sempre levar em consideração diferenças de gênero.
 
-### **Estudo de caso**
+### Estudos de caso
 
 **Estudo de caso: mapeamento participativo em Camarões.**
 
@@ -115,4 +115,4 @@ The [Engine Room](https://www.theengineroom.org) é uma organização internacio
 
 [Tom Walker](https://www.theengineroom.org/our_team/tom-walker) e [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) pesquisaram e redigiram a história principal, e [Ruth Miller](http://ruthmiller.net/) liderou o trabalho de design e criação visual. Foram inestimáveis a contribuição e o apoio à edição de Vemund Olsen e Christopher Wilson. O código-fonte do site está disponível em [Github](https://github.com/the-engine-room/library/).
 
-[Voltar para o início da Biblioteca](/rainforest-tech)
+[Voltar para o início da Biblioteca](/pt/rainforest-tech)

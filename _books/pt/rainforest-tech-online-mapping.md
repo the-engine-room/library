@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Mapas online
-description: Uma introdução ao uso de mapas online que combinam diferentes tipos de dados em projetos relacionados a florestas tropicais, para fins como monitoramento em tempo real (mostrando os lugares onde ocorrem a maioria dos incidentes), campanha (mostrando que a cobertura florestal está sendo reduzida dramaticamente) ou análise (ganhando novas perspectivas com a sobreposição de diferentes tipos de dados no mesmo mapa). Parte do relatório [Tecnologia Rainforest](https://library.theengineroom.org/rainforest-tech/).
+description: Uma introdução ao uso de mapas online que combinam diferentes tipos de dados em projetos relacionados a florestas tropicais, para fins como monitoramento em tempo real (mostrando os lugares onde ocorrem a maioria dos incidentes), campanha (mostrando que a cobertura florestal está sendo reduzida dramaticamente) ou análise (ganhando novas perspectivas com a sobreposição de diferentes tipos de dados no mesmo mapa). Parte do relatório [Tecnologia Rainforest](/pt/rainforest-tech/).
 image: /media/index/online.svg
 funder_name: Fundação Rainforest da Noruega
 funder_logo: /images/logos/rfn.svg
@@ -14,7 +14,7 @@ navigation:
   - Ferramentas
   - Custos
   - Riscos e desafios
-  - Estudo de caso
+  - Estudos de caso
   - Sobre
 ref: pt
 lang: pt
@@ -54,13 +54,13 @@ Mapas online podem ser usados para **monitoramento em tempo real **(mostrando os
 
 ### **Ferramentas**
 
-Os mapas para campanha nem sempre precisam ser interativos. Alguns mapas funcionam melhor como um infográfico – uma imagem estática que claramente apresenta explicações e código de cores. **Primeiro, escolha a sua plataforma de mapas online: **Quase sempre é mais fácil usar mapas interativos online existentes, que já incluem camadas de informações como estradas e imagens de satélite. Entre os mapas comerciais estão Google, [Bing](http://www.bing.com/maps/) ou [MapQuest](http://www.mapquest.com/). A plataforma grátis OpenStreetMap contém informações de voluntários, e é normalmente menos precisa em áreas rurais remotas.
+Os mapas para campanha nem sempre precisam ser interativos. Alguns mapas funcionam melhor como um infográfico – uma imagem estática que claramente apresenta explicações e código de cores. **Primeiro, escolha a sua plataforma de mapas online: **Quase sempre é mais fácil usar mapas interativos online existentes, que já incluem camadas de informações como estradas e imagens de satélite. Entre os mapas comerciais estão Google, [Bing](http://www.bing.com/maps/) ou [MapQuest](http://www.mapquest.com/). A plataforma grátis [OpenStreetMap](https://www.openstreetmap.org/) contém informações de voluntários, e é normalmente menos precisa em áreas rurais remotas.
 
 > ### Entendendo coordenadas e polígonos
 > Se você estiver coletando dados através de ferramentas móveis, drones, ou mapeamento participativo, é importante dominar o básico de mapeamento. Qualquer objeto em um mapa tem coordenadas que marcam a sua localização exata em uma grade de **latitude** (norte-sul) e **longitude** (Leste-Oeste). Saber a latitude e a longitude de um objeto lhe dá a sua **posição** (coordenadas geográficas). Para encontrar o tamanho de um objeto, você precisa juntar os pontos em torno de seu perímetro em um **formato poligonal**.
 
 
-**Então, crie suas próprias camadas em cima:** Há muitas formas de adicionar informações desde marcadores básicos até ‘heat maps’ (que mostram quando um determinado tipo de incidente está concentrado em uma área específica). Alguns sites fornecem dados criados para serem adicionados a mapas das florestas tropicais. (A InfoAmazonia oferece mapas da região amazônica sobre desflorestamento e incêndios florestais: http://infoamazonia.org/datasets/. Sarawak Geoportal tem informações semelhantes sobre Bornéu Malásia http://www.bmfmaps.ch/). [MapBox Studio](https://www.mapbox.com/mapbox-studio), o tema JEO do dpress e [CartoDB](http://cartodb.com/) (Entretanto, isso requer que você carregue seus mapas nos servidores da MapBox, logo não é adequado para informações confidenciais. [Guia de instalação do JEO em inglês e português](http://geojournalism.org/2014/06/portugues-jeo-primeiros-passos/)) oferecem softwares poderosos, fáceis de usar para criação de mapas interativos. Criar suas próprias camadas interativas normalmente envolve ferramentas de programação chamadas bibliotecas Javascript (Leaflet.js e OpenLayers são as mais comuns).
+**Então, crie suas próprias camadas em cima:** Há muitas formas de adicionar informações desde marcadores básicos até ‘heat maps’ (que mostram quando um determinado tipo de incidente está concentrado em uma área específica). Alguns sites fornecem dados criados para serem adicionados a mapas das florestas tropicais. (A InfoAmazonia oferece mapas da região amazônica sobre desflorestamento e incêndios florestais: http://infoamazonia.org/datasets/. Sarawak Geoportal tem informações semelhantes sobre Bornéu Malásia http://www.bmfmaps.ch/). [MapBox Studio](https://www.mapbox.com/mapbox-studio), o tema JEO do dpress e [CartoDB](http://cartodb.com/) (Entretanto, isso requer que você carregue seus mapas nos servidores da MapBox, logo não é adequado para informações confidenciais. [Guia de instalação do JEO em inglês e português](http://geojournalism.org/2014/06/portugues-jeo-primeiros-passos/)) oferecem softwares poderosos, fáceis de usar para criação de mapas interativos. Criar suas próprias camadas interativas normalmente envolve ferramentas de programação chamadas bibliotecas Javascript ([Leaflet.js](http://leafletjs.com/) e [OpenLayers](http://www.openlayers.org/) são as mais comuns).
 
 ### **Custos**
 
@@ -70,8 +70,9 @@ O custo de design e criação de mapas interativos online depende de o quanto as
 
 Empresas armazenam informações sobre quando, onde e como você carrega mapas em uma plataforma de mapeamento comercial, o que significa que mapas públicos em plataformas comerciais podem marcar a localização de pessoas que carregaram as informações colocando-as em risco. Enquanto isso, é crucial evitar erros: as informações apresentadas no lugar errado poderiam frustrar o propósito da campanha.
 
-### **Estudo de caso**
-**Estudo de caso: impacto de mapas animados para mostrar a perda de cobertura florestal**
+### **Estudos de caso**
+
+**Impacto de mapas animados para mostrar a perda de cobertura florestal**
 
 Open Development Cambodia trabalha para coletar e fornecer informações quantitativas sobre as terras, economia e questões ambientais do Cambodia. Eles usaram as informações de mudança de cobertura florestal ao longo de um período de dez anos para criar um vídeo com lapso de tempo mostrando a perda de cobertura florestal.
 **Como isso ajudou?**
@@ -79,7 +80,7 @@ Open Development Cambodia trabalha para coletar e fornecer informações quantit
 - O vídeo com lapso de tempo foi uma ferramenta eficaz de defesa porque mostrou claramente a extensão do desflorestamento no Camboja. Foi visto mais de dois milhões de vezes.
 
 
-**Estudo de caso: recursos de mapeamento e comunidades na Amazônia**
+**Recursos de mapeamento e comunidades na Amazônia**
 
 RAISG (Amazonian Network of Georeferenced Socio-Environmental Information) é um projeto de muitos anos que visa conscientizar e defender os direitos dos indígenas e questões ambientais, e tem coletado informações sobre áreas protegidas, terras indígenas, bacias hidrográficas, e exploração ilegal de madeira.
 
@@ -106,4 +107,4 @@ The [Engine Room](https://www.theengineroom.org) é uma organização internacio
 
 [Tom Walker](https://www.theengineroom.org/our_team/tom-walker) e [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) pesquisaram e redigiram a história principal, e [Ruth Miller](http://ruthmiller.net/) liderou o trabalho de design e criação visual. Foram inestimáveis a contribuição e o apoio à edição de Vemund Olsen e Christopher Wilson. O código-fonte do site está disponível em [Github](https://github.com/the-engine-room/library/).
 
-[Voltar para o início da Biblioteca](/rainforest-tech)
+[Voltar para o início da Biblioteca](/pt/rainforest-tech)

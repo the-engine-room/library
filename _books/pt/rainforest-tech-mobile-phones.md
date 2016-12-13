@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Aplicativos para celular
-description: Uma introdução ao uso de aplicativos móveis para telefones (celulares) para coletar e registrar dados em projetos relacionados a florestas tropicais, registrar mineração ou exploração ilegal, fazer pesquisa de biodiversidade, ajudar as comunidades a mapear sua própria terra, ou validar mapas do governo. Parte do relatório [Tecnologia Rainforest](https://library.theengineroom.org/rainforest-tech).
+description: Uma introdução ao uso de aplicativos móveis para telefones (celulares) para coletar e registrar dados em projetos relacionados a florestas tropicais, registrar mineração ou exploração ilegal, fazer pesquisa de biodiversidade, ajudar as comunidades a mapear sua própria terra, ou validar mapas do governo. Parte do relatório <a href="/pt/rainforest-tech/">Tecnologia Rainforest</a>
 image: /media/index/mobile.svg
 funder_name: Fundação Rainforest da Noruega
 funder_logo: /images/logos/rfn.svg
@@ -75,8 +75,9 @@ O conjunto de aplicativos ArcGIS é um produto GIS premium que oferece opções 
 
 É impossível coletar e compartilhar dados de forma totalmente segura através de telefones celulares por causa da forma como são criados.  (Veja [Security in a Box](https://securityinabox.org/en/guide/mobile-phones) para saber os motivos.) Isso poderia ser uma ameaça para as pessoas coletando informações; às vezes só o fato de ter um aplicativo pode colocar em risco o monitor de uma comunidade. Pessoas e meio ambientes também podem ser ameaçados como resultado de informações publicadas sobre eles (veja as seções ‘dados responsáveis’ da seção **Estratégia**).
 
-### **Estudos de caso**
-**Estudo de caso: Usando monitores da comunidade para mapeamento em Guiana**
+### Estudos de caso
+
+**Usando monitores da comunidade para mapeamento em Guiana**
 
 Desde 2011, o Programa Global Canopy tem executado um sistema de monitoramento da comunidade com 16 comunidades ameríndias de North Rupununi (Guiana) para fornecer informações sobre as causas desflorestamento, uso da terra e questões socioeconômicas. Monitores da comunidade preenchem formulários em smartphones com Android (Samsung Galaxy X Cover) usando um aplicativo móvel desenvolvido com Open Data Kit. Cada formulário enviado contém dados de localização do GPS integrado do telefone e fotos da sua câmera. Os dados resultantes são então carregados em um sistema de armazenamento de dados online para análise usando Microsoft Excel, ArcGIS, e ODK Aggregate, e mais tarde SMAP software, QGIS, e Google Maps Engine.
 
@@ -87,7 +88,7 @@ Desde 2011, o Programa Global Canopy tem executado um sistema de monitoramento d
 - O projeto incentivou a colaboração dos mais velhos, conhecedores dos recursos naturais, e dos jovens que são ágeis com dispositivos móveis.
 
 
-**Estudo de caso: usando dispositivos GPS para documentar invasões de territórios indígenas**
+**Usando dispositivos GPS para documentar invasões de territórios indígenas**
 
 Povos indígenas no Acre foram treinados pela Comissão Pró-Índio do Acre, (CPI-AC) para usarem dispositivos GPS para registrar invasões de territórios indígenas.
 
@@ -114,4 +115,4 @@ The [Engine Room](https://www.theengineroom.org) é uma organização internacio
 
 [Tom Walker](https://www.theengineroom.org/our_team/tom-walker) e [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) pesquisaram e redigiram a história principal, e [Ruth Miller](http://ruthmiller.net/) liderou o trabalho de design e criação visual. Foram inestimáveis a contribuição e o apoio à edição de Vemund Olsen e Christopher Wilson. O código-fonte do site está disponível em [Github](https://github.com/the-engine-room/library/).
 
-[Voltar para o início da Biblioteca](/rainforest-tech)
+[Voltar para o início da Biblioteca](/pt/rainforest-tech)

@@ -13,7 +13,7 @@ navigation:
   - Ferramentas
   - Custos
   - Riscos e desafios
-  - Estudo de caso
+  - Estudos de caso
   - Sobre
 ref: pt
 lang: pt
@@ -66,7 +66,8 @@ As imagens de satélite podem ser grátis ([Earth Explorer](http://earthexplorer
 
 O principal problema com imagens de satélite é a **resolução** , que atualmente significa qualidade de imagem baixa demais para mostrar mudanças detalhadamente. Global Forest Watch fornece imagens de 50 metros por pixel, que não são muito precisas (também imagens de 30 metros por pixel, mas produz só uma vez por ano, o que nem sempre é rápido o suficiente para ser usado como prova de desflorestamento.) Isso leva ao segundo problema: **Atualizações.** As imagens normalmente são atualizadas mensalmente, e às vezes anualmente. (Isso pode mudar: empresas como [Planet Labs](www.planet.com) prometeram imagens diárias no futuro, e a [Libra](http://libra.developmentseed.org) fornece dados Landsat a cada duas semanas. O [projeto MAAP](http://maaproject.org/about-maap/) visa produzir atualizações semanais na Amazônia Andina. Isso é bom para análise histórica, mas às vezes inviável para monitoramento em tempo real ( **Fotografia aérea faça você mesmo** , na página X, pode ajudar a conseguir imagens mais atuais).
 
-### **Estudo de caso**
+### Estudos de caso
+
 **Estudo de caso: combinando dados de satélite com outras fontes de informações**
 
 A organização indonésia de florestas tropicais Warsi combinou dados de mapeamento por satélite obtidos do Landsat Thematic Mapper (Landsat TM) e Advanced Land Observation Satellite (ALOS) com outras fontes de informações para documentar a distribuição do povo Orang Rimba e seu uso dos recursos naturais.
@@ -105,4 +106,4 @@ The [Engine Room](https://www.theengineroom.org) é uma organização internacio
 
 [Tom Walker](https://www.theengineroom.org/our_team/tom-walker) e [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) pesquisaram e redigiram a história principal, e [Ruth Miller](http://ruthmiller.net/) liderou o trabalho de design e criação visual. Foram inestimáveis a contribuição e o apoio à edição de Vemund Olsen e Christopher Wilson. O código-fonte do site está disponível em [Github](https://github.com/the-engine-room/library/).
 
-[Voltar para o início da Biblioteca](/rainforest-tech)
+[Voltar para o início da Biblioteca](/pt/rainforest-tech)
