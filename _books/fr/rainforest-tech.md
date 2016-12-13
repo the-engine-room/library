@@ -491,7 +491,7 @@ Souvenez vous que l’outil adéquat pour différents objectifs sera différent 
 | Consigner et suivre la valeur environnementale des zones territoriales | Cartographie satellite, cartographie en ligne, cartographie participative, applications mobiles, cartographie aérienne indépendante | 
 | Soutenir les communautés en leur fournissant et en leur présentant des connaissances | Cartographie participative, outils audio et vidéo, photographie aérienne indépendante. |
 
-## Tools
+## Outils
 
 - [Applications mobiles](/fr/rainforest-tech-mobile-phones)
 
@@ -631,19 +631,7 @@ Les ressources ci-dessous sont disponibles dans la langue indiquée, et ont gén
 
 * **Ekuatorial** création de cartes interactives qui associent les données de nombreuses sources à des articles sur des sujets liés à l’environnement rédigés par des publications partenaires : [http://ekuatorial.com/](http://ekuatorial.com/)
 
-* **Global Forest Watch** est un système de surveillance et d’alerte en ligne qui collecte des données sur les paysages forestiers mondiaux : [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/) 
-
-* **EngageMedia** fournit des ressources pour les organisations sur l’utilisation de la vidéo pour les changements sociaux : [http://www.engagemedia.org/Bantuan-Dan-Tutorial?set_language=id](http://www.engagemedia.org/Bantuan-Dan-Tutorial?set_language=id)
-
-* **Le Manuel de l’Open Data** contient des indications pour se procurer et utiliser de l’open data : [http://opendatahandbook.org/id/](http://opendatahandbook.org/id/)
-
 * **Kopernik** contient des informations pour les petites structures sur les outils mobiles de collecte de données, les plateformes et les capteurs cartographiques, ainsi que des éléments de comparaison : [http://kopernik.info/id/technologies](http://kopernik.info/id/technologieshttp://kopernik.info/id/technologies)
-
-* **Datahub** est une plateforme de gestion de données qui vous permet de rechercher des données, d’enregistrer des fichiers de données publiés, de créer et de gérer des groupes de fichiers et d’être informé des mises à jour des fichiers et des groupes qui vous intéressent : [http://datahub.io](http://datahub.io) 
-
-* **Video4Change** rassemble des guides, des manuels et d’autres ressources utiles pour les vidéoactivistes : [https://www.v4c.org/id/bahasa-indonesia](https://www.v4c.org/id/bahasa-indonesia)
-
-* **Security in-a-Box** est un guide sur la sécurité numérique pour les activistes et les défenseurs des droits de l’Homme produit par Frontline Defenders et le Tactical Technology Collective [https://securityinabox.org/id](https://securityinabox.org/id)
 
 #### Français
 
@@ -667,32 +655,6 @@ Les ressources ci-dessous sont disponibles dans la langue indiquée, et ont gén
 
 * **FCTV** a des modèles de textes pour les organisations qui font de la surveillance avec l’aide des communautés, dont une convention sur l’utilisation de téléphones mobiles consacrée à un projet par les communautés : [http://flegtcameroon.ning.com/page/documents](http://flegtcameroon.ning.com/page/documents) 
 
-#### Khmer
-
-* **Global Forest Watch** est un système de surveillance et d’alerte qui collecte des données sur les paysages forestiers mondiaux : [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/) 
-
-* **Open Development Cambodia** offre des cartes, des dossiers d’information sur des entreprises ou des secteurs économiques et des informations sur les lois et les règlements applicables au Cambodge : [http://www.opendevelopmentcambodia.net/kh/](http://www.opendevelopmentcambodia.net/kh/)
-
-* **Datahub** est une plateforme de gestion de données qui vous permet de rechercher des données, d’enregistrer des fichiers de données publiés, de créer et de gérer des groupes de fichiers et d’être informé des mises à jour des fichiers et des groupes qui vous intéressent : [http://datahub.io](http://datahub.io) 
-
-#### Português
-
-* **WITNESS** a une bibliothèque de ressources sur l’utilisation de la vidéo de manière sécurisée et efficace : [http://pt.witness.org/](http://pt.witness.org/) 
-
-* **Environmental News Lab** contient des outils et des tutoriels sur la manière de traiter les questions environnementales au Brésil et dans toute l’Amazonie :[http://lab.oeco.org.br/](http://lab.oeco.org.br/)
-
-* **Geojournalism.org** offre des ressoures et des formations s’adressant aux journalistes, designers et développeurs pour visualiser des données géographiques : [http://geojournalism.org/](http://geojournalism.org/) 
-
-* **Le Manuel de l’Open Data** contient des indications pour se procurer et utiliser de l’open data **: **[http://opendatahandbook.org/pt/](http://opendatahandbook.org/pt/) 
-
-* **Security in-a-Box** est un guide sur la sécurité numérique pour les activistes et les défenseurs des droits de l’Homme produit par Frontline Defenders et le Tactical Technology Collective : [https://securityinabox.org/pt](https://securityinabox.org/pt)
-
-* **Imazon** fournit des cartes de la déforestation en Amazonie mises à jour tous les mois : [http://imazon.org.br/](http://imazon.org.br/)
-
-* **Datahub** est une plateforme de gestion de données qui vous permet de rechercher des données, d’enregistrer des fichiers de données publiés, de créer et de gérer des groupes de fichiers et d’être informé des mises à jour des fichiers et des groupes qui vous intéressent : [http://datahub.io](http://datahub.io) 
-
-* **Global Forest Watch** est un système de surveillance et d’alerte qui collecte des données sur les paysages forestiers mondiaux : [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/) 
-
 #### Español
 
 * **RAISG** (Réseau amazonien d’informations socioenvironnementales géoréférencées) rassemble des informations sur les aires protégées, les terres autochtones, les bassins hydrographiques et les coupes illégales : [http://raisg.socioambiental.org/mapa-online/index.html](http://raisg.socioambiental.org/mapa-online/index.html) 
@@ -714,12 +676,6 @@ Les ressources ci-dessous sont disponibles dans la langue indiquée, et ont gén
 * **CLASlite** est conçu pour fournir une cartographie et un système de surveillance des forêts mis à jour chaque semaine grâce à des images satellite à haute résolution : [http://claslite.carnegiescience.edu/en/index.html](http://claslite.carnegiescience.edu/en/index.html) 
 
 * **Datahub** est une plateforme de gestion de données qui vous permet de rechercher des données, d’enregistrer des fichiers de données publiés, de créer et de gérer des groupes de fichiers et d’être informé des mises à jour des fichiers et des groupes qui vous intéressent : [http://datahub.io](http://datahub.io/es) 
-
-#### tiếng Việt
-
-* **Security in-a-Box** est un guide sur la sécurité numérique pour les activistes et les défenseurs des droits de l’Homme produit par Frontline Defenders et le Tactical Technology Collective : [https://info.securityinabox.org/vi](https://info.securityinabox.org/vi)
-
-* **Datahub** est une plateforme de gestion de données qui vous permet de rechercher des données, d’enregistrer des fichiers de données publiés et de créer et gérer des groupes de fichiers : [http://datahub.io/vi/about](http://datahub.io/vi/about)
 
 ## About
 

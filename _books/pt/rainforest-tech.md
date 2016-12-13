@@ -13,6 +13,7 @@ navigation:
 - Combinando seus objetivos com as ferramentas
 - Ferramentas
 - Outros recursos
+- Sobre
 ref: rt
 lang: pt
 categories:
@@ -504,17 +505,18 @@ Ferramentas tecnológicas podem melhorar campanhas de defesa de várias maneiras
 
 ## Ferramentas
 
-Aplicativos para celular
+- [Aplicativos para celular](/pt/rainforest-tech-mobile-phones)
 
-Imagens de satélite
+- [Imagens de satélite](/pt/rainforest-tech-satellite-imagery)
 
-Mapeamento participativo e por GPS
+- [Mapeamento participativo e por GPS](/pt/rainforest-tech-participatory-mapping)
 
-Áudio e vídeo
+- [Áudio e vídeo](/pt/rainforest-tech-audio-video)
 
-Fotografia aérea faça você mesmo
+- [Fotografia aérea faça você mesmo](/pt/rainforest-tech-diy-aerial)
 
-Mapas online
+- [Mapas online](/pt/rainforest-tech-online-maps)
+
 
 ## Combinando seus objetivos com as ferramentas
 
@@ -720,7 +722,7 @@ Esta lista de recursos inclui muitos mencionados na Cartilha, com alguns recurso
 
 * [**Datahub** ](http://datahub.io/es)é uma plataforma de gerenciamento de dados que permite que você pesquise dados, conjuntos de dados de registro publicados, crie e gerencie grupos de conjuntos de dados, e obtenha atualizações de conjuntos de dados e grupos de seu interesse.
 
-### **Sobre**
+### Sobre
 Este site foi criado pela [Fundação Rainforest da Noruega](www.regnskog.no/en/) e [The Engine Room](//theengineroom.org) como uma introdução ao uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direito à terra e direitos dos indígenas. Baixe a cartilha completa aqui.
 
 Comentários ou perguntas? Entre em contato [post@theengineroom.org](mailto:post@theengineroom.org) ou [rainforest@rainforest.no](rainforest@rainforest.no).

@@ -206,7 +206,7 @@ Data box yang bertanggung jawab:Rencanakan untuk menggunakan data dengan bertang
 		<li>Prioritaskan kejadian yang paling mungkin terjadi dan yang paling serius.</li>
 		<li>Buatlah satu set langkah-langkah praktis: apa yang dapat Anda lakukan agar kemungkinan kejadian berkurang? Dapatkah Anda membatasi kerusakan jika hal tersebut terjadi? Apa rencana cadangan Anda?</li>
 	</ul>
-	<p style="color:white"><b>Bersiap untuk yang terburuk.</b> Bahkan pada rencana yang terbaik sekalipun, keadaan darurat bisa terjadi.Untuk meresponnya mungkin memerlukan sumber daya mulai dari bantuan advokasi eksternal hingga dana medis darurat, bantuan hukum, peningkatan dana keamanan, atau biaya penggantian alat.  Digital Defenders’ Digital First Aid Kit memberikan beberapa saran sederhana dalam mengatasi keadaan darurat, dan menyarankan organisasi untuk menghubungi jika membutuhkan bantuan lebih lanjut: <a style="color:white" href="https://digitaldefenders.org/digitalfirstaid">https://digitaldefenders.org/digitalfirstaid</a> </p>
+	<p style="color:white"><b>Bersiap untuk yang terburuk.</b> Bahkan pada rencana yang terbaik sekalipun, keadaan darurat bisa terjadi.Untuk meresponnya mungkin memerlukan sumber daya mulai dari bantuan advokasi eksternal hingga dana medis darurat, bantuan hukum, peningkatan dana keamanan, atau biaya penggantian alat.  Digital Defenders’ Digital First Aid Kit memberikan beberapa saran sederhana dalam mengatasi keadaan darurat, dan menyarankan organisasi untuk menghubungi jika membutuhkan bantuan lebih lanjut: <a style="color:white" href="https://digitaldefenders.org/digitalfirstaid">https://digitaldefenders.org/digitalfirstaid</a>.</p>
 </blockquote>
 
 #### Anggarkan kebutuhan Anda
@@ -257,7 +257,7 @@ Pertimbangkan untuk mencatat dan mempublikasikannya sebagai Open Data, yang arti
 
 Penggabungkan sumber data yang berbeda dapat mengungkap sebuah informasi baru dan menyajikan pesan yang sangat kuat untuk kegiatan kampanye. Misalnya, Anda bisa menggabungkan foto udara yang dikumpulkan melalui fotografi satelit-yang dilakukan sendiri dan data pemetaan partisipatif. Namun periksa dengan seksama sumber data ini. Apakah mereka dapat dibandingkan?Apakah kedua sumber mencakup wilayah geografis yang sama, dan apakah kualitas datanya cukup konsisten? Jika data yang tepat tidak tersedia, pikirkan bagaimana Anda dapat mengubah cara pengumpulan data sehingga hasilnya tepat sesuai dengan data yang sudah ada.
 
-> ##### Studi kasus:Menggabungkan jenis informasi yang berbeda
+> ##### Studi kasus: Menggabungkan jenis informasi yang berbeda
 >
 > [Organización Regional AIDESEP Ucayali (ORAU)](http://www. oraucom.pe/inicio/index.php) telah membuat sebuah sistem monitoring yang dirancang untuk mendokumentasikan keberadaan masyarakat adat yang hidup terisolir secara sukarela (IPVI) dan ancaman-ancaman terhadap lingkungan di Peru.
 >
