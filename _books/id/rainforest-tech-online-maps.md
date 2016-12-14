@@ -24,10 +24,9 @@ categories:
 ## Peta online
 
 > ### Kemungkinan sasaran
-
-> * Mengambil bukti pelanggaran yang dilakukan perusahaan tentang cara mereka memanfaatkan lahan
-> * Pencatatan dan monitoring nilai lingkungan dari area lahan
-> * Memberikan bukti konkret kepada pemerintah guna mendorong mereka mengakui tanah adat
+> * Mengambil bukti pelanggaran yang dilakukan perusahaan tentang cara mereka memanfaatkan lahan.
+> * Pencatatan dan monitoring nilai lingkungan dari area lahan.
+> * Memberikan bukti konkret kepada pemerintah guna mendorong mereka mengakui tanah adat.
 
 Pengantar ini adalah bagian dari [Panduan tentang penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu hutan hujan, hak tanah dan hak masyarakat adat](https://library.theengineroom.org/rainforest-tech). Panduan ini didisain sebagai titik awal bagi organisasi dan aktivis yang tertarik untuk menggunakan teknologi demi meningkatkan kerja advokasi, dan merupakan hasil kemitraan antara [Rainforest Foundation Norway](http://www.regnskog.no/en/) dan [The Engine Room](https://theengineroom.org/).
 
@@ -47,18 +46,18 @@ Peta online dapat digunakan untuk **monitoring seketika** (menunjukkan tempat-te
 
 ### Alat dan perangkat
 
-Peta untuk kampanye tidak harus selalu interaktif.Beberapa peta lebih bagus ditampilkan sebagai infographic – gambar statis yang menyajikan keterangan teks dan kode pewarnaan yang jelas. **Pertama, pilih platform peta online Anda:** Seringkali lebih mudah menggunakan peta interaktif online yang sudah ada, yang telah memasukkan berlapis-lapis informasi seperti jalan raya dan citra satelit. Peta komersil seperti [Google, Bing ](http://www.bing.com/maps)atau [MapQuest](http://www.mapquest.com/). Platform OpenStreetMap mengandung informasi dari para sukarelawan, dan biasanya kurang teliti untuk daerah non-urban yang terpencil. 
+Peta untuk kampanye tidak harus selalu interaktif.Beberapa peta lebih bagus ditampilkan sebagai infographic – gambar statis yang menyajikan keterangan teks dan kode pewarnaan yang jelas. **Pertama, pilih platform peta online Anda:** Seringkali lebih mudah menggunakan peta interaktif online yang sudah ada, yang telah memasukkan berlapis-lapis informasi seperti jalan raya dan citra satelit. Peta komersil seperti [Google, Bing ](http://www.bing.com/maps)atau [MapQuest](http://www.mapquest.com/). Platform OpenStreetMap mengandung informasi dari para sukarelawan, dan biasanya kurang teliti untuk daerah non-urban yang terpencil.
 
 > #### Memahami koordinat dan polygons
 > Jika Anda mengumpulkan data dengan ponsel, drone, atau pemetaan partisipatif, yang terpenting adalah kuasai terlebih dulu dasar-dasar pemetaan. Semua obyek yang ada di peta memiliki koordinat yang menunjukkan lokasinya dengan menggunakan latitude (utara-selatan) dan longitude (timur-barat). Dengan > mengetahui koordinat latitude-longitude sebuah obyek, Anda bisa tahu posisinya (dikenal dengan point-based information). Untuk mengetahui ukuran sebuah obyek, Anda harus menggabungkan titik-titik di sekitarnya ke dalam bentuk poligon tunggal.
 
-**Lalu, buat layer-layer Anda di bagian atas:** Ada banyak cara berbeda untuk menambahkan informasi mulai dari penandaan dasar hingga ‘heat maps’ (yang menunjukkan kapan sebuah jenis kejadian terkonsentrasi di area tertentu). Beberapa situs menyediakan data yang didisain untuk ditambahkan ke peta hutan hujan. ([InfoAmazonia ](http://infoamazonia.org/datasets/)menawarkan peta wilayah Amazon terkait deforestasi dan kebakaran hutan. [Sarawak Geoportal ](http://www.bmfmaps.ch/)memiliki informasi yang sama untuk kawasan Sarawak-Malaysia.) 
+**Lalu, buat layer-layer Anda di bagian atas:** Ada banyak cara berbeda untuk menambahkan informasi mulai dari penandaan dasar hingga ‘heat maps’ (yang menunjukkan kapan sebuah jenis kejadian terkonsentrasi di area tertentu). Beberapa situs menyediakan data yang didisain untuk ditambahkan ke peta hutan hujan. ([InfoAmazonia ](http://infoamazonia.org/datasets/)menawarkan peta wilayah Amazon terkait deforestasi dan kebakaran hutan. [Sarawak Geoportal ](http://www.bmfmaps.ch/)memiliki informasi yang sama untuk kawasan Sarawak-Malaysia.)
 
 [MapBox Studio](https://www.mapbox.com/mapbox-studio.), [JEO Wordpress theme ](http://www.jeowp.org/)dan [CARTO](http://carto.com/) menawarkan software yang sangat kuat dan mudah digunakan untuk membuat peta interaktif. Namun Anda harus mengunggah peta Anda ke server MapBox, jadi software ini tidak cocok digunakan untuk informasi sensitif. Panduan untuk [meng-install JEO](http://geojournalism.org/2014/06/portugues-jeo-primeiros-passos/). Membuat sendiri layer interaktif Anda seringkali melibatkan programming tools yang disebut Javascript libraries ([Leaflet.js](http://leafletjs.com/) and [OpenLayers](http://www.openlayers.org/) adalah yang paling umum).
 
 ### Biaya
 
-Biaya mendisain dan menciptakan peta interaktif online bergantung pada seberapa mudah alat tersebut digunakan, dan keahlian pemrograman apa yang diperlukan. Jika Anda bukan programmer, alat yang paling mudah adalah [CARTO](http://carto.com/) dan [MapBox](https://www.mapbox.com) - tapi Anda harus membayar biaya jika membuat peta skala besar atau yang rumit dengan menggunakan alat ini (walaupun keduanya tersedia dalam pilihan gratis tapi dengan fungsi yang terbatas). 
+Biaya mendisain dan menciptakan peta interaktif online bergantung pada seberapa mudah alat tersebut digunakan, dan keahlian pemrograman apa yang diperlukan. Jika Anda bukan programmer, alat yang paling mudah adalah [CARTO](http://carto.com/) dan [MapBox](https://www.mapbox.com) - tapi Anda harus membayar biaya jika membuat peta skala besar atau yang rumit dengan menggunakan alat ini (walaupun keduanya tersedia dalam pilihan gratis tapi dengan fungsi yang terbatas).
 
 Menggunakan libraries seperti [Leaflet.js](http://leafletjs.com/) dan OpenStreetMaps gratis tapi perlu programmer yang ahli. Peta yang dihasilkan provider komersil seringkali gratis di awal namun akan menjadi mahal jika digunakan dengan secara luas. (Google Maps gratis untuk memuat hingga 25.000 peta per hari (jumlah yang sangat banyak), namun lebih dari itu menjadi mahal.)
 

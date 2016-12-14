@@ -13,7 +13,6 @@ navigation:
   - Alat dan perangkat
   - Biaya
   - Risiko dan tantangan
-  - Study kasus
   - Sumber lain
   - Tentang
 ref: rt
@@ -25,7 +24,6 @@ categories:
 ## Aplikasi telepon seluler
 
 > ### Sasaran yang memungkinkan
-
 > * Mengumpulkan bukti deforestasi atau degradasi hutan
 > * Mengumpulkan bukti-bukti pelanggaran terhadap individu atau masyarakat  
 > * Mencatat dan memonitor nilai lingkungan dari tanah atau daerah hutan.
@@ -39,7 +37,7 @@ Pengantar ini adalah bagian dari [Panduan tentang penggunaan teknologi untuk mem
 
 ### Apakah ini
 
-* Aplikasi mobile (atau ‘apps’) adalah program software yang bekerja di perangkat mobile seperti telepon atau tablet.Pada proyek yang berhubungan dengan hutan hujan, apps terutama digunakan untuk mengumpulkan data di lapangan dan langsung mengirimnya ke suatu organisasi. 
+* Aplikasi mobile (atau ‘apps’) adalah program software yang bekerja di perangkat mobile seperti telepon atau tablet.Pada proyek yang berhubungan dengan hutan hujan, apps terutama digunakan untuk mengumpulkan data di lapangan dan langsung mengirimnya ke suatu organisasi.
 
 * Aplikasi mobile dapat digunakan untuk banyak tujuan, termasuk merekam penambangan atau penebangan ilegal; survei keanekaragaman hayati; atau membantu masyarakat memetakan tanah mereka; atau memvalidasi peta pemerintah.
 
@@ -61,7 +59,7 @@ Anda dapat memilih dari beragam aplikasi: yang paling tepat untuk Anda bergantun
 
 **Seberapa rumit aplikasinya?** Semakin banyak fitur yang Anda inginkan, maka semakin banyak pelatihan dan dukungan *troubleshooting* yang akan Anda perlukan. Dukungan sudah termasuk dalam layanan-layanan seperti [ArcGIS](http://doc.arcgis.com/en/collector/), tapi ini mahal. Di sisi lain, solusi open source seperti [Open Data Kit](https://opendatakit.org/), memaksa Anda menyelesaikan masalah sendiri (yang menghabiskan waktu staff) atau memanggil pakar eksternal (yang biasanya memerlukan banyak biaya).
 
-**Seberapa banyak data yang ingin Anda kumpulkan?** Semakin banyak data yang Anda kumpulkan, semakin banyak Anda akan menghabiskan biaya untuk database yang menyimpan informasi, back-up data offline, atau pesan SMS. 
+**Seberapa banyak data yang ingin Anda kumpulkan?** Semakin banyak data yang Anda kumpulkan, semakin banyak Anda akan menghabiskan biaya untuk database yang menyimpan informasi, back-up data offline, atau pesan SMS.
 
 Untuk merasakan sedikit opsi-opsi yang ada, berikut ini adalah dua contoh aplikasi yang yang bertolak belakang dalam hal biaya:
 
@@ -79,7 +77,7 @@ Keuntungan dari menggunakan software berbiaya premium ini adalah fiturnya lebih 
 
 Tidak mungkin untuk [mengumpulkan dan membagi data secara aman](https://securityinabox.org/id/) di ponsel karena memang alat ini tidak didisain seperti itu. Hal ini bisa mengancam orang yang mengumpulkan informasi; terkadang dengan hanya memiliki sebuah aplikasi saja bisa membuat masyarakat pemonitor berada dalam risiko.Masyarakat dan lingkungan juga dapat terancam akibat dari informasi tentang mereka yang Anda publikasikan (lihat bagian ‘data yang bertanggung jawab’ pada bagian **Strategi**).
 
-### Studi kasus
+#### Studi kasus
 
 #### Menggunakan petugas monitor berbasis-masyarakat di Guyana
 
@@ -89,17 +87,17 @@ Sejak tahun 2011, Global Canopy Programme telah menjalankan sistem monitoring be
 
 * Teknologi ini menjadikan pengumpulan dan agregasi data dapat dilakukan pada saat yang sama dan secara langsung, dan tidak perlu lagi mencatat data dari lapangan.
 
-* Ini sangat populer di masyarakat setempat – 87% pemimpin lokal dan konselor desa mengatakan ponsel merupakan tambahan positif bagi masyarakat, yang membantu mereka meningkatkan pengetahuan mengenai sumber daya lokal. 
+* Ini sangat populer di masyarakat setempat – 87% pemimpin lokal dan konselor desa mengatakan ponsel merupakan tambahan positif bagi masyarakat, yang membantu mereka meningkatkan pengetahuan mengenai sumber daya lokal.
 
 * [Proyek ini mendorong kolaborasi](http://tinyurl.com/q9jg3xt) antara para orang-orang tua yang memiliki banyak pengetahuan tentang sumber daya alam dan anak-anak muda, yang cepat sekali belajar menggunakan ponsel.
 
-#### Menggunakan perangkat GPS untuk mencatat serbuan atas teritori adat. 
+#### Menggunakan perangkat GPS untuk mencatat serbuan atas teritori adat.
 
-Organisasi Pro-Indian Commission of Acre (Comissão Pró-Indio do Acre, or CPI-AC) telah melatih masyarakat adat di kawasan Acre menggunakan alat GPS untuk mencatat serbuan atas teritori adat. 
+Organisasi Pro-Indian Commission of Acre (Comissão Pró-Indio do Acre, or CPI-AC) telah melatih masyarakat adat di kawasan Acre menggunakan alat GPS untuk mencatat serbuan atas teritori adat.
 
 **Bagaimana hal ini dapat membantu?**
 
-* Informasi yang dikumpulkan masyarakat adat kemudian digunakan untuk membuat peta yang menyoroti masalah dan menyajikan bukti di tempat di mana situasi paling buruk. 
+* Informasi yang dikumpulkan masyarakat adat kemudian digunakan untuk membuat peta yang menyoroti masalah dan menyajikan bukti di tempat di mana situasi paling buruk.
 
 * Salah satu peta serbuan ini dipresentasikan di depan mantan Menteri Lingkungan Hidup di negara itu, mendorong munculnya aksi dari berbagai sektor di pemerintah federal untuk melawan serbuan tersebut.
 
@@ -119,9 +117,9 @@ Organisasi Pro-Indian Commission of Acre (Comissão Pró-Indio do Acre, or CPI-A
 
 * **Forest Compass** mengumpulkan sumber daya monitoring hutan berbasis masyarakat [http://forestcompass.org/how/resources](http://forestcompass.org/how/resources)
 
-* **OpenForis **adalah satu set aplikasi mobile dan software tools yang membantu Anda dalam mengumpulkan dan menganalisa data: [http://www.openforis.org/](http://www.openforis.org/)
+* **OpenForis** adalah satu set aplikasi mobile dan software tools yang membantu Anda dalam mengumpulkan dan menganalisa data: [http://www.openforis.org/](http://www.openforis.org/)
 
-* **TechSoup **memiliki saran dalam memilih perangkat mobile yang sesuai dengan kebutuhan Anda http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for
+* **TechSoup** memiliki saran dalam memilih perangkat mobile yang sesuai dengan kebutuhan Anda http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for
 
 ---
 

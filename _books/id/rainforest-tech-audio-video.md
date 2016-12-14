@@ -18,8 +18,8 @@ navigation:
   - Alat dan perangkat
   - Biaya
   - Risiko dan tantangan
-  - Study kasus
   - Sumber lain
+  - Studi kasus
   - Tentang
 ref: rt
 lang: id
@@ -37,6 +37,8 @@ categories:
 > - Menyampaikan bukti pelanggaran terhadap individu atau masyarakat
 
 Pengantar ini adalah bagian dari [Panduan tentang penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu hutan hujan, hak tanah dan hak masyarakat adat](https://library.theengineroom.org/rainforest-tech). Panduan ini didisain sebagai titik awal bagi organisasi dan aktivis yang tertarik untuk menggunakan teknologi demi meningkatkan kerja advokasi, dan merupakan hasil kemitraan antara [Rainforest Foundation Norway](http://www.regnskog.no/en/) dan [The Engine Room](https://theengineroom.org/).
+
+![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
 [Download Panduan di sini (1.6MB pdf)](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) atau baca online di bawah ini.
 
@@ -58,19 +60,19 @@ Saat ini Anda bisa membuat video dan audio dengan sangat mudah namun secara umum
 
 ### Risiko dan tantangan
 
-**Risiko untuk orang yang merekam: **Merekam audio atau video bisa membawa risiko terhadap si pembuat.Hapus atau enkripsi data pribadi pada alat dan bersihkan alatnya secara teratur – fingerprints atau residu bisa menunjukkan tempat-tempat yang telah mereka kunjungi.Bagikanlah informasi sensitif hanya dengan kelompok yang dipercaya atau pengacara sebelum mempublikasikan, dan sebelum memulai cek apakah melakukan perekaman diperbolehkan.
+**Risiko untuk orang yang merekam:** Merekam audio atau video bisa membawa risiko terhadap si pembuat.Hapus atau enkripsi data pribadi pada alat dan bersihkan alatnya secara teratur – fingerprints atau residu bisa menunjukkan tempat-tempat yang telah mereka kunjungi. Bagikanlah informasi sensitif hanya dengan kelompok yang dipercaya atau pengacara sebelum mempublikasikan, dan sebelum memulai cek apakah melakukan perekaman diperbolehkan.
 
-**Risiko untuk orang-orang yang Anda rekam: **Ikuti langkah-langkah pada paragraf ‘Persetujuan Awal’ untuk **Mengumpulkan Data **(hal X), pastikan orang memahami bahwa rekaman dapat tersebar luas dan dilihat oleh semua orang. Matikan semua fungsi perekaman-lokasi, dan buramkan wajah orang-orang [2](https://www.v4c.org/en/content/hands-using-obscuracam) atau fungsi untuk memburamkan di [YouTube](http://youtube-global.blogspot.co.uk/2012/07/face-blurring-when-footage-requires.html).
+**Risiko untuk orang-orang yang Anda rekam:** Ikuti langkah-langkah pada paragraf ‘Persetujuan Awal’ untuk **Mengumpulkan Data**(hal X), pastikan orang memahami bahwa rekaman dapat tersebar luas dan dilihat oleh semua orang. Matikan semua fungsi perekaman-lokasi, dan buramkan wajah orang-orang [2](https://www.v4c.org/en/content/hands-using-obscuracam) atau fungsi untuk memburamkan di [YouTube](http://youtube-global.blogspot.co.uk/2012/07/face-blurring-when-footage-requires.html).
 
 ### Sumber lain
 
-* The Guardian Project’s **Informacam, **adalah plugin yang dapat berfungsi dengan **Obscuracam **Android app, yang dapat membantu mengumpulkan bukti video dan photo dengan aman dan dapat diverifikasi: [https://guardianproject.info/informa/](https://guardianproject.info/informa/) dan [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam)
+* The Guardian Project’s **Informacam,** adalah plugin yang dapat berfungsi dengan **Obscuracam** Android app, yang dapat membantu mengumpulkan bukti video dan photo dengan aman dan dapat diverifikasi: [https://guardianproject.info/informa/](https://guardianproject.info/informa/) dan [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam)
 
 * The **StoryMaker** app untuk ponsel Android membantu untuk membuat kisah-kisah multimedia di perangkat Android Anda:[http://smallworldnews.tv/projects/storymaker/](http://smallworldnews.tv/projects/storymaker/)
 
 * **WITNESS** dan** Video4Change** memiliki perpustakaan yang sangat membantu kerja Anda: [https://www.v4c.org/en/resources](https://www.v4c.org/en/resources) dan [http://library.witness.org](http://library.witness.org/)
 
-* **Small World News **menawarkan panduan membuat video dan audio [http://smallworldnews.com/guides](http://smallworldnews.com/guides)
+* **Small World News** menawarkan panduan membuat video dan audio [http://smallworldnews.com/guides](http://smallworldnews.com/guides)
 
 * **Audacity** menawarkan kemampuan mengedit audio secara gratis [http://audacity.sourceforge.net/](http://audacity.sourceforge.net/), sementara versi **Lightworks Free** dapat menangani tugas editing video yang simpel: http://www.lwks.com/
 
@@ -90,7 +92,7 @@ Sebagai respon atas kampanye advokasi, perusahaan kertas Indonesia APP telah men
 **Bagaimana hal ini dapat membantu?**
 
 * Videonya pendek dan sederhana, sehingga mudah diunggah dan dipublikasikan dengan cepat.
-* Meskipun video difilmkan dari jauh, ia masih berharga sebagai bukti karena dengan jelas menunjukkan penebangan yang tengah dilakukan. Dan video ini didukung oleh foto koordinat GPS dan sebuah laporan yang detail. 
+* Meskipun video difilmkan dari jauh, ia masih berharga sebagai bukti karena dengan jelas menunjukkan penebangan yang tengah dilakukan. Dan video ini didukung oleh foto koordinat GPS dan sebuah laporan yang detail.
 * APP ditekan untuk merespon video tersebut dan menyatakan bahwa penebangan ada di zona eksklusi yang tidak diungkapkan.
 
 ---

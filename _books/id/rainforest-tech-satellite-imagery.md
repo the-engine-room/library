@@ -30,7 +30,6 @@ categories:
 ## Citra satelit
 
 > ### Kemungkinan sasaran
-
 > * Mengumpulkan bukti deforestasi atau degradasi hutan
 > * Mengumpulkan bukti deforestasi atau degradasi hutan
 > * Mengambil bukti pelanggaran yang dilakukan perusahaan tentang cara mereka memanfaatkan lahan
@@ -46,11 +45,11 @@ Pengantar ini adalah bagian dari [Panduan tentang penggunaan teknologi untuk mem
 
 * Satelit yang mengitari dunia mengambil foto-foto permukaan bumi dari angkasa, termasuk gambar hutan atau tanah masyarakat.
 
-* Foto tersebut dapat digunakan untuk membuat analisa perubahan hutan dari waktu ke waktu, atau menggabungkannya dengan bentuk informasi lain, termasuk jenis peta lain. 
+* Foto tersebut dapat digunakan untuk membuat analisa perubahan hutan dari waktu ke waktu, atau menggabungkannya dengan bentuk informasi lain, termasuk jenis peta lain.
 
 ### Bagaimana hal ini dapat membantu
 
-Di masa lalu citra satelit sangat mahal kecuali untuk lembaga, pemerintah dan perusahaan besar.Saat ini ianya mudah diakses dan gratis (atau sangat murah).Membandingkan gambar-gambar dari daerah yang sama secara reguler dapat memberikan bukti deforestasi, tren seperti peningkatan kegiatan komersial, atau hasil-hasil pengrusakan hutan yang dapat terlihat, seperti monokultur (yang mengikuti pola penanaman yang dapat dilihat dari atas). 
+Di masa lalu citra satelit sangat mahal kecuali untuk lembaga, pemerintah dan perusahaan besar.Saat ini ianya mudah diakses dan gratis (atau sangat murah).Membandingkan gambar-gambar dari daerah yang sama secara reguler dapat memberikan bukti deforestasi, tren seperti peningkatan kegiatan komersial, atau hasil-hasil pengrusakan hutan yang dapat terlihat, seperti monokultur (yang mengikuti pola penanaman yang dapat dilihat dari atas).
 
 ### Alat dan perangkat
 
@@ -72,15 +71,15 @@ Persoalan utama dari citra satelit adalah **resolusi**, saat ini kualitas gambar
 
 #### Menggabungkan data satelit dengan sumber lain
 
-Organisasi hutan hujan Indonesia, Warsi, menggabungkan data pemetaan satelit yang mereka peroleh dari Landsat Thematic Mapper (Landsat TM) dan Advanced Land Observation Satellite (ALOS) dengan sumber informasi lain untuk mendokumentasikan penyebaran masyarakat Orang Rimba dan pemanfaatan sumber daya alam oleh mereka. 
+Organisasi hutan hujan Indonesia, Warsi, menggabungkan data pemetaan satelit yang mereka peroleh dari Landsat Thematic Mapper (Landsat TM) dan Advanced Land Observation Satellite (ALOS) dengan sumber informasi lain untuk mendokumentasikan penyebaran masyarakat Orang Rimba dan pemanfaatan sumber daya alam oleh mereka.
 
 **Bagaimana hal ini dapat membantu?**
 
 * Warsi mampu menggabungkan data satelit dengan data GPS dan peta digital yang telah mereka buat dengan mengubah peta kertas menjadi konsesi sumber daya alam.
 
-* Citra satelit cukup mahal untuk Warsi.Kadang-kadang awan menutupi bagian penting dari gambar, dan itu artinya mereka perlu menganalisa serangkaian gambar guna mendapatkan tampilan yang lebih tepat. 
+* Citra satelit cukup mahal untuk Warsi.Kadang-kadang awan menutupi bagian penting dari gambar, dan itu artinya mereka perlu menganalisa serangkaian gambar guna mendapatkan tampilan yang lebih tepat.
 
-* Taman Nasional Bukit Duabelas saat ini memberikan hak pemanfaatan untuk Orang Rimba dan secara resmi melindungi daerah tersebut, meskipun deforestasi masih menjadi masalah serius di wilayah tersebut. 
+* Taman Nasional Bukit Duabelas saat ini memberikan hak pemanfaatan untuk Orang Rimba dan secara resmi melindungi daerah tersebut, meskipun deforestasi masih menjadi masalah serius di wilayah tersebut.
 
 #### Memanfaatkan data satelit menjadi bukti penebangan ilegal
 

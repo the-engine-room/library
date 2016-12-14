@@ -20,6 +20,8 @@ categories:
   - id
 ---
 
+# Teknologi untuk memonitor dan berbagi informasi mengenai hutan hujan dan hak-hak masyarakat hutan
+
 ## Pengantar
 
 Panduan penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu-isu hutan hujan, hak atas tanah dan hak-hak adat.

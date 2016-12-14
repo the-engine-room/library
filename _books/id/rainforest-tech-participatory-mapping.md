@@ -25,7 +25,6 @@ categories:
 ## Pemetaan partisipatif dan GPS
 
 > ### Sasaran yang memungkinkan
-
 > * Memulai atau mendukung dialog antara masyarakat dan pemerintah
 > * Memberikan bukti konkret kepada pemerintah guna mendorong mereka mengakui tanah adat
 > * Mendukung masyarakat dengan menyajikan dan memberikan pengetahuan
@@ -40,7 +39,7 @@ Pengantar ini adalah bagian dari [Panduan tentang penggunaan teknologi untuk mem
 
 * Pemetaan partisipatif (atau pemetaan berbasis masyarakat) mengumpulkan informasi dari daerah pemukiman warga mengenai bagaimana daerah mereka dimanfaatkan dan praktik-praktik yang dilakukan masyarakat setempat.
 
-* Informasi dikumpulkan dalam dua cara: melalui konsultasi langsung dengan masyarakat, atau memberikan alat kepada masyarakat untuk mendokumentasikan pengetahuan mereka. 
+* Informasi dikumpulkan dalam dua cara: melalui konsultasi langsung dengan masyarakat, atau memberikan alat kepada masyarakat untuk mendokumentasikan pengetahuan mereka.
 
 * Informasi ini digunakan untuk menciptakan peta berdasarkan nama dan definisi yang digunakan oleh masyarakat setempat, yang dapat melengkapi peta resmi.
 
@@ -80,20 +79,19 @@ Pemetaan partisipatif mengumpulkan informasi mengenai di mana masyarakat tinggal
 
 * Sebagai salah satu alat advokasi, peta paling banyak sukses jika disajikan kepada organisasi konservasi dan perusahaan penebangan di Barat (namun kurang efektif untuk masyarakat setempat).
 
-#### Monitoring perburuan liar di Kongo 
+#### Monitoring perburuan liar di Kongo
 
 Tahun 2013, perkumpulan-pemburu Mbendjele bekerja sama dengan ExCiteS Research Group di University College London untuk mengumpulkan data dengan aplikasi Android guna memonitor perburuan liar. [Proyek](http://dev3.acmdev.org/papers/dev-final45.pdf) itu menggunakan ponsel Samsung Galaxy XCover berbasis Android, dan versi Open Data Kit Collect yang telah dimodifikasi, yang menggunakan ikon gambar dan bukan kata-kata. Untuk mengurangi risiko terhadap petugas monitor, jika mereka tertangkap oleh pemburu liar, proyek ini menambahkan prosedur penguncian ponsel dengan cara sederhana sehingga pengguna bisa menyembunyikan fungsi aplikasi dengan cepat.
 
 **Bagaimana hal ini dapat membantu?**
 
-* Proyek ini telah membangun hubungan kuat sejak 2005, ketika Mbendjele yang terlibat dalam pengumpulan data sangat terkesan dengan keseriusan yang ditunjukkan perusahaan kayu dalam memperlakukan peta yang mereka buat. 
+* Proyek ini telah membangun hubungan kuat sejak 2005, ketika Mbendjele yang terlibat dalam pengumpulan data sangat terkesan dengan keseriusan yang ditunjukkan perusahaan kayu dalam memperlakukan peta yang mereka buat.
 
-* Petugas monitor berhasil mempelajari fungsi-fungsi audio, photo dan video, yang merekam gambar dengan kualitas yang sangat bagus. Kekuatan yang dibangun oleh ponsel ini menunjukkan bahwa ponsel dapat bekerja dengan baik di kondisi hutan. 
+* Petugas monitor berhasil mempelajari fungsi-fungsi audio, photo dan video, yang merekam gambar dengan kualitas yang sangat bagus. Kekuatan yang dibangun oleh ponsel ini menunjukkan bahwa ponsel dapat bekerja dengan baik di kondisi hutan.
 
 * Proyek ini menggunakan Hatsuden Nabe, sebuah tungku masak yang mengubah energi panas dari api menjadi listrik, untuk mengisi ulang batere ponsel (bisa mengisi hingga 60% dalam waktu 90 menit). Panel surya juga bermanfaat ketika petugas monitor tidak berada tepat di bawah naungan kanopi hutan hujan.
 
-* Meskipun jaringan komunikasi tidak bisa menjangkau hingga lebih dalam ke hutan, petugas monitor bisa mengirim informasi menggunakan SMS atau internet 3G saat mereka berada di kota-kota terdekat. 
-
+* Meskipun jaringan komunikasi tidak bisa menjangkau hingga lebih dalam ke hutan, petugas monitor bisa mengirim informasi menggunakan SMS atau internet 3G saat mereka berada di kota-kota terdekat.
 
 ---
 

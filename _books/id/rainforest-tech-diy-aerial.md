@@ -19,7 +19,6 @@ navigation:
   - Alat dan perangkat
   - Biaya
   - Risiko dan tantangan
-  - Study kasus
   - Sumber lain
   - Tentang
 ref: rt
@@ -54,19 +53,19 @@ Peta beresolusi-tinggi harganya mahal, kadang sudah ketinggalan zaman atau sulit
 
 ### Alat dan perangkat
 
-Jika Anda memiliki anggaran terbatas dan hanya ingin menjangkau daerah yang kecil, layang-layang atau balon adalah pilihan yang murah dan mudah (lihat bagian **Biaya** di bawah).Alat ini dapat dibuat dari bahan-bahan sederhana atau dirakit dari [kit]([http://publiclaboratory.org/wiki/balloon-mapping](http://publiclaboratory.org/wiki/balloon-mapping); [http://publiclaboratory.org/wiki/kite-mapping](http://publiclaboratory.org/wiki/kite-mapping)) yang sudah ada. 
+Jika Anda memiliki anggaran terbatas dan hanya ingin menjangkau daerah yang kecil, layang-layang atau balon adalah pilihan yang murah dan mudah (lihat bagian **Biaya** di bawah).Alat ini dapat dibuat dari bahan-bahan sederhana atau dirakit dari [kit]([http://publiclaboratory.org/wiki/balloon-mapping](http://publiclaboratory.org/wiki/balloon-mapping); [http://publiclaboratory.org/wiki/kite-mapping](http://publiclaboratory.org/wiki/kite-mapping)) yang sudah ada.
 
 Jika tutupan pohon membatasi jangkauan terbang, Anda dapat menggunakan balon dan layang-layang, perlu menyisihkan banyak uang untuk drone (lihat **[Biaya](/id/rainforest-tech-diy-aerial#biaya)** di bawah). Ada dua jenis utama: drone dengan empat multiple rotor atau lebih (mudah diterbangkan, tapi hanya dapat terbang selama 30 menit), atau pesawat dengan ‘fixed-wing’ yang dikendalikan oleh remote-control (pesawat dapat terbang selama 60 menit – mudah diperbaiki namun sulit didaratkan). Anda juga membutuhkan sebuah kamera digital yang simpel, software untuk merencanakan jalur penerbangan, dan mengedit gambar.
 
 ### Biaya
 
-Meskipun bahan-bahan untuk menciptakan drone, balon atau layangan sudah semakin murah, namun agar dapat menggunakannya secara efektif perlu waktu, perlu keahlian praktis dasar dan kesabaran untuk mempelajari software baru. Luangkan waktu staff untuk berlatih, melakukan penyesuaian teknis, mengelola data dan menginformasikan kepada masyarakat di mana Anda akan terbang. Layang-layang sederhana yang bisa membawa sebuah kamera kecil harganya mulai dari USD 70, dan Anda bisa membeli kit balon sekitar USD 200. Juga tersedia kit untuk membuat drone berharga sekitar USD 1000-USD 2000.[[2](http://www.openrelief.org/home/open-source-airframe/)]. 
+Meskipun bahan-bahan untuk menciptakan drone, balon atau layangan sudah semakin murah, namun agar dapat menggunakannya secara efektif perlu waktu, perlu keahlian praktis dasar dan kesabaran untuk mempelajari software baru. Luangkan waktu staff untuk berlatih, melakukan penyesuaian teknis, mengelola data dan menginformasikan kepada masyarakat di mana Anda akan terbang. Layang-layang sederhana yang bisa membawa sebuah kamera kecil harganya mulai dari USD 70, dan Anda bisa membeli kit balon sekitar USD 200. Juga tersedia kit untuk membuat drone berharga sekitar USD 1000-USD 2000.[[2](http://www.openrelief.org/home/open-source-airframe/)].
 
 ConservationDrones juga mengumpulkan drone yang sudah tidak dipergunakan dan mendonasikannya kepada kelompok-kelompok hutan hujan. [Software gratis, open source autopilot](http://opendronemap.github.io/odm/) dan pembuat peta juga tersedia, dan jaringan [ConservationDrones](http://conservationdrones.org/2014/10/24/recycle/), [DIYDrones]([http://diydrones.com/](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs)) dan [Humanitarian UAV menawarkan](http://uaviators.org/about-this-site-rules) (sering kali gratis) saran dan bantuan.
 
 ### Risiko dan tantangan
 
-Drone dan foto udara lakukan-sendiri adalah teknologi baru, dan praktik terbaik serta aturan hukumnya masih dikembangkan. Kode perilaku jaringan Humanitarian UAV adalah dokumen yang sangat bagus untuk dipelajari: [https://uaviators.org/docs](https://uaviators.org/docs); lihat juga daftar peraturan mengenai menerbangkan drone di negara-negara berbeda [https://www.droneregulations.info/](https://www.droneregulations.info/).  Sedapat mungkin libatkan masyarakat setempat, melibatkan mereka untuk membuat pemetaan sendiri.Pastikan bahwa mereka memahami dengan jelas data apa yang dikumpulkan dan bagaimana nanti akan digunakan.Hapus setiap informasi yang bisa menunjukkan individu, dan setelah itu bagikan informasi yang telah Anda kumpulkan kepada masyarakat yang dipetakan. Beberapa negara mulai memperkenalkan batasan-batasan hukum tentang siapa yang dapat menerbangkan drone dan di mana - sebelum mulai cek apakah ini diperbolehkan secara hukum. 
+Drone dan foto udara lakukan-sendiri adalah teknologi baru, dan praktik terbaik serta aturan hukumnya masih dikembangkan. Kode perilaku jaringan Humanitarian UAV adalah dokumen yang sangat bagus untuk dipelajari: [https://uaviators.org/docs](https://uaviators.org/docs); lihat juga daftar peraturan mengenai menerbangkan drone di negara-negara berbeda [https://www.droneregulations.info/](https://www.droneregulations.info/).  Sedapat mungkin libatkan masyarakat setempat, melibatkan mereka untuk membuat pemetaan sendiri.Pastikan bahwa mereka memahami dengan jelas data apa yang dikumpulkan dan bagaimana nanti akan digunakan.Hapus setiap informasi yang bisa menunjukkan individu, dan setelah itu bagikan informasi yang telah Anda kumpulkan kepada masyarakat yang dipetakan. Beberapa negara mulai memperkenalkan batasan-batasan hukum tentang siapa yang dapat menerbangkan drone dan di mana - sebelum mulai cek apakah ini diperbolehkan secara hukum.
 
 ### Studi kasus
 
@@ -76,7 +75,7 @@ Tahun 2014, [anggota masyarakat Wapichana di Guyana dan organisasi Digital Democ
 
 **Bagaimana hal ini dapat membantu?**
 
-* Tim monitoring Wapichana sebelumnya tidak memiliki pengalaman teknis mesin namun mereka mampu membuat drone menggunakan bahan-bahan yang tersedia di daerah setempat, sehingga drone itu lebih dikenali karena dibuat secara bersama-sama oleh mereka. 
+* Tim monitoring Wapichana sebelumnya tidak memiliki pengalaman teknis mesin namun mereka mampu membuat drone menggunakan bahan-bahan yang tersedia di daerah setempat, sehingga drone itu lebih dikenali karena dibuat secara bersama-sama oleh mereka.
 
 * Pertama-tama anggota tim belajar menerbangkan drone tanpa sebuah autopilot.Meskipun di saat-saat awal ada kesulitan dalam pendaratan, tapi hal ini membantu membangun kepercayaan diri mereka dalam hal menerbangkan drone.
 
@@ -94,12 +93,11 @@ Tahun 2014, [ConservationDrones](http://conservationdrones.org) dan [Sumatran Or
 
 ### Sumber lain
 
-
 * **Conservation Drones**’ site memberikan panduan untuk membuat dan menerbangkan drone, dan juga contoh bagaimana ia dipergunakan di kegiatan konservasi: [http://conservationdrones.org/](http://conservationdrones.org/2014/10/24/recycle/)
 
 * **DIY Drones** memiliki panduan pengantar untuk UAVs: [http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs)
 
-* **Public Laboratory **memberikan panduan dan dukungan untuk membuat layang-layang, balon dan sensor untuk pemetaan: [http://publiclaboratory.org](http://publiclaboratory.org/wiki/kite-mapping)
+* **Public Laboratory** memberikan panduan dan dukungan untuk membuat layang-layang, balon dan sensor untuk pemetaan: [http://publiclaboratory.org](http://publiclaboratory.org/wiki/kite-mapping)
 
 * The **Humanitarian UAV network (UAViators)** memiliki beragam informasi yang bermanfaat [http://uaviators.org/about-this-site-rules](http://uaviators.org/about-this-site-rules) dan sebuah survey mengenai undang-undang yang mempengaruhi penerbangan drone di negara-negara di dunia [http://wiki.uaviators.org/doku.php](http://wiki.uaviators.org/doku.php)
 
