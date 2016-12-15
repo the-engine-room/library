@@ -16,7 +16,7 @@ navigation:
   - Estudos de caso
   - Outros recursos
   - Sobre
-ref: pt
+ref: rt-pa
 lang: pt
 categories:
   - pt

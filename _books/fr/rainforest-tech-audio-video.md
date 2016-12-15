@@ -16,7 +16,7 @@ navigation:
   - Études de cas
   - Ressources complémentaires
   - À propos
-ref: rt-da
+ref: rt-av
 lang: fr
 categories:
   - fr

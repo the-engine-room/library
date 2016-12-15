@@ -16,7 +16,7 @@ navigation:
   - Riscos e desafios
   - Estudos de caso
   - Sobre
-ref: pt
+ref: rt-da
 lang: pt
 categories:
   - pt

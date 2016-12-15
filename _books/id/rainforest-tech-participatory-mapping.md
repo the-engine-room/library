@@ -15,7 +15,7 @@ navigation:
   - Risiko dan tantangan
   - Study kasus
   - Tentang
-ref: rt
+ref: rt-pm
 lang: id
 categories:
   - id

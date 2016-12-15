@@ -1,8 +1,7 @@
 ---
 layout: rainforest
 title: Peta online
-description: Pengantar penggunaan peta online yang menggabungkan berbagai jenis data yang berbeda dari proyek-proyek hutan hujan, diantaranya untuk tujuan monitoring seketika (menunjukkan tempat-tempat yang memiliki insiden lebih banyak), kampanye (seperti menunjukkan tutupan hutan yang berkurang secara dramatis) atau analisa (mendapatkan pemahaman baru dengan membentangkan (overlay) beberapa jenis data yang berbeda pada satu peta). <p>Bagian
-laporan <a href="https://library.theengineroom.org/rainforest-tech">Teknologi Hutan Hujan</a>.</p>
+description: Pengantar penggunaan peta online yang menggabungkan berbagai jenis data yang berbeda dari proyek-proyek hutan hujan, diantaranya untuk tujuan monitoring seketika (menunjukkan tempat-tempat yang memiliki insiden lebih banyak), kampanye (seperti menunjukkan tutupan hutan yang berkurang secara dramatis) atau analisa (mendapatkan pemahaman baru dengan membentangkan (overlay) beberapa jenis data yang berbeda pada satu peta). <p>Bagian laporan <a href="https://library.theengineroom.org/rainforest-tech">Teknologi Hutan Hujan</a>.</p>
 image: /media/index/online.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
@@ -16,7 +15,7 @@ navigation:
   - Risiko dan tantangan
   - Study kasus
   - Tentang
-ref: rt
+ref: rt-om
 lang: id
 categories:
   - id

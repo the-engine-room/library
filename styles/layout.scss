@@ -173,6 +173,13 @@ body.table-of-contents #books .ref.greyed {
   h2 a { color: #333; }
   p { color: #666; }
 }
+.ref {
+  display: block;
+  float: left;
+  clear: none;
+  width: 50%;
+  min-height: 240px; 
+}
 body.page > .content {
 
   padding-top: 50px; // make space for navbar

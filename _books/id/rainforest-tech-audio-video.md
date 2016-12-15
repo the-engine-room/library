@@ -1,12 +1,7 @@
 ---
 layout: rainforest
 title: Audio dan video
-description: Pengantar penggunaan audio dan video untuk proyek yang berhubungan dengan
-  hutan hujan menyajikan pesan-pesan advokasi yang singkat, mengumpulkan bukti
-  visual pelanggaran HAM, mempublikasikan film partisipatif dari anggota
-  masyarakat, atau mendokumentasikan deforestasi dari waktu ke waktu. <p>Bagian
-  laporan <a href="https://library.theengineroom.org/rainforest-tech">Teknologi
-  Hutan Hujan</a>.</p>
+description: Pengantar penggunaan audio dan video untuk proyek yang berhubungan dengan hutan hujan menyajikan pesan-pesan advokasi yang singkat, mengumpulkan bukti visual pelanggaran HAM, mempublikasikan film partisipatif dari anggota masyarakat, atau mendokumentasikan deforestasi dari waktu ke waktu. <p>Bagian laporan <a href="https://library.theengineroom.org/rainforest-tech">Teknologi Hutan Hujan</a>.</p>
 image: /media/index/audio.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
@@ -21,7 +16,7 @@ navigation:
   - Sumber lain
   - Studi kasus
   - Tentang
-ref: rt
+ref: rt-av
 lang: id
 categories:
   - id

@@ -68,21 +68,21 @@ theme: table-of-contents
 <div class="container lang-box lang-show" lang="en" id="books">
 	{% for book in site.books %}
 		{% if book.lang == 'en' %}
-			{% capture u %}{% cycle 'odd', 'even' %}{% endcapture %}
-			{% if u == 'odd' or forloop.first %}
-			<div class="row">
+			{% capture uen %}{% cycle 'odd', 'even' %}{% endcapture %}
+			{% if uen == 'odd' or forloop.first %}
+			<!-- </div> -->
 			{% endif %}
 				<div class="ref" data-ref="{{book.ref}}" id="en-{{book.ref}}">
-					<div class="two columns">
+					<div class="four columns">
 						<a href="{{book.url}}"><img src="{{ book.image }}" width="100px"></a>
 					</div>
-					<div class="four columns">
+					<div class="eight columns">
 						<h2><a href="{{book.url}}">{{ book.title }}</a></h2>
 						<p>{{ book.description }}</p>
 					</div>
 				</div>
-			{% if u == 'even' or forloop.last %}
-			</div>
+			{% if uen == 'even' or forloop.last %}
+			<!-- </div> -->
 			{% endif %}
 		{% endif %}
 	{% endfor %}
@@ -91,96 +91,111 @@ theme: table-of-contents
 <div class="container lang-box lang-hidden" lang="fr" id="books">
 	{% for book in site.books %}
 		{% if book.lang == 'fr' %}
-			{% capture u %}{% cycle 'odd', 'even' %}{% endcapture %}
-			{% if u == 'odd' or forloop.first %}
-			<div class="row">
+		
+			{% capture ufr %}{% cycle 'odd', 'even' %}{% endcapture %}
+			
+			{% if ufr == 'odd' or forloop.first %}
+			<!-- <div class="row"> -->
 			{% endif %}
+			
 				<div class="ref" data-ref="{{book.ref}}" id="fr-{{book.ref}}">
-					<div class="two columns">
+					<div class="four columns">
 						<a href="{{book.url}}"><img src="{{ book.image }}" width="100px"></a>
 					</div>
-					<div class="four columns">
+					<div class="eight columns">
 						<h2><a href="{{book.url}}">{{ book.title }}</a></h2>
 						<p>{{ book.description }}</p>
 					</div>
 				</div>
-			{% if u == 'even' or forloop.last %}
-			</div>
+				
+			{% if ufr == 'even' or forloop.last %}
+			<!-- </div> -->
 			{% endif %}
+			
 		{% endif %}
+		
 	{% endfor %}
-	<!-- This closing tag is forced in here to break out of the loop --> </div>
+	<!-- This closing tag is forced in here to break out of the loop --></div>
 	<div class="row fr-last-row"></div>
 </div>
 
 <div class="container lang-box lang-hidden" lang="id" id="books">
 	{% for book in site.books %}
 		{% if book.lang == 'id' %}
-			{% capture u %}{% cycle 'odd', 'even' %}{% endcapture %}
-			{% if u == 'odd' or forloop.first %}
-			<div class="row">
+		
+			{% capture uid %}{% cycle 'odd', 'even' %}{% endcapture %}
+			
+			{% if uid == 'odd' or forloop.first %}
+			<!-- <div class="row"> -->
 			{% endif %}
+			
 				<div class="ref" data-ref="{{book.ref}}" id="id-{{book.ref}}">
-					<div class="two columns">
+					<div class="four columns">
 						<a href="{{book.url}}"><img src="{{ book.image }}" width="100px"></a>
 					</div>
-					<div class="four columns">
+					<div class="eight columns">
 						<h2><a href="{{book.url}}">{{ book.title }}</a></h2>
 						<p>{{ book.description }}</p>
 					</div>
 				</div>
-			{% if u == 'even' or forloop.last %}
-			</div>
+				
+			{% if uid == 'even' or forloop.last %}
+			<!-- </div> -->
 			{% endif %}
+			
 		{% endif %}
+		
 	{% endfor %}
+	<!-- This closing tag is forced in here to break out of the loop --></div>
 	<div class="row id-last-row"></div>
 </div>
 
 <div class="container lang-box lang-hidden" lang="pt" id="books">
 	{% for book in site.books %}
 		{% if book.lang == 'pt' %}
-			{% capture u %}{% cycle 'odd', 'even' %}{% endcapture %}
-			{% if u == 'odd' or forloop.first %}
-			<div class="row">
+			{% capture upt %}{% cycle 'odd', 'even' %}{% endcapture %}
+			{% if upt == 'odd' or forloop.first %}
+			<!-- <div class="row"> -->
 			{% endif %}
-				<div class="ref" data-ref="{{book.ref}}" id="id-{{book.ref}}">
-					<div class="two columns">
+				<div class="ref" data-ref="{{book.ref}}" id="pt-{{book.ref}}">
+					<div class="four columns">
 						<a href="{{book.url}}"><img src="{{ book.image }}" width="100px"></a>
 					</div>
-					<div class="four columns">
+					<div class="eight columns">
 						<h2><a href="{{book.url}}">{{ book.title }}</a></h2>
 						<p>{{ book.description }}</p>
 					</div>
 				</div>
-			{% if u == 'even' or forloop.last %}
-			</div>
+			{% if upt == 'even' or forloop.last %}
+			<!-- </div> -->
 			{% endif %}
 		{% endif %}
 	{% endfor %}
-	<div class="row id-last-row"></div>
+	
+	<div class="row pt-last-row"></div>
 </div>
 
 <div class="container lang-box lang-hidden" lang="es" id="books">
 	{% for book in site.books %}
 		{% if book.lang == 'es' %}
-			{% capture u %}{% cycle 'odd', 'even' %}{% endcapture %}
-			{% if u == 'odd' or forloop.first %}
-			<div class="row">
+			{% capture ues %}{% cycle 'odd', 'even' %}{% endcapture %}
+			{% if ues == 'odd' or forloop.first %}
+			<!-- <div class="row"> -->
 			{% endif %}
-				<div class="ref" data-ref="{{book.ref}}" id="id-{{book.ref}}">
-					<div class="two columns">
+				<div class="ref" data-ref="{{book.ref}}" id="es-{{book.ref}}">
+					<div class="four columns">
 						<a href="{{book.url}}"><img src="{{ book.image }}" width="100px"></a>
 					</div>
-					<div class="four columns">
+					<div class="eight columns">
 						<h2><a href="{{book.url}}">{{ book.title }}</a></h2>
 						<p>{{ book.description }}</p>
 					</div>
 				</div>
-			{% if u == 'even' or forloop.last %}
-			</div>
+			{% if ues == 'even' or forloop.last %}
+			<!-- </div> -->
 			{% endif %}
 		{% endif %}
 	{% endfor %}
-	<div class="row id-last-row"></div>
+	
+	<div class="row es-last-row"></div>
 </div>

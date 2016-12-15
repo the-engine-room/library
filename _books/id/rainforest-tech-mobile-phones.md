@@ -15,7 +15,7 @@ navigation:
   - Risiko dan tantangan
   - Sumber lain
   - Tentang
-ref: rt
+ref: rt-mp
 lang: id
 categories:
   - id
