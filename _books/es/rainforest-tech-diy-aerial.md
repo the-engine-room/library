@@ -2,7 +2,7 @@
 layout: rainforest
 title: Fotografía aérea creada por usuarios
 description: Una introducción a maneras de producir fotografías aéreas usted mismo (por ejemplo, utilizando drones) para elaborar mapas o modelos en 3D para monitorear la vida silvestre, registrar reclamaciones de tierras y documentar impacto de cambio climático. De esta manera se pueden producir imágenes más detalladas que aquellas obtenidas de datos satelitales, y actualizables en tiempo real. Parte del <p>informe <a href="/rainforest-tech">Tecnología para bosques lluviosos</a>.</p>
-image: /media/index/audio.svg
+image: /media/index/drone.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
 funder_link: //www.regnskog.no/en
@@ -17,9 +17,9 @@ navigation:
   - Acerca de este sitio
   - Sobre
 ref: rt-da
-lang: sp
+lang: es
 categories:
-  - sp
+  - es
 ---
 
 ## **Fotografía aérea creada por usuarios**
