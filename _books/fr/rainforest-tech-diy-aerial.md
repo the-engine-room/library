@@ -1,15 +1,15 @@
 ---
 layout: rainforest
 title: La photographies aériennes indépendantes
-description: Introduction à l’utilisation de photographies aérienne indépendantes (par exemple à l’aide de drones) pour élaborer des cartes ou des modèles en 3D de surveillance de la faune, enregistrer des revendications territoriales ou rassembler des preuves de l’effet des changements climatiques. Cette technique permet d’obtenir des images plus détaillées que les données satellite, pouvant aussi être mises à jour en temps réel. <p>Extrait du rapport sur <a href="/fr/rainforest-tech">la Technologie pour les Forêts Tropicales</a>.</p>
+description: Introduction à l’utilisation de photographies aérienne indépendantes (par exemple à l’aide de drones) pour élaborer des cartes ou des modèles en 3D de surveillance de la faune, enregistrer des revendications territoriales ou rassembler des preuves de l’effet des changements climatiques . Cette technique permet d’obtenir des images plus détaillées que les données satellite, pouvant aussi être mises à jour en temps réel. <p>Extrait du rapport sur <a href="/fr/rainforest-tech">la Technologie pour les Forêts Tropicales</a> .</p>
 image: /media/index/drone.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
 funder_link: //www.regnskog.no/en
 published: true
 navigation:
-  - Qu’est-ce que la photographie aériennes indépendantes?
-  - Quelle en est l’utilité?
+  - Qu’est-ce que la photographie aériennes indépendantes ?
+  - Quelle en est l’utilité ?
   - Outils
   - Coûts
   - Risques et difficultés

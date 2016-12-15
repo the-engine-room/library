@@ -1,15 +1,15 @@
 ---
 layout: rainforest
 title: Cartographie participative et GPS
-description: Introduction à la production conjointe de cartes avec les communautés (cartographie participative), afin de révéler l’utilisation réelle des terres, différente de celle figurant aux cartes « officielles », et d’utiliser ces informations pour revendiquer les droits à la terre des communautés.<p>Extrait du rapport sur <a href="/rainforest-tech">la Technologie pour les Forêts Tropicales</a>.</p>
+description: Introduction à la production conjointe de cartes avec les communautés (cartographie participative), afin de révéler l’utilisation réelle des terres, différente de celle figurant aux cartes « officielles », et d’utiliser ces informations pour revendiquer les droits à la terre des communautés .<p>Extrait du rapport sur <a href="/rainforest-tech">la Technologie pour les Forêts Tropicales</a> .</p>
 image: /media/index/participatory.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
 funder_link: //www.regnskog.no/en
 published: true
 navigation:
-  - Qu’est-ce que la cartographie participative?
-  - Quelle en est l’utilité?
+  - Qu’est-ce que la cartographie participative ?
+  - Quelle en est l’utilité ?
   - Outils
   - Coûts
   - Risques et difficultés
