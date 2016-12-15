@@ -15,7 +15,6 @@ navigation:
   - Riesgos y desafíos
   - Casos de estudio
   - Acerca de este sitio
-  - Sobre
 ref: rt-da
 lang: es
 categories:
