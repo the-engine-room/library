@@ -177,8 +177,10 @@ body.table-of-contents #books .ref.greyed {
   display: block;
   float: left;
   clear: none;
-  width: 50%;
-  min-height: 280px; 
+  width: 100%;
+  min-height: 280px;
+  .four.columns a { display: block; width: 100%; text-align: center; }
+  @media (#{$bp-larger-than-phablet}) { width: 50%; }
 }
 body.page > .content {
 
