@@ -51,7 +51,7 @@ La presente guía no es exhaustiva: contiene información básica que sirve de p
 
 Aquí fracasa la mayoría de los proyectos. Un proyecto exitoso requiere metas explícitas y una estrategia sólida, desde la planificación y ejecución del proyecto, hasta el manejo de la información una vez puesto en marcha el mismo. La [primera sección](#strategy) expone principios generales y aspectos a considerar al diseñar todo proyecto que haga uso de la tecnología.
 
-#### Herramientas
+#### Herramientas{#herramientas-2}
 
 La [segunda sección](#tools) presenta algunas herramientas que pueden ser útiles en proyectos enfocados en bosques lluviosos, agrupados en seis rubros:
 
