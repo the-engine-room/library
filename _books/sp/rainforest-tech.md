@@ -13,7 +13,7 @@ navigation:
   - Adaptar las herramientas a los objetivos
   - Herramientas
   - Otros recursos
-  - Sobre
+  - Acerca de este sitio
 ref: rt
 lang: sp
 categories:
@@ -22,7 +22,7 @@ categories:
 
 # Guía sobre el uso de la tecnología en el monitoreo e intercambio de información sobre los bosques lluviosos y los derechos de los pueblos forestales
 
-### Introducción
+## Introducción
 
 La presente introducción es parte de una Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org).
 
@@ -501,7 +501,7 @@ Cabe recordar que la mejor herramienta para distintos objetivos varía según ca
 * [MAPAS EN LÍNEA](/rainforest-tech-online-maps) Una introducción al uso de mapas en línea que combinan diferentes tipos de datos en proyectos relacionados a bosques lluviosos a fin de incluir monitoreo en tiempo real (mostrar los lugares donde ocurre la mayoría de los incidentes), llevar a cabo campañas (por ejemplo, mostrar la ubicación de reducciones drásticas de la cubierta forestal) o realizar análisis (obtener nuevas perspectivas al superponer diferentes tipos de datos sobre el mismo mapa).
 
 
-# Otros recursos
+## Otros recursos
 
 La siguiente lista de recursos incluye muchos ya mencionados en la presente Guía, además de recursos adicionales. No pretende ser una lista completa sino resaltar algunos de los recursos de mayor utilidad práctica para las organizaciones defensoras de los bosques lluviosos y utilizan la tecnología en sus esfuerzos.
 
@@ -711,8 +711,27 @@ Los recursos que se enumeran a continuación se encuentran disponibles en el idi
 
 * **Datahub** es una plataforma de manejo de datos para la búsqueda, registro de hojas de datos publicadas, creación y manejo de grupos de hojas de datos y actualizaciones de hojas de datos y grupos de su interés: [http://datahub.io](http://datahub.io/es)
 
-#### tiếng Việt
+#### Tiếng Việt
 
 * **Security in-a-Box** es una guía sobre seguridad digital para activistas y defensores de derechos humanos alrededor del mundo producida por Frontline Defenders y Tactical Technology Collective: [https://info.securityinabox.org/vi](https://info.securityinabox.org/vi)
 
 * **Datahub** es una plataforma de manejo de datos para la búsqueda, registro de hojas de datos publicadas, creación y manejo de grupos de hojas de datos: [http://datahub.io/vi/about](http://datahub.io/vi/about)
+
+## **Acerca de este sitio**
+Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
+
+La Fundación Rainforest Noruega (RFN) es una de las organizaciones líderes en el campo de la protección de bosques lluviosos basada en los derechos humanos. Su misión es brindar apoyo a los pueblos indígenas y a las poblaciones tradicionales de los bosques lluviosos del mundo en sus esfuerzos de protección medioambiental y lograr el pleno uso de sus derechos brindándoles asistencia en:
+
+* Asegurar y controlar los recursos naturales necesarios para su bienestar a 	largo plazo y manejar dichos recursos evitando causar daños a su medioambiente, violar su cultura y afectar su futuro; y
+* Desarrollar medios para proteger sus derechos individuales y colectivos y obtener, 	formar y controlar los servicios básicos que proporciona el estado.
+
+La RFN colabora de cerca con más de 70 organizaciones medioambientales, indígenas y de derechos humanos a nivel local y nacional en más de 11 países en la región amazónica, África Central, sudeste de Asia y Oceanía.
+
+#### Colaboradores
+The Engine Room es una organización internacional que brinda apoyo a activistas, organizaciones que obran en pos del cambio social y agentes de cambio para sacar el máximo provecho a los datos y a la tecnología para aumentar su impacto. The Engine Room brinda apoyo directo a nivel de proyecto para organizaciones que obran en pos del cambio social; junta comunidades para coordinar ideas emergentes y reunir profesionales; y documenta y publica sus resultados para ayudar a cualquier persona en el sector a tomar mejores decisiones en el uso de los datos y la tecnología.
+
+[Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) y [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) realizaron la investigación y redactaron la narrativa principal; [Ruth Miller](http://ruthmiller.net/) dirigió las tareas de diseño y creación visual. Vemund Olsen y Christopher Wilson proporcionaron inestimables aportes en edició­n. María José Giménez se encargó de la traducción al español. El código de soporte se encuentra disponible en [Github](https://github.com/the-engine-room/library/).
+
+Para todo comentario o pregunta, comunicarse con [The Engine Room](mailto:post@theengineroom.org) o la [Fundación Rainforest Noruega](mailto:rainforest@rainforest.no).
+
+[Volver a la página de inicio de la Biblioteca.](/rainforest-tech)

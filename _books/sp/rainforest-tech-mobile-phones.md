@@ -22,21 +22,19 @@ categories:
 ---
 
 ## **Aplicaciones para teléfonos móviles**
-## Aplicaciones para teléfonos móviles
 
 > ### Objetivos posibles
 > * Recolectar pruebas de deforestación o degradación forestal
 > * Registrar pruebas de infracciones cometidas contra individuos o comunidades
 > * Grabar y monitorear el valor ambiental de las tierras o áreas forestales
-<<<<<<< HEAD
 > * Presentar pruebas concretas a los gobiernos para lograr que reconozcan las tierras indígenas
-> * Presentar pruebas concretas a los gobiernos para lograr que reconozcan las tierras indígenas 
+> * Presentar pruebas concretas a los gobiernos para lograr que reconozcan las tierras indígenas
 
 La presente introducción es parte de una [Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos](https://library.theengineroom.org/rainforest-tech/), los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org).
 
-_Descargar [la guía completa](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) (1.6MB pdf) o leerla en línea (a continuación)._
-
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
+
+_Descargar [la guía completa](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) (1.6MB pdf) o leerla en línea (a continuación)._
 
 ### **¿En qué consiste?**
 
@@ -127,7 +125,7 @@ Desde 2011, el programa Global Canopy ha operado un sistema de monitoreo comunit
 **Contribución**
 
 * La tecnología facilitó la recolección e incorporación de datos en tiempo real, eliminando la necesidad de transcribir datos sobre el terreno.
-* Tuvo gran popularidad con las comunidades locales: 87% de los líderes locales y los consejeros de los poblados expresaron que los teléfonos habían sido un complemento favorable que ayudó a que la comunidad mejorara sus conocimientos sobre los recursos locales. 
+* Tuvo gran popularidad con las comunidades locales: 87% de los líderes locales y los consejeros de los poblados expresaron que los teléfonos habían sido un complemento favorable que ayudó a que la comunidad mejorara sus conocimientos sobre los recursos locales.
 * El proyecto motivó la colaboración entre los ancianos líderes que poseían conocimientos sobre los recursos naturales y la gente joven que manejaba los dispositivos móviles más fácilmente. [4](http://tinyurl.com/q9jg3xt)
 
 #### Uso de dispositivos GPS para documentar invasiones de territorio indígena
@@ -174,7 +172,7 @@ La Comisión Pro-Indio de Acre (Comissão Pró-Indio do Acre, o CPI-AC) capacit�
 
 * **OpenForis** es un conjunto de aplicaciones móviles y herramientas de software para la recolección y el análisis de datos: [http://www.openforis.org/](http://www.openforis.org/)
 
-* **TechSoup** contiene guías para la selección de dispositivos móviles según sus necesidades: [http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for](http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for) 
+* **TechSoup** contiene guías para la selección de dispositivos móviles según sus necesidades: [http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for](http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for)
 
 ### **Acerca de este sitio**
 Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
