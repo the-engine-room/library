@@ -36,7 +36,7 @@ Cette introduction est issue du [*Guide introductif à l’utilisation de la tec
 
 Téléchargez le guide introductif complet (1,6 MB pdf), ou consultez le en ligne ci-dessous.
 
-### Qu’est-ce que la photographie aériennes indépendantes?
+### Qu’est-ce que la photographie aériennes indépendantes ?
 * Les photos aériennes peuvent être prises par des drones (véhicules volants sans pilote), des aérostats ou des cerfs-volants équipés d’appareils photo qui enregistrent des images tout au long du vol.
 * Un logiciel informatique assemble (ou « coud ») ces photos en cartes ou en modèles 3D, qui peuvent êtres utilisés pour étudier la faune, déposer des demandes relatives au droit à la terre ou démontrer les effets des changements climatiques.
 
@@ -50,7 +50,7 @@ Il y en a deux principaux types : un premier avec quatre rotors principaux ou pl
 
 Le [guide](http://forestcompass.org/drones-pros-and-cons-community-based-monitoring) de Forest Compass et la fondation New America Foundation et Open Technology Institute [sur les drones](http://drones.newamerica.org/primer/) sont les meilleurs endroits pour plus de détails.
 
-### <a href="costs"></a>Coûts
+### Coûts
 
 Bien que les matériaux nécessaires pour créer et fabriquer des drones, des aérostats ou des cerfs-volants n’ont jamais été aussi abordables, il faut beaucoup de temps et de compétences pratiques pour les utiliser efficacement, et de la patience pour maîtriser un nouveau logiciel. Prévoyez le temps nécessaire à l’apprentissage, les ajustements techniques, la gestion des données et la communication avec les communautés dans lesquels se dérouleront les vols. Un ballon élémentaire sur lequel on peut attacher un petit appareil photo coûte seulement 70 dollars US, et un ballon en kit environ 200 dollars US.
 

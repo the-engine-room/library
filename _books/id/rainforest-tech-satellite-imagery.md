@@ -13,7 +13,7 @@ navigation:
   - Alat dan perangkat
   - Biaya
   - Risiko dan tantangan
-  - Study kasus
+  - Studi kasus
   - Sumber lain
   - Tentang
 ref: rt-si

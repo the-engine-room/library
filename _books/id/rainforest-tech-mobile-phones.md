@@ -43,7 +43,7 @@ Pengantar ini adalah bagian dari [Panduan tentang penggunaan teknologi untuk mem
 
 * Aplikasi dapat digunakan baik pada ‘fitur ponsel’ yang berteknologi rendah dengan menggunakan SMS (Short Message Service) atau ponsel pintar yang lebih mahal (yang memiliki sensor GPS dan kamera).
 
-### Bagaimana ini dapat membantu?
+### Bagaimana hal ini dapat membantu
 
 Mengumpulkan informasi dari lapangan bisa menjadi proses yang menghabiskan waktu dan melibatkan pengiriman sejumlah besar kertas formulir ke daerah-daerah terpencil, dan kemudian mencatatnya secara manual.Aplikasi mobile membuat proses ini menjadi lebih cepat dan mudah.
 

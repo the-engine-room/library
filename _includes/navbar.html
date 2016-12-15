@@ -5,9 +5,9 @@
     {% if item.slug %}
       {% assign navid = item.slug %}
     {% elsif item.name %}
-      {% assign navid = item.name | strip | downcase | replace:' ','-' | remove: "é" | remove: "?" | remove: "¿" | remove: "í" | remove: "''" | remove: "û" | remove: "à" | remove: "ã" | remove: "ç" | remove: "ó" %}
+      {% assign navid = item.name | strip | downcase | replace:' ','-' | remove: "é" | remove: "?" | remove: "¿" | remove: "í" | remove: "’" | remove: "û" | remove: "à" | remove: "ã" | remove: "ç" | remove: "ó" | remove: "É" | remove: "À-" %}
     {% else %}
-      {% assign navid = item | strip | downcase | replace:' ','-' | remove: "é" | remove: "?" | remove: "¿" | remove: "í" | remove: "''" | remove: "û" | remove: "à" | remove: "ã" | remove: "ç" | remove: "ó" %}
+      {% assign navid = item | strip | downcase | replace:' ','-' | remove: "é" | remove: "?" | remove: "¿" | remove: "í" | remove: "’" | remove: "û" | remove: "à" | remove: "ã" | remove: "ç" | remove: "ó" | remove: "É" | remove: "À-" %}
       {% assign navname = item %}
     {% endif %}
     <li>

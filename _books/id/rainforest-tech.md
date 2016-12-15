@@ -54,7 +54,7 @@ Panduan ini bukanlah sesuatu yang lengkap – ia memberikan informasi dasar yang
 
 Mungkin disinilah proyek kebanyakan gagal.Sebuah proyek yang sukses memerlukan tujuan yang jelas dan strategi yang kuat – dari merencanakan bagaimana proyek akan berjalan, hingga mengelola informasi ketika proyek tengah berjalan. Bagian pertama dari panduan ini menjelaskan berbagai prinsip dan hal yang perlu dipikirkan ketika mendisain proyek apapun yang memanfaatkan teknologi.
 
-#### Alat dan perangkat
+#### Alat dan perangkat{#alat-dan-perangkat-2}
 
 Bagian kedua memperkenalkan beberapa alat yang dapat bermanfaat untuk proyek-proyek yang berfokus pada hutan hujan, telah dikelompokkan dalam enam jenis:
 
