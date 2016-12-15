@@ -15,9 +15,9 @@ navigation:
   - Otros recursos
   - Acerca de este sitio
 ref: rt
-lang: es
+lang: sp
 categories:
-  - es
+  - sp
 ---
 
 # Guía sobre el uso de la tecnología en el monitoreo e intercambio de información sobre los bosques lluviosos y los derechos de los pueblos forestales

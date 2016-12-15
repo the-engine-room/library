@@ -9,7 +9,7 @@ funder_link: http://regnskog.no/en
 published: true
 navigation:
   - Introducción
-  - Estrategia
+  - Planificación
   - Adaptar las herramientas a los objetivos
   - Herramientas
   - Otros recursos
