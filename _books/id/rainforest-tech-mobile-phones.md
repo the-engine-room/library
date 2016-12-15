@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Aplikasi telepon seluler
-description: Pengantar penggunaan aplikasi ponsel untuk mengumpulkan dan mencatat data dalam proyek yang terkait hutan hujan yang bertujuan untuk merekam penambangan atau penebangan ilegal; survey keanekaragaman hayati; membantu masyarakat memetakan tanah mereka; atau memvalidasi peta pemerintah. <p>Bagian laporan <a href=https://library.theengineroom.org/id/rainforest-tech>Teknologi Hutan Hujan</a>.</p>
+description: Pengantar penggunaan aplikasi ponsel untuk mengumpulkan dan mencatat data dalam proyek yang terkait    hutan hujan yang bertujuan untuk merekam penambangan atau penebangan ilegal; survey keanekaragaman hayati; membantu masyarakat memetakan tanah mereka; atau memvalidasi peta pemerintah. <p>Bagian laporan <a href="https://library.theengineroom.org/rainforest-tech">Teknologi Hutan Hujan</a>.</p>
 image: /media/index/mobile.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg

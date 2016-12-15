@@ -42,19 +42,19 @@ Panduan ini:
 - memberikan informasi praktis untuk membantu memutuskan apa yang Anda perlukan, dan
 - memberikan tautan untuk panduan yang lebih detail mengenai perangkat dan strategi khusus.
 
-### Apa yang kita maksud dengan “teknologi”?
+#### Apa yang kita maksud dengan “teknologi”?
 
 Kata “teknologi” dalam panduan ini tidak merujuk pada solusi teknologi yang khusus (seperti peta satelit) atau perangkat (seperti ponsel). Kami memasukkan beragam perangkat, metode dan teknik: software komputer, perangkat digital seperti ponsel dan kamera, menganalisa data dalam jumlah besar, menggunakan perangkat online untuk menyampaikan informasi, dan banyak lagi.
 
-### Bagaimana menggunakan panduan ini
+#### Bagaimana menggunakan panduan ini
 
 Panduan ini bukanlah sesuatu yang lengkap – ia memberikan informasi dasar yang Anda butuhkan untuk langkah awal, dengan berbagai pilihan rujukan yang bagus jika Anda ingin tahu lebih banyak. Panduan ini memiliki tiga bagian utama:
 
-### Tujuan dan strategi
+#### Tujuan dan strategi
 
 Mungkin disinilah proyek kebanyakan gagal.Sebuah proyek yang sukses memerlukan tujuan yang jelas dan strategi yang kuat – dari merencanakan bagaimana proyek akan berjalan, hingga mengelola informasi ketika proyek tengah berjalan. Bagian pertama dari panduan ini menjelaskan berbagai prinsip dan hal yang perlu dipikirkan ketika mendisain proyek apapun yang memanfaatkan teknologi.
 
-### Alat dan perangkat
+#### Alat dan perangkat
 
 Bagian kedua memperkenalkan beberapa alat yang dapat bermanfaat untuk proyek-proyek yang berfokus pada hutan hujan, telah dikelompokkan dalam enam jenis:
 
@@ -65,7 +65,7 @@ Bagian kedua memperkenalkan beberapa alat yang dapat bermanfaat untuk proyek-pro
 - audio dan video
 - peta online yang menggabungkan dan menampilkan lapisan data dengan jenis yang berbeda-beda, di atas satu sama lain
 
-### Sumber lainnya
+#### Sumber lainnya
 
 Bagian akhir menampilkan serangkaian panduan dan alat dengan informasi yang lebih detail, yang dapat membantu Anda untuk mengambil langkah selanjutnya dalam hal menambahkan teknologi baru pada proyek Anda.
 
@@ -112,7 +112,7 @@ Semoga panduan ini dapat membantu siapa saja yang ingin memulai proyek baru - at
 
 **Teknologi dapat membantu organisasi melindungi hutan atau mata pencaharian masyarakat, namun ia juga dapat membantu pihak-pihak yang memiliki sasaran yang berlawanan:** Pemerintah berupaya menekan data atau perusahaan yang bertindak secara ilegal dari ikut mendapatkan manfaat dari kemajuan teknologi, dan sering kali memiliki keuntungan seperti uang yang lebih banyak dan juga sumber daya manusia.
 
-### Prinsip-prinsip dalam mendisain proyek yang melibatkan teknologi
+#### Prinsip-prinsip dalam mendisain proyek yang melibatkan teknologi
 
 Bagian ini menyajikan pedoman "Dasar-dasar" tentang [Inisiatif Transparansi dan Akuntabilitas](http://tech.transparency-initiative.org/fundamentals/), dan merupakan tempat yang tepat untuk mendapatkan lebih banyak tips.
 
@@ -127,13 +127,14 @@ Ketahuilah **bahwa Anda harus menyiapkan sumber daya guna memanfaatkan teknologi
 **Pikirkan kemungkinan dampak proyek Anda terhadap masyarakat dan lingkungan**: Beberapa prinsip dijabarkan di bawah ini.
 
 - **Jangan cari bahaya:** Buatlah daftar tertulis tentang cara-cara apa yang dapat menyebabkan proyek Anda membahayakan masyarakat atau lingkungan jika tidak hati-hati, atau membantu aktor lain yang menyebabkan bahaya. (Misalnya, apakah perusahaan dapat mengambil manfaat dari mengetahui lokasi komunitas tertentu atau sumber daya yang berharga).
+
 - **Biarkan masyarakat memutuskan bagaimana data tentang mereka dikumpulkan dan digunakan**, khususnya jika bekerja dengan masyarakat marjinal/terpinggirkan. Masyarakat sendirilah yang memegang putusan akhir tentang tingkat risiko dan pajanan yang bersedia mereka hadapi (Jika Anda bekerja di proyek yang melibatkan masyarakat marjinal, tanyakan pada diri Anda beberapa hal berikut: [http://www.fabriders.net/qafs/](http://www.fabriders.net/qafs/)).
 - **Gunakan data dengan bertanggung jawab:** Pikirkanlah bagaimana data yang Anda kumpulkan dapat mempengaruhi masyarakat dan lingkungan, dan bagaimana Anda dapat mengelola risiko-risiko tersebut (lihat bagian **Strategi**.)
 - **Kumpul dan sajikan data dengan teliti dan bersiaplah untuk mempertanggungjawabkan data yang Anda sajikan:** data dapat digunakan untuk menyesatkan. Ketahuilah asumsi apa saja yang dapat mempengaruhi bagaimana Anda mengumpulkan dan menganalisa data. Jika Anda menemukan celah atau kekurangan, bersikap terbukalah mengenai hal itu pada saat berbagi informasi atau mempublikasi.
 
 ## Strategi
 
-### Perencanaan
+#### Perencanaan
 
 #### Sepakati hal-hal dasar: Strategi, visi dan cek kesehatan organisasi
 
@@ -452,7 +453,7 @@ Alat-alat teknologi dapat memperkuat kampanye advokasi dengan berbagai cara, mul
 	<p style="color:white">Jika menggunakan layanan online eksternal untuk memvisualisasi atau menyajikan data Anda, ingatlah akan risiko-risikonya. Sekali Anda mengunggah data, Anda tidak selalu tahu apakah perusahaan bisa mengaksesnya atau memberikannya pada orang lain, atau apa yang akan terjadi jika layanan tersebut tutup.</p>
 </blockquote>
 
-## Memadankan tujuan Anda dengan perangkat {#matching-objectives-with-tools}
+## Memadankan tujuan Anda dengan perangkat
 
 Apakah Anda sudah memahami tentang tujuan organisasi Anda namun belum yakin dimana teknologi dapat membantu? Sejumlah sasaran yang umum ada di daftar tabel di bawah, dengan beberapa jenis alat yang mungkin dapat membantu pencapaiannya.
 
@@ -583,7 +584,7 @@ Sumber-sumber di bawah ini tersedia dalam bahasa tertentu, dan biasanya juga mem
 
 ---
 
-### Tentang
+## Tentang
 
 Situs ini dibuat oleh [Rainforest Foundation Norway](http://regnskog.no/en/) dan [The Engine Room](https://theengineroom.org/) sebagai pengantar penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu hutan hujan, hak tanah dan hak masyarakat adat. [Download Panduan di sini](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
 

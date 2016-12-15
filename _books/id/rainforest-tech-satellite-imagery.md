@@ -5,7 +5,7 @@ description: Pengantar penggunaan citra satelit dalam proyek yang berhubungan de
   hujan guna menganalisa perubahan dari waktu ke waktu di satu area hutan, atau
   mendapatkan bukti deforestasi, tren seperti peningkatan kegiatan komersil,
   atau hasil-hasil yang tampak dari degradasi hutan. <p> Bagian laporan <a
-  href=https://library.theengineroom.org/id/rainforest-tech>Teknologi Hutan
+  href="https://library.theengineroom.org/rainforest-tech">Teknologi Hutan
   Hujan</a>.</p>
 image: /media/index/satellite.svg
 funder_name: Rainforest Foundation Norway

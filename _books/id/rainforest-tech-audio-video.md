@@ -5,7 +5,7 @@ description: Pengantar penggunaan audio dan video untuk proyek yang berhubungan 
   hutan hujan menyajikan pesan-pesan advokasi yang singkat, mengumpulkan bukti
   visual pelanggaran HAM, mempublikasikan film partisipatif dari anggota
   masyarakat, atau mendokumentasikan deforestasi dari waktu ke waktu. <p>Bagian
-  laporan <a href=https://library.theengineroom.org/id/rainforest-tech>Teknologi
+  laporan <a href="https://library.theengineroom.org/rainforest-tech">Teknologi
   Hutan Hujan</a>.</p>
 image: /media/index/audio.svg
 funder_name: Rainforest Foundation Norway
@@ -87,7 +87,7 @@ HuMa mengumpulkan data mengenai konflik terkait tanah di Indonesia, termasuk vid
 * Perhutani, perusahaan perhutanan nasional juga telah merujuk pada data HuMa sebagai dasar untuk menyelidiki kejadian-kejadian tertentu.
 
 #### Menggunakan video untuk mendokumentasikan penebangan ilegal di Indonesia
-Sebagai respon atas kampanye advokasi, perusahaan kertas Indonesia APP telah menandatangani komitmen zero deforestasi.Pada September 2013, Eyes on the Forest (sebuah koalisi tiga organisasi lingkungan lokal di Indonesia), memfilmkan satu perusahaan penebangan, yang diketahui sebagai pemasok APP, tengah menebangi hutan alam.
+Sebagai respon atas kampanye advokasi, perusahaan kertas Indonesia APP telah menandatangani komitmen zero deforestasi. Pada September 2013, Eyes on the Forest (sebuah koalisi tiga organisasi lingkungan lokal di Indonesia), memfilmkan satu perusahaan penebangan, yang diketahui sebagai pemasok APP, tengah menebangi hutan alam.
 
 **Bagaimana hal ini dapat membantu?**
 

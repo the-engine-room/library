@@ -12,7 +12,7 @@ navigation:
   - Estrategia
   - Adaptar las herramientas a los objetivos
   - Herramientas
-  - Otros recursos 
+  - Otros recursos
   - Sobre
 ref: rt
 lang: sp
@@ -201,7 +201,7 @@ A continuación, considerar los posibles efectos del proyecto sobre la situació
 	<h5 style="color:white">Información sobre uso responsable de datos: Planificar un uso responsable de los datos</h5>
 	<p style="color:white">Casi cada proyecto implica algún tipo de tratamiento de datos, aunque sea solamente enviar correos electrónicos o el uso de hojas de cálculo. La falta de cuidado en el manejo de los datos puede poner a riesgo a la organización y a las personas con quienes trabaja. Las fugas de datos pueden causar violencia, los datos abiertos pueden ayudar a los especuladores de tierras, y el hardware puede ser rastreado para actuar en contra de los activistas. Una evaluación de riesgo es una parte esencial de todo plan de proyecto y le ayudará a prepararse para imprevistos.</p>
 	<ul style="color:white">
-		<li>Empezar por identificar un conjunto de eventos y actores (personas u organizaciones) que podrían impedir que el proyecto alcance sus metas. <a href="https://securityinabox.org/">2</a> <a href="https://responsibledata.io">[3]</a></li> 
+		<li>Empezar por identificar un conjunto de eventos y actores (personas u organizaciones) que podrían impedir que el proyecto alcance sus metas. <a href="https://securityinabox.org/">2</a> <a href="https://responsibledata.io">[3]</a></li>
 		<li>Escribir respuestas a las siguientes preguntas: ¿Qué probabilidad hay de que cada uno de estos eventos ocurra? ¿Cuán grave sería su impacto sobre el proyecto?</li>
 		<li>Dar prioridad a los eventos más probables y los más grave.</li>
 		<li>Crear un conjunto de pasos concretos: ¿Qué se puede hacer para disminuir la probabilidad de cada evento? ¿En caso de llegar a ocurrir, se puede limitar el daño? ¿Cuál es el plan alterno?</li>
@@ -233,7 +233,7 @@ Incluir siempre desarrollo, pruebas, mantenimiento y apoyo al usuario en los cos
 
 #### ¿Dónde conseguir los datos?
 
-Si existen datos de calidad, no se debe perder tiempo ni dinero obteniéndolos de nuevo. Pensar creativamente: ¿Existen bases de datos internacionales que incluyen su país? ¿Hay otra organización que haya creado bases de datos con el mismo tópico? [[5]](http://oad.simmons.edu/oadwiki/Data_repositories) [[6]](http://dataportals.org/) [[7]](http://datahub.io/about) Si no se puede acceder a los mapas de datos de determinado tema, ¿es posible, en vez de ello, usar información publicada por una compañía? [[8]](https://ejatlas.org/) [[9]](http://www.gdeltproject.org/) Si los datos han sido recabados pero no tienen acceso al público, revisar si las regulaciones de libertad de información podrían influir en los gobiernos para su publicación. [[10]](http://datajournalismhandbook.org/1.0/en/getting_data_1.html) [11](http://queremossaber.org.br/) 
+Si existen datos de calidad, no se debe perder tiempo ni dinero obteniéndolos de nuevo. Pensar creativamente: ¿Existen bases de datos internacionales que incluyen su país? ¿Hay otra organización que haya creado bases de datos con el mismo tópico? [[5]](http://oad.simmons.edu/oadwiki/Data_repositories) [[6]](http://dataportals.org/) [[7]](http://datahub.io/about) Si no se puede acceder a los mapas de datos de determinado tema, ¿es posible, en vez de ello, usar información publicada por una compañía? [[8]](https://ejatlas.org/) [[9]](http://www.gdeltproject.org/) Si los datos han sido recabados pero no tienen acceso al público, revisar si las regulaciones de libertad de información podrían influir en los gobiernos para su publicación. [[10]](http://datajournalismhandbook.org/1.0/en/getting_data_1.html) [11](http://queremossaber.org.br/)
 
 
 <blockquote>
@@ -385,7 +385,7 @@ Crear un listado preciso de todas las personas y organizaciones involucradas en 
 * Partes neutrales – personas que no participan actualmente. **Hay que educar a estas personas y convertirlas en aliadas.**
 * Opositores – personas que oponen el cambio que desea lograr. **Hay que contrarrestar a estas personas, ya sea logrando que cambien de opinión o limitando su impacto.**
 
-##### Identificar aliados 
+##### Identificar aliados
 
 Toda campaña de defensa necesita una red de aliados. Planificar cómo involucrar a los grupos incluidos en el listado anterior y mantener su interés y participación. Considerar de manera creativa cómo se pueden brindar ayuda mutua: ¿Les serían útiles los datos recopilados en este proyecto? ¿Cuentan ellos con contactos que usted necesite?
 
@@ -527,7 +527,7 @@ La siguiente lista de recursos incluye muchos ya mencionados en la presente Guí
 
 * El **Responsible Data Forum** provee recursos and guías para asistir a organizaciones en el uso de datos atendiendo asuntos de privacidad y consentimiento: [https://responsibledata.io](https://responsible/)
 
-* El Digital First Aid Kit de **Digital Defenders** ofrece un conjunto de herramientas de autoevaluación para organizaciones y activistas expuestos a ataques: [https://digitaldefenders.org/digitalfirstaid/](https://digitaldefenders.org/digitalfirstaid/) 
+* El Digital First Aid Kit de **Digital Defenders** ofrece un conjunto de herramientas de autoevaluación para organizaciones y activistas expuestos a ataques: [https://digitaldefenders.org/digitalfirstaid/](https://digitaldefenders.org/digitalfirstaid/)
 
 * El manual Secure My Video de **EngageMedia** proporciona a los activistas de video herramientas para asegurar y proteger su trabajo. Aunque su enfoque es Indonesia, también es relevante en otros contextos: [http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf](http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf)
 
@@ -551,7 +551,7 @@ La siguiente lista de recursos incluye muchos ya mencionados en la presente Guí
 
 * **Aptivate** ofrece una guía para diseñar sitios web que funcionan mejor con conexiones de internet lentas:[ http://www.aptivate.org/webguidelines/Home.html](http://www.aptivate.org/webguidelines/Home.html)
 
-* **Engage Media** provee guías para comprimir archivos para que funcionen mejor en áreas con conexiones lentas:[ http://www.engagemedia.org/help/how-to-compress-video](http://www.engagemedia.org/help/how-to-compress-video) 
+* **Engage Media** provee guías para comprimir archivos para que funcionen mejor en áreas con conexiones lentas:[ http://www.engagemedia.org/help/how-to-compress-video](http://www.engagemedia.org/help/how-to-compress-video)
 
 #### Visualización
 
@@ -581,7 +581,7 @@ La siguiente lista de recursos incluye muchos ya mencionados en la presente Guí
 
 * **OpenForis** es un conjunto de aplicaciones móviles y herramientas de software para la recolección y el análisis de datos: [http://www.openforis.org/](http://www.openforis.org/)
 
-* **TechSoup** contiene guías para la selección de dispositivos móviles según sus necesidades: [http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for](http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for) 
+* **TechSoup** contiene guías para la selección de dispositivos móviles según sus necesidades: [http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for](http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for)
 
 #### Mapas satelitales
 
@@ -591,19 +591,19 @@ La siguiente lista de recursos incluye muchos ya mencionados en la presente Guí
 
 * **CLASlite** ha sido diseñado para proporcionar mapas y monitoreo forestal de alta resolución; actualización semanal e imágenes satelitales: [http://claslite.carnegiescience.edu/en/index.html](http://claslite.carnegiescience.edu/en/index.html) (inglés y español)
 
-* El Proyecto Geospatial Technologies de **AAAS** contiene casos de estudio detallados sobre la recolección, categorización y análisis de imágenes satelitales para documentar abusos de derechos humanos: [http://www.aaas.org/case-studies](http://www.aaas.org/case-studies) 
+* El Proyecto Geospatial Technologies de **AAAS** contiene casos de estudio detallados sobre la recolección, categorización y análisis de imágenes satelitales para documentar abusos de derechos humanos: [http://www.aaas.org/case-studies](http://www.aaas.org/case-studies)
 
 #### Video and audio
 
-* La **Informacam** de The Guardian Project, un plugin que funciona con la aplicación **Obscuracam **para Android, puede contribuir a la recolección segura y verificable de pruebas en video y foto:[ https://guardianproject.info/informa/](https://guardianproject.info/informa/) y [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam) 
+* La **Informacam** de The Guardian Project, un plugin que funciona con la aplicación **Obscuracam **para Android, puede contribuir a la recolección segura y verificable de pruebas en video y foto:[ https://guardianproject.info/informa/](https://guardianproject.info/informa/) y [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam)
 
-* La aplicación **StoryMaker** para teléfonos Android ayuda permite utilizar dispositivos Android para crear historias multimedia:[ http://smallworldnews.tv/projects/storymaker/](http://smallworldnews.tv/projects/storymaker/) 
+* La aplicación **StoryMaker** para teléfonos Android ayuda permite utilizar dispositivos Android para crear historias multimedia:[ http://smallworldnews.tv/projects/storymaker/](http://smallworldnews.tv/projects/storymaker/)
 
-* **WITNESS** y **Video4Change** ofrecen bibliotecas de recursos útiles sobre cómo usar videos en su trabajo: [https://www.v4c.org/en/resources](https://www.v4c.org/en/resources) and [http://library.witness.org](http://library.witness.org/) 
+* **WITNESS** y **Video4Change** ofrecen bibliotecas de recursos útiles sobre cómo usar videos en su trabajo: [https://www.v4c.org/en/resources](https://www.v4c.org/en/resources) and [http://library.witness.org](http://library.witness.org/)
 
-* **Small World News** ofrece guías para la creación de video y audio: [http://smallworldnews.com/guides](http://smallworldnews.com/guides) 
+* **Small World News** ofrece guías para la creación de video y audio: [http://smallworldnews.com/guides](http://smallworldnews.com/guides)
 
-* **Audacity** ofrece funcionalidades gratuitas para edición de audio: [http://audacity.sourceforge.net/](http://audacity.sourceforge.net/); la versión **Lightworks Free** sirve para tareas sencillas de edición de video: [http://www.lwks.com/](http://www.lwks.com/) 
+* **Audacity** ofrece funcionalidades gratuitas para edición de audio: [http://audacity.sourceforge.net/](http://audacity.sourceforge.net/); la versión **Lightworks Free** sirve para tareas sencillas de edición de video: [http://www.lwks.com/](http://www.lwks.com/)
 
 #### Fotografía aérea creada por usuarios
 
@@ -627,7 +627,7 @@ Los recursos que se enumeran a continuación se encuentran disponibles en el idi
 
 * **Ekuatorial** crea mapas interactivos que combinan datos provenientes de una gran variedad de fuentes combinados con artículos sobre asuntos medioambientales publicados por sus colaboradores: [http://ekuatorial.com/](http://ekuatorial.com/)
 
-* **Global Forest Watch** es un sistema de monitoreo y alertas en línea que recopila datos sobre paisajes forestales alrededor del mundo: [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/) 
+* **Global Forest Watch** es un sistema de monitoreo y alertas en línea que recopila datos sobre paisajes forestales alrededor del mundo: [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/)
 
 * **EngageMedia** provee recursos a organizaciones que utilizan videos para lograr cambio social: [http://www.engagemedia.org/Bantuan-Dan-Tutorial?set_language=id](http://www.engagemedia.org/Bantuan-Dan-Tutorial?set_language=id)
 
@@ -635,7 +635,7 @@ Los recursos que se enumeran a continuación se encuentran disponibles en el idi
 
 * **Kopernik** brinda información para pequeñas organizaciones sobre herramientas para la recolección de datos móvil, plataformas de mapeo y sensores, con información que ayuda a compararlas: [http://kopernik.info/id/technologies](http://kopernik.info/id/technologieshttp://kopernik.info/id/technologies)
 
-* **Datahub** es una plataforma de manejo de datos para la búsqueda, registro de hojas de datos publicadas, creación y manejo de grupos de hojas de datos y actualizaciones de hojas de datos y grupos de su interés: [http://datahub.io](http://datahub.io/) 
+* **Datahub** es una plataforma de manejo de datos para la búsqueda, registro de hojas de datos publicadas, creación y manejo de grupos de hojas de datos y actualizaciones de hojas de datos y grupos de su interés: [http://datahub.io](http://datahub.io/)
 
 * **Video4Change** recopila guías, manuales y otros recursos útiles para activistas de video: [https://www.v4c.org/id/bahasa-indonesia](https://www.v4c.org/id/bahasa-indonesia)
 
@@ -651,68 +651,68 @@ Los recursos que se enumeran a continuación se encuentran disponibles en el idi
 
 * **Aptivate** ofrece guías para el diseño web para usos en ambientes con conexiones lentas: [http://www.aptivate.org/webguidelines/Home.html](http://www.aptivate.org/webguidelines/Home.html)
 
-* **Global Forest Watch** es un sistema de monitoreo y alertas en línea que recopila datos sobre paisajes forestales alrededor del mundo [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/) 
+* **Global Forest Watch** es un sistema de monitoreo y alertas en línea que recopila datos sobre paisajes forestales alrededor del mundo [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/)
 
 * **Open Data Handbook** contiene guías sobre localización y uso de datos abiertos: [http://opendatahandbook.org/fr](http://opendatahandbook.org/fr)
 
 * **Resource Extraction Monitoring** ofrece un manual para monitoreo independiente: [http://www.rem.org.uk/documents/ManuelOIFLEG2013.pdf](http://www.rem.org.uk/documents/ManuelOIFLEG2013.pdf)
 
-* **Resource Extraction Monitoring** ofrece una guía sobre el consentimiento en comunidades forestales: [http://www.rem.org.uk/documents/FM_kit_formation_CLIP.pdf](http://www.rem.org.uk/documents/FM_kit_formation_CLIP.pdf) 
+* **Resource Extraction Monitoring** ofrece una guía sobre el consentimiento en comunidades forestales: [http://www.rem.org.uk/documents/FM_kit_formation_CLIP.pdf](http://www.rem.org.uk/documents/FM_kit_formation_CLIP.pdf)
 
-* **WITNESS** contiene una biblioteca de recursos sobre el uso seguro y efectivo del video: [http://fr.witness.org/ressources/](http://fr.witness.org/ressources/) 
+* **WITNESS** contiene una biblioteca de recursos sobre el uso seguro y efectivo del video: [http://fr.witness.org/ressources/](http://fr.witness.org/ressources/)
 
-* **FCTV** ofrece textos modelo para organizaciones involucradas en monitoreo comunitario, entre ellos un acuerdo para grupos comunitarios sobre el uso de teléfonos móviles de propiedad compartida en el proyecto: [http://flegtcameroon.ning.com/page/documents](http://flegtcameroon.ning.com/page/documents) 
+* **FCTV** ofrece textos modelo para organizaciones involucradas en monitoreo comunitario, entre ellos un acuerdo para grupos comunitarios sobre el uso de teléfonos móviles de propiedad compartida en el proyecto: [http://flegtcameroon.ning.com/page/documents](http://flegtcameroon.ning.com/page/documents)
 
 #### Khmer
 
-* **Global Forest Watch** es un sistema de monitoreo y alertas en línea que recopila datos sobre paisajes forestales alrededor del mundo: [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/) 
+* **Global Forest Watch** es un sistema de monitoreo y alertas en línea que recopila datos sobre paisajes forestales alrededor del mundo: [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/)
 
 * **Open Development Cambodia** contiene mapas, informes sobre compañías y sectores económicos e información sobre leyes y regulaciones en Cambodia: [http://www.opendevelopmentcambodia.net/kh/](http://www.opendevelopmentcambodia.net/kh/)
 
-* **Datahub** es una plataforma de manejo de datos para la búsqueda, registro de hojas de datos publicadas, creación y manejo de grupos de hojas de datos y actualizaciones de hojas de datos y grupos de su interés: [http://datahub.io](http://datahub.io/) 
+* **Datahub** es una plataforma de manejo de datos para la búsqueda, registro de hojas de datos publicadas, creación y manejo de grupos de hojas de datos y actualizaciones de hojas de datos y grupos de su interés: [http://datahub.io](http://datahub.io/)
 
 #### Português
 
-* **WITNESS** contiene una biblioteca de recursos sobre el uso seguro y efectivo del video: [http://pt.witness.org/](http://pt.witness.org/) 
+* **WITNESS** contiene una biblioteca de recursos sobre el uso seguro y efectivo del video: [http://pt.witness.org/](http://pt.witness.org/)
 
 * **Environmental News Lab** contiene herramientas y tutoriales sobre reportaje relacionado a asuntos medioambientales en Brasil y en la región amazónica: [http://lab.oeco.org.br/](http://lab.oeco.org.br/)
 
-* **Geojournalism.org** provee recursos en línea y capacitación para periodistas, diseñadores y desarrolladores y permite visualizar datos geográficos: [http://geojournalism.org/](http://geojournalism.org/) 
+* **Geojournalism.org** provee recursos en línea y capacitación para periodistas, diseñadores y desarrolladores y permite visualizar datos geográficos: [http://geojournalism.org/](http://geojournalism.org/)
 
-* **Open Data Handbook** contiene guías sobre localización y uso de datos abiertos: [http://opendatahandbook.org/pt/](http://opendatahandbook.org/pt/) 
+* **Open Data Handbook** contiene guías sobre localización y uso de datos abiertos: [http://opendatahandbook.org/pt/](http://opendatahandbook.org/pt/)
 
 * **Security in-a-Box** es una guía sobre seguridad digital para activistas y defensores de derechos humanos producida por Frontline Defenders y Tactical Technology Collective: [https://securityinabox.org/pt](https://securityinabox.org/pt)
 
 * **Imazon** ofrece mapas mensuales de deforestación en la región amazónica: [http://imazon.org.br/](http://imazon.org.br/)
 
-* **Datahub** es una plataforma de manejo de datos para la búsqueda, registro de hojas de datos publicadas, creación y manejo de grupos de hojas de datos: [http://datahub.io](http://datahub.io/) 
+* **Datahub** es una plataforma de manejo de datos para la búsqueda, registro de hojas de datos publicadas, creación y manejo de grupos de hojas de datos: [http://datahub.io](http://datahub.io/)
 
-* **Global Forest Watch** es un sistema de monitoreo y alertas en línea que recopila datos sobre paisajes forestales alrededor del mundo: [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/) 
+* **Global Forest Watch** es un sistema de monitoreo y alertas en línea que recopila datos sobre paisajes forestales alrededor del mundo: [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/)
 
 #### Español
 
-* **RAISG** (Red Amazónica de Información Socioambiental Georeferenciada) recopila información sobre áreas protegidas, tierras indígenas, cuencas hidrográficas y talas ilegales: [http://raisg.socioambiental.org/mapa-online/index.html](http://raisg.socioambiental.org/mapa-online/index.html) 
+* **RAISG** (Red Amazónica de Información Socioambiental Georeferenciada) recopila información sobre áreas protegidas, tierras indígenas, cuencas hidrográficas y talas ilegales: [http://raisg.socioambiental.org/mapa-online/index.html](http://raisg.socioambiental.org/mapa-online/index.html)
 
 * **Security in-a-Box** es una guía sobre seguridad digital para activistas y defensores de derechos humanos alrededor del mundo producida por Frontline Defenders y Tactical Technology Collective: [https://securityinabox.org/es](https://securityinabox.org/es)
 
-* **The Monitoring Project of the Andean Amazon** (MAAP) recopila datos and mapas para monitorear the Andean Amazon región [http://maaproject.org/acerca-d-maap/](http://maaproject.org/acerca-d-maap/) 
+* **The Monitoring Project of the Andean Amazon** (MAAP) recopila datos and mapas para monitorear the Andean Amazon región [http://maaproject.org/acerca-d-maap/](http://maaproject.org/acerca-d-maap/)
 
 * **Frontline Defenders** ofrece capacitación y recursos para defensores de derechos humanos: [http://www.frontlinedefenders.org/es/](http://www.frontlinedefenders.org/es/)
 
-* **Open Data Handbook** contiene guías sobre localización y uso de datos abiertos [http://opendatahandbook.org/es](http://opendatahandbook.org/es) 
+* **Open Data Handbook** contiene guías sobre localización y uso de datos abiertos [http://opendatahandbook.org/es](http://opendatahandbook.org/es)
 
-* **WITNESS** contiene una biblioteca de recursos sobre el uso seguro y efectivo del video: [http://library.witness.org](http://library.witness.org/) 
+* **WITNESS** contiene una biblioteca de recursos sobre el uso seguro y efectivo del video: [http://library.witness.org](http://library.witness.org/)
 
-* **Video4Change** recopila guías, manuales y otros recursos útiles para activistas de video [https://www.v4c.org/es/espanol](https://www.v4c.org/es/espanol) 
+* **Video4Change** recopila guías, manuales y otros recursos útiles para activistas de video [https://www.v4c.org/es/espanol](https://www.v4c.org/es/espanol)
 
-* **Global Forest Watch** es un sistema de monitoreo y alertas en línea que recopila datos sobre paisajes forestales alrededor del mundo [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/) 
+* **Global Forest Watch** es un sistema de monitoreo y alertas en línea que recopila datos sobre paisajes forestales alrededor del mundo [http://www.globalforestwatch.org/](http://www.globalforestwatch.org/)
 
-* **CLASlite** ha sido diseñado para proporcionar mapas y monitoreo forestal de alta resolución; actualización semanal e imágenes satelitales: [http://claslite.carnegiescience.edu/en/index.html](http://claslite.carnegiescience.edu/en/index.html) 
+* **CLASlite** ha sido diseñado para proporcionar mapas y monitoreo forestal de alta resolución; actualización semanal e imágenes satelitales: [http://claslite.carnegiescience.edu/en/index.html](http://claslite.carnegiescience.edu/en/index.html)
 
-* **Datahub** es una plataforma de manejo de datos para la búsqueda, registro de hojas de datos publicadas, creación y manejo de grupos de hojas de datos y actualizaciones de hojas de datos y grupos de su interés: [http://datahub.io](http://datahub.io/es) 
+* **Datahub** es una plataforma de manejo de datos para la búsqueda, registro de hojas de datos publicadas, creación y manejo de grupos de hojas de datos y actualizaciones de hojas de datos y grupos de su interés: [http://datahub.io](http://datahub.io/es)
 
 #### tiếng Việt
 
 * **Security in-a-Box** es una guía sobre seguridad digital para activistas y defensores de derechos humanos alrededor del mundo producida por Frontline Defenders y Tactical Technology Collective: [https://info.securityinabox.org/vi](https://info.securityinabox.org/vi)
 
-* **Datahub** es una plataforma de manejo de datos para la búsqueda, registro de hojas de datos publicadas, creación y manejo de grupos de hojas de datos: [http://datahub.io/vi/about](http://datahub.io/vi/about) 
+* **Datahub** es una plataforma de manejo de datos para la búsqueda, registro de hojas de datos publicadas, creación y manejo de grupos de hojas de datos: [http://datahub.io/vi/about](http://datahub.io/vi/about)

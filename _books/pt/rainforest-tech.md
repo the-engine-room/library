@@ -1,6 +1,6 @@
 ---
 layout: rainforest
-title: Florestas tropicais tecnologia 
+title: Florestas tropicais tecnologia
 description: Uma introdução (ou 'cartilha') ao uso da tecnologia para monitorar e compartilhar informações sobre problemas das florestas tropicais, direito à terra e direito dos indígenas. Foi criada como um ponto de partida para organizações e ativistas que estão pensando em utilizar tecnologia para realizar melhor seu trabalho de defesa.
 image: /media/index/rainforest.svg
 funder_name: Rainforest Foundation Norway
@@ -20,11 +20,11 @@ categories:
   - pt
 ---
 
-# Florestas tropicais tecnologia 
+# Tecnologia para monitoramento e compartilhamento de informações sobre as florestas tropicais e os direitos dos seus povos
 
 ## Introdução
 
-Esta cartilha é uma introdução ao uso da tecnologia para monitorar e compartilhar informações sobre problemas das florestas tropicais, direito à terra e direito dos indígenas. 
+Esta cartilha é uma introdução ao uso da tecnologia para monitorar e compartilhar informações sobre problemas das florestas tropicais, direito à terra e direito dos indígenas.
 
 Resultou de uma parceria entre a [Fundação Rainforest da Noruega](http://www.regnskog.no/en/) e [The Engine Room](https://theengineroom.org/).
 
@@ -46,22 +46,17 @@ Esta cartilha:
 
 * Fornece links para maiores detalhes sobre ferramentas e estratégias específicas.
 
-### **O que queremos dizer com "tecnologia"?**
+### O que queremos dizer com "tecnologia"?
 
 A palavra "tecnologia" nesta cartilha não se refere a uma solução tecnológica (como mapas de satélite) ou a uma ferramenta (como telefones celulares) específica. Estamos incluindo uma ampla gama de ferramentas, métodos e técnicas: software de computador, dispositivos digitais como telefones celulares ou câmeras, análise de grande quantidade de dados, uso de ferramentas online para comunicar informações, e mais.
 
-### **Como usar esta cartilha**
+#### Como usar esta cartilha
 
 Esta cartilha não é exaustiva – fornece as informações básicas que você precisa para começar, com uma seleção de bons lugares para ir se quiser aprender mais. Tem três partes principais:
 
-#### **Meta e estratégia**
-
-Aqui é onde a maior parte dos projetos falham. Um projeto bem-sucedido requer metas explícitas e uma estratégia sólida, desde o planejamento de como o projeto vai funcionar, até a gestão de informações quando o projeto está em andamento. A primeira seção desta cartilha define os princípios gerais e no que devemos pensar ao criarmos qualquer projeto que use tecnologia.
-
-#### **Ferramentas**
+Meta e estratégia: Aqui é onde a maior parte dos projetos falham. Um projeto bem-sucedido requer metas explícitas e uma estratégia sólida, desde o planejamento de como o projeto vai funcionar, até a gestão de informações quando o projeto está em andamento. A primeira seção desta cartilha define os princípios gerais e no que devemos pensar ao criarmos qualquer projeto que use tecnologia.
 
 A segunda seção apresenta algumas ferramentas que podem ser úteis em projetos cujo foco seja as florestas tropicais, agrupados em seis tipos:
-
 
 - [Aplicativos para telefone celular que coletam e registram dados de campo](/pt/rainforest-tech-mobile-phones)
 
@@ -74,8 +69,6 @@ A segunda seção apresenta algumas ferramentas que podem ser úteis em projetos
 - [Fotografia aérea faça você mesmo (tais como drones)](/pt/rainforest-tech-diy-aerial)
 
 - [Mapas online que combinam e sobrepõem em camadas diferentes tipos de dadose](/pt/rainforest-tech-online-maps)
-
-#### **Outros recursos**
 
 A seção final lista uma série de guias e ferramentas com informações mais detalhadas que podem ajudar você a introduzir tecnologia nova no seu projeto.
 
@@ -143,7 +136,7 @@ Reconheça que **você terá que comprometer recursos para usar tecnologia de fo
 
 Esta seção define o guia Princípios Básicos de Transparência e Responsabilidade [‘Fundamentals’](http://tech.transparency-initiative.org/fundamentals/), que é uma excelente fonte de dicas.
 
-## **Planejamento**
+## Estratégia
 
 ### **Estabeleça os princípios básicos: Estratégia, visão e verificação da saúde organizacional**
 
@@ -197,8 +190,8 @@ Um piloto permite que você teste em pequena escala, identificando logo o que es
 
 <blockquote>
 	<h5>Estudo de caso: O piloto de uma tecnologia nova pode trazer benefícios inesperados</h5>
-  <p>Em 2013, a [Rainforest Connection](https://rfcx.org) desenvolveu um projeto piloto em West Sumatra (Indonésia) para testar um aplicativo de monitoramento de exploração ilegal usando um telefone celular modificado.</p>
-  <p><b>Como isso ajudou?</b><p>
+  <p>Em 2013, a <a href="https://rfcx.org">Rainforest Connection</a> desenvolveu um projeto piloto em West Sumatra (Indonésia) para testar um aplicativo de monitoramento de exploração ilegal usando um telefone celular modificado.</p>
+  <p><b>Como isso ajudou?</b></p>
   <ul>
     <li>O piloto foi criado para avaliar se a tecnologia funcionava, mas foi melhor do que o esperado, coletou informações que permitiram que as autoridades locais capturassem exploradores ilegais duas semanas depois da instalação.</li>
     <li>As madeireiras retornaram desde então. Agora a <a href="http://news.mongabay.com/2014/0624-rainforest-connection-interview.html">Rainforest Connection</a> está realizando uma segunda série de pilotos na África Equatorial.</li>
@@ -311,7 +304,7 @@ Só gaste dinheiro em tecnologia se tiver certeza que de que é absolutamente ne
 
 #### **Preparação**
 
-Para começar, **crie uma metodologia** (uma explicação de como você coletou e analisou os dados). Verifique com os especialistas se a sua metodologia é robusta, e apresente-a claramente sempre que publicar os resultados. Esteja pronto para explicar a sua metodologia ou use-a para defender a credibilidade do seu trabalho. Para exemplos, veja [Open Development Cambodia](http://www.opendevelopmentcambodia.net/briefings/forest-cover/) (para uma metodologia simples) e [Land Matrix](http://landmatrix.org/en/about/) (para uma mais detalhada). Veja também [http://maaproject.org/about-maap/](http://maaproject.org/about-maap/). 
+Para começar, **crie uma metodologia** (uma explicação de como você coletou e analisou os dados). Verifique com os especialistas se a sua metodologia é robusta, e apresente-a claramente sempre que publicar os resultados. Esteja pronto para explicar a sua metodologia ou use-a para defender a credibilidade do seu trabalho. Para exemplos, veja [Open Development Cambodia](http://www.opendevelopmentcambodia.net/briefings/forest-cover/) (para uma metodologia simples) e [Land Matrix](http://landmatrix.org/en/about/) (para uma mais detalhada). Veja também [http://maaproject.org/about-maap/](http://maaproject.org/about-maap/).
 
 <blockquote>
   <h5>Estudo de caso: Sendo reconhecido pela qualidade da sua evidência</h5>
@@ -484,15 +477,15 @@ A lista de fontes potenciais para verificar como as pessoas estão respondendo �
 
 Crie metas para a sua campanha e monitore o progresso dessas metas. Boas metas são ‘smart’:
 
-* e**S**pecífica - defina com precisão o que você está medindo (por exemplo, o número de artigos de jornal que usaram os seus dados em incursões em terras indígenas)
+* eSpecífica - defina com precisão o que você está medindo (por exemplo, o número de artigos de jornal que usaram os seus dados em incursões em terras indígenas)
 
-* **M**ensurável - escolha coisas que possam ser contadas, como o número de pessoas que assinaram uma petição em um mês.
+* Mensurável - escolha coisas que possam ser contadas, como o número de pessoas que assinaram uma petição em um mês.
 
-* **A**tingível - não vise atingir 100% de um determinado grupo, a menos que seja realmente viável
+* Atingível - não vise atingir 100% de um determinado grupo, a menos que seja realmente viável
 
-* **R**elevante - escolha indicadores úteis: por exemplo, se o seu público não usa muito mídia social, não meça.
+* Relevante - escolha indicadores úteis: por exemplo, se o seu público não usa muito mídia social, não meça.
 
-* **T**emporal - estabeleça um prazo até quando você espera ter atingido a sua meta.
+* Temporal - estabeleça um prazo até quando você espera ter atingido a sua meta.
 
 ##### Usando a tecnologia para monitorar sua campanha
 
@@ -504,7 +497,7 @@ Ferramentas tecnológicas podem melhorar campanhas de defesa de várias maneiras
 </blockquote>
 
 
-## Ferramentas
+### Ferramentas
 
 - [Aplicativos para celular](/pt/rainforest-tech-mobile-phones)
 
@@ -569,7 +562,7 @@ Lembre-se que a melhor ferramenta para diferentes objetivos será diferente em c
 
 Esta lista de recursos inclui muitos mencionados na Cartilha, com alguns recursos adicionais. Não é abrangente, mas visa destacar alguns dos recursos mais úteis para organizações de florestas tropicais usando tecnologia em seu trabalho.
 
-### Obtendo dados
+#### Obtendo dados
 
 * O site [**DataHub**](http://datahub.io/) da Open Knowledge Foundation fornece dados abertamente disponíveis sobre diversas questões.
 
@@ -585,7 +578,7 @@ Esta lista de recursos inclui muitos mencionados na Cartilha, com alguns recurso
 
 * O kit de ferramentas [**Feedback Labs**](https://feedbacklabs.org/toolkit/) tem uma ampla gama de recursos e ferramentas para ajudá-lo a coletar informações das pessoas com quem trabalha.
 
-### Gerenciamento de dados
+#### Gerenciamento de dados
 
 * [**Security in-a-Box**](https://securityinabox.org/) é um guia de segurança digital para ativistas e defensores de direitos humanos em todo o mundo produzido pela Frontline Defeners e Tactical Technology Collective.
 
@@ -595,7 +588,7 @@ Esta lista de recursos inclui muitos mencionados na Cartilha, com alguns recurso
 
 * [**O Guia Secure My Video da EngageMedia**](http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf) fornece aos vídeo-ativistas as ferramentas que tornam seu trabalho seguro e protegido. Tem foco na Indonésia, mas é relevante também em outros contextos.
 
-### Assistência na coleta e uso de dados
+#### Assistência na coleta e uso de dados
 
 * Os cursos da [**School of Data**](http://schoolofdata.org/courses/#DataFundamentals) incluem introduções a dados e informações específicas sobre tópicos como raspagem.
 
@@ -609,7 +602,7 @@ Esta lista de recursos inclui muitos mencionados na Cartilha, com alguns recurso
 
 * O [**Open Data Handbook**](http://opendatahandbook.org/en/appendices/file-formats.html) lista formatos open file que você pode usar para publicar dados de uma forma aberta.
 
-### Ajuda com escolha da tecnologia
+#### Ajuda com escolha da tecnologia
 
 * [**Aspiration**](http://www.aspirationtech.org/training/workflow/templates/rfp) criou um modelo para produzir solicitações de propostas para assistência tecnológica.
 
@@ -617,7 +610,7 @@ Esta lista de recursos inclui muitos mencionados na Cartilha, com alguns recurso
 
 * [**Engage Media**](http://www.engagemedia.org/help/how-to-compress-video) dá consultoria em compactação de arquivos que funcionam melhor em áreas com pouca largura de banda.
 
-### Visualização
+#### Visualização
 
 * [**Earth Journalism Network**](http://earthjournalism.net/resources) fornece treinamento e recursos para ajudar jornalistas em países desenvolvidos a cobrir o meio-ambiente de forma mais eficaz, incluindo por meio de visualizações.
 
@@ -627,7 +620,7 @@ Esta lista de recursos inclui muitos mencionados na Cartilha, com alguns recurso
 
 * [**Geojournalism**](http://geojournalism.org) fornece recursos e treinamento online para jornalistas, designers e desenvolvedores para visualizar dados geográficos.
 
-### Aplicativos para celular
+#### Aplicativos para celular
 
 * O relatório [*Mobiles in Development* do **The engine room**](http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development) dá uma visão geral de uso de dispositivos móveis em desenvolvimento, incluindo mais informações sobre como funciona a coleta de dados móveis.
 
@@ -647,7 +640,7 @@ Esta lista de recursos inclui muitos mencionados na Cartilha, com alguns recurso
 
 * [**TechSoup** ](http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for)aconselha na escolha de dispositivo móvel que supra as suas necessidades.
 
-### Mapeamento com satélite
+#### Mapeamento com satélite
 
 * [**Global Forest Watch**](www.globalforestwatch.org) é um sistema de alerta de monitoramento de floresta interativo online que fornece informações de satélite e outros tipos de informações.
 
@@ -657,7 +650,7 @@ Esta lista de recursos inclui muitos mencionados na Cartilha, com alguns recurso
 
 * O Projeto de Tecnologias Geoespaciais [**AAAS**](http://www.aaas.org/case-studies) contém estudos de caso detalhados de imagens de satélite coletadas, categorizadas e analisadas para documentar abusos de direitos humanos.
 
-### Vídeo e áudio
+#### Vídeo e áudio
 
 * O Projeto do Guardian [**Informacam**](https://guardianproject.info/informa/) é um plugin que funciona com o aplicativo Android [**Obscuracam**](https://www.v4c.org/en/content/hands-using-obscuracam), e pode ajudar a coletar evidências em vídeo e fotos de forma segura que pode ser verificada.
 
@@ -669,7 +662,7 @@ Esta lista de recursos inclui muitos mencionados na Cartilha, com alguns recurso
 
 * [**Audacity**](http://audacity.sourceforge.net/) oferece capacidades de edição grátis, enquanto a versão [**Lightworks Free**](http://www.lwks.com/) pode realizar muitas tarefas simples de edição de vídeo.
 
-### Fotografia aérea faça você mesmo
+#### Fotografia aérea faça você mesmo
 
 * O site [**Conservation Drones**](http://conservationdrones.org/) inclui um guia para construir e voar drones, assim como exemplos de como eles têm sido usados no trabalho de conservação.
 
@@ -723,7 +716,7 @@ Esta lista de recursos inclui muitos mencionados na Cartilha, com alguns recurso
 
 * [**Datahub** ](http://datahub.io/es)é uma plataforma de gerenciamento de dados que permite que você pesquise dados, conjuntos de dados de registro publicados, crie e gerencie grupos de conjuntos de dados, e obtenha atualizações de conjuntos de dados e grupos de seu interesse.
 
-### Sobre
+## Sobre
 Este site foi criado pela [Fundação Rainforest da Noruega](www.regnskog.no/en/) e [The Engine Room](//theengineroom.org) como uma introdução ao uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direito à terra e direitos dos indígenas. Baixe a cartilha completa aqui.
 
 Comentários ou perguntas? Entre em contato [post@theengineroom.org](mailto:post@theengineroom.org) ou [rainforest@rainforest.no](rainforest@rainforest.no).
