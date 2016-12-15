@@ -53,13 +53,13 @@ Ada banyak cara melakukan pemetaan partisipatif, yang mencakup teknologi dan aks
 
 * **Wawancara** dengan menanyakan bagaimana masyarakat memanfaatkan tanah mereka, dan bagaimana pandangan mengenai tanah mereka dan ekosistem di daerah tersebut. Masyarakat memilih medium apa yang lebih mereka sukai, mulai dari narasi hingga menggambar di atas kertas, atau di tanah.
 
-* **Mencetak peta resmi** daerah tersebut,yang menjelaskan bagaimana ianya terkait dengan masyarakat, dan meminta masyarakat untuk menggambar informasi tambahan.Metode yang lebih cangggih untuk membuat **model 3D** dari tanah tersebut.
+* **Mencetak peta resmi** daerah tersebut, yang menjelaskan bagaimana ianya terkait dengan masyarakat, dan meminta masyarakat untuk menggambar informasi tambahan.Metode yang lebih cangggih untuk membuat **model 3D** dari tanah tersebut.
 
 * Masyarakat diberikan **GPS trackers** dan merekam informasi sepanjang perjalanan mereka di satu daerah. Data dapat digunakan untuk membuat lapis-lapis peta.
 
 ### Biaya
 
-Pemetaan partisipatif memerlukan investasi besar untuk pelatihan dan dukungan pekerja lapangan. Pekerja lapangan memainkan peran penting dalam memperkenalkan kegiatan, melatih masyarakat untuk berinteraksi dengan peta, dan memastikan bahwa semua perwakilan masyarakat memahami hal tersebut. Membuat peta dan memasukkan informasi yang telah dikumpulkan memerlukan keahlian GIS untuk memastikan pengukurannya akurat dan untuk membuat skala.Alat GPS tracker tidak mahal, tapi memerlukan pelatihan. Merek yang paling banyak digunakan, seperti [Garmin](https://buy.garmin.com/en-US/US/cIntoSports-c10341-p1.html) dan [Magellan](http://www.magellangps.com/Store/eXploristSeries), menawarkan GPS locators mulai harga USD100. Selain itu, kebanyakan smartphone yang simpel telah memiliki kemampuan GPS.
+Pemetaan partisipatif memerlukan investasi besar untuk pelatihan dan dukungan pekerja lapangan. Pekerja lapangan memainkan peran penting dalam memperkenalkan kegiatan, melatih masyarakat untuk berinteraksi dengan peta, dan memastikan bahwa semua perwakilan masyarakat memahami hal tersebut. Membuat peta dan memasukkan informasi yang telah dikumpulkan memerlukan keahlian GIS untuk memastikan pengukurannya akurat dan untuk membuat skala. Alat GPS tracker tidak mahal, tapi memerlukan pelatihan. Merek yang paling banyak digunakan, seperti [Garmin](https://buy.garmin.com/en-US/US/cIntoSports-c10341-p1.html) dan [Magellan](http://www.magellangps.com/Store/eXploristSeries), menawarkan GPS locators mulai harga USD100. Selain itu, kebanyakan smartphone yang simpel telah memiliki kemampuan GPS.
 
 ### Risiko dan tantangan
 

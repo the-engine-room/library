@@ -55,28 +55,28 @@ Saat ini Anda bisa membuat video dan audio dengan sangat mudah namun secara umum
 
 ### Risiko dan tantangan
 
-**Risiko untuk orang yang merekam:** Merekam audio atau video bisa membawa risiko terhadap si pembuat.Hapus atau enkripsi data pribadi pada alat dan bersihkan alatnya secara teratur – fingerprints atau residu bisa menunjukkan tempat-tempat yang telah mereka kunjungi. Bagikanlah informasi sensitif hanya dengan kelompok yang dipercaya atau pengacara sebelum mempublikasikan, dan sebelum memulai cek apakah melakukan perekaman diperbolehkan.
+*Risiko untuk orang yang merekam:* Merekam audio atau video bisa membawa risiko terhadap si pembuat.Hapus atau enkripsi data pribadi pada alat dan bersihkan alatnya secara teratur – fingerprints atau residu bisa menunjukkan tempat-tempat yang telah mereka kunjungi. Bagikanlah informasi sensitif hanya dengan kelompok yang dipercaya atau pengacara sebelum mempublikasikan, dan sebelum memulai cek apakah melakukan perekaman diperbolehkan.
 
-**Risiko untuk orang-orang yang Anda rekam:** Ikuti langkah-langkah pada paragraf ‘Persetujuan Awal’ untuk **Mengumpulkan Data**(hal X), pastikan orang memahami bahwa rekaman dapat tersebar luas dan dilihat oleh semua orang. Matikan semua fungsi perekaman-lokasi, dan buramkan wajah orang-orang [2](https://www.v4c.org/en/content/hands-using-obscuracam) atau fungsi untuk memburamkan di [YouTube](http://youtube-global.blogspot.co.uk/2012/07/face-blurring-when-footage-requires.html).
+*Risiko untuk orang-orang yang Anda rekam:* Ikuti langkah-langkah pada paragraf ‘Persetujuan Awal’ untuk *Mengumpulkan Data*(hal X), pastikan orang memahami bahwa rekaman dapat tersebar luas dan dilihat oleh semua orang. Matikan semua fungsi perekaman-lokasi, dan buramkan wajah orang-orang [2](https://www.v4c.org/en/content/hands-using-obscuracam) atau fungsi untuk memburamkan di [YouTube](http://youtube-global.blogspot.co.uk/2012/07/face-blurring-when-footage-requires.html).
 
 ### Sumber lain
 
-* The Guardian Project’s **Informacam,** adalah plugin yang dapat berfungsi dengan **Obscuracam** Android app, yang dapat membantu mengumpulkan bukti video dan photo dengan aman dan dapat diverifikasi: [https://guardianproject.info/informa/](https://guardianproject.info/informa/) dan [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam)
+* The Guardian Project’s *Informacam,* adalah plugin yang dapat berfungsi dengan *Obscuracam* Android app, yang dapat membantu mengumpulkan bukti video dan photo dengan aman dan dapat diverifikasi: [https://guardianproject.info/informa/](https://guardianproject.info/informa/) dan [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam)
 
-* The **StoryMaker** app untuk ponsel Android membantu untuk membuat kisah-kisah multimedia di perangkat Android Anda:[http://smallworldnews.tv/projects/storymaker/](http://smallworldnews.tv/projects/storymaker/)
+* The *StoryMaker* app untuk ponsel Android membantu untuk membuat kisah-kisah multimedia di perangkat Android Anda:[http://smallworldnews.tv/projects/storymaker/](http://smallworldnews.tv/projects/storymaker/)
 
-* **WITNESS** dan** Video4Change** memiliki perpustakaan yang sangat membantu kerja Anda: [https://www.v4c.org/en/resources](https://www.v4c.org/en/resources) dan [http://library.witness.org](http://library.witness.org/)
+* *WITNESS* dan Video4Change memiliki perpustakaan yang sangat membantu kerja Anda: [https://www.v4c.org/en/resources](https://www.v4c.org/en/resources) dan [http://library.witness.org](http://library.witness.org/)
 
-* **Small World News** menawarkan panduan membuat video dan audio [http://smallworldnews.com/guides](http://smallworldnews.com/guides)
+* *Small World News* menawarkan panduan membuat video dan audio [http://smallworldnews.com/guides](http://smallworldnews.com/guides)
 
-* **Audacity** menawarkan kemampuan mengedit audio secara gratis [http://audacity.sourceforge.net/](http://audacity.sourceforge.net/), sementara versi **Lightworks Free** dapat menangani tugas editing video yang simpel: http://www.lwks.com/
+* *Audacity* menawarkan kemampuan mengedit audio secara gratis [http://audacity.sourceforge.net/](http://audacity.sourceforge.net/), sementara versi *Lightworks Free* dapat menangani tugas editing video yang simpel: http://www.lwks.com/
 
 ### Studi kasus
 
 #### Menggunakan rekaman video pada ponsel sebagai bukti
 HuMa mengumpulkan data mengenai konflik terkait tanah di Indonesia, termasuk video tentang masyarakat setempat yang berbicara mengenai mata pencaharian dan pengalaman mereka.Video-video itu direkam dengan ponsel oleh anggota masyarakat dan digabungkan dengan sumber data lain seperti data GPS sehingga meningkatkan nilainya sebagai suatu bukti.
 
-**Bagaimana hal ini dapat membantu?**
+*Bagaimana hal ini dapat membantu?*
 
 * Data tersebut telah dimanfaatkan oleh kelompok lain termasuk Komnas HAM dan Kapolri serta LSM.
 * Perhutani, perusahaan perhutanan nasional juga telah merujuk pada data HuMa sebagai dasar untuk menyelidiki kejadian-kejadian tertentu.
@@ -84,7 +84,7 @@ HuMa mengumpulkan data mengenai konflik terkait tanah di Indonesia, termasuk vid
 #### Menggunakan video untuk mendokumentasikan penebangan ilegal di Indonesia
 Sebagai respon atas kampanye advokasi, perusahaan kertas Indonesia APP telah menandatangani komitmen zero deforestasi. Pada September 2013, Eyes on the Forest (sebuah koalisi tiga organisasi lingkungan lokal di Indonesia), memfilmkan satu perusahaan penebangan, yang diketahui sebagai pemasok APP, tengah menebangi hutan alam.
 
-**Bagaimana hal ini dapat membantu?**
+*Bagaimana hal ini dapat membantu?*
 
 * Videonya pendek dan sederhana, sehingga mudah diunggah dan dipublikasikan dengan cepat.
 * Meskipun video difilmkan dari jauh, ia masih berharga sebagai bukti karena dengan jelas menunjukkan penebangan yang tengah dilakukan. Dan video ini didukung oleh foto koordinat GPS dan sebuah laporan yang detail.

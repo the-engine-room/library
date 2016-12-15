@@ -53,13 +53,15 @@ Satu cara yang umum adalah memberikan perangkat mobile yang sudah diisi dengan s
 
 Anda dapat memilih dari beragam aplikasi: yang paling tepat untuk Anda bergantung pada seberapa banyak Anda mengumpulkan data, dan seberapa banyak Anda membutuhkan dukungan teknis, dan seberapa spesifik kebutuhan Anda. Ada beberapa website yang membantu Anda mengenali alat dan mobile apps apa yang paling sesuai, termasuk [Humanitarian Nomad](http://humanitarian-nomad.org/online-selection-tool/) dan [Solutions Center](http://solutionscenter.nethope.org/).
 
-### **Biaya - bergantung pada tiga faktor**
+### **Biaya**
 
-**Jenis perangkat:** Alat yang khusus untuk melacak GPS seringkali lebih tahan lama dan begitu juga baterenya, namun terkadang akurasi ponsel lebih bagus untuk kerja-kerja hutan hujan.Smartphone dengan sistem Android tersedia dengan harga di bawah USD100 (sekitar 1,3 juta rupiah), dan harganya semakin lama semakin turun.Jika Anda hanya memerlukan fungsi-fungsi yang simpel, ponsel yang murah merupakan pilihan yang bagus. Ponsel ini dapat digunakan untuk mengumpulkan data menggunakan SMS atau program-program yang didisain di Java (J2ME).
+Bergantung pada tiga faktor:
 
-**Seberapa rumit aplikasinya?** Semakin banyak fitur yang Anda inginkan, maka semakin banyak pelatihan dan dukungan *troubleshooting* yang akan Anda perlukan. Dukungan sudah termasuk dalam layanan-layanan seperti [ArcGIS](http://doc.arcgis.com/en/collector/), tapi ini mahal. Di sisi lain, solusi open source seperti [Open Data Kit](https://opendatakit.org/), memaksa Anda menyelesaikan masalah sendiri (yang menghabiskan waktu staff) atau memanggil pakar eksternal (yang biasanya memerlukan banyak biaya).
+*Jenis perangkat:* Alat yang khusus untuk melacak GPS seringkali lebih tahan lama dan begitu juga baterenya, namun terkadang akurasi ponsel lebih bagus untuk kerja-kerja hutan hujan.Smartphone dengan sistem Android tersedia dengan harga di bawah USD100 (sekitar 1,3 juta rupiah), dan harganya semakin lama semakin turun.Jika Anda hanya memerlukan fungsi-fungsi yang simpel, ponsel yang murah merupakan pilihan yang bagus. Ponsel ini dapat digunakan untuk mengumpulkan data menggunakan SMS atau program-program yang didisain di Java (J2ME).
 
-**Seberapa banyak data yang ingin Anda kumpulkan?** Semakin banyak data yang Anda kumpulkan, semakin banyak Anda akan menghabiskan biaya untuk database yang menyimpan informasi, back-up data offline, atau pesan SMS.
+*Seberapa rumit aplikasinya?* Semakin banyak fitur yang Anda inginkan, maka semakin banyak pelatihan dan dukungan *troubleshooting* yang akan Anda perlukan. Dukungan sudah termasuk dalam layanan-layanan seperti [ArcGIS](http://doc.arcgis.com/en/collector/), tapi ini mahal. Di sisi lain, solusi open source seperti [Open Data Kit](https://opendatakit.org/), memaksa Anda menyelesaikan masalah sendiri (yang menghabiskan waktu staff) atau memanggil pakar eksternal (yang biasanya memerlukan banyak biaya).
+
+*Seberapa banyak data yang ingin Anda kumpulkan?* Semakin banyak data yang Anda kumpulkan, semakin banyak Anda akan menghabiskan biaya untuk database yang menyimpan informasi, back-up data offline, atau pesan SMS.
 
 Untuk merasakan sedikit opsi-opsi yang ada, berikut ini adalah dua contoh aplikasi yang yang bertolak belakang dalam hal biaya:
 

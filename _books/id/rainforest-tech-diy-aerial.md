@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Foto udara - lakukan sendiri
-description: Pengantar penggunaan aerial photography - lakukan sendiri (seperti drone) untuk membuat peta atau model 3D guna memonitor satwa liar, mencatat klaim tanah dan mendokumentasikan dampak perubahan iklim. Cara ini dapat menghasilkan gambar yang lebih detil dibandingkan dengan data satelit, dan dapat diperbarui seketika. <p>Bagian laporan <p>Bagian laporan <a href="https://library.theengineroom.org/rainforest-tech">Teknologi Hutan Hujan</a>.</p> 
+description: Pengantar penggunaan aerial photography - lakukan sendiri (seperti drone) untuk membuat peta atau model 3D guna memonitor satwa liar, mencatat klaim tanah dan mendokumentasikan dampak perubahan iklim. Cara ini dapat menghasilkan gambar yang lebih detil dibandingkan dengan data satelit, dan dapat diperbarui seketika. <p>Bagian laporan <a href="https://library.theengineroom.org/rainforest-tech">Teknologi Hutan Hujan</a>.</p>
 image: /media/index/drone.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
@@ -24,7 +24,6 @@ categories:
 ## Foto udara - lakukan sendiri
 
 > ### Kemungkinan sasaran
-
 > * Mengumpulkan bukti deforestasi atau degradasi hutan
 > * Mengambil bukti pelanggaran yang dilakukan perusahaan tentang cara mereka memanfaatkan lahan
 > * Mendukung masyarakat dengan menyajikan dan memberikan pengetahuan
@@ -101,6 +100,7 @@ Tahun 2014, [ConservationDrones](http://conservationdrones.org) dan [Sumatran Or
 
 * NetHope’s **Solutions Center** memiliki webinar dan sumber daya untuk menggunakan drone [http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles)
 
+***
 
 ### Tentang
 

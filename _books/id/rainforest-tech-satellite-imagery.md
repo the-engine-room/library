@@ -86,7 +86,7 @@ Pada Januari 2015 analisa yang dilakukan Greenomics-Indonesia terhadap dua citra
 
 * Greenomics memilih menyiarkan informasi ini dalam Bahasa Inggris, dengan memberikan pernyataan beserta gambar-gambar atas klaim mereka. Pada Maret 2015, APRIL secara terbuka mengakui telah terjadi pelanggaran dan memberhentikan satu kontraktor dan manajer perkebunan.
 
-## Sumber lain
+### Sumber lain
 
 * **Global Forest Watch** merupakan sistem monitoring dan peringatan hutan online secara interaktif yang memberikan informasi satelit dan lainnya: [www.globalforestwatch.org](http://www.globalforestwatch.org) dan [https://groups.google.com/forum/#!forum/globalforestwatch](https://groups.google.com/forum/#!forum/globalforestwatch)
 
