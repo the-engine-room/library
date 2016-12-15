@@ -16,9 +16,9 @@ navigation:
   - Casos de estudio
   - Acerca de este sitio
 ref: rt-pm
-lang: sp
+lang: es
 categories:
-  - sp
+  - es
 ---
 
 ## **Mapeo participativo y con GPS**

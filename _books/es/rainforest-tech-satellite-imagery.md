@@ -16,9 +16,9 @@ navigation:
   - Casos de estudio
   - Acerca de este sitio
 ref: rt-si
-lang: sp
+lang: es
 categories:
-  - sp
+  - es
 ---
 
 
@@ -88,7 +88,7 @@ En enero del 2015, un análisis realizado por [Greenomics-Indonesia](http://www.
 
 * **CLASlite** ha sido diseñado para proporcionar mapas y monitoreo forestal de alta resolución; actualización semanal e imágenes satelitales: [http://claslite.carnegiescience.edu/en/index.html](http://claslite.carnegiescience.edu/en/index.html) (inglés y español)
 
-* El Proyecto Geospatial Technologies de **AAAS** contiene casos de estudio detallados sobre la recolección, categorización y análisis de imágenes satelitales para documentar abusos de derechos humanos: [http://www.aaas.org/case-studies](http://www.aaas.org/case-studies) 
+* El Proyecto Geospatial Technologies de **AAAS** contiene casos de estudio detallados sobre la recolección, categorización y análisis de imágenes satelitales para documentar abusos de derechos humanos: [http://www.aaas.org/case-studies](http://www.aaas.org/case-studies)
 
 ### **Acerca de este sitio**
 Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).

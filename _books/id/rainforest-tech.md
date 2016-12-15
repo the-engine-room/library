@@ -437,11 +437,11 @@ Ada banyak sumber yang dapat digunakan untuk mempelajari bagaimana orang merespo
 
 Ciptakan target yang ingin dicapai dalam kampanye Anda dan telusuri kemajuannya. Target yang bagus adalah yang ‘smart’:
 
-- **S**pesifik - buat definisi yang jelas tentang apa yang Anda ukur (misalnya, jumlah artikel surat kabar yang menggunakan data Anda tentang serangan terhadap tanah adat)
-- **M**easurable atau dapat diukur - pilih hal-hal yang dapat dihitung, seperti jumlah orang yang menandatangani petisi dalam satu bulan.
-- **A**chievable atau dapat dicapai - jangan bermaksud untuk menjangkau 100% kelompok tertentu, kecuali memang bisa dilakukan
-- **R**elevan - pilih indikator yang berguna: misalnya, jika audiens Anda tidak terlalu banyak menggunakan media sosial, jangan mengukur hal tersebut.
-- **T**ime-bound atau batas waktu - pilih waktu kapan Anda berharap tujuan dapat tercapai.
+- Spesifik - buat definisi yang jelas tentang apa yang Anda ukur (misalnya, jumlah artikel surat kabar yang menggunakan data Anda tentang serangan terhadap tanah adat)
+- Measurable atau dapat diukur - pilih hal-hal yang dapat dihitung, seperti jumlah orang yang menandatangani petisi dalam satu bulan.
+- Achievable atau dapat dicapai - jangan bermaksud untuk menjangkau 100% kelompok tertentu, kecuali memang bisa dilakukan
+- Relevan - pilih indikator yang berguna: misalnya, jika audiens Anda tidak terlalu banyak menggunakan media sosial, jangan mengukur hal tersebut.
+- Time-bound atau batas waktu - pilih waktu kapan Anda berharap tujuan dapat tercapai.
 
 ##### Menggunakan teknologi untuk melacak kampanye Anda
 
@@ -471,6 +471,14 @@ Ingatlah bahwa alat yang terbaik berbeda-beda untuk setiap situasi.Tabel di bawa
 | Pencatatan dan monitoring nilai lingkungan dari area lahan | Pemetaan satelit, Pemetaan online, pemetaan partisipatif, Aplikasi mobile, pemetaan udara lakukan-sendiri, |
 | Mendukung masyarakat dengan menyajikan dan memberikan pengetahuan | Pemetaan partisipatif, Audio dan Video, foto udara lakukan-sendiri |
 
+## Alat dan perangkat
+
+- [Aplikasi ponsel untuk mengumpulkan dan mencatat data dari lapangan](/id/rainforest-tech-mobile-phones)
+- [Peta yang dihasilkan bersama-sama dengan masyarakat (pemetaan partisipatif)](/id/rainforest-tech-satellite-imagery)
+- [Citra satelit](/id/rainforest-tech-satellite-imagery)
+- [Foto udara yang dilakukan-sendiri (seperti drone)](/id/rainforest-tech-participatory-mapping)
+- [Audio dan video](/id/rainforest-tech-audio-video)](/fr/rainforest-tech-diy-aerial)
+- [Peta online yang menggabungkan dan menampilkan lapisan data dengan jenis yang berbeda-beda, di atas satu sama lain](/id/rainforest-tech-online-maps)
 
 ## Sumber lain
 Daftar sumber termasuk yang telah disebutkan di Panduan, dengan beberapa tambahan. Daftar ini tidak lengkap, namun bertujuan untuk menyoroti beberapa sumber bermanfaat yang paling praktis untuk organisasi hutan hujan yang menggunakan teknologi dalam pekerjaan mereka.

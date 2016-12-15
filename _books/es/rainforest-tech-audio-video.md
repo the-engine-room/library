@@ -16,9 +16,9 @@ navigation:
   - Casos de estudio
   - Acerca de este sitio
 ref: rt-av
-lang: sp
+lang: es
 categories:
-  - sp
+  - es
 ---
 
 ## **Audio y video**
@@ -84,15 +84,15 @@ En respuesta a campañas de apoyo, la compañía papelera indonesia APP firmó u
 * Obligó a que APP diera respuesta al video declarando que la tala tuvo lugar en una zona de exclusión que no había divulgado.
 
 ### Otros recursos
-* La **Informacam** de The Guardian Project, un plugin que funciona con la aplicación **Obscuracam **para Android, puede contribuir a la recolección segura y verificable de pruebas en video y foto:[ https://guardianproject.info/informa/](https://guardianproject.info/informa/) y [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam) 
+* La **Informacam** de The Guardian Project, un plugin que funciona con la aplicación **Obscuracam **para Android, puede contribuir a la recolección segura y verificable de pruebas en video y foto:[ https://guardianproject.info/informa/](https://guardianproject.info/informa/) y [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam)
 
-* La aplicación **StoryMaker** para teléfonos Android ayuda permite utilizar dispositivos Android para crear historias multimedia:[ http://smallworldnews.tv/projects/storymaker/](http://smallworldnews.tv/projects/storymaker/) 
+* La aplicación **StoryMaker** para teléfonos Android ayuda permite utilizar dispositivos Android para crear historias multimedia:[ http://smallworldnews.tv/projects/storymaker/](http://smallworldnews.tv/projects/storymaker/)
 
-* **WITNESS** y **Video4Change** ofrecen bibliotecas de recursos útiles sobre cómo usar videos en su trabajo: [https://www.v4c.org/en/resources](https://www.v4c.org/en/resources) and [http://library.witness.org](http://library.witness.org/) 
+* **WITNESS** y **Video4Change** ofrecen bibliotecas de recursos útiles sobre cómo usar videos en su trabajo: [https://www.v4c.org/en/resources](https://www.v4c.org/en/resources) and [http://library.witness.org](http://library.witness.org/)
 
-* **Small World News** ofrece guías para la creación de video y audio: [http://smallworldnews.com/guides](http://smallworldnews.com/guides) 
+* **Small World News** ofrece guías para la creación de video y audio: [http://smallworldnews.com/guides](http://smallworldnews.com/guides)
 
-* **Audacity** ofrece funcionalidades gratuitas para edición de audio: [http://audacity.sourceforge.net/](http://audacity.sourceforge.net/); la versión **Lightworks Free** sirve para tareas sencillas de edición de video: [http://www.lwks.com/](http://www.lwks.com/) 
+* **Audacity** ofrece funcionalidades gratuitas para edición de audio: [http://audacity.sourceforge.net/](http://audacity.sourceforge.net/); la versión **Lightworks Free** sirve para tareas sencillas de edición de video: [http://www.lwks.com/](http://www.lwks.com/)
 
 ### Acerca de este sitio
 Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
