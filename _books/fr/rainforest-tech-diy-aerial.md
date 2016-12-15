@@ -60,7 +60,7 @@ Des [kits](http://www.openrelief.org/home/open-source-airframe/) de création de
 
 L’utilisation de drones et la réalisation de photos aériennes de manière indépendante sont de nouvelles technologies pour lesquelles les bonnes pratiques et la réglementation juridique sont toujours en cours de développement (Le code de conduite du réseau Humanitarian UAV est un excellent document à consulter : https://uaviators.org/docs; référez-vous aussi à cette [liste](https://www.droneregulations.info/) des règlements sur l’usage des drones dans différents pays. Impliquez les communautés autant que possible en leur demandant de conduire le processus de cartographie. Faites en sorte qu’ils comprennent précisément quelles données sont collectées et comment elles seront utilisées. Effacez toute information personnelle avant de partager les éléments recueillis avec les communautés. Certains pays introduisent des restrictions géographiques et individuelles à l’utilisation de drones – vérifiez que vous respectez la loi avant de commencer.
 
-### Cas d’étude  
+### Études de cas
 
 #### Construction et utilisation d’un drone en collaboration avec une communauté locale.
 En 2014, les membres de la communauté Wapichana du Guyana et l’organisation [Digital Democracy](http://www.digital-democracy.org/) ont construit un drone à voilure fixe à l’aide d’un kit, d’une caméra GoPro (disponible autour de 100 $) et d’un logiciel gratuit libre de droits. Le drone a été utilisé pour élaborer une maquette 3D de Sholinab, un village local.
