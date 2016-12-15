@@ -1,14 +1,13 @@
 ---
 layout: rainforest
 title: Fotografia aérea faça você mesmo
-description: Uma introdução à fotografia aérea faça você mesmo (tais como drones) para criação de mapas ou modelos 3D para monitoramento de vida selvagem, registro de reclamações de terras e documentação de impactos de mudanças climáticas. Podem produzir imagens mais detalhadas do que dados de satélite e podem ser atualizadas em tempo real . Parte do relatório <a href="https://library.theengineroom.org/pt/rainforest-tech/">Tecnologia Rainforest</a>
+description: Uma introdução à fotografia aérea faça você mesmo (tais como drones) para criação de mapas ou modelos 3D para monitoramento de vida selvagem, registro de reclamações de terras e documentação de impactos de mudanças climáticas. Podem produzir imagens mais detalhadas do que dados de satélite e podem ser atualizadas em tempo real. Parte do relatório <a href="https://library.theengineroom.org/pt/rainforest-tech/">Tecnologia Rainforest</a>
 image: /media/index/drone.svg
 funder_name: Fundação Rainforest da Noruega
 funder_logo: /images/logos/rfn.svg
 funder_link: http://regnskog.no/en
 published: true
 navigation:
-  - Introdução
   - O que é
   - Como pode ajudar
   - Ferramentas
@@ -46,11 +45,11 @@ Esta introdução faz parte de uma [Cartilha de uso da tecnologia para monitora
 
 * Essas fotos podem ser combinadas por software em mapas ou modelos 3D, que podem ser usados para diversos fins inclusive monitoramento de vida selvagem, registro de reclamações de terras e documentação de impactos de mudanças climáticas.
 
-### **Como pode ajudar**
+### Como pode ajudar
 
-Mapas de alta resolução podem ser caros, desatualizados ou de difícil acesso (veja a seção **Mapeamento com satélite**, acima). Você mesmo pode criar mapas aéreos que fornecem dados detalhados de mapa da área exata que você quer, em tempo real. Também permite que você voe sobre a mesma área regularmente, o que lhe dá evidência de mudanças ao longo do tempo.
+Mapas de alta resolução podem ser caros, desatualizados ou de difícil acesso (veja a seção [Mapeamento com satélite](/pt/rainforest-tech-satellite-imagery). Você mesmo pode criar mapas aéreos que fornecem dados detalhados de mapa da área exata que você quer, em tempo real. Também permite que você voe sobre a mesma área regularmente, o que lhe dá evidência de mudanças ao longo do tempo.
 
-### **Ferramentas **
+### Ferramentas
 
 Se você tem um orçamento curto e quer cobrir só uma área pequena, pipas e balões são as opções mais fáceis (veja abaixo a seção **Custos**).  Eles podem ser construídos de [materiais simples](http://publiclaboratory.org/wiki/balloon-mapping) ou [kits pré-preparados](http://publiclaboratory.org/wiki/kite-mapping). Se as copas de árvores restringirem o voo de balões ou pipas, você vai precisar gastar mais e comprar um drone (veja abaixo **Custos**). Há dois principais tipos: um drone com quatro ou mais rotores (fácil de voar, mas só voa cerca de 30 minutos), ou uma aeronave de asa fixa por controle remoto (elas podem voar até 60 minutos – mais fácil de arranjar, porém mais difícil de aterrissar). Você também vai precisar de uma câmera digital simples, software para planejar rotas de voo, voar o drone, e editar fotos.
 
@@ -64,7 +63,7 @@ Fotografia aérea faça você mesmo e drones são tecnologias novas, e melhores 
 
 ### Estudos de caso
 
-**Construindo e voando um drone em colaboração com a comunidade local**
+#### Construindo e voando um drone em colaboração com a comunidade local
 
 Em 2014, membros da comunidade Wapichana em Guiana e a organização Digital Democracy construiu um drone de asa fixa usando um kit, uma câmera GoPro (disponível por cerca de 100 dólares) e software open-source grátis. O drone foi então usado para criar um modelo 3D detalhado de Sholinab, um vilarejo local.
 
@@ -76,7 +75,7 @@ Em 2014, membros da comunidade Wapichana em Guiana e a organização Digital Dem
 
 * O grupo identificou diversos usos possíveis para o drone no futuro, incluindo monitoramento de desflorestamento ao longo do tempo, mapeamento de vilarejos para alocação de gestão de recursos, e [documentação](http://www.digital-democracy.org/blog/we-built-a-drone/) de exploração ilegal.
 
-**Estudo de caso: Denúncia de exploração ilegal usando um drone**
+#### Denúncia de exploração ilegal usando um drone**
 
 Em 2014, ConservationDrones e o Sumatran Orangutan Conservation Programme (SOCP) usaram um drone para tirar fotos aéreas de parte do Parque Nacional Gunung Leuser na Indonésia. A organização voou sobre a mesma área duas vezes em dois meses, produzindo claras evidências fotográficas de exploração ilegal.
 

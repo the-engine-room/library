@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Tecnología para bosques lluviosos
-description: Una introducción (o guía) al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar avances tecnológicos en la mejora de sus esfuerzos de defensa . 
+description: Una introducción (o guía) al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar avances tecnológicos en la mejora de sus esfuerzos de defensa. 
 image: /media/index/rainforest.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg

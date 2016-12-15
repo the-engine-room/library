@@ -1,14 +1,13 @@
 ---
 layout: rainforest
 title: Áudio e vídeo
-description: Uma introdução ao uso de áudio e vídeo em projetos relacionados a florestas tropicais para apresentar, de forma simples, mensagens curtas de defesa da causa, coletar evidências visuais de violações de direitos humanos, publicar filmes com a participação de membros da comunidade, ou documentar o desflorestamento ao longo do tempo . Parte do relatório <a href="https://library.theengineroom.org/pt/rainforest-tech/">Tecnologia Rainforest</a> .
+description: Uma introdução ao uso de áudio e vídeo em projetos relacionados a florestas tropicais para apresentar, de forma simples, mensagens curtas de defesa da causa, coletar evidências visuais de violações de direitos humanos, publicar filmes com a participação de membros da comunidade, ou documentar o desflorestamento ao longo do tempo. Parte do relatório <a href="https://library.theengineroom.org/pt/rainforest-tech/">Tecnologia Rainforest</a>.
 image: /media/index/audio.svg
 funder_name: Fundação Rainforest da Noruega
 funder_logo: /images/logos/rfn.svg
 funder_link: http://regnskog.no/en
 published: true
 navigation:
-  - Introdução
   - O que é
   - Como pode ajudar
   - Ferramentas
@@ -65,8 +64,7 @@ Você agora pode criar vídeo e áudio a baixo custo, mas em geral, quanto mais 
 
 ### Estudos de caso
 
-**Estudo de caso:
-Usando vídeos gravados em celulares como evidência**
+#### Usando vídeos gravados em celulares como evidência**
 
 HuMa coleta dados sobre conflitos de terra na Indonésia, incluindo vídeos de comunidades locais falando sobre seus meios de subsistência e experiências. Os vídeos foram gravados em telefones celulares por membros da comunidade e combinados com outras fontes de dados como dados de GPS, aumentando seu valor como evidência.
 
@@ -75,7 +73,7 @@ HuMa coleta dados sobre conflitos de terra na Indonésia, incluindo vídeos de c
 - Os dados têm sido usados por grupos incluindo a Comissão Nacional de Direitos Humanos, o Chefe da Polícia Nacional e outras ONGs.
 - A agência de certificação de Perhutani (uma madeireira estatal indonésia) também consultou os dados HuMa como base para investigar determinados incidentes.
 
-**Estudo de caso: Uso de vídeo para documentar exploração ilegal na Indonésia**
+#### Uso de vídeo para documentar exploração ilegal na Indonésia**
 
 Em resposta a campanhas de defesa, a empresa de papel indonésia APP assinou um compromisso de desflorestamento zero. Em setembro de 2013, Olhos na Floresta (Eyes on the Forest - uma coalizão de 3 organizações ambientais locais na Indonésia), filmaram uma madeireira conhecida como fornecedora da APP desmatando floresta natural.
 

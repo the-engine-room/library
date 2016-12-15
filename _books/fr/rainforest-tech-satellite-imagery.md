@@ -35,12 +35,12 @@ Cette introduction est issue du [*Guide introductif à l’utilisation de la tec
 
 Téléchargez le guide introductif complet (1,6 MB pdf), ou consultez le en ligne ci-dessous.
 
-## Qu’est-ce que l’imagerie satellite?
+## Qu’est-ce que l’imagerie satellite ?
 
 * Les satellites en orbite autour de la Terre prennent des photographies de la surface de la planète depuis l’espace, notamment des forêts et des territoires des communautés.  
 * Ces photographies peuvent être utilisées pour déterminer les changements qui se sont produits dans une zone forestière sur une certaines période, ou combinées avec d’autres formes d’information dont d’autres types de cartes.
 
-## Quelle en est l’utilité?
+## Quelle en est l’utilité ?
 Par le passé, seules les grandes institutions, les gouvernements et les grandes entreprises pouvaient s’offrir des images satellite. Cette technologie est à présent largement accessible et gratuite (ou très bon marché). Comparer des images d’une même zone prises régulièrement peut servir à établir des preuves de déforestation, de tendances comme la croissance des activités commerciales ou d’impacts visibles de la destruction des forêts comme la monoculture (qui suit un schéma de plantation reconnaissable du ciel).
 
 ## Outils

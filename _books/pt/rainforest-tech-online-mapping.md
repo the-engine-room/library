@@ -1,14 +1,13 @@
 ---
 layout: rainforest
 title: Mapas online
-description: Uma introdução ao uso de mapas online que combinam diferentes tipos de dados em projetos relacionados a florestas tropicais, para fins como monitoramento em tempo real (mostrando os lugares onde ocorrem a maioria dos incidentes), campanha (mostrando que a cobertura florestal está sendo reduzida dramaticamente) ou análise (ganhando novas perspectivas com a sobreposição de diferentes tipos de dados no mesmo mapa) . Parte do relatório <a href="https://library.theengineroom.org/rainforest-tech/">Tecnologia Rainforest</a> .
+description: Uma introdução ao uso de mapas online que combinam diferentes tipos de dados em projetos relacionados a florestas tropicais, para fins como monitoramento em tempo real (mostrando os lugares onde ocorrem a maioria dos incidentes), campanha (mostrando que a cobertura florestal está sendo reduzida dramaticamente) ou análise (ganhando novas perspectivas com a sobreposição de diferentes tipos de dados no mesmo mapa). Parte do relatório <a href="https://library.theengineroom.org/rainforest-tech/">Tecnologia Rainforest</a>.
 image: /media/index/online.svg
 funder_name: Fundação Rainforest da Noruega
 funder_logo: /images/logos/rfn.svg
 funder_link: http://regnskog.no/en
 published: true
 navigation:
-  - Objetivos possíveis
   - O que é
   - Como pode ajudar
   - Ferramentas
@@ -70,17 +69,18 @@ O custo de design e criação de mapas interativos online depende de o quanto as
 
 Empresas armazenam informações sobre quando, onde e como você carrega mapas em uma plataforma de mapeamento comercial, o que significa que mapas públicos em plataformas comerciais podem marcar a localização de pessoas que carregaram as informações colocando-as em risco. Enquanto isso, é crucial evitar erros: as informações apresentadas no lugar errado poderiam frustrar o propósito da campanha.
 
-### **Estudos de caso**
+### Estudos de caso**
 
-**Impacto de mapas animados para mostrar a perda de cobertura florestal**
+#### Impacto de mapas animados para mostrar a perda de cobertura florestal
 
 Open Development Cambodia trabalha para coletar e fornecer informações quantitativas sobre as terras, economia e questões ambientais do Cambodia. Eles usaram as informações de mudança de cobertura florestal ao longo de um período de dez anos para criar um vídeo com lapso de tempo mostrando a perda de cobertura florestal.
+
 **Como isso ajudou?**
+
 - O vídeo foi rápido e fácil de fazer porque a ODC já tinha todas as informações preparadas e carregadas em seus mapas interativos.
 - O vídeo com lapso de tempo foi uma ferramenta eficaz de defesa porque mostrou claramente a extensão do desflorestamento no Camboja. Foi visto mais de dois milhões de vezes.
 
-
-**Recursos de mapeamento e comunidades na Amazônia**
+#### Recursos de mapeamento e comunidades na Amazônia
 
 RAISG (Amazonian Network of Georeferenced Socio-Environmental Information) é um projeto de muitos anos que visa conscientizar e defender os direitos dos indígenas e questões ambientais, e tem coletado informações sobre áreas protegidas, terras indígenas, bacias hidrográficas, e exploração ilegal de madeira.
 

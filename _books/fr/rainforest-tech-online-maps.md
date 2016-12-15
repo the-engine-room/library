@@ -38,7 +38,7 @@ Téléchargez le guide introductif complet (1,6 MB pdf), ou consultez le en lign
 * Elles représentent une manière efficace et visuellement attrayante de présenter les informations recueillies sur le sujet de vos travaux (par exemple à travers la cartographie participative ou la collecte mobile de données). Ces cartes peuvent être **statiques**, sous forme d’images ou d’illustrations ; **animées, **pour montrer un changement au cours du temps ; ou **interactives**, permettant aux utilisateurs de zoomer ou dézoomer, de cliquer sur des endroits de la carte pour obtenir plus d’informations, ou d’entrer leurs propres informations (production participative aussi appelée « *crowdsourcing »*).
 * Les cartes peuvent être créées de A à Z et mises en ligne sur internet, ou les informations peuvent être ajoutées à des cartes en ligne existantes comme OpenStreetMap, Google Maps ou Crowdmap (http://www.openstreetmap.org/; https://www.google.com/maps/; https://crowdmap.com/).
 
-### Quelle en est l’utilité
+### Quelle en est l’utilité ?
 Les cartes en ligne peuvent servir à la **surveillance en temps réel **(en indiquant à quels endroits les incidents sont les plus fréquents), aux** campagnes **(en démontrant la réduction spectaculaire du couvert forestier) ou à **l’analyse **(pour une meilleure appréhension de la situation par la superposition de différents types de données sur une même carte).
 
 ### Outils

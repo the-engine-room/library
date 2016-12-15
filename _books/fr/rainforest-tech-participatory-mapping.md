@@ -71,7 +71,7 @@ Le Programme Forest Peoples, le Centre pour l’environnement et le développeme
 #### Évaluation du braconnage au Congo
 En 2013, les chasseurs cueilleurs Mbendjele ont travaillé avec le groupe de recherche ExCiteS du University College de Londres à la collecte de données pour mesurer les actes de braconnage à l’aide d’une application Android. Le projet a utilisé le téléphone Samsung Galaxy X Cover et une version modifiée de Collect de l’Open Data qui utilise des icônes à la place du texte. Afin de minimiser les risques pour les observateurs d’être surpris par les braconneurs, un simple procédé de verrouillage automatique a été installé sur les téléphones pour pouvoir dissimuler la fonction de l’application.
 
-**Quelle en a été l’utilité?**
+**Quelle en a été l’utilité ?**
 
 * Le projet a développé des relations étroites depuis 2005 avec les Mbendjele impliqués dans la collecte de données, qui ont été impressionnés de l’intérêt qu’ont porté les entreprises d’exploitation du bois aux cartes qu’ils avaient produites.
 * Les observateurs ont appris à maîtriser l’utilisation des fonctions audio, photo et vidéo et ont enregistré des images de haute qualité. La conception robuste des téléphones leur a permis de fonctionner idéalement en milieu forestier.

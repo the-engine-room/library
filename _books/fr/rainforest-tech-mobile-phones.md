@@ -34,7 +34,7 @@ Cette introduction est issue du [*Guide introductif à l’utilisation de la tec
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
-### Que sont les techniques audio et vidéo?
+### Que sont les techniques audio et vidéo ?
 
 * Les applications (ou « applis ») mobiles sont des logiciels de programme fonctionnant sur des appareils mobiles tels que les téléphones et les tablettes tactiles. Dans les projets liés à la forêt tropicale, elles sont principalement utilisées pour collecter des données sur le terrain et les transmettre directement à une organisation.  
 * Les applications mobiles ont de nombreuses utilisations possibles, dont recueillir des preuves de coupe de bois ou d’exploitation minière illégales, surveiller la biodiversité, aider les communautés à cartographier leurs territoires ou valider les cartes élaborées par le gouvernement.

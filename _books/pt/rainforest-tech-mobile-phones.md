@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Aplicativos para celular
-description: Uma introdução ao uso de aplicativos móveis para telefones (celulares) para coletar e registrar dados em projetos relacionados a florestas tropicais, registrar mineração ou exploração ilegal, fazer pesquisa de biodiversidade, ajudar as comunidades a mapear sua própria terra, ou validar mapas do governo . Parte do relatório <a href="/pt/rainforest-tech/">Tecnologia Rainforest</a>
+description: Uma introdução ao uso de aplicativos móveis para telefones (celulares) para coletar e registrar dados em projetos relacionados a florestas tropicais, registrar mineração ou exploração ilegal, fazer pesquisa de biodiversidade, ajudar as comunidades a mapear sua própria terra, ou validar mapas do governo. Parte do relatório <a href="/pt/rainforest-tech/">Tecnologia Rainforest</a>
 image: /media/index/mobile.svg
 funder_name: Fundação Rainforest da Noruega
 funder_logo: /images/logos/rfn.svg
@@ -78,7 +78,7 @@ O conjunto de aplicativos ArcGIS é um produto GIS premium que oferece opções 
 
 ### Estudos de caso
 
-**Usando monitores da comunidade para mapeamento em Guiana**
+#### Usando monitores da comunidade para mapeamento em Guiana
 
 Desde 2011, o Programa Global Canopy tem executado um sistema de monitoramento da comunidade com 16 comunidades ameríndias de North Rupununi (Guiana) para fornecer informações sobre as causas desflorestamento, uso da terra e questões socioeconômicas. Monitores da comunidade preenchem formulários em smartphones com Android (Samsung Galaxy X Cover) usando um aplicativo móvel desenvolvido com Open Data Kit. Cada formulário enviado contém dados de localização do GPS integrado do telefone e fotos da sua câmera. Os dados resultantes são então carregados em um sistema de armazenamento de dados online para análise usando Microsoft Excel, ArcGIS, e ODK Aggregate, e mais tarde SMAP software, QGIS, e Google Maps Engine.
 
@@ -88,7 +88,7 @@ Desde 2011, o Programa Global Canopy tem executado um sistema de monitoramento d
 - Popular com as comunidades locais, 87% dos líderes locais e conselheiros do vilarejo disseram que os telefones ajudaram a comunidade a conhecer melhor os recursos locais.
 - O projeto incentivou a colaboração dos mais velhos, conhecedores dos recursos naturais, e dos jovens que são ágeis com dispositivos móveis.
 
-**Usando dispositivos GPS para documentar invasões de territórios indígenas**
+#### Usando dispositivos GPS para documentar invasões de territórios indígenas
 
 Povos indígenas no Acre foram treinados pela Comissão Pró-Índio do Acre, (CPI-AC) para usarem dispositivos GPS para registrar invasões de territórios indígenas.
 
