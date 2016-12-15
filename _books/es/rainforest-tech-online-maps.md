@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Mapas en línea
-description: Una introducción al uso de mapas en línea que combinan diferentes tipos de datos en proyectos relacionados a bosques lluviosos a fin de incluir monitoreo en tiempo real (mostrar los lugares donde ocurre la mayoría de los incidentes), llevar a cabo campañas (por ejemplo, mostrar la ubicación de reducciones drásticas de la cubierta forestal) o realizar análisis (obtener nuevas perspectivas al superponer diferentes tipos de datos sobre el mismo mapa). <p>Parte del informe <a href="/rainforest-tech">Tecnología para bosques lluviosos</a>.</p>
+description: Una introducción al uso de mapas en línea que combinan diferentes tipos de datos en proyectos relacionados a bosques lluviosos a fin de incluir monitoreo en tiempo real (mostrar los lugares donde ocurre la mayoría de los incidentes), llevar a cabo campañas (por ejemplo, mostrar la ubicación de reducciones drásticas de la cubierta forestal) o realizar análisis (obtener nuevas perspectivas al superponer diferentes tipos de datos sobre el mismo mapa) . <p>Parte del informe <a href="/rainforest-tech">Tecnología para bosques lluviosos</a> .</p>
 image: /media/index/online.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg

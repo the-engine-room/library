@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Mapeo participativo y con GPS
-description: Una introducción a la producción de mapas en colaboración con las comunidades (mapeo participativo) a fin de mostrar el uso real de un área, comparar un área con mapas “oficiales” y usar dicha información en reclamaciones comunitarias de derechos territoriales. <p>Parte del informe <a href="/rainforest-tech">Tecnología para bosques lluviosos</a>.</p>
+description: Una introducción a la producción de mapas en colaboración con las comunidades (mapeo participativo) a fin de mostrar el uso real de un área, comparar un área con mapas “oficiales” y usar dicha información en reclamaciones comunitarias de derechos territoriales . <p>Parte del informe <a href="/rainforest-tech">Tecnología para bosques lluviosos</a> .</p>
 image: /media/index/participatory.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg

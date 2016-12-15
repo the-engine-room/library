@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Aplicaciones para teléfonos móviles
-description: Una introducción al uso de aplicaciones para teléfonos móviles (celulares) para recopilar y grabar datos en proyectos relacionados a bosques lluviosos a fin de registrar minería o talas ilegales, llevar a cabo encuestas sobre biodiversidad, ayudar a las comunidades a crear mapas de sus propias tierras o validar mapas del gobierno. <p>Parte del informe <a href="/rainforest-tech">Tecnología para bosques lluviosos</a>.</p>
+description: Una introducción al uso de aplicaciones para teléfonos móviles (celulares) para recopilar y grabar datos en proyectos relacionados a bosques lluviosos a fin de registrar minería o talas ilegales, llevar a cabo encuestas sobre biodiversidad, ayudar a las comunidades a crear mapas de sus propias tierras o validar mapas del gobierno . <p>Parte del informe <a href="/rainforest-tech">Tecnología para bosques lluviosos</a> .</p>
 image: /media/index/mobile.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg

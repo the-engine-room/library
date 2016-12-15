@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Aplicativos para celular
-description: Uma introdução ao uso de aplicativos móveis para telefones (celulares) para coletar e registrar dados em projetos relacionados a florestas tropicais, registrar mineração ou exploração ilegal, fazer pesquisa de biodiversidade, ajudar as comunidades a mapear sua própria terra, ou validar mapas do governo. Parte do relatório <a href="/pt/rainforest-tech/">Tecnologia Rainforest</a>
+description: Uma introdução ao uso de aplicativos móveis para telefones (celulares) para coletar e registrar dados em projetos relacionados a florestas tropicais, registrar mineração ou exploração ilegal, fazer pesquisa de biodiversidade, ajudar as comunidades a mapear sua própria terra, ou validar mapas do governo . Parte do relatório <a href="/pt/rainforest-tech/">Tecnologia Rainforest</a>
 image: /media/index/mobile.svg
 funder_name: Fundação Rainforest da Noruega
 funder_logo: /images/logos/rfn.svg
