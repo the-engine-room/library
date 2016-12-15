@@ -54,13 +54,13 @@ Un enfoque común es proporcionar a los monitores forestales un dispositivo móv
 
 Existe una amplia gama de aplicaciones: la más apropiada dependerá de cuántos datos necesita recopilar, el nivel de soporte técnico necesario y otras necesidades particulares. Hay sitios web disponibles para asistir en la identificación de herramientas y aplicaciones móviles más apropiadas, entre ellos [Humanitarian Nomad](http://humanitarian-nomad.org/online-selection-tool/) y [Solutions Center](http://solutionscenter.nethope.org/).
 
-### **Costo – tres factores determinantes**
+### Costo
 
-**Tipo de dispositivo:** Los rastreadores especializados GPS a menudo son más duraderos y sus baterías duran más pero a veces el nivel de precisión de los teléfonos móviles es suficiente para estos esfuerzos. Existen teléfonos inteligentes con sistemas operativos Android disponibles a menos 100 USD, con precios cada vez menores. Si solamente se necesitan funciones sencillas, los teléfonos básicos con una buena opción para recoger datos usando plataformas SMS o programas diseñados en Java (J2ME).
+*Tipo de dispositivo:* Los rastreadores especializados GPS a menudo son más duraderos y sus baterías duran más pero a veces el nivel de precisión de los teléfonos móviles es suficiente para estos esfuerzos. Existen teléfonos inteligentes con sistemas operativos Android disponibles a menos 100 USD, con precios cada vez menores. Si solamente se necesitan funciones sencillas, los teléfonos básicos con una buena opción para recoger datos usando plataformas SMS o programas diseñados en Java (J2ME).
 
-**Complejidad de la aplicación:** Mientras más funciones desee, mayor capacitación y soporte técnico necesitará. Servicios como ArcGIS incluyen soporte técnico pero es costoso; sin embargo, existen soluciones de código abierto como Open Data Kit que obligan a los usuarios a encontrar su propia solución a los problemas (en su propio tiempo) o llamar a expertos externos (a costa propia).
+*Complejidad de la aplicación:* Mientras más funciones desee, mayor capacitación y soporte técnico necesitará. Servicios como ArcGIS incluyen soporte técnico pero es costoso; sin embargo, existen soluciones de código abierto como Open Data Kit que obligan a los usuarios a encontrar su propia solución a los problemas (en su propio tiempo) o llamar a expertos externos (a costa propia).
 
-**¿Qué cantidad de datos se desea recabar?** Mientras más datos se recolecten, mayores serán los costos por base de datos donde almacenar la información, respaldos offline y cuotas de mensajes SMS.
+*¿Qué cantidad de datos se desea recabar?* Mientras más datos se recolecten, mayores serán los costos por base de datos donde almacenar la información, respaldos offline y cuotas de mensajes SMS.
 
 A manera de ejemplo, a continuación se describen dos opciones disponibles en extremos opuestos según su costo:
 
@@ -72,49 +72,9 @@ A manera de ejemplo, a continuación se describen dos opciones disponibles en ex
 
 El paquete de aplicaciones [ArcGIS](www.esri.com/nonprofit/) es un producto SIG de primer nivel que ofrece potentes opciones para producir y analizar datos de mapas. Una licencia básica de usuario asciende actualmente a 1.500 USD al año, lo cual incluye soporte técnico en línea y por teléfono. Para aprovecharlo al máximo es necesario adquirir el paquete completo: aplicación para Android, un programa que maneja los datos recogidos en su servidor y un programa para publicar mapas en línea. La ventaja de utilizar un software pago de alto nivel es que contiene un mayor número de funciones y se puede confiar en que funcionarán como se espera. Las desventajas radican en su alto costo y, dado que es un modelo de código cerrado, la imposibilidad de contratar a un programador para adaptarlo a las necesidades de su proyecto.
 
-### **Riesgos y desafíos**
-
-Es imposible recoger y compartir datos con total seguridad utilizando teléfonos móviles debido al [diseño de los dispositivos mismos](https://securityinabox.org/en/guide/mobile-phones). Esto puede poner en peligro a las personas implicadas en la recolección de información; a veces el solo hecho de poseer una aplicación implica riesgos para los monitores comunitarios. Las personas y los entornos también pueden verse amenazados como resultado de la información que se publica sobre los mismos (ver secciones "Información sobre uso responsable de datos" en la sección [**Estrategia**)](/rainforest-tech/#strategy).
-
-### Casos de estudio
-#### Usar monitores comunitarios para la creación de mapas en Guayana
-
-Desde 2011, el programa Global Canopy ha operado un sistema de monitoreo comunitario con 16 comunidades amerindias del norte de Rupununi (Guayana) para proporcionar información sobre causas de las pérdidas de masa forestal, sobre prácticas de uso de la tierra y sobre asuntos socio-económicos. Los monitores comunitarios completan formularios en teléfonos inteligentes Android (Samsung Galaxy X Cover) utilizando una aplicación móvil diseñada a partir del Open Data Kit. Cada formulario enviado contiene datos de ubicación captados por el GPS integrado y fotografías provenientes de la cámara. Los datos obtenidos se cargan a un sistema de almacenamiento de información en línea para su análisis con Microsoft Excel, ArcGIS, y ODK Aggregate, y posteriormente con software SMAP, QGIS, y Google Maps Engine.
-
-**Contribución**
-* Las aplicaciones móviles (o “apps”) son programas de software diseñados para dispositivos móviles como teléfonos o tabletas. En proyectos sobre los bosques lluviosos, las aplicaciones se utilizan principalmente para recoger datos en el terreno y trasmitirlos directamente a una organización.
-* Las aplicaciones móviles se pueden utilizar para diversos propósitos, entre ellos registrar casos de minería o tala ilegal, realizar encuestas sobre biodiversidad, asistir a las comunidades en el mapeado de sus tierras o validar mapas del gobierno.
-* Las aplicaciones pueden funcionar tanto en teléfonos básicos utilizando servicios de SMS (por sus siglas en inglés, Short Message Service) o para teléfonos inteligentes (equipados con sensores de GPS y cámaras).
-
-### Contribuciones posibles
-
-Recopilar información sobre el terreno puede ser un proceso largo que implica transportar grandes cantidades de formularios impresos en áreas remotas para luego transcribir su contenido. Las aplicaciones móviles logran facilitar y agilizar este proceso.
-
-Un enfoque común es proporcionar a los monitores forestales un dispositivo móvil con una aplicación ya cargada que pueden utilizar para subir y transmitir datos a la organización a través de las redes de telefonía móvil o conexión internet móvil a un servidor. La mayoría de las aplicaciones captura automáticamente los errores y piden correcciones. La mayoría de los teléfonos inteligentes capturan datos de GPS que pueden ser mapeados y combinados con otros tipos de datos (ver Mapas en línea).
-
-### Herramientas
-
-Existe una amplia gama de aplicaciones: la más apropiada dependerá de cuántos datos necesita recopilar, el nivel de soporte técnico necesario y otras necesidades particulares. Hay sitios web disponibles para asistir en la identificación de herramientas y aplicaciones móviles más apropiadas, entre ellos Humanitarian Nomad y Solutions Center. [1](http://humanitarian-nomad.org/online-selection-tool/) [2]( http://solutionscenter.nethope.org/)
-
-### Costo – tres factores determinantes
-
-**Tipo de dispositivo:** Los rastreadores especializados GPS a menudo son más duraderos y sus baterías duran más pero a veces el nivel de precisión de los teléfonos móviles es suficiente para estos esfuerzos. Existen teléfonos inteligentes con sistemas operativos Android disponibles a menos 100 USD, con precios cada vez menores. Si solamente se necesitan funciones sencillas, los teléfonos básicos con una buena opción para recoger datos usando plataformas SMS o programas diseñados en Java (J2ME).
-
-**Complejidad de la aplicación:** Mientras más funciones desee, mayor capacitación y soporte técnico necesitará. Servicios como ArcGIS incluyen soporte técnico pero es costoso; sin embargo, existen soluciones de código abierto como Open Data Kit que obligan a los usuarios a encontrar su propia solución a los problemas (en su propio tiempo) o llamar a expertos externos (a costa propia).
-
-**¿Qué cantidad de datos se desea recabar?** Mientras más datos se recolecten, mayores serán los costos por base de datos donde almacenar la información, respaldos offline y cuotas de mensajes SMS.
-
-A manera de ejemplo, a continuación se describen dos opciones disponibles en extremos opuestos según su costo:
-
-#### Código abierto, gratuito pero presenta dificultades técnicas - Open Data Kit
-Open Data Kit (ODK) es un conjunto de herramientas de código abierto (open source) para la recolección móvil de datos. Ha sido utilizada con éxito en un gran variedad de proyectos relacionados con la protección forestal. Es gratuito, puede ser modificado según sus necesidades y cuenta con una comunidad activa de programadores que proveen soporte técnico y estratégico. La desventaja del software es que no es perfecto: ha sido diseñado por un sinfín de voluntarios, y por tanto es de esperarse que a veces las cosas no funcionen. Es probable que se necesite presupuestar un programador que modifique el software y asegurar acceso a soporte técnico en caso de surgir dificultades.
-
-#### Potente pero costoso - Collector de ArcGIS
-El paquete de aplicaciones ArcGIS es un producto SIG de primer nivel que ofrece potentes opciones para producir y analizar datos de mapas. Una licencia básica de usuario asciende actualmente a 1.500 USD al año, lo cual incluye soporte técnico en línea y por teléfono. Para aprovecharlo al máximo es necesario adquirir el paquete completo: aplicación para Android, un programa que maneja los datos recogidos en su servidor y un programa para publicar mapas en línea. La ventaja de utilizar un software pago de alto nivel es que contiene un mayor número de funciones y se puede confiar en que funcionarán como se espera. Las desventajas radican en su alto costo y, dado que es un modelo de código cerrado, la imposibilidad de contratar a un programador para adaptarlo a las necesidades de su proyecto.
-
 ### Riesgos y desafíos
 
-Es imposible recoger y compartir datos con total seguridad utilizando teléfonos móviles debido al diseño de los dispositivos mismos. [3](https://securityinabox.org/en/guide/mobile-phones) Esto puede poner en peligro a las personas implicadas en la recolección de información; a veces el solo hecho de poseer una aplicación implica riesgos para los monitores comunitarios. Las personas y los entornos también pueden verse amenazados como resultado de la información que se publica sobre los mismos (ver secciones “Información sobre uso responsable de datos” en la sección Estrategia).
+Es imposible recoger y compartir datos con total seguridad utilizando teléfonos móviles debido al [diseño de los dispositivos mismos](https://securityinabox.org/en/guide/mobile-phones). Esto puede poner en peligro a las personas implicadas en la recolección de información; a veces el solo hecho de poseer una aplicación implica riesgos para los monitores comunitarios. Las personas y los entornos también pueden verse amenazados como resultado de la información que se publica sobre los mismos (ver secciones "Información sobre uso responsable de datos" en la sección [**Estrategia**)](/rainforest-tech/#strategy).
 
 ### Casos de estudio
 
@@ -143,17 +103,6 @@ La Comisión Pro-Indio de Acre (Comissão Pró-Indio do Acre, o CPI-AC) capacit�
 
 * El proyecto motivó la colaboración entre los ancianos líderes que poseían conocimientos sobre los recursos naturales y la gente joven que manejaba los [dispositivos móviles](http://tinyurl.com/q9jg3xt) más fácilmente.
 
-**Caso de estudio: Uso de dispositivos GPS para documentar invasiones de territorio indígena**
-
-La Comisión Pro-Indio de Acre (Comissão Pró-Indio do Acre, o CPI-AC) capacitó a personas indígenas de la región de Acre en el uso de dispositivos GPS para registrar invasiones de territorios indígenas.
-
-**Contribución**
-
-* La información recogida por las personas indígenas se utilizó para elaborar mapas que resaltaban el problema y presentar pruebas de las áreas más problemáticas.
-
-* Al presentar uno de los mapas de invasiones al antiguo Ministro del Medioambiente, se desencadenó una acción multisectorial por parte del gobierno federal en contra de las invasiones.
-
-
 ### Otros recursos
 
 * El informe Mobiles in Development de **The engine room** presenta un panorama del uso móvil en el desarrollo, incluida información adicional sobre la recolección de datos móvil: [http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development](http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development)
@@ -173,6 +122,8 @@ La Comisión Pro-Indio de Acre (Comissão Pró-Indio do Acre, o CPI-AC) capacit�
 * **OpenForis** es un conjunto de aplicaciones móviles y herramientas de software para la recolección y el análisis de datos: [http://www.openforis.org/](http://www.openforis.org/)
 
 * **TechSoup** contiene guías para la selección de dispositivos móviles según sus necesidades: [http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for](http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for)
+
+***
 
 ### **Acerca de este sitio**
 Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).

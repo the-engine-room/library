@@ -81,6 +81,8 @@ Las compañías almacenan información sobre cuándo, dónde y cómo los usuario
 * La RAISG presenta toda la información recopilada en [mapas interactivos en línea](http://raisg.socioambiental.org/mapa-online/index.html), así como en mapas estáticos descargables con [infográficos](http://raisg.socioambiental.org/amazonia-2012-areas-protegidas-e-territorios-indigenas#english) e [informes](http://raisg.socioambiental.org/system/files/Amazonia%20under%20pressure16_05_2013.pdf).
 * Gracias a su metodología, los mapas de la RAISG son una herramienta sólida para acción basada en pruebas concretas. Al ejercer presión ante los gobiernos, las organizaciones asociadas son capaces de confiar en la información de la RAISG.
 
+***
+
 ### **Acerca de este sitio**
 Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
 

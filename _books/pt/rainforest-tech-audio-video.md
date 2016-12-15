@@ -64,7 +64,7 @@ Você agora pode criar vídeo e áudio a baixo custo, mas em geral, quanto mais 
 
 ### Estudos de caso
 
-#### Usando vídeos gravados em celulares como evidência**
+#### Usando vídeos gravados em celulares como evidência
 
 HuMa coleta dados sobre conflitos de terra na Indonésia, incluindo vídeos de comunidades locais falando sobre seus meios de subsistência e experiências. Os vídeos foram gravados em telefones celulares por membros da comunidade e combinados com outras fontes de dados como dados de GPS, aumentando seu valor como evidência.
 
@@ -73,7 +73,7 @@ HuMa coleta dados sobre conflitos de terra na Indonésia, incluindo vídeos de c
 - Os dados têm sido usados por grupos incluindo a Comissão Nacional de Direitos Humanos, o Chefe da Polícia Nacional e outras ONGs.
 - A agência de certificação de Perhutani (uma madeireira estatal indonésia) também consultou os dados HuMa como base para investigar determinados incidentes.
 
-#### Uso de vídeo para documentar exploração ilegal na Indonésia**
+#### Uso de vídeo para documentar exploração ilegal na Indonésia
 
 Em resposta a campanhas de defesa, a empresa de papel indonésia APP assinou um compromisso de desflorestamento zero. Em setembro de 2013, Olhos na Floresta (Eyes on the Forest - uma coalizão de 3 organizações ambientais locais na Indonésia), filmaram uma madeireira conhecida como fornecedora da APP desmatando floresta natural.
 
@@ -83,6 +83,7 @@ Em resposta a campanhas de defesa, a empresa de papel indonésia APP assinou um 
 - Embora tenha sido filmado à distância, o vídeo ainda assim era valioso como evidência porque mostra claramente a exploração em andamento. Teve o apoio de fotógrafos com coordenadas GPS e um relatório detalhado.
 - APP foi forçada a responder ao vídeo declarando que a exploração era em uma zona de exclusão que não tinha sido divulgada.
 
+***
 
 ### Sobre
 

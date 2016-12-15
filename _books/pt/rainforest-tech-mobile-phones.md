@@ -54,13 +54,13 @@ Uma abordagem comum é dar um dispositivo móvel com um aplicativo para os monit
 
 Há diversos aplicativos à sua escolha: o aplicativo certo para você dependente de quantos dados você está coletando, quanta assistência técnica você precisa e o quanto as suas necessidades são específicas.  Há websites que podem ajudar você a identificar as ferramentas ou aplicativos móveis mais adequados, incluindo [Humanitarian Nomad](http://humanitarian-nomad.org/online-selection-tool/) e [Solutions Center](http://solutionscenter.nethope.org/).
 
-### **Custo - depende de três fatores**
+### Custo
 
-**Tipo de dispositivo:** Rastreadores GPS dedicados são quase sempre mais duráveis e sua bateria dura mais, mas a precisão dos telefones celulares é suficiente para trabalho nas florestas tropicais. Smartphones com sistemas operacionais Android estão disponíveis por menos de 100 dólares e o preço continua caindo. Se você só precisa de funções simples, telefones com recursos mais baratos são uma boa opção. Eles podem ser usados para coletar dados usando SMS ou programas em Java (J2ME).  
+*Tipo de dispositivo:* Rastreadores GPS dedicados são quase sempre mais duráveis e sua bateria dura mais, mas a precisão dos telefones celulares é suficiente para trabalho nas florestas tropicais. Smartphones com sistemas operacionais Android estão disponíveis por menos de 100 dólares e o preço continua caindo. Se você só precisa de funções simples, telefones com recursos mais baratos são uma boa opção. Eles podem ser usados para coletar dados usando SMS ou programas em Java (J2ME).  
 
-**O quanto o aplicativo é complexo?** Quanto mais recursos você quiser, mais treinamento e assistência na solução de problemas vai precisar. Está incluída assistência em serviços como ArcGIS, mas custa caro. Soluções Open source como o Kit Open Data, por outro lado, força você a resolver os problemas (o que toma tempo do pessoal) ou a chamar especialistas de fora (o que normalmente custa dinheiro).
+*O quanto o aplicativo é complexo?* Quanto mais recursos você quiser, mais treinamento e assistência na solução de problemas vai precisar. Está incluída assistência em serviços como ArcGIS, mas custa caro. Soluções Open source como o Kit Open Data, por outro lado, força você a resolver os problemas (o que toma tempo do pessoal) ou a chamar especialistas de fora (o que normalmente custa dinheiro).
 
-**Qual o volume de dados que deseja coletar?** Quanto mais dados você captura, mais você gasta no banco de dados que contém as informações, em back-up offline de dados ou tarifas de mensagens SMS.
+*Qual o volume de dados que deseja coletar?* Quanto mais dados você captura, mais você gasta no banco de dados que contém as informações, em back-up offline de dados ou tarifas de mensagens SMS.
 
 Para lhe dar uma ideia das opções disponíveis, aqui estão dois exemplos diferentes de custos:
 
@@ -108,6 +108,8 @@ Povos indígenas no Acre foram treinados pela Comissão Pró-Índio do Acre, (CP
 - Forest Compass coleta recursos para monitoramento florestal feito pela comunidade [http://forestcompass.org/how/resources](http://forestcompass.org/how/resources)
 - OpenForis é um conjunto de aplicativos móveis e ferramentas de software que podem ajudar você a coletar e analisar dados [http://www.openforis.org/](http://www.openforis.org/)
 - TechSoup aconselha na escolha de dispositivo móvel que supra as suas necessidades [http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for](http://www.techsoup.org/support/articles-and-how-tos/choosing-a-mobile-device-what-to-look-for).
+
+***
 
 ### **Sobre**
 Este site foi criado pela [Fundação Rainforest da Noruega](www.regnskog.no/en/) e [The Engine Room](//theengineroom.org) como uma introdução ao uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direito à terra e direitos dos indígenas. Baixe a cartilha completa aqui.

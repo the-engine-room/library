@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Tecnología para bosques lluviosos
-description: Una introducción (o guía) al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar avances tecnológicos en la mejora de sus esfuerzos de defensa. 
+description: Una introducción (o guía) al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar avances tecnológicos en la mejora de sus esfuerzos de defensa.
 image: /media/index/rainforest.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
@@ -716,6 +716,8 @@ Los recursos que se enumeran a continuación se encuentran disponibles en el idi
 * **Security in-a-Box** es una guía sobre seguridad digital para activistas y defensores de derechos humanos alrededor del mundo producida por Frontline Defenders y Tactical Technology Collective: [https://info.securityinabox.org/vi](https://info.securityinabox.org/vi)
 
 * **Datahub** es una plataforma de manejo de datos para la búsqueda, registro de hojas de datos publicadas, creación y manejo de grupos de hojas de datos: [http://datahub.io/vi/about](http://datahub.io/vi/about)
+
+***
 
 ## **Acerca de este sitio**
 Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).

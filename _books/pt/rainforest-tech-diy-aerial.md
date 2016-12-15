@@ -24,20 +24,16 @@ categories:
 # Fotografia aérea faça você mesmo
 
 > ### Objetivos possíveis
-
 > * Coletar indícios de desflorestamento ou degradação florestal
-
 > * Capturar evidência de irregularidades de empresas no uso da terra
-
 > * Apoiar as comunidades apresentando e fornecendo conhecimento
-
 > * Fornecer evidências concretas ao poder público para incentivá-los a reconhecer terras indígenas.
 
 Esta introdução faz parte de uma [Cartilha de uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direitos territoriais e dos indígenas](https://library.theengineroom.org/rainforest-tech). Foi criada como um ponto de partida para organizações e ativistas interessados em utilizar tecnologia para realizar melhor seu trabalho de proteção, e resultou de uma parceria entre a [Fundação Rainforest da Noruega](http://www.regnskog.no/en/) e [The Engine Room](https://theengineroom.org/).
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
-*[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online.*
+*[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642)* ou leia abaixo online.
 
 ### **O que é**
 
@@ -75,7 +71,7 @@ Em 2014, membros da comunidade Wapichana em Guiana e a organização Digital Dem
 
 * O grupo identificou diversos usos possíveis para o drone no futuro, incluindo monitoramento de desflorestamento ao longo do tempo, mapeamento de vilarejos para alocação de gestão de recursos, e [documentação](http://www.digital-democracy.org/blog/we-built-a-drone/) de exploração ilegal.
 
-#### Denúncia de exploração ilegal usando um drone**
+#### Denúncia de exploração ilegal usando um drone
 
 Em 2014, ConservationDrones e o Sumatran Orangutan Conservation Programme (SOCP) usaram um drone para tirar fotos aéreas de parte do Parque Nacional Gunung Leuser na Indonésia. A organização voou sobre a mesma área duas vezes em dois meses, produzindo claras evidências fotográficas de exploração ilegal.
 
@@ -91,13 +87,15 @@ Em 2014, ConservationDrones e o Sumatran Orangutan Conservation Programme (SOCP)
 
 * **DIY Drones** tem um guia de introdução aos UAVs: [http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs)
 
-* **Public Laboratory **fornece guias e assistência com a construção de pipas, balões e sensores para mapeamento [http://publiclaboratory.org](http://publiclaboratory.org/wiki/kite-mapping)
+* **Public Laboratory** fornece guias e assistência com a construção de pipas, balões e sensores para mapeamento [http://publiclaboratory.org](http://publiclaboratory.org/wiki/kite-mapping)
 
 * A **Humanitarian UAV network (UAViators)** tem uma série de informações úteis [http://uaviators.org/about-this-site-rules](http://uaviators.org/about-this-site-rules) e uma pesquisa de leis que afetam voos de drones em países ao redor do mundo [http://wiki.uaviators.org/doku.php](http://wiki.uaviators.org/doku.php)
 
 * Guia de mapeamento com balão da **Geojournalism**: [http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/)
 
-* **Solutions Center da NetHope **tem webinars e recursos para o uso de drones [http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles)**. **
+* **Solutions Center da NetHope tem webinars e recursos para o uso de drones [http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles)**. 
+
+***
 
 ### **Sobre**
 

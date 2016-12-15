@@ -22,11 +22,6 @@ categories:
   - pt
 ---
 
-
-Esta introdução faz parte de uma [Cartilha de uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direitos territoriais e dos indígenas](https://library.theengineroom.org/rainforest-tech). Foi criada como um ponto de partida para organizações e ativistas interessados em utilizar tecnologia para realizar melhor seu trabalho de proteção, e resultou de uma parceria entre a [Fundação Rainforest da Noruega](http://www.regnskog.no/en/) e [The Engine Room](https://theengineroom.org/).
-
-*[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online.*
-
 ## **Imagens de satélite**
 
 > ### Objetivos possíveis
@@ -34,14 +29,13 @@ Esta introdução faz parte de uma [Cartilha de uso da tecnologia para monitora
 >* Capturar evidência de irregularidades de empresas no uso da terra
 >* Registrar e monitorar o valor ambiental da terra ou de áreas florestais
 
-
 Uma introdução (ou 'cartilha') ao uso da tecnologia para monitorar e compartilhar informações sobre problemas das florestas tropicais, direito à terra e direito dos indígenas. Foi criada como um ponto de partida para organizações e ativistas que estão pensando em utilizar tecnologia para realizar melhor seu trabalho de defesa.
 
 Resultou de uma parceria entre a Fundação [Rainforest da Noruega](http://www.regnskog.no/en/) e [The Engine Room](https://theengineroom.org/).
 
-[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online.
-
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
+
+[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online.
 
 ### **O que é**
 
@@ -69,7 +63,7 @@ O principal problema com imagens de satélite é a **resolução** , que atualme
 
 ### Estudos de caso
 
-**Estudo de caso: combinando dados de satélite com outras fontes de informações**
+#### Combinando dados de satélite com outras fontes de informações
 
 A organização indonésia de florestas tropicais Warsi combinou dados de mapeamento por satélite obtidos do Landsat Thematic Mapper (Landsat TM) e Advanced Land Observation Satellite (ALOS) com outras fontes de informações para documentar a distribuição do povo Orang Rimba e seu uso dos recursos naturais.
 
@@ -79,8 +73,7 @@ A organização indonésia de florestas tropicais Warsi combinou dados de mapeam
 - As imagens de satélite eram relativamente caras para a Warsi. As nuvens às vezes cobriram partes cruciais da imagem, o que significa que eles precisam analisar uma série de imagens para conseguir uma boa.
 - O Parque Nacional Bukit Duabelas agora fornece aos Orang Rimba direitos de usuário e protege a área formalmente, embora o desflorestamento continue sendo um problema sério na área.
 
-
-**Estudo de caso: usando dados de satélite para fornecer prova jurídica de exploração ilegal**
+#### Usando dados de satélite para fornecer prova jurídica de exploração ilegal
 
 Em janeiro de 2015 a Greenomics-Indonesia analisou duas imagens Landsat da NASA (veja a seção de mapeamento por satélite, abaixo) da ilha Pulau Pedang, na costa de Sumatra, identificaram que grandes áreas de floresta de turfa tinham sido devastadas.
 
@@ -94,6 +87,8 @@ Em janeiro de 2015 a Greenomics-Indonesia analisou duas imagens Landsat da NASA 
 - Global Forest Watch é um sistema de alerta de monitoramento de floresta interativo online que fornece informações de satélite e outros tipos de informações: [www.globalforestwatch.org](www.globalforestwatch.org)
 - CLASlite foi criado para fornecer mapeamento e monitoramento de florestas com imagens de satélite de alta resolução atualizado semanalmente. [http://claslite.carnegiescience.edu/en/index.html](http://claslite.carnegiescience.edu/en/index.html)
 - O Projeto de Tecnologias Geoespaciais AAAS contém estudos de caso detalhados de imagens de satélite coletadas, categorizadas e analisadas para documentar abusos de direitos humanos. [http://www.aaas.org/case-studies](http://www.aaas.org/case-studies)
+
+***
 
 ### **Sobre**
 Este site foi criado pela [Fundação Rainforest da Noruega](www.regnskog.no/en/) e [The Engine Room](//theengineroom.org) como uma introdução ao uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direito à terra e direitos dos indígenas. Baixe a cartilha completa aqui.

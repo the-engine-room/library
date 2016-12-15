@@ -21,12 +21,12 @@ categories:
   - pt
 ---
 
-## **Mapeamento participativo e por GPS**
+## Mapeamento participativo e por GPS
 
-> **Objetivos possíveis**
-> * Iniciar ou apoiar o diálogo entre as comunidades e o poder público
-> * Fornecer evidências concretas ao poder público para incentivá-los a reconhecer terras indígenas.
-> * Apoiar as comunidades apresentando e fornecendo conhecimento
+> Objetivos possíveis
+> - Iniciar ou apoiar o diálogo entre as comunidades e o poder público
+> - Fornecer evidências concretas ao poder público para incentivá-los a reconhecer terras indígenas.
+> - Apoiar as comunidades apresentando e fornecendo conhecimento
 
 Uma introdução (ou 'cartilha') ao uso da tecnologia para monitorar e compartilhar informações sobre problemas das florestas tropicais, direito à terra e direito dos indígenas. Foi criada como um ponto de partida para organizações e ativistas que estão pensando em utilizar tecnologia para realizar melhor seu trabalho de defesa.
 
@@ -52,11 +52,11 @@ Mapas oficiais e registros de propriedade de terra (cadastrais) quase sempre só
 
 Há muitas maneiras de conduzir mapeamento participativo, cobrindo um amplo espectro de tecnologia e acessibilidade. A técnica correta depende dos recursos e da preferência da comunidade, alguns exemplos:
 
-* **Entrevistas **onde se pergunta às comunidades como elas usam a terra, e o que pensam sobre a sua terra e o ecossistema naquela área. As comunidades escolhem o meio de sua preferência, desde a narrativa até o desenho no papel, ou no terreno.
+* Entrevistas onde se pergunta às comunidades como elas usam a terra, e o que pensam sobre a sua terra e o ecossistema naquela área. As comunidades escolhem o meio de sua preferência, desde a narrativa até o desenho no papel, ou no terreno.
 
-* **Imprimir mapas oficiais **da área,** **explicar onde a comunidade está no mapa, e pedir às comunidades que desenhem mais informações. Um método mais avançado é produzir **modelos 3D** da terra.
+* Imprimir mapas oficiais da área, explicar onde a comunidade está no mapa, e pedir às comunidades que desenhem mais informações. Um método mais avançado é produzir modelos 3D da terra.
 
-* As comunidades recebem **rastreadores GPS** e registram informações enquanto passam por uma área. Os dados podem ser usados para criar camadas de mapas.
+* As comunidades recebem rastreadores GPS e registram informações enquanto passam por uma área. Os dados podem ser usados para criar camadas de mapas.
 
 ### Custos
 
@@ -68,29 +68,31 @@ Mapeamento participativo coleta informações sobre onde vivem as comunidades, e
 
 ### Estudos de caso
 
-**Estudo de caso: mapeamento participativo em Camarões.**
+#### Estudo de caso: mapeamento participativo em Camarões.
 
 O programa da Forest People, Centre for Environment and Development (CED) e Planet Survey desenvolveram um programa para a comunidade Bagyeli nos Camarões mapearem suas terras e recursos usando treinamento na coleta de dados de GPS. Os mapas resultantes ajudaram 14 comunidades Bagyeli da área de Bipindi a ganhar reconhecimento jurídico dos direitos à terra. Eles também ajudaram a negociar acordos com as comunidades locais sobre limites territoriais.
 
-**Como isso ajudou?**
+Como isso ajudou?
 
 - Pessoas analfabetas da comunidade conseguiram usar dispositivos móveis com ícones no lugar de texto.
 - As comunidades disseram que tomaram consciência do poder dos mapas como uma forma de reclamar terras que lhes pertenciam.
 - Como ferramenta de defesa da causa os mapas foram a mais bem-sucedida quando apresentados às organizações conservacionistas ocidentais e empresas de exploração de madeira (embora tenha sido menos eficaz com empresas locais). (http://dev3.acmdev.org/papers/dev-final45.pdf)
 
 
-**Estudo de caso: Monitoramento de caça predatória no Congo**
+#### Estudo de caso: Monitoramento de caça predatória no Congo
 
 Em 2013, caçadores-coletores Mbendjele trabalharam com o Grupo de Pesquisa ExCiteS da University College London para coletar dados para monitorar caça predatória usando um aplicativo Android. O projeto usou o telefone Samsung Galaxy XCover com Android, e uma versão modificada de Open Data Kit Collect que usou ícones no lugar de palavras. Para minimizar riscos aos monitores caso sejam pegos por caçadores, o projeto incluía um procedimento simples de trava do telefone que permite aos usuários ocultar rapidamente as funções do aplicativo.
-Como isso ajudou?
-O projeto desenvolveu conexões fortes desde 2005, quando Mbendjele envolveu-se em coleta de dados e ficaram impressionados com a seriedade com que as empresas madeireiras tratavam os mapas criados por eles.
-Os monitores aprenderam a usar as funções de áudio, foto e vídeo, gravando imagens de alta qualidade. Os telefones são sólidos e funcionam bem nas condições da floresta.
- O projeto usou o Hatsuden Nabe, uma panela que converte energia térmica de um fogo em eletricidade, para carregar os telefones (fornece uma carga de 60% em 90 minutos). Painéis solares também foram úteis quando os monitores não estavam diretamente sob a cobertura florestal.
-Embora as redes de comunicações não cheguem ao interior da floresta, os monitores conseguiam transferir informações usando SMS ou internet 3G ao visitar cidades próximas.</td>
-  </tr>
-</table>
 
-### **Sobre**
+*Como isso ajudou?*
+
+O projeto desenvolveu conexões fortes desde 2005, quando Mbendjele envolveu-se em coleta de dados e ficaram impressionados com a seriedade com que as empresas madeireiras tratavam os mapas criados por eles.
+- Os monitores aprenderam a usar as funções de áudio, foto e vídeo, gravando imagens de alta qualidade. Os telefones são sólidos e funcionam bem nas condições da floresta.
+- O projeto usou o Hatsuden Nabe, uma panela que converte energia térmica de um fogo em eletricidade, para carregar os telefones (fornece uma carga de 60% em 90 minutos). Painéis solares também foram úteis quando os monitores não estavam diretamente sob a cobertura florestal.
+- Embora as redes de comunicações não cheguem ao interior da floresta, os monitores conseguiam transferir informações usando SMS ou internet 3G ao visitar cidades próximas.
+
+***
+
+### Sobre
 Este site foi criado pela [Fundação Rainforest da Noruega](www.regnskog.no/en/) e [The Engine Room](//theengineroom.org) como uma introdução ao uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direito à terra e direitos dos indígenas. Baixe a cartilha completa aqui.
 
 Comentários ou perguntas? Entre em contato [post@theengineroom.org](mailto:post@theengineroom.org) ou [rainforest@rainforest.no](rainforest@rainforest.no).
@@ -103,7 +105,7 @@ A Fundação Rainforest da Noruega (RFN) é uma das organizações líderes mund
 
 A RFN colabora de perto com mais de 70 organizações ambientais, de direitos humanos e indígenas, locais e nacionais, em 11 países na região Amazônica, África Central, Sudeste da Ásia, e Oceania.
 
-#### **Contribuidores**
+#### Contribuidores
 The [Engine Room](https://www.theengineroom.org) é uma organização internacional que ajuda ativistas, instituições que promovem mudança social e agentes de mudança a tirar o máximo proveito de dados e tecnologia para aumentar seu impacto. The Engine Room fornece apoio direto a projetos de organizações de mudança social; reúne comunidades para sincronizar as ideias emergentes e conseguir profissionais; além de documentar e publicar descobertas para ajudar qualquer pessoa do setor a tomar melhores decisões sobre o uso de dados e tecnologia.
 
 [Tom Walker](https://www.theengineroom.org/our_team/tom-walker) e [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) pesquisaram e redigiram a história principal, e [Ruth Miller](http://ruthmiller.net/) liderou o trabalho de design e criação visual. Foram inestimáveis a contribuição e o apoio à edição de Vemund Olsen e Christopher Wilson. O código-fonte do site está disponível em [Github](https://github.com/the-engine-room/library/).

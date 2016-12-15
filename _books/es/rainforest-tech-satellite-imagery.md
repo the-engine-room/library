@@ -21,7 +21,6 @@ categories:
   - es
 ---
 
-
 ## **Imágenes satelitales**
 
 > ### Objetivos posibles
@@ -34,7 +33,6 @@ La presente introducción es parte de una [Guía para el uso de la tecnología e
 _Descargar [la guía completa](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) (1.6MB pdf) o leerla en línea (a continuación)._
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
-
 
 ### **¿En qué consiste?**
 
@@ -63,7 +61,9 @@ El principal problema con las imágenes satelitales es la **resolución**; actua
 Con esto llegamos al segundo problema: **las actualizaciones.** En general, las imágenes se actualizan una vez al mes, a veces una vez al año. Esto podría cambiar: compañías como [Planet Labs](www.planet.com) prometen imágenes diarias en el futuro y [Libra](http://libra.developmentseed.org) provee datos Landsat cada dos semanas. El proyecto [MAAP](http://maaproject.org/about-maap/) tiene por fin producir actualizaciones semanales en la Amazonía andina por lo que pueden resultar útiles para análisis histórico pero poco prácticas para monitoreo en tiempo real (la **Fotografía aérea**, página X puede contribuir imágenes actualizadas con mayor frecuencia).
 
 ### **Casos de estudio**
+
 #### Combinar datos satelitales con otras fuentes de información
+
 La organización indonesia para bosques lluviosos [Warsi](http://www.warsi.org/) combinó datos de mapas satelitales obtenidos de Landsat Thematic Mapper (Landsat TM) y Advanced Land Observation Satellite (ALOS) con otras fuentes de información para documentar la distribución del Pueblo Orang Rimba y su uso de recursos naturales.
 
 **Contribución**
@@ -74,6 +74,7 @@ La organización indonesia para bosques lluviosos [Warsi](http://www.warsi.org/)
 
 
 #### Usar datos satelitales para dar pruebas de talas ilegales
+
 En enero del 2015, un análisis realizado por [Greenomics-Indonesia](http://www.greenomics.org/) de dos imágenes NASA Landsat (ver sección Mapas satelitales más abajo) de la isla Pulau Pedang, cerca de la costa de Sumatra, identificó áreas extensas de bosque de turba que habían sido taladas.
 
 **Contribución**
@@ -89,6 +90,8 @@ En enero del 2015, un análisis realizado por [Greenomics-Indonesia](http://www.
 * **CLASlite** ha sido diseñado para proporcionar mapas y monitoreo forestal de alta resolución; actualización semanal e imágenes satelitales: [http://claslite.carnegiescience.edu/en/index.html](http://claslite.carnegiescience.edu/en/index.html) (inglés y español)
 
 * El Proyecto Geospatial Technologies de **AAAS** contiene casos de estudio detallados sobre la recolección, categorización y análisis de imágenes satelitales para documentar abusos de derechos humanos: [http://www.aaas.org/case-studies](http://www.aaas.org/case-studies)
+
+***
 
 ### **Acerca de este sitio**
 Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
