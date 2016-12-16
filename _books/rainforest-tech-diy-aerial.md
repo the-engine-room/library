@@ -16,7 +16,10 @@ navigation:
   - Case studies
   - Further resources
   - About
-
+ref: rt-da
+lang: en
+categories:
+  - en
 ---
 
 ## Do-It-Yourself aerial photography

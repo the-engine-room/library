@@ -15,6 +15,11 @@ navigation:
   - Challenges
   - Implementation
   - Conclusion
+ref: h-tech
+lang: en
+categories:
+  - en
+
 ---
 
 ## **Technology Tools in Human Rights**

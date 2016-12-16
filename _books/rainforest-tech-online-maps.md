@@ -15,7 +15,10 @@ navigation:
   - Risks and challenges
   - Case studies
   - About
-
+ref: rt-om
+lang: en
+categories:
+  - en
 ---
 
 ## Online maps

@@ -15,7 +15,10 @@ navigation:
   - Risks and challenges
   - Case studies
   - About
-
+ref: rt-si
+lang: en
+categories:
+  - en
 ---
 
 ## Satellite imagery
