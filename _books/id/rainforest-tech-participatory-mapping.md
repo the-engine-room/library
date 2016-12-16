@@ -21,7 +21,6 @@ categories:
   - id
 ---
 
-
 ## Pemetaan partisipatif dan GPS
 
 > ### Sasaran yang memungkinkan

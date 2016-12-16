@@ -14,6 +14,7 @@ navigation:
   - Biaya
   - Risiko dan tantangan
   - Sumber lain
+  - Studi kasus
   - Tentang
 ref: rt-da
 lang: id

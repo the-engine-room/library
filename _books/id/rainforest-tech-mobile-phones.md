@@ -13,6 +13,7 @@ navigation:
   - Alat dan perangkat
   - Biaya
   - Risiko dan tantangan
+  - Studi kasus
   - Sumber lain
   - Tentang
 ref: rt-mp
@@ -79,7 +80,7 @@ Keuntungan dari menggunakan software berbiaya premium ini adalah fiturnya lebih 
 
 Tidak mungkin untuk [mengumpulkan dan membagi data secara aman](https://securityinabox.org/id/) di ponsel karena memang alat ini tidak didisain seperti itu. Hal ini bisa mengancam orang yang mengumpulkan informasi; terkadang dengan hanya memiliki sebuah aplikasi saja bisa membuat masyarakat pemonitor berada dalam risiko.Masyarakat dan lingkungan juga dapat terancam akibat dari informasi tentang mereka yang Anda publikasikan (lihat bagian ‘data yang bertanggung jawab’ pada bagian **Strategi**).
 
-#### Studi kasus
+### Studi kasus
 
 #### Menggunakan petugas monitor berbasis-masyarakat di Guyana
 
