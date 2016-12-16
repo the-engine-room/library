@@ -1,11 +1,15 @@
 ---
 layout: rainforest
 title: Hutan hujan teknologi
-description: Panduan penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu-isu hutan hujan, hak atas tanah dan hak-hak adat. Pengantar ini didisain sebagai titik awal bagi organisasi dan aktivis yang berkeinginan untuk memanfaatkan teknologi guna meningkatkan kerja-kerja advokasi mereka.
+description: >-
+  Panduan penggunaan teknologi untuk memonitor dan berbagi informasi mengenai
+  isu-isu hutan hujan, hak atas tanah dan hak-hak adat. Pengantar ini didisain
+  sebagai titik awal bagi organisasi dan aktivis yang berkeinginan untuk
+  memanfaatkan teknologi guna meningkatkan kerja-kerja advokasi mereka.
 image: /media/index/rainforest.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
-funder_link: http://regnskog.no/en
+funder_link: 'http://regnskog.no/en'
 published: true
 navigation:
   - Pengantar
@@ -33,7 +37,7 @@ La dirancang sebagai titik awal bagi organisasi atau para aktivis yang tertarik 
 
 Panduan ini telah dibuat secara terstruktur sehingga Anda tidak perlu membaca semua, melainkan dapat mempelajari bagian-bagian yang relevan dengan Anda dan mengunakannya untuk mengetahui pedoman yang lebih detail.
 
-[Unduh semua pengantar (1.6MB pdf)](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) atau baca secara online di bawah ini.
+[Unduh semua pengantar (1.6MB pdf)](/media/rainforest/hutan-hujan-teknologi.pdf) atau baca secara online di bawah ini.
 
 Panduan ini:
 
