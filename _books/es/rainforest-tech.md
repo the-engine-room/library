@@ -1,11 +1,16 @@
 ---
 layout: rainforest
 title: Tecnología para bosques lluviosos
-description: Una introducción (o guía) al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar avances tecnológicos en la mejora de sus esfuerzos de defensa.
+description: >-
+  Una introducción (o guía) al uso de la tecnología en el monitoreo e
+  intercambio de información sobre asuntos relacionados a los bosques lluviosos,
+  los derechos territoriales y los derechos de los pueblos indígenas. Está
+  diseñada como punto de partida para organizaciones y activistas interesados en
+  incorporar avances tecnológicos en la mejora de sus esfuerzos de defensa.
 image: /media/index/rainforest.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
-funder_link: http://regnskog.no/en
+funder_link: 'http://regnskog.no/en'
 published: true
 navigation:
   - Introducción
@@ -29,7 +34,7 @@ La presente introducción es parte de una Guía para el uso de la tecnología en
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
 La estructura de la guía permite una consulta parcial y explorar secciones relevantes por separado si se desea obtener pautas más detalladas.
-[Descargar la guía completa (1.6MB pdf)](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) o leerla en línea (a continuación).
+[Descargar la guía completa (1.6MB pdf)](/media/rainforest/tecnología-para-bosques-lluviosos.pdf) o leerla en línea (a continuación).
 
 La guía:
 
