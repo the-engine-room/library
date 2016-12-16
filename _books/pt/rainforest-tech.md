@@ -1,19 +1,24 @@
 ---
 layout: rainforest
 title: Florestas tropicais tecnologia
-description: Uma introdução (ou 'cartilha') ao uso da tecnologia para monitorar e compartilhar informações sobre problemas das florestas tropicais, direito à terra e direito dos indígenas . Foi criada como um ponto de partida para organizações e ativistas que estão pensando em utilizar tecnologia para realizar melhor seu trabalho de defesa.
+description: >-
+  Uma introdução (ou 'cartilha') ao uso da tecnologia para monitorar e
+  compartilhar informações sobre problemas das florestas tropicais, direito à
+  terra e direito dos indígenas . Foi criada como um ponto de partida para
+  organizações e ativistas que estão pensando em utilizar tecnologia para
+  realizar melhor seu trabalho de defesa.
 image: /media/index/rainforest.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
-funder_link: http://regnskog.no/en
+funder_link: 'http://regnskog.no/en'
 published: true
 navigation:
-- Introdução
-- Estratégia
-- Combinando seus objetivos com as ferramentas
-- Ferramentas
-- Outros recursos
-- Sobre
+  - Introdução
+  - Estratégia
+  - Combinando seus objetivos com as ferramentas
+  - Ferramentas
+  - Outros recursos
+  - Sobre
 ref: rt
 lang: pt
 categories:
@@ -34,7 +39,7 @@ Foi criada para ser o ponto de partida para organizações e ativistas interessa
 
 A cartilha foi estruturada de forma que você não precisa ler tudo, mas pode explorar as seções que forem relevantes para você e usá-las para encontrar orientação mais detalhada.
 
-Baixe a cartilha completa (1.6MB pdf), ou leia abaixo online.
+[Baixe a cartilha completa (1.6MB pdf)](/media/rainforest/florestas-tropicais-tecnologia.pdf), ou leia abaixo online.
 
 Esta cartilha:
 
