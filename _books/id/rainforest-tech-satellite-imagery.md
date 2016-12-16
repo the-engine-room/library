@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Citra satelit
-description: Pengantar penggunaan citra satelit dalam proyek yang berhubungan dengan hutan hujan guna menganalisa perubahan dari waktu ke waktu di satu area hutan, atau mendapatkan bukti deforestasi, tren seperti peningkatan kegiatan komersil, atau hasil-hasil yang tampak dari degradasi hutan. <p> Bagian laporan </id/rainforest-tech">Teknologi Hutan Hujan</a>.</p>
+description: Pengantar penggunaan citra satelit dalam proyek yang berhubungan dengan hutan hujan guna menganalisa perubahan dari waktu ke waktu di satu area hutan, atau mendapatkan bukti deforestasi, tren seperti peningkatan kegiatan komersil, atau hasil-hasil yang tampak dari degradasi hutan. <p> Bagian laporan <a href="/id/rainforest-tech">Teknologi Hutan Hujan</a>.</p>
 image: /media/index/satellite.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
