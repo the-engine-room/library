@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Imagens de satélite
-description: Uma introdução ao uso de imagens de satélite em projetos relacionados a florestas tropicais para analisar a mudança ao longo do tempo em uma área florestal, ou gerar evidência de desflorestamento, tendências como aumento de atividade comercial ou resultados visíveis de degradação florestal. Parte do relatório <a href="https://library.theengineroom.org/rainforest-tech/">Tecnologia Rainforest</a>.
+description: Uma introdução ao uso de imagens de satélite em projetos relacionados a florestas tropicais para analisar a mudança ao longo do tempo em uma área florestal, ou gerar evidência de desflorestamento, tendências como aumento de atividade comercial ou resultados visíveis de degradação florestal. Parte do relatório </pt/rainforest-tech/">Tecnologia Rainforest</a>.
 image: /media/index/satellite.svg
 funder_name: Fundação Rainforest da Noruega
 funder_logo: /images/logos/rfn.svg

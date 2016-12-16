@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Imágenes satelitales
-description: Una introducción al uso de imágenes satelitales en proyectos relacionados a bosques lluviosos para analizar cambios ocurridos en un área forestal durante un período determinado, o generar pruebas de deforestación, tendencias tales como aumentos en actividad comercial o resultados visibles de la degradación forestal. <p>Parte del informe <a href="/rainforest-tech">Tecnología para bosques lluviosos</a>.</p>
+description: Una introducción al uso de imágenes satelitales en proyectos relacionados a bosques lluviosos para analizar cambios ocurridos en un área forestal durante un período determinado, o generar pruebas de deforestación, tendencias tales como aumentos en actividad comercial o resultados visibles de la degradación forestal. <p>Parte del informe <a href="/es/rainforest-tech">Tecnología para bosques lluviosos</a>.</p>
 image: /media/index/satellite.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg

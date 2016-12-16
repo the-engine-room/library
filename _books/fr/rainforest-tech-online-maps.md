@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Cartes en ligne
-description: Introduction à l’utilisation de cartes en ligne combinant différents types de données pour des projets liés à la forêt tropicale, afin d’effectuer une surveillance en temps réel (en montrant les endroits où se produisent le plus grand nombre d’incidents), de mener des campagnes (ex. en montrant les endroits les plus affectés par la réduction du couvert forestier), ou d’analyser (approfondir ses connaissances en superposant plusieurs types de données sur une carte) . <p> Extrait du rapport sur <a href="/rainforest-tech">la Technologie pour les Forêts Tropicales</a> .</p>
+description: Introduction à l’utilisation de cartes en ligne combinant différents types de données pour des projets liés à la forêt tropicale, afin d’effectuer une surveillance en temps réel (en montrant les endroits où se produisent le plus grand nombre d’incidents), de mener des campagnes (ex. en montrant les endroits les plus affectés par la réduction du couvert forestier), ou d’analyser (approfondir ses connaissances en superposant plusieurs types de données sur une carte) . <p> Extrait du rapport sur <a href="/fr/rainforest-tech">la Technologie pour les Forêts Tropicales</a> .</p>
 image: /media/index/online.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg

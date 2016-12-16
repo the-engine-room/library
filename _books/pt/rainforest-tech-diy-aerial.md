@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Fotografia aérea faça você mesmo
-description: Uma introdução à fotografia aérea faça você mesmo (tais como drones) para criação de mapas ou modelos 3D para monitoramento de vida selvagem, registro de reclamações de terras e documentação de impactos de mudanças climáticas. Podem produzir imagens mais detalhadas do que dados de satélite e podem ser atualizadas em tempo real. Parte do relatório <a href="https://library.theengineroom.org/pt/rainforest-tech/">Tecnologia Rainforest</a>
+description: Uma introdução à fotografia aérea faça você mesmo (tais como drones) para criação de mapas ou modelos 3D para monitoramento de vida selvagem, registro de reclamações de terras e documentação de impactos de mudanças climáticas. Podem produzir imagens mais detalhadas do que dados de satélite e podem ser atualizadas em tempo real. Parte do relatório <a href="/pt/rainforest-tech/">Tecnologia Rainforest</a>
 image: /media/index/drone.svg
 funder_name: Fundação Rainforest da Noruega
 funder_logo: /images/logos/rfn.svg
@@ -93,7 +93,7 @@ Em 2014, ConservationDrones e o Sumatran Orangutan Conservation Programme (SOCP)
 
 * Guia de mapeamento com balão da **Geojournalism**: [http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/)
 
-* **Solutions Center da NetHope tem webinars e recursos para o uso de drones [http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles)**. 
+* **Solutions Center da NetHope tem webinars e recursos para o uso de drones [http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles)**.
 
 ***
 

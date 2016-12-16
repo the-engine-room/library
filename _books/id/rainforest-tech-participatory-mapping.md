@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Pemetaan partisipatif dan GPS
-description: Pengantar tentang membuat peta bersama-sama dengan masyarakat (pemetaan partisipatif), untuk menunjukkan bagaimana sebuah area dimanfaatkan, membandingkannya dengan peta “resmi”, dan menggunakan informasi ini untuk mengklaim hak masyarakat atas tanah. <p>Bagian laporan <a href=https://library.theengineroom.org/id/rainforest-tech>Teknologi Hutan Hujan</a>.</p>
+description: Pengantar tentang membuat peta bersama-sama dengan masyarakat (pemetaan partisipatif), untuk menunjukkan bagaimana sebuah area dimanfaatkan, membandingkannya dengan peta “resmi”, dan menggunakan informasi ini untuk mengklaim hak masyarakat atas tanah. <p>Bagian laporan <a href=/id/rainforest-tech>Teknologi Hutan Hujan</a>.</p>
 image: /media/index/participatory.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg

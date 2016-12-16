@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Mapas online
-description: Uma introdução ao uso de mapas online que combinam diferentes tipos de dados em projetos relacionados a florestas tropicais, para fins como monitoramento em tempo real (mostrando os lugares onde ocorrem a maioria dos incidentes), campanha (mostrando que a cobertura florestal está sendo reduzida dramaticamente) ou análise (ganhando novas perspectivas com a sobreposição de diferentes tipos de dados no mesmo mapa). Parte do relatório <a href="https://library.theengineroom.org/rainforest-tech/">Tecnologia Rainforest</a>.
+description: Uma introdução ao uso de mapas online que combinam diferentes tipos de dados em projetos relacionados a florestas tropicais, para fins como monitoramento em tempo real (mostrando os lugares onde ocorrem a maioria dos incidentes), campanha (mostrando que a cobertura florestal está sendo reduzida dramaticamente) ou análise (ganhando novas perspectivas com a sobreposição de diferentes tipos de dados no mesmo mapa). Parte do relatório <a href="/pt/rainforest-tech/">Tecnologia Rainforest</a>.
 image: /media/index/online.svg
 funder_name: Fundação Rainforest da Noruega
 funder_logo: /images/logos/rfn.svg

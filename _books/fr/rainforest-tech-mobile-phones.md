@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Applications pour téléphones mobiles
-description: Introduction à l’utilisation d’applications pour téléphones mobiles (cellulaires) pour collecter et rapporter des données pour des projets liés aux forêts tropicales, afin d’apporter des preuves d’exploitation illégale de mines ou de bois; effectuer des relevés de la biodiversité; aider les communautés à cartographier leurs terres; ou valider les cartes établies par le gouvernement . <p>Extrait du rapport sur <a href="/rainforest-tech"> la Technologie pour les Forêts Tropicales</a> .</p>
+description: Introduction à l’utilisation d’applications pour téléphones mobiles (cellulaires) pour collecter et rapporter des données pour des projets liés aux forêts tropicales, afin d’apporter des preuves d’exploitation illégale de mines ou de bois; effectuer des relevés de la biodiversité; aider les communautés à cartographier leurs terres; ou valider les cartes établies par le gouvernement . <p>Extrait du rapport sur <a href="/fr/rainforest-tech"> la Technologie pour les Forêts Tropicales</a> .</p>
 image: /media/index/mobile.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
