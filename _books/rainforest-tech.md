@@ -31,7 +31,7 @@ It is the product of a partnership between [Rainforest Foundation Norway](http:/
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
 <blockquote>
-[Lire en français](https://library.theengineroom.org/fr/rainforest-tech/) | [Léelo en español](https://library.theengineroom.org/es/rainforest-tech/) | [Leia isso em português](https://library.theengineroom.org/pt/rainforest-tech/) | [Baca ini dalam bahasa Indonesia](https://library.theengineroom.org/id/rainforest-tech/)
+<a href="https://library.theengineroom.org/fr/rainforest-tech/">Lire en français</a> | <a href="https://library.theengineroom.org/es/rainforest-tech/">Léelo en español</a> | <a href="https://library.theengineroom.org/pt/rainforest-tech/">Leia isso em português</a> | <a href="https://library.theengineroom.org/id/rainforest-tech/">Baca ini dalam bahasa Indonesia</a>
 </blockquote>
 
 The primer is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, but can also be useful for organisations that have some experience using technology and want to reflect on how to increase the impact of their work. It has been structured so that you don’t need to read the whole thing, but can explore sections that are relevant for you and find more information elsewhere. *[Download the whole primer (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) or read it online below.*
