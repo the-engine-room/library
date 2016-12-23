@@ -67,7 +67,7 @@ La [deuxième section](#tools) présente les outils utiles aux projets liés à 
 
 #### Ressources complémentaires
 
-Les [dernières sections](#resources)  fournissent une liste de guides et d’outils plus détaillés pour vous permettre de passer à l’étape suivante dans l’intégration de nouvelles technologies dans votre projet.
+Les [dernières sections](#ressources-complémentaires)  fournissent une liste de guides et d’outils plus détaillés pour vous permettre de passer à l’étape suivante dans l’intégration de nouvelles technologies dans votre projet.
 
 ### Avant-propos
 
@@ -632,7 +632,7 @@ Les ressources ci-dessous sont disponibles dans la langue indiquée, et ont gén
 
 * [CLASlite](http://claslite.carnegiescience.edu/en/index.html) est conçu pour fournir une cartographie et un système de surveillance des forêts mis à jour chaque semaine grâce à des images satellite à haute résolution.
 
-* [Datahub](http://datahub.io/es)) est une plateforme de gestion de données qui vous permet de rechercher des données, d’enregistrer des fichiers de données publiés, de créer et de gérer des groupes de fichiers et d’être informé des mises à jour des fichiers et des groupes qui vous intéressent.
+* [Datahub](http://datahub.io/es) est une plateforme de gestion de données qui vous permet de rechercher des données, d’enregistrer des fichiers de données publiés, de créer et de gérer des groupes de fichiers et d’être informé des mises à jour des fichiers et des groupes qui vous intéressent.
 
 ## À propos
 
