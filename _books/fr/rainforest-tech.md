@@ -98,7 +98,7 @@ Nous espérons que cette introduction aidera ceux qui souhaitent initier de nouv
 
 **Un partage plus facile de l’information:** L’accès à internet et les réseaux de téléphonie mobile se développent dans tous les pays et s’étendent à des zones jusque là isolées. Les organisations peuvent à présent consigner et partager des informations sur des incidents au moment même où ils se déroulent (en "temps réel"). La technologie rend aussi plus aisée la collaboration avec des organisations situées dans d’autres pays (comme pour le réseau RAISG axé sur l’Amazonie) ou sur d’autres continents (comme pour le réseau de partenaires de la Rainforest Foundation Norvège).
 
-**Des instruments conçus pour répondre à vos besoins:** Aune vaste gamme d’outils – dont beaucoup ont été conçus pour être utilisé en forêt tropicale – facilitent les campagnes et la surveillance d’informations.
+**Des instruments conçus pour répondre à vos besoins:** une vaste gamme d’outils – dont beaucoup ont été conçus pour être utilisé en forêt tropicale – facilitent les campagnes et la surveillance d’informations.
 
 **Des données plus faciles à trouver et à utiliser:** par le passé, les données sur des sujets tels que l’utilisation des terres, la couverture forestière ou les ressources naturelles étaient difficiles à trouver, chères et compliquées à utiliser. Tout ceci est en train de changer. En y ajoutant les informations recueillies par votre organisation (telles que les limites communautaires ou la biodiversité), vous pouvez obtenir un ensemble de données riches et à fort impact sur lequel fonder votre plaidoyer.
 
@@ -166,7 +166,7 @@ Evaluez si votre organisation utilise convenablement la technologie – avez-vou
 
 ##### Définissez vos objectifs
 
-Listez les réalisations que vous attendez de votre projet. Fondez vos objectifs sur les trois points mentionnés ci-dessus : la stratégie de votre organisation, votre vision de la technologie et vos capacités techniques. (See [Utiliser les dates](#usethedata))
+Listez les réalisations que vous attendez de votre projet. Fondez vos objectifs sur les trois points mentionnés ci-dessus : la stratégie de votre organisation, votre vision de la technologie et vos capacités techniques. (See [Utiliser les données](#usethedata))
 
 ##### Impliquez vos utilisateurs
 
@@ -194,7 +194,7 @@ Un pilote vous permettra de tester votre projet sur une petite échelle et d’i
 	</ul>
 </blockquote>
 
-#### Evaluez les changements que vous engendrez
+#### Évaluez les changements que vous engendrez
 
 Avant de commencer, faites le bilan de la situation. Il vous servira de base pour mesurer les changements qui interviendront au cours de la mise en œuvre du projet et présenter les résultats à vos partenaires ou donateurs potentiels.
 
@@ -227,7 +227,7 @@ Ne dépendez pas d’un seul spécialiste qui a des compétences essentielles da
 
 ##### Coûts technologiques
 
-Intégrez toujours les coûts de développement par les utilisateurs, de test, de maintenance et de support. Combien vous coûtera le remplacement de la technologie au bout d’un an? Cinq ans ? Si vous collectez des informations sensibles, votre logiciel a-t-il été contôlé par un expert indépendant pour l’absence de failles? Tout ceci coûte de l’argent. Mais si vous n’y pensez pas tout de suite, vous pourriez avoir des surprises désagréables plus tard.
+Intégrez toujours les coûts de développement par les utilisateurs, de test, de maintenance et de support. Combien vous coûtera le remplacement de la technologie au bout d’un an? Cinq ans ? Si vous collectez des informations sensibles, votre logiciel a-t-il été contrôlé par un expert indépendant pour l’absence de failles? Tout ceci coûte de l’argent. Mais si vous n’y pensez pas tout de suite, vous pourriez avoir des surprises désagréables plus tard.
 
 ### Se procurer les données
 
@@ -296,7 +296,7 @@ Commencez par **élaborer une méthodologie** (une explication de la manière de
 
 <blockquote>
 	<h5>Cas d’étude : être reconnu pour la qualité de ses preuves.</h5>
-	<p><a href="https://www.facebook.com/brimassarawak">L’Institut des ressources de Borneo (Brimas)</a> apprend à des communautés de Sarawak (Malaisie) à cartographier leurs communautés à l’aide d’outils GPS, en délimitant les territoires autochtones, les utilisations des terres et les zones contenant des ressources naturelles. Le gouvernement et les entreprises privées ont tout d’abord nié la base de connaissances du Brimas. Les tribunaux ont cependant reconnu la qualité des données recueillies dans des affaires visant à prouver les droits de propriété des communautés locales, et leur ont donné une réputation d’exactitue. Le Département des terres et du cadastre malaisien utilise à présent les cartes du Brimas pour valider ses propres produits.</p>
+	<p><a href="https://www.facebook.com/brimassarawak">L’Institut des ressources de Borneo (Brimas)</a> apprend à des communautés de Sarawak (Malaisie) à cartographier leurs communautés à l’aide d’outils GPS, en délimitant les territoires autochtones, les utilisations des terres et les zones contenant des ressources naturelles. Le gouvernement et les entreprises privées ont tout d’abord nié la base de connaissances du Brimas. Les tribunaux ont cependant reconnu la qualité des données recueillies dans des affaires visant à prouver les droits de propriété des communautés locales, et leur ont donné une réputation d’exactitude. Le Département des terres et du cadastre malaisien utilise à présent les cartes du Brimas pour valider ses propres produits.</p>
 </blockquote>
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
@@ -314,11 +314,11 @@ Commencez par **élaborer une méthodologie** (une explication de la manière de
 
 #### Sollicitez des retours d’information
 
-N’attendez pas la fin du projet pour savoir si tout se déroule bien : demandez à intervalles réguliers et ajustez vos activités en fonction des réponses. Vous pouvez [recueillir](https://www.theengineroom.org/diy-for-me/) ces retours d’information par le biais de questionnaires, de réunions physiques ou [td’autres méthodes ](http://feedbacklabs.org/toolkit/) comme l’analyse des discussions en ligne.
+N’attendez pas la fin du projet pour savoir si tout se déroule bien : demandez à intervalles réguliers et ajustez vos activités en fonction des réponses. Vous pouvez [recueillir](https://www.theengineroom.org/diy-for-me/) ces retours d’information par le biais de questionnaires, de réunions physiques ou [d’autres méthodes ](http://feedbacklabs.org/toolkit/) comme l’analyse des discussions en ligne.
 
 ### Gestion des données
 
-Avant de commencer à collecter des informations, planifiez des catégories pour une meilleure classification des données. Elles vous aideront à observer les tendances et les lacunes – vous pourrez en changer plus trad. (see [Use the Data](#usethedata) for more on how to do this).
+Avant de commencer à collecter des informations, planifiez des catégories pour une meilleure classification des données. Elles vous aideront à observer les tendances et les lacunes – vous pourrez en changer plus tard. (voir [Utiliser les données](#usethedata) pour en savoir plus).
 
 #### Contrôlez la qualité de vos données dès le départ
 
@@ -355,7 +355,7 @@ Communiquer sur les constats tirés de l’analyse des données est un des aspec
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
 	<h5 style="color:white">Encadré sur les données responsables : Prenez soin de vos données</h5>
 		<br>
-	<p style="color:white"><b>HComment allez-vous conserver les données au sein de votre organisation?</b></p>
+	<p style="color:white"><b>Comment allez-vous conserver les données au sein de votre organisation?</b></p>
 	<p style="color:white">Si vous stockez des données sur un réseau de votre organisation, elles seront conservées sur un serveur (un ordinateur qui fournit des données à d’autre ordinateurs). Si votre serveur est physiquement situé dans vos locaux, investissez dans du personnel qualifié pour s’en occuper. Si vous payez un hébergement sur un serveur externe, vérifiez que votre fournisseur de service offre<a href="https://wiki.responsibledata.io/Newbie_guide_to_select_hosting" style="color:white">toutes les fonctions</a> dont vous aurez besoin et prend des mesures de sécurité adéquates.</p>
 	<p style="color:white"><b>Chiffrez/cryptez les données stockées physiquement</b></p>
 	<p style="color:white">Les données stockées physiquement sur les disques durs des ordinateurs ou sur des disques durs externes peuvent être cryptées/chiffrées à l’aide de logiciels comme TrueCrypt ou FileVault. (Ce procédé ne se substitue pas à l’adoption de mesures strictes de sécurité numérique. Si quelqu’un parvient à se procurer votre mot de passe, le chiffrement ne vous sera d’aucun secours).</p>
@@ -389,15 +389,15 @@ Dressez la liste de toutes les personnes concernées par une même question. Soy
 
 ##### Identifiez vos alliés
 
-Une campagne de plaidoyer nécessite un réseau d’alliances. Définissez les manières d’impliquer les groupes identifiés comme alliés et maintenez leur intérêt et leur engagement. Soyez créatifs dans votre soutien mutuel : vos données leur seront-elles utiles ? Possèdent-ils des contacts dont vous avez besoin ?
+Une campagne de plaidoyer nécessite un réseau d’alliances. Définissez les manières d’impliquer les groupes identifiés comme alliés et maintenez leur intérêt et leur engagement. Soyez créatifs dans votre soutien mutuel: vos données leur seront-elles utiles? Possèdent-ils des contacts dont vous avez besoin?
 
 <blockquote>
- <h5>Cas d’étude : utilisez vos alliés.</h5>
+ <h5>Cas d’étude: utilisez vos alliés.</h5>
  <p>En 2007, l’organisation chilienne Mouvement pour la défense de l’environnement (MODEMA) a élaboré une série d’affiches de Punta de Choros qui présentent aux habitants de la zone les risques que posent la construction de quatre centrales thermoélectriques. Un groupe de vidéastes chiliens qui visitait cette région a vu les affiches et a lancé la campagne Chao Pescao ("Au revoir les poissons" en espagnol).</p>
  <p><b>Quelle en est l’utilité ?</b></p>
  <ul>
  <li>Ces groupes ont travaillé ensemble pour accroître leur impact. Au fur et à mesure de la campagne, d’autres alliés les ont rejoints et les médias nationaux ont couvert l’événement pendant plus de dix jours.</li>
- <li>TLa campagne a combiné des stratégies en ligne et hors ligne : le documentaire a été projeté dans les rues de la capitale Santiago, avec du courant électrique fournit par des bicyclettes, et les manifestations citoyennes ont immédiatement été publiées sur Youtube et partagées avec les 10 000 abonnés de Chao Pescao <a href="https://www.facebook.com/groups/172364371563/?ref=br_rs">sur Facebook</a> </li>
+ <li>La campagne a combiné des stratégies en ligne et hors ligne: le documentaire a été projeté dans les rues de la capitale Santiago, avec du courant électrique fourni par des bicyclettes, et les manifestations citoyennes ont immédiatement été publiées sur Youtube et partagées avec les 10 000 abonnés de Chao Pescao <a href="https://www.facebook.com/groups/172364371563/?ref=br_rs">sur Facebook</a> </li>
  <li>En janvier 2010, le gouvernement <a href="https://archive.informationactivism.org/en/chaopescao">a renoncé</a> à construire les centrales thermoélectriques, et les nouveaux candidats à la présidence sont sous pression pour préserver Punta de Choros.</li>
  </ul>
 </blockquote>
@@ -459,14 +459,14 @@ Il y a de nombreux moyens de sonder les réactions à une campagne, mais tout me
 Etablissez des objectifs à atteindre pour votre campagne et mesurez votre progression. Les bons objectifs doivent être "smart":
 
 * **S**pécifiques – définissez précisément ce que vous souhaitez mesurer (par exemple, le nombre d’articles de presse qui utilisent vos données sur les incursions dans les territoires autochtones)
-* **M**eesurables – choisissez des éléments qui peuvent être quantifiés, comme le nombre de personnes qui ont signé une pétition sur un mois.
+* **M**esurables – choisissez des éléments qui peuvent être quantifiés, comme le nombre de personnes qui ont signé une pétition sur un mois.
 * **A**tteignables – ne prévoyez pas de toucher 100% des individus d’un groupe particulier, sauf si c’est réellement possible.
 * Pertinents (**R**elevant) – choisissez des indicateurs utiles : par exemple, si votre cible n’utilise pas beaucoup les réseaux sociaux, inutile de le mesurer.
 * Limités dans le **T**emps – fixez une période au terme de laquelle vous aimeriez avoir atteint votre objectif.
 
 ##### Utilisez la technologie pour évaluer la progression de votre campagne
 
-Les outils technologiques peuvent améliorer les campagnes de plaidoyer de différentes manières, du suivi de la campagne  et de la gestion des données à la visualisation d’informations dans des présentations efficaces.  Pour des suggestions sur l’utilisation de la technologie pour mesurer l’attention médiatique, l’engagement des utilisateiurs ou la mise en œuvre des projets, référez-vous au [guide suivant]( https://www.theengineroom.org/diy-for-me/). [Visualising Advocacy](https://visualisingadvocacy.org) fournit de nombreux autres exemples d’utilisation des données.
+Les outils technologiques peuvent améliorer les campagnes de plaidoyer de différentes manières, du suivi de la campagne  et de la gestion des données à la visualisation d’informations dans des présentations efficaces.  Pour des suggestions sur l’utilisation de la technologie pour mesurer l’attention médiatique, l’engagement des utilisateurs ou la mise en œuvre des projets, référez-vous au [guide suivant]( https://www.theengineroom.org/diy-for-me/). [Visualising Advocacy](https://visualisingadvocacy.org) fournit de nombreux autres exemples d’utilisation des données.
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
 	<h5 style="color:white">Encadré sur les données responsables: Publication responsable des données</h5>
@@ -542,7 +542,7 @@ Souvenez vous que l’outil adéquat pour différents objectifs sera différent 
 * Le réseau [Earth Journalism](http://earthjournalism.net/resources) offre des formations et des ressources pour aider les journalistes des pays en développement à couvrir les sujets liés à l’environnement, notamment à l’aide de visuels.
 * [Environmental News Lab](http://lab.oeco.org.br/) contient des outils et des tutoriels sur la manière de traiter les questions environnementales au Brésil et dans toute l’Amazonie.
 * Tactical Technology Collective donne des exemples et des conseils sur l’utilisation de données et de visuels en soutien à une campagne dans l’ouvrage [Visualising Information for Advocacy](https://visualisingadvocacy.org).
-* [Geojournalism](http://geojournalism.org) offre des ressoures et des formations s’adressant aux journalistes, designers et développeur pour visualiser des données géographiques.
+* [Geojournalism](http://geojournalism.org) offre des ressources et des formations s’adressant aux journalistes, designers et développeur pour visualiser des données géographiques.
 
 ### Application pour téléphone mobiles
 
