@@ -34,8 +34,8 @@ This introduction to participatory mapping is part of a [Primer for using techno
 
 ### What is it
 
-* Participatory mapping (or community-based mapping) collects information from an area’s inhabitants about how the area is used, and the local community’s practices. 
-* Information is is collected in two main ways: through directly consulting a community, or giving communities the tools to document their knowledge. 
+* Participatory mapping (or community-based mapping) collects information from an area’s inhabitants about how the area is used, and the local community’s practices.
+* Information is is collected in two main ways: through directly consulting a community, or giving communities the tools to document their knowledge.
 * This information is used to create maps based on names and definitions that the community itself uses, which can complement official maps.
 
 ### How it can help
@@ -56,38 +56,38 @@ Participatory mapping collects information about where communities live, and whi
 
 ### Case studies
 
-#### Participatory mapping in Cameroon 
+#### Participatory mapping in Cameroon
 [Forest People’s Programme](http://www.forestpeoples.org/), [Centre for Environment and Development](http://www.cedcameroun.org/) (CED) and Planet Survey developed a programme for the Bagyeli community in Cameroon to map their lands and resources using training in GPS data collection. The resulting maps helped 14 Bagyeli communities from the Bipindi area gain some legal recognition of their land rights. They were also used to help negotiate local agreements over land boundaries between communities.
 
 **How did it help?**
 
 * Illiterate community members successfully used modified mobile devices that used icons instead of text.
 * Communities said that they became more aware of the power of maps as a way of claiming land that belonged to them.
-* As an advocacy tool the maps were most [successful](http://www.iapad.org/wp-content/uploads/2015/07/cameroon_unep_report_nov08_eng.pdf) when presented to Western conservationist organisations and logging companies (though they were less effective with local companies). 
+* As an advocacy tool the maps were most [successful](http://www.iapad.org/wp-content/uploads/2015/07/cameroon_unep_report_nov08_eng.pdf) when presented to Western conservationist organisations and logging companies (though they were less effective with local companies).
 
-#### Monitoring poaching in Congo 
+#### Monitoring poaching in Congo
 In 2013, Mbendjele hunter-gatherers worked with the [Extreme Citizen Science (ExCiteS) Research Group](https://uclexcites.wordpress.com/) at University College London to collect data to monitor poaching using an Android app. The project used the Samsung Galaxy XCover phone running Android, and a modified version of [Open Data Kit Collect](https://opendatakit.org/) that used pictorial icons instead of words. To minimise risks to monitors if they were caught by poachers, the project included a simple phone-lock procedure that allowed users to hide the app’s functions rapidly.
 
 **How did it help?**
 
 * The project had built strong connections since 2005, when Mbendjele involved in data collection were impressed by the seriousness with which the timber company treated maps they created.
 * The monitors successfully learned to use the audio, photo and video functions, recording high-quality images. The robust build of the phones meant that they worked well in forest conditions.
-* The project used the [Hatsuden Nabe](http://ustacticalsupply.com/thehastudennabehc-5-usbpancharger.aspx), a cooking pot that converts thermal energy from a fire into electricity, to charge the phones (it provided a 60% charge in 90 minutes). Solar panels were also useful when the monitors was not directly under the rainforest canopy. 
+* The project used the [Hatsuden Nabe](http://ustacticalsupply.com/thehastudennabehc-5-usbpancharger.aspx), a cooking pot that converts thermal energy from a fire into electricity, to charge the phones (it provided a 60% charge in 90 minutes). Solar panels were also useful when the monitors was not directly under the rainforest canopy.
 * Although communications networks did not extend deep into the forest, the monitors were able to [transfer information](http://dev3.acmdev.org/papers/dev-final45.pdf) using SMS or 3G internet when they visited nearby towns.
 
 ### About
 
 This site was created by __[Rainforest Foundation Norway](www.regnskog.no/en/)__ and __[The Engine Room](//theengineroom.org)__  as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. [*Download the whole primer here.*](media/rainforest/Rainforest-tech-primer.pdf)
-  
+
 Rainforest Foundation Norway (RFN) is one of the world's leading organisations in the field of rights-based rainforest protection. Its mission is to support indigenous peoples and traditional populations of the world's rainforests in their efforts to protect their environment and fulfil their rights by assisting them in:
 
 - Securing and controlling the natural resources necessary for their long-term well-being and managing these resources in ways which do not harm their environment, violate their culture or compromise their future;
 - and developing the means to protect their individual and collective rights and to obtain, shape, and control basic services from the state.
 
 RFN collaborates closely with more than 70 local and national environmental, indigenous and human rights organisations in 11 countries in the Amazon region, Central Africa, Southeast Asia, and Oceania.
-  
+
 #### Contributors
-  
+
 The Engine Room is an international organisation that helps activists, social change organisations, and change agents make the most of data and technology to increase their impact. The Engine Room provides direct, project-level support for social change organisations; brings together communities to coordinate emerging ideas and collect practitioners; and documents and publishes findings to help anyone in the sector make better decisions about using data and technology.
 
 [Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) and [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) researched and wrote the main narrative, while [Ruth Miller](http://ruthmiller.net/) led work on the design and visuals creation. Vemund Olsen and Christopher Wilson provided invaluable input and editing support. The site sourcecode is available on [Github](https://github.com/the-engine-room/library/). Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org) or [rainforest@rainforest.no](rainforest@rainforest.no).

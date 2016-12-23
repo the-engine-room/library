@@ -26,8 +26,8 @@ categories:
 
 > ### Possible Objectives
 > * Collecting evidence of deforestation or forest degradation
-> * Capturing evidence of companies’ wrongdoing in how they use land 
-> * Supporting communities by presenting and providing knowledge 
+> * Capturing evidence of companies’ wrongdoing in how they use land
+> * Supporting communities by presenting and providing knowledge
 > * Providing concrete evidence to governments to encourage them to recognise indigenous lands
 
 This introduction to DIY aerial photography is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
@@ -39,20 +39,20 @@ This introduction to DIY aerial photography is part of a [Primer for using techn
 * Computer software combines (or ‘stitches’) these photos into maps or 3D models, which can be used for purposes including monitoring wildlife, recording land claims and documenting climate change impacts.
 
 ### How it can help
-High-resolution satellite maps can be expensive, out-of-date or difficult to access (see [Satellite Mapping](/rainforest-tech-satellite-imagery)). Creating aerial maps yourself gives you detailed map data for the exact area you want, in real time. It also allows you to fly over the same area regularly – giving you evidence of change over time. 
+High-resolution satellite maps can be expensive, out-of-date or difficult to access (see [Satellite Mapping](/rainforest-tech-satellite-imagery)). Creating aerial maps yourself gives you detailed map data for the exact area you want, in real time. It also allows you to fly over the same area regularly – giving you evidence of change over time.
 
-### Tools 
+### Tools
 If you have a low budget and only want to cover a small area, kites and balloons are the cheapest and easiest option (see [Costs](#costs), below). They can be constructed from simple materials or pre-prepared kits [(1)](http://publiclaboratory.org/wiki/balloon-mapping) [(2)](http://publiclaboratory.org/wiki/kite-mapping) . If tree cover restricts where you can fly balloons and kites, you will need to spend more on a drone. There are two main types: a drone with four or more multiple rotors (easier to fly, but can only fly for a maximum of 20-30 minutes), or a remote-controlled ‘fixed-wing’ plane (these can fly for up to 60 minutes – easier to fix but harder to land). You will also need a simple digital camera, software to plan flight paths, fly the drone, and edit photos.
 
 Want more detail? [Forest Compass’s guide](http://forestcompass.org/drones-pros-and-cons-community-based-monitoring) and [New America Foundation and Open Technology Institute’s primer](http://drones.newamerica.org/primer/) on drones are the best places to go.
 
 ### <a href="costs"></a>Costs
-While the materials needed to create and build a drone, balloon or kite are cheaper than ever before, use them effectively will take time, basic practical skills and the patience to learn new software. Allocate staff time to training, technical adjustments, managing data and communicating with communities where you will be flying. A basic kite able to carry a small camera can cost as little as USD 70, and you can buy a balloon kit for around USD 200. Kits are [available](http://www.openrelief.org/home/open-source-airframe/) that allow drones to be created for around USD 1,000-USD 2,000. Alternatively, you can buy simple ready-to-use drones for prices starting [from USD500](http://thewirecutter.com/reviews/best-drones/). ConservationDrones also collects unused drones and donates them to rainforest-related groups. Free, open source autopilot and map creation software is available, and the [ConservationDrones](http://conservationdrones.org), [DIYDrones](http://diydrones.com/) and the [Humanitarian UAV](http://uaviators.org/about-this-site-rules) network can offer ([often free](http://opendronemap.github.io/odm/)) advice and support. 
+While the materials needed to create and build a drone, balloon or kite are cheaper than ever before, use them effectively will take time, basic practical skills and the patience to learn new software. Allocate staff time to training, technical adjustments, managing data and communicating with communities where you will be flying. A basic kite able to carry a small camera can cost as little as USD 70, and you can buy a balloon kit for around USD 200. Kits are [available](http://www.openrelief.org/home/open-source-airframe/) that allow drones to be created for around USD 1,000-USD 2,000. Alternatively, you can buy simple ready-to-use drones for prices starting [from USD500](http://thewirecutter.com/reviews/best-drones/). ConservationDrones also collects unused drones and donates them to rainforest-related groups. Free, open source autopilot and map creation software is available, and the [ConservationDrones](http://conservationdrones.org), [DIYDrones](http://diydrones.com/) and the [Humanitarian UAV](http://uaviators.org/about-this-site-rules) network can offer ([often free](http://opendronemap.github.io/odm/)) advice and support.
 
 ### Risks and challenges
 Drones and DIY aerial photography are new technologies, and best practices and legal regulations are still being developed. The Humanitarian UAV network’s [code of conduct](https://uaviators.org/docs) is an excellent document to follow, and see also [this list of regulations](http://wiki.uaviators.org/doku.php) on flying drones in different countries.
 
-Involve local communities wherever possible, involving them in conducting the mapping themselves. Ensure that they understand exactly what data is being collected and how it will be used. Remove any information that identifies individuals, and share the information you have collected with the community being mapped afterwards. Some countries are starting to introduce legal restrictions on who can fly a drone and where. [Check](http://drones.newamerica.org/#regulations) whether it is legal before you start. 
+Involve local communities wherever possible, involving them in conducting the mapping themselves. Ensure that they understand exactly what data is being collected and how it will be used. Remove any information that identifies individuals, and share the information you have collected with the community being mapped afterwards. Some countries are starting to introduce legal restrictions on who can fly a drone and where. [Check](http://drones.newamerica.org/#regulations) whether it is legal before you start.
 
 ### Case studies
 
@@ -66,8 +66,8 @@ In 2014, members of the Wapichan community in Guyana and the organization [Digit
 * The group identified several possible uses for the drone in future, including monitoring deforestation over time, mapping villages to allocate the management of resources, and documenting illegal logging.
 
 
-#### Exposing illegal logging using a drone 
-In 2014, [ConservationDrones](http://conservationdrones.org) and the [Sumatran Orangutan Conservation Programme (SOCP)](http://www.sumatranorangutan.org/) used a drone to take aerial photographs of part of the Gunung Leuser National Park in Indonesia. The organisation flew over the same area twice in two months, producing clear photographic evidence that illegal logging had taken place. 
+#### Exposing illegal logging using a drone
+In 2014, [ConservationDrones](http://conservationdrones.org) and the [Sumatran Orangutan Conservation Programme (SOCP)](http://www.sumatranorangutan.org/) used a drone to take aerial photographs of part of the Gunung Leuser National Park in Indonesia. The organisation flew over the same area twice in two months, producing clear photographic evidence that illegal logging had taken place.
 
 **How did it help?**
 
@@ -78,16 +78,16 @@ In 2014, [ConservationDrones](http://conservationdrones.org) and the [Sumatran O
 
 * [Conservation Drones](http://conservationdrones.org/)’ site includes a guide to building and flying drones, as well as examples of how they have been used in conservation work
 * [DIY Drones](http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs) has an introductory guide to UAVs
-* [Public Laboratory](https://publiclab.org/wiki/kite-mapping) provides guides and support on building kites, balloons and sensors for mapping 
-* The [Humanitarian UAV](http://wiki.uaviators.org/doku.php) network (UAViators) has a range of useful information http://uaviators.org/about-this-site-rules and a survey of laws affecting drone flights in countries around the world 
+* [Public Laboratory](https://publiclab.org/wiki/kite-mapping) provides guides and support on building kites, balloons and sensors for mapping
+* The [Humanitarian UAV](http://wiki.uaviators.org/doku.php) network (UAViators) has a range of useful information http://uaviators.org/about-this-site-rules and a survey of laws affecting drone flights in countries around the world
 * [Geojournalism’s](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/) guide to balloon mapping
-* [NetHope’s Solutions Center](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles) has webinars and resources on using drones 
+* [NetHope’s Solutions Center](http://solutionscenter.nethope.org/communities/unmanned-aerial-vehicles) has webinars and resources on using drones
 
-### About 
+### About
 
 This site was created by __[The Engine Room](//theengineroom.org)__ and __[Rainforest Foundation Norway](www.regnskog.no/en/)__ as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. [*Download the whole primer here.*](media/rainforest/Rainforest-tech-primer.pdf)
 
-Rainforest Foundation Norway (RFN) is one of the world's leading organisations in the field of rights-based rainforest protection. Its mission is to support indigenous peoples and traditional populations of the world's rainforests in their efforts to protect their environment and fulfil their rights by assisting them in:
+Rainforest Foundation Norway (RFN) is one of the world's leading organisations in the field of rights-based rainforest protection. Its mission is to support indigenous peoples and traditional populations of the world's rainforests in their efforts to protect their environment and fullfil their rights by assisting them in:
 
 - Securing and controlling the natural resources necessary for their long-term well-being and managing these resources in ways which do not harm their environment, violate their culture or compromise their future;
 - and developing the means to protect their individual and collective rights and to obtain, shape, and control basic services from the state.

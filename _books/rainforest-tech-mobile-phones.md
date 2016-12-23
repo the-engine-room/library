@@ -94,12 +94,12 @@ The Pro-Indian Commission of Acre (Comissão Pró-Indio do Acre, or CPI-AC) trai
 
 #### Using participatory mapping with online maps for advocacy in the Congo Basin
 
-In 2013, Rainforest Foundation UK used the [MappingForRights](http://mappingforrights.org) (MfR) platform to present information about the presence, land use and rights of indigenous peoples and other forest-dependent communities in the Congo Basin. MfR allows It enables communities to map their lands through simple icon-based apps that can be downloaded onto most Android phones.
+In 2013, Rainforest Foundation UK used the [MappingForRights](http://mappingforrights.org) (MfR) platform to present information about the presence, land use and rights of indigenous peoples and other forest-dependent communities in the Congo Basin. MfR enables communities to map their lands through simple icon-based apps that can be downloaded onto most Android phones.
 
 **How did it help?**
 
 * Communities in the region used MfR to defend their rights in relation to strictly protected areas and lobby for community forest legislation.
-* Authorised users can view the data through an [online interactive map](http://mappingforrights.org), which also shows the use of (and claims on) particular forest areas. This allows users to identify where logging activities, and infrastructure and agricultural expansion, affect areas, as well as analysing the implementation of REDD projects and protected areas..
+* Authorised users can view the data through an [online interactive map](http://mappingforrights.org), which also shows the use of (and claims on) particular forest areas. This allows users to identify where logging activities, and infrastructure and agricultural expansion, affect areas, as well as analysing the implementation of REDD projects and protected areas.
 MfR was used to inform a major REDD project development in Democratic Republic of Congo support the development of a new mapping tool aimed at reducing the damage caused by palm oil expansion in Cameroon.
 
 ### Further resources
