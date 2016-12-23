@@ -34,7 +34,7 @@ Cette introduction est issue du [Guide introductif à l’utilisation de la tech
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
-Téléchargez [le guide introductif complet (1,6 MB pdf)](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642), ou consultez le en ligne ci-dessous.
+Téléchargez [le guide introductif complet (1,6 MB pdf)](media/rainforest/technologie-pour-les-forêts-tropicales.pdf), ou consultez le en ligne ci-dessous.
 
 ### Que sont les techniques audio et vidéo?
 
@@ -113,7 +113,7 @@ MfR a été utilisé pour informer un projet majeur de REDD en République Démo
 
 ### À propos
 
-Ce site a été créé par la __[Rainforest Foundation Norway](http://regnskog.no/en/)__ et __[The Engine Room](https://theengineroom.org/)__ comme introduction à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale, le droit à la terre et les droits des peuples forestiers. [*Téléchargez le guide introductif complet ici*](media/rainforest/Rainforest-tech-primer.pdf).
+Ce site a été créé par la __[Rainforest Foundation Norway](http://regnskog.no/en/)__ et __[The Engine Room](https://theengineroom.org/)__ comme introduction à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale, le droit à la terre et les droits des peuples forestiers. [*Téléchargez le guide introductif complet ici*](media/rainforest/technologie-pour-les-forêts-tropicales.pdf).
 
 Rainforest Foundation Norway (RFN) est une organisation phare au niveau mondial dans protection des forêts tropicales basée sur les droits. Elle a pour mission de soutenir les peuples autochtones et les communautés traditionnelles vivant dans les forêts tropicales à travers le monde dans la protection de leur environnement, et d’assurer le respect de leurs droits en les aidant à:
 

@@ -636,7 +636,7 @@ Les ressources ci-dessous sont disponibles dans la langue indiquée, et ont gén
 
 ## À propos
 
-Ce site a été créé par la [Rainforest Foundation Norway](http://regnskog.no/en/) et [The Engine Room](https://theengineroom.org/) comme introduction à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale, le droit à la terre et les droits des peuples forestiers. [*Téléchargez le guide introductif complet ici*](media/rainforest/Rainforest-tech-primer.pdf).
+Ce site a été créé par la [Rainforest Foundation Norway](http://regnskog.no/en/) et [The Engine Room](https://theengineroom.org/) comme introduction à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale, le droit à la terre et les droits des peuples forestiers. [*Téléchargez le guide introductif complet ici*](media/rainforest/technologie-pour-les-forêts-tropicales.pdf).
 
 Des commentaires ou des questions ? Écrivez à [post@theengineroom.org](mailto:post@theengineroom.org) ou à [rainforest@rainforest.no](mailto:rainforest@rainforest.no).
 
