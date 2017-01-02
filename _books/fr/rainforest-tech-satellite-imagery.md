@@ -1,6 +1,6 @@
 ---
 layout: rainforest
-title: Satellite Imagery
+title: Imagerie Satellite
 description: Introduction à l’utilisation d’images satellite dans les projets liés à la forêt tropicale afin d’analyser les changements intervenus dans une zone au fil du temps, ou établir des preuves de déforestation, de tendances telles que l’augmentation des activités commerciales, ou de montrer les effets visibles de la dégradation forestière. <p>Extrait du rapport sur <a href="/fr/rainforest-tech">la Technologie pour les Forêts Tropicales</a>.</p>
 image: /media/index/satellite.svg
 funder_name: Rainforest Foundation Norway
