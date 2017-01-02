@@ -40,7 +40,7 @@ Téléchargez [le guide introductif complet (1,6 MB pdf)](media/rainforest/techn
 * L’information est collectée principalement de deux manières : à travers une consultation directe de la communauté ou en lui fournissant des outils pour consigner ses connaissances.  
 * Ces informations sont utilisées pour créer des cartes qui utilisent les termes et les définitions en usage dans la communauté, en complément des cartes officielles.
 
-### En quoi cela peut être utile ?
+### Quelle en est l’utilité ?
 La cartographie officielle et les registres de propriété (cadastres) tiennent généralement comptent uniquement de la classification « officielle » des terres. Ils reconnaissent rarement d’autres utilisations des sols par des peuples qui ont vécu sur ces terres parfois bien avant les premières cartes officielles. Ces cartes posent problème dans les zones forestières où il est difficile de tracer des lignes géographiques claires. La cartographie participative contribue à montrer l’utilisation concrète d’une zone géographique,  à la comparer avec les cartes « officielles » et à en utiliser les informations à l’appui des demandes de reconnaissance du droit à la terre des communautés.
 
 ### Outils

@@ -42,7 +42,7 @@ Téléchargez [le guide introductif complet (1,6 MB pdf)](media/rainforest/techn
 * Les applications mobiles ont de nombreuses utilisations possibles, dont recueillir des preuves de coupe de bois ou d’exploitation minière illégales, surveiller la biodiversité, aider les communautés à cartographier leurs territoires ou valider les cartes élaborées par le gouvernement.
 * Ces applications fonctionnent à la fois sur des téléphones numériques de faible technologie en utilisant les SMS (Short Message Service) ou sur des Smartphones plus coûteux (dotés de capteurs GPS et d’appareils photo).
 
-### A quoi peuvent-elles être utiles ?
+### Quelle en est l’utilité ?
 
 La collecte d’informations sur le terrain peut consister en un long processus qui implique le transport physique de nombreux formulaires papier dans des zones isolées, puis la transcription manuelle des données. Les applications mobiles peuvent rendre ce processus beaucoup plus rapide et simple.
 Une des approches les plus communes consiste à fournir aux observateurs forestiers un appareil numérique sur lequel l’application est déjà installée. Ceux-ci entrent les données dans l’application et les transmettent, grâce aux réseaux téléphoniques ou à une connection internet mobile, à un serveur auquel leur organisation a accès. La plupart des applications détectent les erreurs communes et demandent des corrections. La plupart des téléphones enregistrent des données GPS qui peuvent être cartographiées et combinées à d’autres types de données (voir la [Cartographie en ligne](/rainforest-tech-online-maps)).
