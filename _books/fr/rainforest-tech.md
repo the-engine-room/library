@@ -67,7 +67,7 @@ La [deuxième section](#tools) présente les outils utiles aux projets liés à 
 
 #### Ressources complémentaires
 
-Les [dernières sections](#ressources-complémentaires)  fournissent une liste de guides et d’outils plus détaillés pour vous permettre de passer à l’étape suivante dans l’intégration de nouvelles technologies dans votre projet.
+Les [dernières sections](#ressources-complmentaires-1)  fournissent une liste de guides et d’outils plus détaillés pour vous permettre de passer à l’étape suivante dans l’intégration de nouvelles technologies dans votre projet.
 
 ### Avant-propos
 
