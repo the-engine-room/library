@@ -502,7 +502,7 @@ Souvenez vous que l’outil adéquat pour différents objectifs sera différent 
 
 ## Ressources complémentaires
 
-<a name="ressources-complémentaires"></a>Cette liste reprend de nombreuses ressources mentionnées dans le document, ainsi que des ressources additionnelles. Elle n’est pas exhaustive mais constitue une sélection des ressources les plus utiles dans la pratique pour les organisations de défense de la forêt tropicale qui utilisent la technologie.
+<a name="ressources-complmentaires-1"></a>Cette liste reprend de nombreuses ressources mentionnées dans le document, ainsi que des ressources additionnelles. Elle n’est pas exhaustive mais constitue une sélection des ressources les plus utiles dans la pratique pour les organisations de défense de la forêt tropicale qui utilisent la technologie.
 
 ### Obtenir des données
 
