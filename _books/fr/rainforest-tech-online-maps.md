@@ -8,8 +8,8 @@ funder_logo: /images/logos/rfn.svg
 funder_link: //www.regnskog.no/en
 published: true
 navigation:
-  - Que sont les cartes en ligne?
-  - Quelle en est l’utilité?
+  - Que sont les cartes en ligne ?
+  - Quelle en est l’utilité ?
   - Outils
   - Coûts
   - Risques et difficultés

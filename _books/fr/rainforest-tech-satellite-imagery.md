@@ -8,12 +8,12 @@ funder_logo: /images/logos/rfn.svg
 funder_link: //www.regnskog.no/en
 published: true
 navigation:
-  - Qu’est-ce que l’imagerie satellite?
-  - Quelle en est l’utilité?
+  - Qu’est-ce que l’imagerie satellite ?
+  - Quelle en est l’utilité ?
   - Outils
-  - Coût
+  - Coûts
   - Risques et difficultés
-  - Cas d’études
+  - Études de cas
   - Ressources complémentaires
   - À propos
 ref: rt-si

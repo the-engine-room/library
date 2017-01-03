@@ -8,8 +8,8 @@ funder_logo: /images/logos/rfn.svg
 funder_link: //www.regnskog.no/en
 published: true
 navigation:
-  - Qu’est-ce que la cartographie participative?
-  - Quelle en est l’utilité?
+  - Qu’est-ce que la cartographie participative ?
+  - Quelle en est l’utilité ?
   - Outils
   - Coûts
   - Risques et difficultés
