@@ -661,7 +661,7 @@ Esta lista de recursos inclui muitos mencionados na Cartilha, com alguns recurso
 
 * O aplicativo [**StoryMaker**](http://smallworldnews.tv/projects/storymaker/) para telefones Android ajuda você a criar histórias multimídia no seu dispositivo Android.
 
-* [**WITNESS**](http://library.witness.org/) e [**Video4Change** ](https://www.v4c.org/en/resources)têm livrarias de recursos úteis sobre como usar vídeo no seu trabalho.
+* [**WITNESS**](https://portugues.witness.org/tutoriais/) e [**Video4Change** ](https://www.v4c.org/en/resources)têm livrarias de recursos úteis sobre como usar vídeo no seu trabalho.
 
 * [**Small World News** ](http://smallworldnews.com/guides)oferece guias de vídeo e áudio.
 
@@ -711,7 +711,7 @@ Esta lista de recursos inclui muitos mencionados na Cartilha, com alguns recurso
 
 * [**The Open Data Handbook**](http://opendatahandbook.org/es) tem guias para achar e usar open data.
 
-* [**WITNESS**](http://library.witness.org) tem uma biblioteca de recursos sobre uso de vídeo de forma segura e eficaz.
+* [**WITNESS**](https://portugues.witness.org/tutoriais/) tem uma biblioteca de recursos sobre uso de vídeo de forma segura e eficaz.
 
 * [**Video4Change**](https://www.v4c.org/es/espanol) coleta guias, manuais e outros recursos úteis para vídeo ativistas.
 

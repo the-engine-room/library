@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Fotografía aérea creada por usuarios
-description: Una introducción a maneras de producir fotografías aéreas usted mismo (por ejemplo, utilizando drones) para elaborar mapas o modelos en 3D para monitorear la vida silvestre, registrar reclamaciones de tierras y documentar impacto de cambio climático. De esta manera se pueden producir imágenes más detalladas que aquellas obtenidas de datos satelitales, y actualizables en tiempo real. <p>Parte del informe <a href="/es/rainforest-tech">Tecnología para bosques lluviosos</a>.</p>
+description: Una introducción a maneras de producir fotografías aéreas usted mismo (por ejemplo, utilizando drones) para elaborar mapas o modelos en 3D para monitorear la vida silvestre, registrar reclamaciones de tierras y documentar impacto de cambio climático. De esta manera se pueden producir imágenes más detalladas que aquellas obtenidas de datos satelitales, y actualizables en tiempo real. <p>Parte del informe <a href="/es/rainforest-tech">Tecnología para bosques tropicales</a>.</p>
 image: /media/index/drone.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
@@ -29,7 +29,7 @@ categories:
 > * Dar apoyo a las comunidades presentando o aportando conocimientos
 > * Presentar pruebas concretas a los gobiernos para lograr que reconozcan las tierras indígenas
 
-La presente introducción es parte de una [Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos](https://library.theengineroom.org/rainforest-tech/), los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org).
+La presente introducción es parte de una [Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques tropicales](https://library.theengineroom.org/rainforest-tech/), los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org).
 
 _Descargar [la guía completa](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) (1.6MB pdf) o leerla en línea (a continuación)._
 
@@ -51,7 +51,7 @@ Si el presupuesto es limitado y solamente se busca cubrir un área pequeña, la 
 
 ### **Costos**
 
-Aunque los materiales necesarios para crear y construir un dron, globo o volador cuestan menos que antes, su uso efectivo implica tiempo, destrezas básicas y paciencia para aprender a usar un nuevo software. Se debe dedicar tiempo personal a la capacitación, ajustes técnicos, manejo de datos y comunicación con las comunidades donde se utilizarán los dispositivos. Un volador básico capaz de llevar una cámara pequeña puede costar unos 70 USD y hay kits disponibles alrededor de los 200 USD. Hay kits que permiten [construir drones](http://www.openrelief.org/home/open-source-airframe/) entre 1.000 y 2.000 USD. [ConservationDrones](http://conservationdrones.org/2014/10/24/recycle/) también reúne drones usados y los dona a grupos de acción sobre bosques lluviosos. Existe software gratuito de código abierto para pilotaje automático y creación de mapas y las organizaciones [ConservationDrones](http://conservationdrones.org/), [DIYDrones](http://diydrones.com/) y la red [Humanitarian UAV](http://uaviators.org/about-this-site-rules) ofrecen consejos y soporte ([a veces de manera gratuita](http://opendronemap.github.io/odm/)).
+Aunque los materiales necesarios para crear y construir un dron, globo o volador cuestan menos que antes, su uso efectivo implica tiempo, destrezas básicas y paciencia para aprender a usar un nuevo software. Se debe dedicar tiempo personal a la capacitación, ajustes técnicos, manejo de datos y comunicación con las comunidades donde se utilizarán los dispositivos. Un volador básico capaz de llevar una cámara pequeña puede costar unos 70 USD y hay kits disponibles alrededor de los 200 USD. Hay kits que permiten [construir drones](http://www.openrelief.org/home/open-source-airframe/) entre 1.000 y 2.000 USD. Por ejemplo, organizaciones como Digital Democracy han utilizado el dron Parrot Bebop (que actualmente cuesta alrededor de USD 500) en sus proyectos de mapeo. [ConservationDrones](http://conservationdrones.org/2014/10/24/recycle/) también reúne drones usados y los dona a grupos de acción sobre bosques tropicales. Existe software gratuito de código abierto para pilotaje automático y creación de mapas y las organizaciones [ConservationDrones](http://conservationdrones.org/), [DIYDrones](http://diydrones.com/) y la red [Humanitarian UAV](http://uaviators.org/about-this-site-rules) ofrecen consejos y soporte ([a veces de manera gratuita](http://opendronemap.github.io/odm/)).
 
 ### **Riesgos y desafíos**
 
@@ -94,9 +94,9 @@ En 2014, ConservationDrones y el Sumatran Orangutan Conservation Programme (SOCP
 
 ### Acerca de este sitio
 
-Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
+Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques tropicales, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
 
-La Fundación Rainforest Noruega (RFN) es una de las organizaciones líderes en el campo de la protección de bosques lluviosos basada en los derechos humanos. Su misión es brindar apoyo a los pueblos indígenas y a las poblaciones tradicionales de los bosques lluviosos del mundo en sus esfuerzos de protección medioambiental y lograr el pleno uso de sus derechos brindándoles asistencia en:
+La Fundación Rainforest Noruega (RFN) es una de las organizaciones líderes en el campo de la protección de bosques tropicales basada en los derechos humanos. Su misión es brindar apoyo a los pueblos indígenas y a las poblaciones tradicionales de los bosques tropicales del mundo en sus esfuerzos de protección medioambiental y lograr el pleno uso de sus derechos brindándoles asistencia en:
 
 * Asegurar y controlar los recursos naturales necesarios para su bienestar a 	largo plazo y manejar dichos recursos evitando causar daños a su medioambiente, violar su cultura y afectar su futuro; y
 * Desarrollar medios para proteger sus derechos individuales y colectivos y obtener, 	formar y controlar los servicios básicos que proporciona el estado.

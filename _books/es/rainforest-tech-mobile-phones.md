@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Aplicaciones para teléfonos móviles
-description: Una introducción al uso de aplicaciones para teléfonos móviles (celulares) para recopilar y grabar datos en proyectos relacionados a bosques lluviosos a fin de registrar minería o talas ilegales, llevar a cabo encuestas sobre biodiversidad, ayudar a las comunidades a crear mapas de sus propias tierras o validar mapas del gobierno. <p>Parte del informe <a href="/es/rainforest-tech">Tecnología para bosques lluviosos</a>.</p>
+description: Una introducción al uso de aplicaciones para teléfonos móviles (celulares) para recopilar y grabar datos en proyectos relacionados a bosques tropicales a fin de registrar minería o talas ilegales, llevar a cabo encuestas sobre biodiversidad, ayudar a las comunidades a crear mapas de sus propias tierras o validar mapas del gobierno. <p>Parte del informe <a href="/es/rainforest-tech">Tecnología para bosques tropicales</a>.</p>
 image: /media/index/mobile.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
@@ -30,7 +30,7 @@ categories:
 > * Presentar pruebas concretas a los gobiernos para lograr que reconozcan las tierras indígenas
 > * Presentar pruebas concretas a los gobiernos para lograr que reconozcan las tierras indígenas
 
-La presente introducción es parte de una [Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos](https://library.theengineroom.org/rainforest-tech/), los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org).
+La presente introducción es parte de una [Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques tropicales](https://library.theengineroom.org/rainforest-tech/), los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org).
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
@@ -38,7 +38,7 @@ _Descargar [la guía completa](http://d5i6is0eze552.cloudfront.net/documents/Pub
 
 ### **¿En qué consiste?**
 
-* Las aplicaciones móviles (o "apps") son programas de software diseñados para dispositivos móviles como teléfonos o tabletas. En proyectos sobre los bosques lluviosos, las aplicaciones se utilizan principalmente para recoger datos en el terreno y trasmitirlos directamente a una organización.
+* Las aplicaciones móviles (o "apps") son programas de software diseñados para dispositivos móviles como teléfonos o tabletas. En proyectos sobre los bosques tropicales, las aplicaciones se utilizan principalmente para recoger datos en el terreno y trasmitirlos directamente a una organización.
 
 * Las aplicaciones móviles se pueden utilizar para diversos propósitos, entre ellos registrar casos de minería o tala ilegal, realizar encuestas sobre biodiversidad, asistir a las comunidades en el mapeado de sus tierras o validar mapas del gobierno.
 
@@ -126,9 +126,9 @@ La Comisión Pro-Indio de Acre (Comissão Pró-Indio do Acre, o CPI-AC) capacit�
 ***
 
 ### **Acerca de este sitio**
-Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
+Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques tropicales, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
 
-La Fundación Rainforest Noruega (RFN) es una de las organizaciones líderes en el campo de la protección de bosques lluviosos basada en los derechos humanos. Su misión es brindar apoyo a los pueblos indígenas y a las poblaciones tradicionales de los bosques lluviosos del mundo en sus esfuerzos de protección medioambiental y lograr el pleno uso de sus derechos brindándoles asistencia en:
+La Fundación Rainforest Noruega (RFN) es una de las organizaciones líderes en el campo de la protección de bosques tropicales basada en los derechos humanos. Su misión es brindar apoyo a los pueblos indígenas y a las poblaciones tradicionales de los bosques tropicales del mundo en sus esfuerzos de protección medioambiental y lograr el pleno uso de sus derechos brindándoles asistencia en:
 
 * Asegurar y controlar los recursos naturales necesarios para su bienestar a 	largo plazo y manejar dichos recursos evitando causar daños a su medioambiente, violar su cultura y afectar su futuro; y
 * Desarrollar medios para proteger sus derechos individuales y colectivos y obtener, 	formar y controlar los servicios básicos que proporciona el estado.

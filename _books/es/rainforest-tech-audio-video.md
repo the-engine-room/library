@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Audio y video
-description: Una introducción al uso de audio y video en proyectos relacionados a los bosques lluviosos para maneras sencillas de presentar mensajes de defensa, recopilar pruebas visuales sobre violaciones de derechos humanos, publicar películas participativas creadas por miembros de la comunidad o documentar deforestación durante un período determinado. <p>Parte del informe <a href="/es/rainforest-tech">Tecnología para bosques lluviosos</a>.</p>
+description: Una introducción al uso de audio y video en proyectos relacionados a los bosques tropicales para maneras sencillas de presentar mensajes de defensa, recopilar pruebas visuales sobre violaciones de derechos humanos, publicar películas participativas creadas por miembros de la comunidad o documentar deforestación durante un período determinado. <p>Parte del informe <a href="/es/rainforest-tech">Tecnología para bosques tropicales</a>.</p>
 image: /media/index/audio.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
@@ -30,7 +30,7 @@ categories:
 > * Recolectar pruebas de deforestación o degradación forestal
 > * Presentar pruebas de infracciones cometidas contra individuos o comunidades
 
-La presente introducción es parte de una [Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos](https://library.theengineroom.org/rainforest-tech/), los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org).
+La presente introducción es parte de una [Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques tropicales](https://library.theengineroom.org/rainforest-tech/), los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org).
 
 _Descargar [la guía completa](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) (1.6MB pdf) o leerla en línea (a continuación)._
 
@@ -74,13 +74,13 @@ HuMa recoge datos sobre conflictos relacionados a tierras en Indonesia, incluido
 * La agencia certificadora de Perhutani (una compañía maderera indonesia del Estado) también ha utilizado los datos de HuMa como base para investigar ciertos incidentes.
 
 
-#### Usar video para documentar talas ilegales in Indonesia
+#### Usar video para documentar talas ilegales en Indonesia
 En respuesta a campañas de apoyo, la compañía papelera indonesia APP firmó un pacto de deforestación cero. En septiembre del 2013, Eyes on the Forest (una coalición de 3 organizaciones ambientales locales de Indonesia), filmó a una compañía maderera talando bosque natural (proveedor conocido de APP).
 
 **Contribución**
 
 * Por ser corto y sencillo, el video fue fácil de cargar y publicar rápidamente.
-* Aunque el video se filmó desde lejos, aún sirvió como prueba porque mostraba claramente la tala en curso. Fue respaldado por fotografías con coordinadas de GPS y un informe detallado.
+* Aunque el video se filmó desde lejos, aún sirvió como prueba porque mostraba claramente la tala en curso. Fue respaldado por fotografías con coordenadas de GPS y un informe detallado.
 * Obligó a que APP diera respuesta al video declarando que la tala tuvo lugar en una zona de exclusión que no había divulgado.
 
 ### Otros recursos
@@ -95,9 +95,9 @@ En respuesta a campañas de apoyo, la compañía papelera indonesia APP firmó u
 * **Audacity** ofrece funcionalidades gratuitas para edición de audio: [http://audacity.sourceforge.net/](http://audacity.sourceforge.net/); la versión **Lightworks Free** sirve para tareas sencillas de edición de video: [http://www.lwks.com/](http://www.lwks.com/)
 
 ### Acerca de este sitio
-Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
+Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques tropicales, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
 
-La Fundación Rainforest Noruega (RFN) es una de las organizaciones líderes en el campo de la protección de bosques lluviosos basada en los derechos humanos. Su misión es brindar apoyo a los pueblos indígenas y a las poblaciones tradicionales de los bosques lluviosos del mundo en sus esfuerzos de protección medioambiental y lograr el pleno uso de sus derechos brindándoles asistencia en:
+La Fundación Rainforest Noruega (RFN) es una de las organizaciones líderes en el campo de la protección de bosques tropicales basada en los derechos humanos. Su misión es brindar apoyo a los pueblos indígenas y a las poblaciones tradicionales de los bosques tropicales del mundo en sus esfuerzos de protección medioambiental y lograr el pleno uso de sus derechos brindándoles asistencia en:
 
 * Asegurar y controlar los recursos naturales necesarios para su bienestar a 	largo plazo y manejar dichos recursos evitando causar daños a su medioambiente, violar su cultura y afectar su futuro; y
 * Desarrollar medios para proteger sus derechos individuales y colectivos y obtener, 	formar y controlar los servicios básicos que proporciona el estado.

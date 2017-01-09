@@ -1,9 +1,9 @@
 ---
 layout: rainforest
-title: Tecnología para bosques lluviosos
+title: Tecnología para bosques tropicales
 description: >-
   Una introducción (o guía) al uso de la tecnología en el monitoreo e
-  intercambio de información sobre asuntos relacionados a los bosques lluviosos,
+  intercambio de información sobre asuntos relacionados a los bosques tropicales,
   los derechos territoriales y los derechos de los pueblos indígenas. Está
   diseñada como punto de partida para organizaciones y activistas interesados en
   incorporar avances tecnológicos en la mejora de sus esfuerzos de defensa.
@@ -25,11 +25,11 @@ categories:
   - es
 ---
 
-# Guía sobre el uso de la tecnología en el monitoreo e intercambio de información sobre los bosques lluviosos y los derechos de los pueblos forestales
+# Guía sobre el uso de la tecnología en el monitoreo e intercambio de información sobre los bosques tropicales y los derechos de los pueblos forestales
 
 ## Introducción
 
-La presente introducción es parte de una Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org).
+La presente introducción es parte de una Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques tropicales, los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org).
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
@@ -58,7 +58,7 @@ Aquí fracasa la mayoría de los proyectos. Un proyecto exitoso requiere metas e
 
 #### Herramientas{#herramientas-2}
 
-La [segunda sección](#tools) presenta algunas herramientas que pueden ser útiles en proyectos enfocados en bosques lluviosos, agrupados en seis rubros:
+La [segunda sección](#tools) presenta algunas herramientas que pueden ser útiles en proyectos enfocados en bosques tropicales, agrupados en seis rubros:
 
 * aplicaciones para telefonía móvil (celular) para recoger datos en el terreno
 * mapas elaborados en colaboración con las comunidades (mapeo participativo)
@@ -76,18 +76,18 @@ La [sección final](#resources) enumera una serie de guías y herramientas con i
 
 *Por Lars L&#248;vold - Director, [Rainforest Foundation Noruega](http://rainforest.no/en)*
 
-¿Qué utilidad podrían tener las tecnologías nuevas y en desarrollo para la defensa de los bosques lluviosos y los derechos de los pueblos forestales? La presente guía nace a raíz de esta amplia y abierta pregunta. La Fundación Rainforest Noruega se funda en 1989 con el fin de promover la protección de los bosques lluviosos desde sobre la base de los derechos humanos. Desde aquel entonces, cuando los teléfonos tenían poca movilidad y la world wide web era materia de ciencia ficción, muchas cosas han cambiado.
+¿Qué utilidad podrían tener las tecnologías nuevas y en desarrollo para la defensa de los bosques tropicales y los derechos de los pueblos forestales? La presente guía nace a raíz de esta amplia y abierta pregunta. La Fundación Rainforest Noruega se funda en 1989 con el fin de promover la protección de los bosques tropicales desde sobre la base de los derechos humanos. Desde aquel entonces, cuando los teléfonos tenían poca movilidad y la world wide web era materia de ciencia ficción, muchas cosas han cambiado.
 
 
-Hoy en día el costo de los avances tecnológicos ha disminuido y su disponibilidad y facilidad de uso son mayores, dando paso a nuevas oportunidades para el monitoreo de los bosques lluviosos y el intercambio de información relacionada. Cada semana parece emerger una nueva herramienta o plataforma diseñada para mapear los recursos forestales, detectar talas ilegales, denunciar abuso de derechos humanos y determinar el origen de las materias primas.
+Hoy en día el costo de los avances tecnológicos ha disminuido y su disponibilidad y facilidad de uso son mayores, dando paso a nuevas oportunidades para el monitoreo de los bosques tropicales y el intercambio de información relacionada. Cada semana parece emerger una nueva herramienta o plataforma diseñada para mapear los recursos forestales, detectar talas ilegales, denunciar abuso de derechos humanos y determinar el origen de las materias primas.
 
 
-No obstante, otros aspectos no han cambiado en absoluto. Los pueblos indígenas y las organizaciones locales en países con bosques lluviosos continúan la lucha por reclamar sus derechos consuetudinarios y por proteger los bosques lluviosos bajo condiciones difíciles. A menudo hay deficiencias en infraestructura y medios de comunicación, así como falta de capacitación y financiamiento, que constituyen graves obstáculos al pleno disfrute de las oportunidades que ofrece la tecnología.
+No obstante, otros aspectos no han cambiado en absoluto. Los pueblos indígenas y las organizaciones locales en países con bosques tropicales continúan la lucha por reclamar sus derechos consuetudinarios y por proteger los bosques tropicales bajo condiciones difíciles. A menudo hay deficiencias en infraestructura y medios de comunicación, así como falta de capacitación y financiamiento, que constituyen graves obstáculos al pleno disfrute de las oportunidades que ofrece la tecnología.
 
 
 Por lo general los grupos de interés involucrados en la explotación forestal no sostenible cuentan con mayores recursos para utilizar tecnologías nuevas y en desarrollo que los grupos locales y las organizaciones de la sociedad civil que luchan por la protección forestal. Aún así, existe un gran número de ejemplos sorprendentes de usos ingeniosos de nuevas tecnologías por parte de activistas locales para aumentar la efectividad y eficiencia de sus esfuerzos. Por desgracia, hay también proyectos que han fracasado en ello ocasionando grandes pérdidas de fondos y arduos esfuerzos. Aunque los objetivos y las herramientas varían considerablemente, algo que comparten los proyectos exitosos es la solidez de su diseño y una base fundada en metas claras y en un análisis exhaustivo del problema en cuestión.
 
-Dado el rol esencial que juega la solidez de la planificación y el diseño en el éxito de los proyectos tecnológicos, la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) se ha asociado con [The Engine Room](https://theengineroom.org) para elaborar una introducción básica al uso de la tecnología en la protección de bosques lluviosos basada en los derechos humanos. Durante el proceso de mapeo de un sinfín de iniciativas existentes que podrían beneficiar nuestro trabajo y para nuestros socios, determinamos que una introducción básica de este tipo podría serle útil a muchas personas.
+Dado el rol esencial que juega la solidez de la planificación y el diseño en el éxito de los proyectos tecnológicos, la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) se ha asociado con [The Engine Room](https://theengineroom.org) para elaborar una introducción básica al uso de la tecnología en la protección de bosques tropicales basada en los derechos humanos. Durante el proceso de mapeo de un sinfín de iniciativas existentes que podrían beneficiar nuestro trabajo y para nuestros socios, determinamos que una introducción básica de este tipo podría serle útil a muchas personas.
 
 He ahí el propósito del presente informe: se emplean ejemplos concretos para describir las ventajas y desventajas de las distintas herramientas que se pueden utilizar. Se proporciona igualmente una guía detallada para el desarrollo estratégico de proyectos, con sugerencias de preguntas esenciales que se deben responder para garantizar que la tecnología atiende a las necesidades del proyecto, y no a la inversa.
 
@@ -179,8 +179,6 @@ Considerar quién participará en la implementación del proyecto (desde el pers
 
 Determinar las características críticas antes de elegir una herramienta tecnológica y asegurarse de que la misma es capaz de crecer a medida que crece el programa. Consultar con otras organizaciones si han llevado a cabo proyectos similares. ¿Qué funcionó y qué no?
 
-##### What worked, and what didn’t?
-
 Considerar un plazo razonable para el proyecto; añadir períodos adicionales que integren la capacitación, la resolución de problemas y posibles retrasos en la implementación. Considerar las fases finales del proyecto desde su inicio: ¿Qué hacer con los equipos que se han adquirido? ¿Cómo se tratarán los datos? Algunos proyectos tardan más en lograr un impacto: planificar los procedimientos a seguir una vez cumplido el plazo del proyecto.
 
 ##### Llevar a cabo un proyecto piloto
@@ -193,7 +191,7 @@ Un proyecto piloto permite ensayar un programa a menor escala e identificar en f
 	<p><b>Contribución</b></p>
 	<ul>
 		<li>El piloto fue diseñado para evaluar el funcionamiento de la tecnología pero los resultados fueron superiores a lo esperado, ya que se logró registrar información que conllevó a la captura de taladores ilegales por parte de las autoridades locales dos semanas después de instalar la aplicación.</li>
-		<li>Los taladores no hay vuelto al área desde entonces. <a href="http://news.mongabay.com/2014/0624-rainforest-connection-interview.html">Rainforest Connection</a> está llevando a  <a href="https://rfcx.org">cabo una segunda serie de ensayos</a> en África ecuatorial.</li>
+		<li>Los taladores no han vuelto al área desde entonces. <a href="http://news.mongabay.com/2014/0624-rainforest-connection-interview.html">Rainforest Connection</a> está llevando a  <a href="https://rfcx.org">cabo una segunda serie de ensayos</a> en África ecuatorial.</li>
 	</ul>
 </blockquote>
 
@@ -279,7 +277,7 @@ La combinación de distintas fuentes de datos puede revelar información complet
 
 No gastar dinero en tecnología salvo cuando se está completamente seguro de su necesidad. Por ejemplo, si se están recolectando datos de un pequeño número de personas en determinada área, podría ser más barato y más fácil utilizar papel en vez de una determinada solución tecnológica.
 
-#### Consideraciones prácticas para el tratamiento de datos sobre bosques lluviosos
+#### Consideraciones prácticas para el tratamiento de datos sobre bosques tropicales
 
 **Poder:** energía inestable y datos corruptos: utilizar una fuente de energía ininterrumpida (UPS por sus siglas en ingles) y protectores de corriente o discos de datos externos. Ciertas baterías de teléfonos móviles pueden durar más que otras; hacer pruebas a fondo antes de utilizarlas.
 
@@ -288,14 +286,14 @@ No gastar dinero en tecnología salvo cuando se está completamente seguro de su
 Conexión a Internet: ser realista acerca de lo que se puede lograr con una conexión a Internet lenta; esto puede retrasar el progreso e incrementar los costos. Considerar modificar el proyecto o el diseño de la página web para que funcione en conexiones lentas o selecciona herramientas que trabajen en modo offline. [[14]](http://www.aptivate.org/webguidelines/Home.html) [[15]](http://www.engagemedia.org/help/how-to-compress-video)
 
 <blockquote style="background: #811619; border-left: 8px solid #d09b2c;">
-	<p style="color:white"><b>No confiar en una única empresa para respaldar sus datos en línea</b> Por ejemplo, millones de fotos colocadas en el servicio Twitpic estaban en riesgo de ser eliminadas en el 2014 cuando la empresa cerró, mientras que en el 2011 miles de videos colocados en el sitio surafricano MyVideo se perdieron porque el servicio carecía de respaldo y los servidores tenían mantenimiento adecuado.</p> <a href="http://www.pcworld.com/article/2839172/twitter-keeps-alive-twitpic-domain-and-photo-archive.html">16</a> <a href="http://www.archiveteam.org/index.php?title=Deathwatch">17</a> <a href="http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf">18</a>
+	<p style="color:white"><b>No confiar en una única empresa para respaldar sus datos en línea</b> Por ejemplo, millones de fotos colocadas en el servicio Twitpic estaban en riesgo de ser eliminadas en el 2014 cuando la empresa cerró, mientras que en el 2011 miles de videos colocados en el sitio surafricano MyVideo se perdieron porque el servicio carecía de respaldo y los servidores tenían el mantenimiento adecuado.</p> <a href="http://www.pcworld.com/article/2839172/twitter-keeps-alive-twitpic-domain-and-photo-archive.html">16</a> <a href="http://www.archiveteam.org/index.php?title=Deathwatch">17</a> <a href="http://www.engagemedia.org/Members/toysatellite/files/secure-my-video-guide-pdf">18</a>
 </blockquote>
 
 **Respaldar los datos:** opciones de almacenamiento físico como DVDs y unidades de memorias flash se pueden enmohecer o ensuciarse de arena o tierra: resguardarlas siempre en bolsas plásticas cerradas e impermeables. No confiar ciegamente en los dispositivos de almacenamiento: respaldar los datos en distintas ubicaciones.
 
 #### Preparación
 
-Para comenzar, **crear una metodología** (una explicación de cómo se obtienen y analizan los datos). Verificar la metodología, compleméntala con expertos, y describirla claramente al publicar los resultados. Estar preparado para explicar la metodología o utilizarla para defender la credibilidad de su trabajo. Por ejemplo, ver Open Development Cambodia, un sitio web de datos abiertos o “open data” (para una metodología simple) y Land Matrix (para una metodología más detallada). [[19]](http://www.opendevelopmentcambodia.net/briefings/forest-cover/) [[20]]( http://landmatrix.org/en/about/) [[21]](http://maaproject.org/about-maap/)
+Para comenzar, **crear una metodología** (una explicación de cómo se obtienen y analizan los datos). Verificar la metodología, complementada con expertos, y describirla claramente al publicar los resultados. Estar preparado para explicar la metodología o utilizarla para defender la credibilidad de su trabajo. Por ejemplo, ver Open Development Cambodia, un sitio web de datos abiertos o “open data” (para una metodología simple) y Land Matrix (para una metodología más detallada). [[19]](http://www.opendevelopmentcambodia.net/briefings/forest-cover/) [[20]]( http://landmatrix.org/en/about/) [[21]](http://maaproject.org/about-maap/)
 
 <blockquote>
 	<h5>Caso de estudio: recibir reconocimiento por la calidad de su evidencia</h5>
@@ -306,7 +304,7 @@ Para comenzar, **crear una metodología** (una explicación de cómo se obtienen
 	<h5 style="color:white"><i>Información sobre uso responsable de datos:</i> <b>Reconocer cuándo no recolectar datos</b></h5>
 	<p style="color:white">Para reducir riesgos obtener la menor cantidad de los datos necesaria para llevar a cabo el proyecto. Recordar la valoración de los riesgos (ver <b>Sección de Planificación</b>) y obtener datos sensibles de una manera más segura de ser necesario.</p>
 	<p style="color:white"><b>Consentimiento informado</b></p>
-	<p style="color:white">Al obtener datos acerca de una individuo, se tiene acceso a información personal. Es decisión de dicha persona – no tuya ni de tu organización – entregar la información y decidir cómo se podrá utilizar. Al recolectar información de las personas, crear un proceso a seguir que incluya los siguientes pasos:</p>
+	<p style="color:white">Al obtener datos acerca de un individuo, se tiene acceso a información personal. Es decisión de dicha persona – no tuya ni de tu organización – entregar la información y decidir cómo se podrá utilizar. Al recolectar información de las personas, crear un proceso a seguir que incluya los siguientes pasos:</p>
 	<ul style="color:white">
 		<li>Explicar cómo se utilizarán, publicarán y almacenarán los datos recolectados.</li>
 		<li>Revisar los riesgos con la persona y verificar si tiene alguna preocupación adicional.</li>
@@ -349,7 +347,7 @@ A veces es necesario limpiar los datos (remover manualmente los errores o repara
 
 ##### Estadística 101
 
-Existen muchas técnicas para extraer sentido de los datos, entre ellas, métodos directos como incrementos de porcentajes y técnicas estadísticas más complejas como la correlación (por ejemplo, “un aumento en la tala se correlaciona con un aumento en las inundaciones”). Si el conjunto de datos es muy complejo, el personal del equipo podría necesitar entender de análisis estadístico para lograr extraer información sólida y valiosa. Si su proyecto necesita mayora capacitación, considerar contratar a un consultor o pedir asistencia a una ONG que provea asesoramiento gratuito. [26](http://schoolofdata.org) [27](http://www.datakind.org) [28](http://www.doinggoodfellows.org) [29](http://datalook.io)
+Existen muchas técnicas para extraer sentido de los datos, entre ellas, métodos directos como incrementos de porcentajes y técnicas estadísticas más complejas como la correlación (por ejemplo, “un aumento en la tala se correlaciona con un aumento en las inundaciones”). Si el conjunto de datos es muy complejo, el personal del equipo podría necesitar entender de análisis estadístico para lograr extraer información sólida y valiosa. Si su proyecto necesita mayor capacitación, considerar contratar a un consultor o pedir asistencia a una ONG que provea asesoramiento gratuito. [26](http://schoolofdata.org) [27](http://www.datakind.org) [28](http://www.doinggoodfellows.org) [29](http://datalook.io)
 
 ##### Presentación clara
 
@@ -422,13 +420,13 @@ Elegir uno o más grupos cuya conducta se desea cambiar: estos constituyen su p�
 
 ##### Determinar cómo alcanzar al grupo objetivo
 
-Partir de lo que ya se conoce: ¿Dónde obtiene el grupo su información? ¿Cuáles son sus intereses? ¿Qué medios usan? ¿Qué tipo de cambio son capaces de influenciar? Compensar las carencias de información: asistir a reuniones públicas, explorar los medios los medios sociales o reunirse con las personas directamente.
+Partir de lo que ya se conoce: ¿Dónde obtiene el grupo su información? ¿Cuáles son sus intereses? ¿Qué medios usan? ¿Qué tipo de cambio son capaces de influenciar? Compensar las carencias de información: asistir a reuniones públicas, explorar los medios sociales o reunirse con las personas directamente.
 
 #### Llevar a cabo la campaña
 
 ##### Seleccionar tácticas adaptadas a la situación
 
-Utilizar el conocimiento existente acerca de sus datos y el público objetivo para determinar decide qué tácticas utilizar:
+Utilizar el conocimiento existente acerca de sus datos y el público objetivo para determinar qué tácticas utilizar:
 
 ##### Presentar los datos en un formato que el público pueda comprender y utilizar
 
@@ -491,24 +489,24 @@ Cabe recordar que la mejor herramienta para distintos objetivos varía según ca
 | Presentar pruebas a los gobiernos para lograr que reconozcan las tierras indígenas | PMapeo participativo, mapas en línea, fotografía aérea creada por usuarios, aplicaciones móviles, video y audio |
 | Registrar pruebas de deforestación o degradación forestal | Mapas satelitales, mapeo participativo, aplicaciones móviles, fotografía aérea creada por usuarios, video y audio |
 | Presentar pruebas de irregularidades cometidas contra individuos o comunidades| Aplicaciones móviles, video y audio |
-| Presentar pruebas de irregularidades cometidas por las compañías en su uso de la tierra | Mapas satelitales, mapas en línea, mapeo aéreo creado por usuarios, Video and audio, aplicaciones móviles |
+| Presentar pruebas de irregularidades cometidas por las compañías en su uso de la tierra | Mapas satelitales, mapas en línea, mapeo aéreo creado por usuarios, Video y audio, aplicaciones móviles |
 | Grabar o monitorear el valor ambiental de terrenos | Mapas satelitales, mapas en línea, mapeo participativo, aplicaciones móviles, mapeo aéreo creado por usuarios |
-| Dar apoyo a las comunidades presentando y aportando conocimiento | Mapeo participativo, Audio and Video, fotografía aérea creada por usuarios |
+| Dar apoyo a las comunidades presentando y aportando conocimiento | Mapeo participativo, Audio y Video, fotografía aérea creada por usuarios |
 
 
 ## Herramientas
 
-* <a name="tools"></a>[APLICACIONES PARA TELÉFONOS MÓVILES](/rainforest-tech-mobile-phones) Una introducción al uso de aplicaciones para teléfonos móviles (celulares) para recopilar y grabar datos en proyectos relacionados a bosques lluviosos a fin de registrar minería o talas ilegales, llevar a cabo encuestas sobre biodiversidad, ayudar a las comunidades a crear mapas de sus propias tierras o validar mapas del gobierno.
+* <a name="tools"></a>[APLICACIONES PARA TELÉFONOS MÓVILES](/rainforest-tech-mobile-phones) Una introducción al uso de aplicaciones para teléfonos móviles (celulares) para recopilar y grabar datos en proyectos relacionados a bosques tropicales a fin de registrar minería o talas ilegales, llevar a cabo encuestas sobre biodiversidad, ayudar a las comunidades a crear mapas de sus propias tierras o validar mapas del gobierno.
 * [MAPEO PARTICIPATIVO Y DE GPS](/rainforest-tech-participatory-mapping) Una introducción a la producción de mapas en colaboración con las comunidades (mapeo participativo) a fin de mostrar el uso real de un área, comparar un área con mapas “oficiales” y usar dicha información en reclamaciones comunitarias de derechos territoriales.
-* [IMÁGENES SATELITALES](/rainforest-tech-satellite-imagery) Una introducción al uso de imágenes satelitales en proyectos relacionados a bosques lluviosos para analizar cambios ocurridos en un área forestal durante un período determinado, o generar pruebas de deforestación, tendencias tales como aumentos en actividad comercial o resultados visibles de la degradación forestal.
+* [IMÁGENES SATELITALES](/rainforest-tech-satellite-imagery) Una introducción al uso de imágenes satelitales en proyectos relacionados a bosques tropicales para analizar cambios ocurridos en un área forestal durante un período determinado, o generar pruebas de deforestación, tendencias tales como aumentos en actividad comercial o resultados visibles de la degradación forestal.
 * [FOTOGRAFÍA AÉREA CREADA POR USUARIOS](/rainforest-tech-diy-aerial) Una introducción a maneras de producir fotografías aéreas usted mismo (por ejemplo, utilizando drones) para elaborar mapas o modelos en 3D para monitorear la vida silvestre, registrar reclamaciones de tierras y documentar impacto de cambio climático. De esta manera se pueden producir imágenes más detalladas que aquellas obtenidas de datos satelitales, y actualizables en tiempo real.
-* [AUDIO Y VIDEO](/rainforest-tech-audio-video) Una introducción al uso de audio y video en proyectos relacionados a los bosques lluviosos para maneras sencillas de presentar mensajes de defensa, recopilar pruebas visuales sobre violaciones de derechos humanos, publicar películas participativas creadas por miembros de la comunidad o documentar deforestación durante un período determinado.
-* [MAPAS EN LÍNEA](/rainforest-tech-online-maps) Una introducción al uso de mapas en línea que combinan diferentes tipos de datos en proyectos relacionados a bosques lluviosos a fin de incluir monitoreo en tiempo real (mostrar los lugares donde ocurre la mayoría de los incidentes), llevar a cabo campañas (por ejemplo, mostrar la ubicación de reducciones drásticas de la cubierta forestal) o realizar análisis (obtener nuevas perspectivas al superponer diferentes tipos de datos sobre el mismo mapa).
+* [AUDIO Y VIDEO](/rainforest-tech-audio-video) Una introducción al uso de audio y video en proyectos relacionados a los bosques tropicales para maneras sencillas de presentar mensajes de defensa, recopilar pruebas visuales sobre violaciones de derechos humanos, publicar películas participativas creadas por miembros de la comunidad o documentar deforestación durante un período determinado.
+* [MAPAS EN LÍNEA](/rainforest-tech-online-maps) Una introducción al uso de mapas en línea que combinan diferentes tipos de datos en proyectos relacionados a bosques tropicales a fin de incluir monitoreo en tiempo real (mostrar los lugares donde ocurre la mayoría de los incidentes), llevar a cabo campañas (por ejemplo, mostrar la ubicación de reducciones drásticas de la cubierta forestal) o realizar análisis (obtener nuevas perspectivas al superponer diferentes tipos de datos sobre el mismo mapa).
 
 
 ## Otros recursos
 
-La siguiente lista de recursos incluye muchos ya mencionados en la presente Guía, además de recursos adicionales. No pretende ser una lista completa sino resaltar algunos de los recursos de mayor utilidad práctica para las organizaciones defensoras de los bosques lluviosos y utilizan la tecnología en sus esfuerzos.
+La siguiente lista de recursos incluye muchos ya mencionados en la presente Guía, además de recursos adicionales. No pretende ser una lista completa sino resaltar algunos de los recursos de mayor utilidad práctica para las organizaciones defensoras de los bosques tropicales y utilizan la tecnología en sus esfuerzos.
 
 #### Obtención de datos
 
@@ -530,7 +528,7 @@ La siguiente lista de recursos incluye muchos ya mencionados en la presente Guí
 
 * **Security in-a-Box** es una guía sobre seguridad digital para activistas y defensores de derechos humanos alrededor del mundo producida por Frontline Defenders y Tactical Technology Collective: [https://securityinabox.org/](https://securityinabox.org/)
 
-* El **Responsible Data Forum** provee recursos and guías para asistir a organizaciones en el uso de datos atendiendo asuntos de privacidad y consentimiento: [https://responsibledata.io](https://responsible/)
+* El **Responsible Data Forum** provee recursos y guías para asistir a organizaciones en el uso de datos atendiendo asuntos de privacidad y consentimiento: [https://responsibledata.io](https://responsible/)
 
 * El Digital First Aid Kit de **Digital Defenders** ofrece un conjunto de herramientas de autoevaluación para organizaciones y activistas expuestos a ataques: [https://digitaldefenders.org/digitalfirstaid/](https://digitaldefenders.org/digitalfirstaid/)
 
@@ -578,7 +576,7 @@ La siguiente lista de recursos incluye muchos ya mencionados en la presente Guí
 
 * **TechChange** ofrece un curso en línea gratis sobre aplicaciones para recolección de datos móvil: [https://www.techchange.org/online-courses/mobile-data-solutions/](https://www.techchange.org/online-courses/mobile-data-solutions/)
 
-* El informe "Opportunities and guidance on aplicaciones móviles for forest and agricultural sectors" del **Banco Mundial** contiene orientación útil para comparar funciones de aplicaciones móviles y planificar costos a corto y a largo plazo: [http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors](http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors)
+* El informe "Opportunities and guidance on mobile applications for forest and agricultural sectors" del **Banco Mundial** contiene orientación útil para comparar funciones de aplicaciones móviles y planificar costos a corto y a largo plazo: [http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors](http://documents.worldbank.org/curated/en/2013/12/18658539/ict-data-collection-monitoring-evaluation-opportunities-guidance-mobile-applications-forest-agricultural-sectors)
 
 * La guía Data Integrity User Guide de **FrontlineSMS** propone un marco para la comprensión del nivel de riesgo que implica toda actividad basada en SMS: http://www.frontlinesms.com/wp-content/uploads/2011/08/frontlinesms_userguide.pdf
 
@@ -598,11 +596,11 @@ La siguiente lista de recursos incluye muchos ya mencionados en la presente Guí
 
 * El Proyecto Geospatial Technologies de **AAAS** contiene casos de estudio detallados sobre la recolección, categorización y análisis de imágenes satelitales para documentar abusos de derechos humanos: [http://www.aaas.org/case-studies](http://www.aaas.org/case-studies)
 
-#### Video and audio
+#### Video y audio
 
 * La **Informacam** de The Guardian Project, un plugin que funciona con la aplicación **Obscuracam **para Android, puede contribuir a la recolección segura y verificable de pruebas en video y foto:[ https://guardianproject.info/informa/](https://guardianproject.info/informa/) y [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam)
 
-* La aplicación **StoryMaker** para teléfonos Android ayuda permite utilizar dispositivos Android para crear historias multimedia:[ http://smallworldnews.tv/projects/storymaker/](http://smallworldnews.tv/projects/storymaker/)
+* La aplicación **StoryMaker** para teléfonos Android permite utilizar dispositivos Android para crear historias multimedia:[ http://smallworldnews.tv/projects/storymaker/](http://smallworldnews.tv/projects/storymaker/)
 
 * **WITNESS** y **Video4Change** ofrecen bibliotecas de recursos útiles sobre cómo usar videos en su trabajo: [https://www.v4c.org/en/resources](https://www.v4c.org/en/resources) and [http://library.witness.org](http://library.witness.org/)
 
@@ -700,7 +698,7 @@ Los recursos que se enumeran a continuación se encuentran disponibles en el idi
 
 * **Security in-a-Box** es una guía sobre seguridad digital para activistas y defensores de derechos humanos alrededor del mundo producida por Frontline Defenders y Tactical Technology Collective: [https://securityinabox.org/es](https://securityinabox.org/es)
 
-* **The Monitoring Project of the Andean Amazon** (MAAP) recopila datos and mapas para monitorear the Andean Amazon región [http://maaproject.org/acerca-d-maap/](http://maaproject.org/acerca-d-maap/)
+* **The Monitoring Project of the Andean Amazon** (MAAP) recopila datos y mapas para monitorear the Andean Amazon región [http://maaproject.org/acerca-d-maap/](http://maaproject.org/acerca-d-maap/)
 
 * **Frontline Defenders** ofrece capacitación y recursos para defensores de derechos humanos: [http://www.frontlinedefenders.org/es/](http://www.frontlinedefenders.org/es/)
 
@@ -725,9 +723,9 @@ Los recursos que se enumeran a continuación se encuentran disponibles en el idi
 ***
 
 ## **Acerca de este sitio**
-Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
+Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques tropicales, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
 
-La Fundación Rainforest Noruega (RFN) es una de las organizaciones líderes en el campo de la protección de bosques lluviosos basada en los derechos humanos. Su misión es brindar apoyo a los pueblos indígenas y a las poblaciones tradicionales de los bosques lluviosos del mundo en sus esfuerzos de protección medioambiental y lograr el pleno uso de sus derechos brindándoles asistencia en:
+La Fundación Rainforest Noruega (RFN) es una de las organizaciones líderes en el campo de la protección de bosques tropicales basada en los derechos humanos. Su misión es brindar apoyo a los pueblos indígenas y a las poblaciones tradicionales de los bosques tropicales del mundo en sus esfuerzos de protección medioambiental y lograr el pleno uso de sus derechos brindándoles asistencia en:
 
 * Asegurar y controlar los recursos naturales necesarios para su bienestar a 	largo plazo y manejar dichos recursos evitando causar daños a su medioambiente, violar su cultura y afectar su futuro; y
 * Desarrollar medios para proteger sus derechos individuales y colectivos y obtener, 	formar y controlar los servicios básicos que proporciona el estado.

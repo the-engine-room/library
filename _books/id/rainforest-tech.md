@@ -549,7 +549,7 @@ Daftar sumber termasuk yang telah disebutkan di Panduan, dengan beberapa tambaha
 
 - The Guardian Project’s **Informacam**, adalah plugin yang dapat berfungsi dengan **Obscuracam** Android app, yang dapat membantu mengumpulkan bukti video dan photo dengan aman dan dapat diverifikasi: [https://guardianproject.info/informa/](https://guardianproject.info/informa/) dan [https://www.v4c.org/en/content/hands-using-obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam)
 - The **StoryMaker** app untuk ponsel Android membantu untuk membuat kisah-kisah multimedia di perangkat Android Anda: [http://smallworldnews.tv/projects/storymaker/](http://smallworldnews.tv/projects/storymaker/)
-- **WITNESS** dan **Video4Change** memiliki perpustakaan yang sangat membantu kerja Anda: [https://www.v4c.org/en/resources](https://www.v4c.org/en/resources) dan [http://library.witness.org](http://library.witness.org)
+- **WITNESS** dan **Video4Change** memiliki perpustakaan yang sangat membantu kerja Anda: [https://www.v4c.org/id/resources](https://www.v4c.org/id/resources) dan [http://library.witness.org](http://library.witness.org)
 - **Small World News** menawarkan panduan membuat video dan audio [http://smallworldnews.com/guides](http://smallworldnews.com/guides)
 - **Audacity** menawarkan kemampuan mengedit audio secara gratis [http://audacity.sourceforge.net/](http://audacity.sourceforge.net/), sementara versi **Lightworks Free** dapat menangani tugas editing video yang simpel: [http://www.lwks.com/](http://www.lwks.com/)
 

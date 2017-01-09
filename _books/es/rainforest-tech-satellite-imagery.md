@@ -1,7 +1,7 @@
 ---
 layout: rainforest
 title: Imágenes satelitales
-description: Una introducción al uso de imágenes satelitales en proyectos relacionados a bosques lluviosos para analizar cambios ocurridos en un área forestal durante un período determinado, o generar pruebas de deforestación, tendencias tales como aumentos en actividad comercial o resultados visibles de la degradación forestal. <p>Parte del informe <a href="/es/rainforest-tech">Tecnología para bosques lluviosos</a>.</p>
+description: Una introducción al uso de imágenes satelitales en proyectos relacionados a bosques tropicales para analizar cambios ocurridos en un área forestal durante un período determinado, o generar pruebas de deforestación, tendencias tales como aumentos en actividad comercial o resultados visibles de la degradación forestal. <p>Parte del informe <a href="/es/rainforest-tech">Tecnología para bosques tropicales</a>.</p>
 image: /media/index/satellite.svg
 funder_name: Rainforest Foundation Norway
 funder_logo: /images/logos/rfn.svg
@@ -28,7 +28,7 @@ categories:
 > * Registrar pruebas de infracciones cometidas por las compañías en su uso de la tierra
 > * Grabar y monitorear el valor ambiental de las tierras o áreas forestales
 
-La presente introducción es parte de una [Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos](https://library.theengineroom.org/rainforest-tech/), los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org).
+La presente introducción es parte de una [Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques tropicales](https://library.theengineroom.org/rainforest-tech/), los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org).
 
 _Descargar [la guía completa](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) (1.6MB pdf) o leerla en línea (a continuación)._
 
@@ -64,7 +64,7 @@ Con esto llegamos al segundo problema: **las actualizaciones.** En general, las 
 
 #### Combinar datos satelitales con otras fuentes de información
 
-La organización indonesia para bosques lluviosos [Warsi](http://www.warsi.org/) combinó datos de mapas satelitales obtenidos de Landsat Thematic Mapper (Landsat TM) y Advanced Land Observation Satellite (ALOS) con otras fuentes de información para documentar la distribución del Pueblo Orang Rimba y su uso de recursos naturales.
+La organización indonesia para bosques tropicales [Warsi](http://www.warsi.org/) combinó datos de mapas satelitales obtenidos de Landsat Thematic Mapper (Landsat TM) y Advanced Land Observation Satellite (ALOS) con otras fuentes de información para documentar la distribución del Pueblo Orang Rimba y su uso de recursos naturales.
 
 **Contribución**
 
@@ -94,9 +94,9 @@ En enero del 2015, un análisis realizado por [Greenomics-Indonesia](http://www.
 ***
 
 ### **Acerca de este sitio**
-Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques lluviosos, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
+Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques tropicales, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
 
-La Fundación Rainforest Noruega (RFN) es una de las organizaciones líderes en el campo de la protección de bosques lluviosos basada en los derechos humanos. Su misión es brindar apoyo a los pueblos indígenas y a las poblaciones tradicionales de los bosques lluviosos del mundo en sus esfuerzos de protección medioambiental y lograr el pleno uso de sus derechos brindándoles asistencia en:
+La Fundación Rainforest Noruega (RFN) es una de las organizaciones líderes en el campo de la protección de bosques tropicales basada en los derechos humanos. Su misión es brindar apoyo a los pueblos indígenas y a las poblaciones tradicionales de los bosques tropicales del mundo en sus esfuerzos de protección medioambiental y lograr el pleno uso de sus derechos brindándoles asistencia en:
 
 * Asegurar y controlar los recursos naturales necesarios para su bienestar a 	largo plazo y manejar dichos recursos evitando causar daños a su medioambiente, violar su cultura y afectar su futuro; y
 * Desarrollar medios para proteger sus derechos individuales y colectivos y obtener, 	formar y controlar los servicios básicos que proporciona el estado.

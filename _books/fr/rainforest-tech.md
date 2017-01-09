@@ -567,7 +567,7 @@ Souvenez vous que l’outil adéquat pour différents objectifs sera différent 
 
 * [Informacam](https://guardianproject.info/informa/) du [Guardian Project](https://guardianproject.info/) est un plugin fonctionnant avec l’application Android [Obscuracam](https://www.v4c.org/en/content/hands-using-obscuracam) qui permet de recueillir des preuves vidéo et audio en toute sécurité pouvant être vérifiées.
 * L’application [StoryMaker](http://smallworldnews.tv/projects/storymaker/) pour les téléphones Android permettent de créer des articles multimédias sur un téléphone Android.
-* [WITNESS](http://library.witness.org/) et [Video4Change](https://www.v4c.org/en/resources) disposent de bibliothèques utiles pour l’utilisation de vidéos pour accompagner vos activités.
+* [WITNESS](https://fr.witness.org/ressources/) et [Video4Change](https://www.v4c.org/en/resources) disposent de bibliothèques utiles pour l’utilisation de vidéos pour accompagner vos activités.
 * [Small World News](http://smallworldnews.com/guides) fournit des guides pour la réalisation de produits vidéo et audio.
 * [Audacity](http://audacity.sourceforge.net/) est un logiciel de montage audio gratuit, et [Lightworks Free](http://www.lwks.com/) peut prendre en charge de nombreuses fonctions simples de montage vidéo.
 
@@ -624,7 +624,7 @@ Les ressources ci-dessous sont disponibles dans la langue indiquée, et ont gén
 
 * [Le Manuel de l’Open Data](http://opendatahandbook.org/es) contient des indications pour se procurer et utiliser de l’open data.
 
-* [WITNESS](http://library.witness.org/) a une bibliothèque de ressources sur l’utilisation de la vidéo de manière sécurisée et efficace.
+* [WITNESS](https://fr.witness.org/ressources/) a une bibliothèque de ressources sur l’utilisation de la vidéo de manière sécurisée et efficace.
 
 * [Video4Change](https://www.v4c.org/es/espanol) rassemble des guides, des manuels et d’autres ressources utiles pour les vidéoactivistes.
 
