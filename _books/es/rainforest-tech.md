@@ -34,7 +34,7 @@ La presente introducción es parte de una Guía para el uso de la tecnología en
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
 La estructura de la guía permite una consulta parcial y explorar secciones relevantes por separado si se desea obtener pautas más detalladas.
-[Descargar la guía completa (1.6MB pdf)](/media/rainforest/tecnología-para-bosques-lluviosos.pdf) o leerla en línea (a continuación).
+[Descargar la guía completa (1.6MB pdf)](/media/rainforest/tecnología-para-bosques-tropicales.pdf) o leerla en línea (a continuación).
 
 La guía:
 
