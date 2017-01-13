@@ -24,7 +24,7 @@ categories:
 
 ## **Technology Tools in Human Rights**
 
-## **Introduction**
+## Introduction
 
 This is a scoping study on how human rights defenders (HRDs) are using technology tools to communicate, analyse and manage information, identify new incidents and archive data. It aims to help understand the realities of tool use and identify HRDs’ needs as they stand.
 
@@ -42,7 +42,7 @@ The aim of this piece is to get a better understanding of how human rights defen
 
 * * *
 
-## **Objectives**
+## Objectives
 
 * *Communication*: to share their findings more broadly, such as through videos, press releases, and to connect online with groups working on similar issues.
 
@@ -55,7 +55,7 @@ The aim of this piece is to get a better understanding of how human rights defen
 * *Historical archiving*: to scan paper documents, classify and tag them, make them machine-readable, encrypt them and make backups in case they get lost.
 
 
-## **Context**
+## Context
 
 While the human rights defenders we spoke to worked throughout the world (from regions including South and South-east Asia, sub-Saharan Africa and the Middle East), tool developers were generally based in Europe or the US. Many tool developers described putting considerable effort and through into building tools specifically for HRDs, including user testing and, in some cases, co-creation with partner organisations. However, the HRDs we spoke to (many of whom fitted the profile of the tools’ intended users) found it hard to identify a tool that was right for them, and chose the tools that they did use in a relatively ad-hoc manner.
 
@@ -74,7 +74,7 @@ Taking a longer term perspective, the most common issues and worries raised were
 * * *
 
 
-## **Tools and Applications**
+## Tools and Applications
 
 #### **Tools**
 
@@ -295,7 +295,7 @@ Below follows a table of some mobile applications developed specifically for the
 * * *
 
 
-## **Pros and cons**
+## Pros and cons
 
 Opinions varied as to the usefulness of technology tools in facilitating documentation of human rights violations. Interviewees identified many more problems than success stories. Overall, there was consensus that in theory, technology could facilitate documentation work - especially in situations where paper documentation was simply getting overwhelming in quantity, a problem which will only increase with time.
 
@@ -350,7 +350,7 @@ Multiple intermediaries and HRDs highlighted the challenges associated with gett
 * * *
 
 
-## **Challenges**
+## Challenges
 
 #### **Contextualise vs adapt**
 
@@ -411,7 +411,7 @@ For newcomers to the field, there seem to be few visible differences between too
 * * *
 
 
-## **Implementation**
+## Implementation
 
 #### **Human capacity**
 
@@ -446,7 +446,7 @@ Similarly, those who use commercial tools or social media platforms to gather in
 * * *
 
 
-## **Conclusion**
+## Conclusion
 
 This study is intended as a scoping study rather than to provide concrete recommendations. That said, there are a few common threads that were brought up through the interviews and our desk research:
 
