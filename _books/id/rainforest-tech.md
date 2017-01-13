@@ -33,6 +33,8 @@ Pengantar ini adalah produk kemitraan antara Rainforest Foundation Norway dan Th
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
+[Read it in English](https://library.theengineroom.org/rainforest-tech/) | [Lire en français](https://library.theengineroom.org/fr/rainforest-tech/) | [Léelo en español](https://library.theengineroom.org/es/rainforest-tech/) | [Leia isso em português](https://library.theengineroom.org/pt/rainforest-tech/) | 
+
 La dirancang sebagai titik awal bagi organisasi atau para aktivis yang tertarik menggunakan teknologi untuk meningkatkan kerja advokasi mereka, namun ia juga bermanfaat bagi organisasi yang telah memiliki pengalaman menggunakan teknologi dan ingin tahu bagaimana meningkatkan dampak dari pekerjaan mereka.
 
 Panduan ini telah dibuat secara terstruktur sehingga Anda tidak perlu membaca semua, melainkan dapat mempelajari bagian-bagian yang relevan dengan Anda dan mengunakannya untuk mengetahui pedoman yang lebih detail.
