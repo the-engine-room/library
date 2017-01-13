@@ -68,9 +68,9 @@ section.content {
     }
 
     &#about:before, &#tentang:before, &#sobre:before, &#sobre:before, &#propos:before, &#acerca-de-este-sitio:before { background-image: url('../images/icons/about.svg'); }
-    &#definition:before { background-image: url('../images/icons/definition.svg'); }
+    &#definition:before, &#objectives:before { background-image: url('../images/icons/definition.svg'); }
     &#examples:before { background-image: url('../images/icons/examples.svg'); }
-    &#tools-and-platforms:before { background-image: url('../images/icons/tools.svg'); }
+    &#tools-and-platforms:before, &#tools-and-applications:before { background-image: url('../images/icons/tools.svg'); }
     &#implementation:before { background-image: url('../images/icons/implementation.svg'); }
     &#planning:before { background-image: url('../images/icons/planning.svg'); }
     &#pros-and-cons:before { background-image: url('../images/icons/procon.svg'); }
@@ -91,7 +91,7 @@ section.content {
     &#conclusion:before { background-image: url('../images/icons/conclusion.svg'); }
 
     &#summary:before { background-image: url('../images/icons/foreward.svg'); }
-    &#overview:before { background-image: url('../images/icons/overview.svg'); }
+    &#overview:before, &#context:before { background-image: url('../images/icons/overview.svg'); }
     &#challenges:before { background-image: url('../images/icons/challenge.svg'); }
     &#tensions:before { background-image: url('../images/icons/tension.svg'); }
     &#best-practices:before { background-image: url('../images/icons/examples.svg'); }
