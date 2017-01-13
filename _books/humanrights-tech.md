@@ -2,7 +2,7 @@
 layout: page
 title: Technology Tools in Human Rights
 description: Human rights defenders (HRDs) are using technology tools to communicate, analyze, manage information, identify new incidents, and archive data related to the defense of human rights.  
-image: /media/index/ER_HumanRights.png 
+image: /media/index/ER_HumanRights.png
 funder_name: The Oak Foundation
 funder_logo: http://oakfnd.org/sites/default/files/logo.png
 funder_link: //oakfnd.org/
@@ -24,18 +24,6 @@ categories:
 
 ## **Technology Tools in Human Rights**
 
-## **Objectives**
-
-* *Communication*: to share their findings more broadly, such as through videos, press releases, and to connect online with groups working on similar issues.
-
-* *Analysis*: to identify patterns that otherwise would have been less visible – such as repeated attacks in certain areas – and presenting this data on maps, charts or interactive online features.
-
-* *Information management*: to catalogue, store, and manage information about incidents and events related to human rights cases, as well as sharing it with others working on similar issues.
-
-* *Identifying new incidents*: using digital tools and digital data to discover, verify or corroborate violations - for example, by scanning social media or online video networks, or mobile messaging platforms.
-
-* *Historical archiving*: to scan paper documents, classify and tag them, make them machine-readable, encrypt them and make backups in case they get lost.
-
 ## **Introduction**
 
 This is a scoping study on how human rights defenders (HRDs) are using technology tools to communicate, analyse and manage information, identify new incidents and archive data. It aims to help understand the realities of tool use and identify HRDs’ needs as they stand.
@@ -54,22 +42,34 @@ The aim of this piece is to get a better understanding of how human rights defen
 
 * * *
 
+## **Objectives**
+
+* *Communication*: to share their findings more broadly, such as through videos, press releases, and to connect online with groups working on similar issues.
+
+* *Analysis*: to identify patterns that otherwise would have been less visible – such as repeated attacks in certain areas – and presenting this data on maps, charts or interactive online features.
+
+* *Information management*: to catalogue, store, and manage information about incidents and events related to human rights cases, as well as sharing it with others working on similar issues.
+
+* *Identifying new incidents*: using digital tools and digital data to discover, verify or corroborate violations - for example, by scanning social media or online video networks, or mobile messaging platforms.
+
+* *Historical archiving*: to scan paper documents, classify and tag them, make them machine-readable, encrypt them and make backups in case they get lost.
+
 
 ## **Context**
 
 While the human rights defenders we spoke to worked throughout the world (from regions including South and South-east Asia, sub-Saharan Africa and the Middle East), tool developers were generally based in Europe or the US. Many tool developers described putting considerable effort and through into building tools specifically for HRDs, including user testing and, in some cases, co-creation with partner organisations. However, the HRDs we spoke to (many of whom fitted the profile of the tools’ intended users) found it hard to identify a tool that was right for them, and chose the tools that they did use in a relatively ad-hoc manner.
 
-Interestingly, there was some overlap between information management and communication tools, and some cases where tools were used for purposes other than the one for which they were designed. For example, an activist collective who supports parents whose children are missing in Mexico, used Gmail to archive information by sharing a common Gmail account. 
+Interestingly, there was some overlap between information management and communication tools, and some cases where tools were used for purposes other than the one for which they were designed. For example, an activist collective who supports parents whose children are missing in Mexico, used Gmail to archive information by sharing a common Gmail account.
 
 *Human rights defenders* said that simplicity, familiarity and ease of use were by far the most important criteria when choosing tools. Many used paper forms as their primary form of information capture. Software tools like Word and Excel were mentioned more than any others, while Google Drive and Dropbox were often mentioned as tools for sharing information and managing documents online. Many HRDs knew of the potential security risks associated with using tools like Google Drive (given Google’s collaboration with the US government), but chose to use it regardless.
 
-One HRD we spoke to described her job as "thinking two steps ahead when entering data into the system" - having to think about what people’s needs might be in the future, who might come and need this data, and according to that, adjusting the way in which data is put into a database system. Indeed, a running theme through many of the interviews with HRDs was that database software tools are (with a couple of exceptions) not meeting their needs - somewhat counter-intuitively, sometimes because it is too complicated, and sometimes because it is lacking features that they need. 
+One HRD we spoke to described her job as "thinking two steps ahead when entering data into the system" - having to think about what people’s needs might be in the future, who might come and need this data, and according to that, adjusting the way in which data is put into a database system. Indeed, a running theme through many of the interviews with HRDs was that database software tools are (with a couple of exceptions) not meeting their needs - somewhat counter-intuitively, sometimes because it is too complicated, and sometimes because it is lacking features that they need.
 
 Several *intermediaries* who work with human rights defenders said that from their experience, HRDs were more interested in understanding new methods, such as how to store and manage video, than in what specific tool options were available. Many mentioned a desire for training on documentation methodologies to also include more information digital technology tools within the training - for example, on ways to use a mobile phone for documentation.
 
 For *tools developers*, there seems to be clear paths for future work, many of which centred upon effective communication rather than necessarily developing new functionalities. There seems to be a growing need for intermediaries to help contextualise the technology needs for HRDs to developers, and vice versa, communicate the limitations and functionalities of the tools, to HRDs. A lack of technical capacity among HRDs was identified by interviewees from all parties, which has multiple side-effects, such as leaving organisations reliant upon external parties for tech support, or unable to quickly troubleshoot their own problems.
 
-Taking a longer term perspective, the most common issues and worries raised were around data storage and management of growing amounts of digital data, and of sustainability, in terms of specific tools, support, and integration into organisations, as outlined below. It was generally agreed that integrating a new tool without ongoing support was setting it up to fail, and that behaviour change in organisations - for example, in integrating and using a new tool - takes a long time. 
+Taking a longer term perspective, the most common issues and worries raised were around data storage and management of growing amounts of digital data, and of sustainability, in terms of specific tools, support, and integration into organisations, as outlined below. It was generally agreed that integrating a new tool without ongoing support was setting it up to fail, and that behaviour change in organisations - for example, in integrating and using a new tool - takes a long time.
 
 * * *
 
@@ -164,10 +164,10 @@ Below is a summary of tools built specifically for human rights defenders but as
   </tr>
   <tr>
     <td>Languages</td>
-    <td>Arabic, Bahasa Indonesia, English, Khmer, Spanish, Turkish</td>
+    <td>Arabic, Bahasa Indonesia, Chinese, English, Estonian, French, Georgian, German, Hungarian, Italian, Khmer, Russian, Serbian, Spanish and Turkish.</td>
     <td> </td>
-    <td>Arabic, English, Chinese, French, Khmer, Burmese, Farsi, Russian, Spanish, Thai, Vietnamese, Nepali, Armenian</td>
-    <td>Unclear</td>
+    <td>Arabic, English, Chinese, French, Khmer, Burmese, Farsi, Russian, Spanish, Thai, Vietnamese, Nepali, Armenian.</td>
+    <td>Arabic, English, French and Russian.</td>
     <td>"All languages including Elvish"</td>
     <td> </td>
   </tr>
@@ -297,7 +297,7 @@ Below follows a table of some mobile applications developed specifically for the
 
 ## **Pros and cons**
 
-Opinions varied as to the usefulness of technology tools in facilitating documentation of human rights violations. Interviewees identified many more problems than success stories. Overall, there was consensus that in theory, technology could facilitate documentation work - especially in situations where paper documentation was simply getting overwhelming in quantity, a problem which will only increase with time. 
+Opinions varied as to the usefulness of technology tools in facilitating documentation of human rights violations. Interviewees identified many more problems than success stories. Overall, there was consensus that in theory, technology could facilitate documentation work - especially in situations where paper documentation was simply getting overwhelming in quantity, a problem which will only increase with time.
 
 Despite an initial attraction to technology tools as potential solutions to problems faced by human rights defenders, the practical outcomes that we heard definitely aren’t all rosy: almost of all the intermediaries we spoke to had numerous examples of serious problems that HRDs they worked with had faced due to their choice, or use, of technology tools in their human rights documentation work.
 
@@ -388,7 +388,7 @@ To help address this issue, both intermediaries and developers we spoke to empha
 
 #### **Technical Support**
 
-A problem that a number of interviewees identified was ongoing support for the application or tool that they chose. For example, for one land rights organisation who invested a lot in using a tool to help them document land rights violations, finding out that the tool is now going unsupported due to a lack of funds essentially means that they’ve wasted time and resources. 
+A problem that a number of interviewees identified was ongoing support for the application or tool that they chose. For example, for one land rights organisation who invested a lot in using a tool to help them document land rights violations, finding out that the tool is now going unsupported due to a lack of funds essentially means that they’ve wasted time and resources.
 
 Another interviewee told us about a three day training which took place in April 2016, organised by the UN Office of High Commission of Human Rights (OHCHR) in Uganda on the database which was developed for Ugandan Human Rights organisations. During the training, participants realised there were some technical hitches in the database. But instead of addressing these, OHCHR told them that there was no plan for continuity or updating the software as user needs and technologies evolve, thus seriously undermining the long-term usability of the database.
 
@@ -469,4 +469,3 @@ This study is intended as a scoping study rather than to provide concrete recomm
 * Reality check your assumptions often: this might be through the above contribution of partner organisations, but could also happen by testing out iterations with target users, or by sending developers working on the tool to see the reality of the tool being used.
 
 * Be humble and collaborative: sometimes the tool you work on might not suit the needs of the people you are speaking to. Rather than trying to adapt your tool and convince them that they can use it, be prepared to recommend tools from "competitors" - and try to see it as contributing to the greater field.
-
