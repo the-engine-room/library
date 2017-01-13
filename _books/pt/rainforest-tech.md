@@ -35,6 +35,8 @@ Resultou de uma parceria entre a [Fundação Rainforest da Noruega](http://www.r
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
+[Read it in English](https://library.theengineroom.org/rainforest-tech/) | [Lire en français](https://library.theengineroom.org/fr/rainforest-tech/) | [Léelo en español](https://library.theengineroom.org/es/rainforest-tech/) | [Baca ini dalam bahasa Indonesia](https://library.theengineroom.org/id/rainforest-tech/)
+
 Foi criada para ser o ponto de partida para organizações e ativistas interessados no uso da tecnologia melhorarem seu trabalho de defesa e proteção, mas também pode ser útil para que organizações com alguma experiência no uso da tecnologia reflitam sobre como podem aumentar o impacto do seu trabalho.
 
 A cartilha foi estruturada de forma que você não precisa ler tudo, mas pode explorar as seções que forem relevantes para você e usá-las para encontrar orientação mais detalhada.
