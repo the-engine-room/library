@@ -5,7 +5,7 @@ description: An introduction to the use of messaging apps for humanitarian work 
 image: /media/index/messaging-apps.png
 funder_logo: /images/logos/ICRC.png
 funder_link: //www.icrc.org
-funder_name: ICRC
+funder_name: International Committee of the Red Cross
 published: true
 navigation:
   - Definition
