@@ -49,7 +49,7 @@ Over the past four years, messaging apps have become the primary mode of communi
 
 * **In collaboration with local media.** BBC Media Action used WhatsApp as part of a public-health information programme to circulate information about Ebola.
 
-* **For internal coordination.** For some interviewees, messaging apps [helped staff coordinate activities](http://sm4good.com/2016/08/22/whatsappresponse/) more efficiently than email or voice calls.** **Some used messaging apps to share information (such as location-data or photos).
+* **For internal coordination.** For some interviewees, messaging apps [helped staff coordinate activities](http://sm4good.com/2016/08/22/whatsappresponse/) more efficiently than email or voice calls. Some used messaging apps to share information (such as location-data or photos).
 
 * **To use bots to automatically provide information that is tailored to individuals’ needs.** The Praekelt Foundation launched a bot that provides pregnant women and new mothers in South Africa with maternal health information and support.
 
