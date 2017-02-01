@@ -23,6 +23,8 @@ categories:
 
 # Messaging Apps
 
+Last updated: January 2017
+
 ## Definition
 
 A messaging application is a mobile-phone-based software programme that allows users to send and receive information using their phone’s internet connection.
@@ -80,7 +82,7 @@ This table below compares the key features offered by ten of the most frequently
     <td>No</td>
     <td>Yes</td>
     <td>Up to 160 MB</td>
-    <td>No</td>
+    <td>Yes</td>
   </tr>
   <tr>
     <td>Viber</td>
@@ -230,9 +232,9 @@ Broader issues around responsible data should also be considered.
 <table>
   <tr>
     <td></td>
-    <td>End-to-end encryption enabled by default in 1-to-1 and group chats</td>
-    <td>End-to-end encryption enabled by default (only in 1-to-1 chats)</td>
-    <td>End-to-end encryption enabled only as an opt-in</td>
+    <td>End-to-end (E2E) encryption by default (1-to-1 + group chats)</td>
+    <td>E2E encryption by default (1-to-1 chats only)</td>
+    <td>E2E encryption (opt-in only)</td>
     <td>Details of encryption</td>
     <td>Other security features</td>
     <td></td>
