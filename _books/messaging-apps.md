@@ -3,7 +3,7 @@ layout: page
 title: Messaging Apps
 description: An introduction to the use of messaging apps for humanitarian work and social change, including how they work, the ways in which they can be used and the potential risks and challenges that can arise from their use.
 image: /media/index/messaging-apps.png
-funder_logo: /images/logos/ICRC.png
+funder_logo: /images/logos/icrc.png
 funder_link: //www.icrc.org
 funder_name: the International Committee of the Red Cross
 published: true
