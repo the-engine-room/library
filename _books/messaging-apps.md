@@ -23,6 +23,10 @@ categories:
 
 # Messaging Apps
 
+## Introduction
+This report researches the opportunities and risks related to using messaging apps such as WhatsApp, Viber and Telegram in humanitarian situations. It is the produce of a partnership between the [International Committee of the Red Cross](https://www.icrc.org/), [The Engine Room](https://www.theengineroom.org) and [Block Party](http://weareblockparty.com/).
+[Download the full-length report (3.3MB PDF)](https://shop.icrc.org/humanitarian-futures-for-messaging-apps.html).
+
 Last updated: January 2017
 
 ## Definition
