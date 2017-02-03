@@ -26,11 +26,9 @@ categories:
 ## Introduction
 This is a research report assessing the opportunities and risks involved in using messaging apps such as WhatsApp, Viber and Telegram in humanitarian situations. 
 
-It is the product of a partnership between the [International Committee of the Red Cross](https://www.icrc.org/), [The Engine Room](https://www.theengineroom.org) and [Block Party](http://weareblockparty.com/).
+It is the product of a partnership between the [International Committee of the Red Cross](https://www.icrc.org/), [The Engine Room](https://www.theengineroom.org) and [Block Party](http://weareblockparty.com/). It was Last updated in January 2017.
 
 [Download the full-length report (3.3MB PDF)](https://shop.icrc.org/humanitarian-futures-for-messaging-apps.html).
-
-Last updated: January 2017
 
 ## Definition
 
@@ -415,6 +413,7 @@ This report is based upon a survey of relevant literature, interviews with staff
 Commissioning Editors: Jacobo Quintanilla and Philippe Stoll (ICRC).
 Lead researcher: Tom Walker (The Engine Room).
 Content: Eytan Oren (Block Party), Zara Rahman (The Engine Room), Nisha Thompson, and Carly Nyst.
+Prepared for web version by Tom Parker. 
 Editors: Michael Wells and John Borland.
 
 **[The Engine Room](http://theengineroom.org)** is an international organisation that helps activists, organisations, and other social change agents make the most of data and technology to increase their impact.
