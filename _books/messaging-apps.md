@@ -24,9 +24,9 @@ categories:
 # Messaging Apps
 
 ## Introduction
-This is a research report assessing the opportunities and risks involved in using messaging apps such as WhatsApp, Viber and Telegram in humanitarian situations. 
+This report investigates how organisations are using messaging apps such as WhatsApp, Viber and Telegram in humanitarian situations, and assesses the opportunities and risks that they introduce. 
 
-It is the product of a partnership between the [International Committee of the Red Cross](https://www.icrc.org/), [The Engine Room](https://www.theengineroom.org) and [Block Party](http://weareblockparty.com/). It was Last updated in January 2017.
+It is the product of a partnership between the [International Committee of the Red Cross](https://www.icrc.org/), [The Engine Room](https://www.theengineroom.org) and [Block Party](http://weareblockparty.com/). It was last updated in January 2017.
 
 [Download the full-length report (3.3MB PDF)](https://shop.icrc.org/humanitarian-futures-for-messaging-apps.html).
 
