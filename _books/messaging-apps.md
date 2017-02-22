@@ -107,7 +107,7 @@ This table below compares the key features offered by ten of the most frequently
     <td>No</td>
     <td>Yes</td>
     <td>No</td>
-    <td>No</td>
+    <td>Yes, in Beta</td>
   </tr>
   <tr>
     <td>Telegram</td>
