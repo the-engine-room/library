@@ -75,7 +75,7 @@ Wouldn’t letting the public decide how to spend money lead to more spending? N
 
 **Promote transparency**
 
-By bringing the public into the budgeting process, governments are essentially training and supporting a community of corruption monitors. When applied effectively, participatory budgeting can reduce corruption and ensure the timely completion of projects.[ ](http://siteresources.worldbank.org/PSGLP/Resources/ParticipatoryBudgeting.pdf)
+By bringing the public into the budgeting process, governments are essentially training and supporting a community of corruption monitors. When applied effectively, participatory budgeting can reduce corruption and ensure the timely completion of projects.
 
 **Increase tax compliance**
 
@@ -169,7 +169,7 @@ How do governments tell their citizens about the participatory budgeting process
 
 #### Social Media
 
-> **Example:[Vallejo](http://www.ci.vallejo.ca.us/city_hall/departments___divisions/city_manager/participatory_budgeting/p_b_newsletter/)**, US actively engages several forms of social media to inform its citizens of the participatory budgeting process and recruit their participation. The city created a video explaining the participatory budgeting process and posted it to [YouTube](https://www.youtube.com/watch?v=L2KidkCuL1A&noredirect=1). Vallejo operates a monthly electronic newsletter, and archives past issues on the city’s website. The city also makes prolific use of Twitter, Facebook, and Nextdoor (a neighborhood-based social network website).
+> **Example: [Vallejo](http://www.ci.vallejo.ca.us/city_hall/departments___divisions/city_manager/participatory_budgeting/p_b_newsletter/)**, US actively engages several forms of social media to inform its citizens of the participatory budgeting process and recruit their participation. The city created a video explaining the participatory budgeting process and posted it to [YouTube](https://www.youtube.com/watch?v=L2KidkCuL1A&noredirect=1). Vallejo operates a monthly electronic newsletter, and archives past issues on the city’s website. The city also makes prolific use of Twitter, Facebook, and Nextdoor (a neighborhood-based social network website).
 
 #### Printed Materials
 
