@@ -55,6 +55,7 @@ Most participatory budgeting projects follow the **Porto Alegre model** fairly c
 
 7. The process spans an entire budget cycle (1-2 years), and is repeated with every budget.
 
+
 ## Pros and Cons
 
 Why would a government want to conduct a participatory budgeting process? Below are listed the pros and cons of implementing a participatory budgeting model.
@@ -81,8 +82,6 @@ By bringing the public into the budgeting process, governments are essentially t
 
 Researchers across continents have shown that participation in the budgeting process improves compliance more effectively than penalties.
 
-
-
 > **Example:** In [Ibanda](http://radar.oreilly.com/2012/07/mobile-participatory-budgeting-helps-raise-tax-revenues-in-congo.html), Uganda, tax compliance increased 16-fold after their participatory budgeting pilot. This moved the provincial government to make similar processes a requirement for distributing money to local areas.
 
 ### Cons
@@ -107,6 +106,7 @@ Technology can lower access barriers, but some of those barriers (sorting throug
 
 Motivated by the success stories, many regional and national governments have created legal mandates for local municipalities to conduct participatory budgeting. Many aid organisations also make participatory budgeting a requirement to receive funding. Because many local variables affect the success of participatory budgeting, these imposed participatory budgeting processes are generally less effective than ones that grow organically from fertile environments.
 
+
 ## Implementation
 
 #### A successful participatory budgeting process requires these essential pre-conditions.
@@ -120,7 +120,6 @@ Motivated by the success stories, many regional and national governments have cr
 ●      **Bureaucratic and legal foundation.** The local government must have a substantial number of technically qualified employees, and the laws to allow citizen participation in budget decisions.
 
 ●      **Small size.** The locale, or at least the decision-making units of the participatory budgeting process, should be not be so large as to discourage collective action.
-
 
 
 #### A project can expect a more successful outcome if any of the following conditions exist.
@@ -140,6 +139,7 @@ Motivated by the success stories, many regional and national governments have cr
 ● **Local governments have weak fiscal systems.** This includes governments with expenditure responsibilities that exceed their revenue, or where transfers from other levels of government or aid are nontransparent or unreliable.
 
 ●      **Local governments have ambiguous or insufficient authority to solve local problems.**
+
 
 ## Examples
 
@@ -192,7 +192,6 @@ Some of the key breakthroughs of participatory budgeting are its focus on bringi
 > **Example:** [Seville](http://participedia.net/en/cases/participatory-budgeting-seville-spain), Spain, like many cities, hosts its discussions in person. Seville’s assemblies are lively, as citizens deliberate with one another how funds should be spent. Many cities choose to either supplement or replace these assemblies with virtual discussion.
 
 
-
 ### 5. Conducting Votes
 
 #### Offline
@@ -215,7 +214,7 @@ In addition to traditional paper ballots or voting by show of hands, traditional
 
 ### 7. Complete Process
 
-Many companies have developed tools that specialize in participatory budgeting and support multiple municipalities. These include:
+Many companies have developed tools that specialise in participatory budgeting and support multiple municipalities. These include:
 
 ●      [Civicbudget](http://civicbudget.org/) (joint partnership between groups in Germany, France, and the US)[ ](http://civicbudget.org/)
 
@@ -231,13 +230,15 @@ Many companies have developed tools that specialize in participatory budgeting a
 
 ●      [Shareabouts](https://pbcambridgefy18.herokuapp.com/page/guidelines) from Openplans (US)
 
+
 ## Conclusion
 
 Since the Porto Alegre government first engaged in participatory budgeting in 1989, the process and its worldwide popularity have grown. As participatory budgeting continues to evolve, we must consider if it is growing in a way that increases the breadth or depth of systemic impacts. As cities continue to experiment with participatory budgeting as a process, we look forward to seeing its values of an informed citizenry, the equitable redistribution of resources, and greater government efficiency and transparency become further entrenched in society.
 
+
 ## About
 
-This report was written by [Ruth Miller](https://ruthmiller.net), through the generous support of [The Engine Room](https://theengineroom.org). We would especially like to recognize the two organizations that inspired this work, [WRI Brasil Cidades Sustentaveis](www.WRIcidades.org) through Daniely Votto and to the Municipality of Zarate, Argentina through Jorge Llaguno and Gala Garrido. Special thanks to the work of the following people and organisations for their contributions to this space.
+This report was written by [Ruth Miller](https://ruthmiller.net). We would like to recognise Jorge Llaguno and Gala Garrido of the Municipality of Zarate, Argentina who sparked this work by reaching out for light touch support; and Daniely Votto of [WRI Brasil Cidades Sustentaveis](www.WRIcidades.org). Special thanks to the work of the following people and organisations for their contributions to this space. 
 
 * [Tiago Peixoto](https://twitter.com/participatory?lang=en), Senior Public Sector Specialist at the World Bank's Governance Global Practice
 * [David Cabo](https://twitter.com/dcabo?lang=en), Director at the Fundación Ciudadana Civio
