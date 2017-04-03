@@ -147,7 +147,7 @@ The **first participatory budgeting process** in Porto Alegre in 1989 was robust
 
 Each section below highlights examples of tools with specialised features relevant to that portion of the participatory budgeting process.
 
-1. Collecting project proposals
+### 1. Collecting project proposals
 
 #### Offline:
 
