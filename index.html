@@ -1,12 +1,33 @@
----
-layout: full
-title: The Engine Room Library
-show_footer: false
-show_navbar: false
-theme: table-of-contents
----
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta property="og:image" content="/images/logos/engineroom.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://library.theengineroom.org/" />
+    <meta property="og:title" content="" />
 
-<div class="top row container">
+    <link href="/images/icons/favicon.png" rel="shortcut icon" type="image/png" />
+    <link rel="stylesheet" href="/styles/main.css?v=1491469866" />
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+    <script src="/scripts/scrollspy.js"></script>
+    <script src="/scripts/site.js"></script>
+
+    <title>The Engine Room Library</title>
+    
+  </head>
+
+
+
+
+  <body class="row table-of-contents">
+    
+
+    <div class="full">
+  <div class="top row container">
 	<div class="three columns">
 		<a href="//www.theengineroom.org/" target="_blank"><img src="/images/logos/library-dark.png" width="220px"></a>
 	</div>
@@ -66,136 +87,1220 @@ theme: table-of-contents
 <hr>
 
 <div class="container lang-box lang-show" lang="en" id="books">
-	{% for book in site.books %}
-		{% if book.lang == 'en' %}
-			{% capture uen %}{% cycle 'odd', 'even' %}{% endcapture %}
-			{% if uen == 'odd' or forloop.first %}
+	
+		
+			
+			
 			<!-- </div> -->
-			{% endif %}
-				<div class="ref" data-ref="{{book.ref}}" id="en-{{book.ref}}">
+			
+				<div class="ref" data-ref="agriculture" id="en-agriculture">
 					<div class="four columns">
-						<a href="{{book.url}}"><img src="{{ book.image }}" width="100px"></a>
+						<a href="/agriculture/"><img src="/media/index/agriculture.png" width="100px"></a>
 					</div>
 					<div class="eight columns">
-						<h2><a href="{{book.url}}">{{ book.title }}</a></h2>
-						<p>{{ book.description }}</p>
+						<h2><a href="/agriculture/">Responsible Data in Agriculture</a></h2>
+						<p>The agriculture sector is creating increasing amounts of data, from many different sources. The most well resourced actors are able to delve into new technologies and make the most of those insights, whereas others are unable to take such risks or divert their limited resources.</p>
 					</div>
 				</div>
-			{% if uen == 'even' or forloop.last %}
+			
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+			
+			
+				<div class="ref" data-ref="h-tech" id="en-h-tech">
+					<div class="four columns">
+						<a href="/humanrights-tech/"><img src="/media/index/ER_HumanRights.png" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/humanrights-tech/">Technology Tools in Human Rights</a></h2>
+						<p>Human rights defenders (HRDs) are using technology tools to communicate, analyze, manage information, identify new incidents, and archive data related to the defense of human rights.</p>
+					</div>
+				</div>
+			
 			<!-- </div> -->
-			{% endif %}
-		{% endif %}
-	{% endfor %}
+			
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+			
+			
+			<!-- </div> -->
+			
+				<div class="ref" data-ref="messaging-apps" id="en-messaging-apps">
+					<div class="four columns">
+						<a href="/messaging-apps/"><img src="/media/index/messaging-apps.png" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/messaging-apps/">Messaging Apps</a></h2>
+						<p>An introduction to the use of messaging apps for humanitarian work and social change, including how they work, the ways in which they can be used and the potential risks and challenges that can arise from their use.</p>
+					</div>
+				</div>
+			
+		
+	
+		
+			
+			
+				<div class="ref" data-ref="microtasking" id="en-microtasking">
+					<div class="four columns">
+						<a href="/microtasking/"><img src="/media/index/microtasking.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/microtasking/">Microtasking</a></h2>
+						<p>An introduction to microtasking – splitting a large job into small tasks that can be distributed to many people over the Internet – that explains how it works, and where it might be useful for advocacy organisations.</p>
+					</div>
+				</div>
+			
+			<!-- </div> -->
+			
+		
+	
+		
+			
+			
+			<!-- </div> -->
+			
+				<div class="ref" data-ref="participatory-budgeting" id="en-participatory-budgeting">
+					<div class="four columns">
+						<a href="/participatory-budgeting/"><img src="/media/index/participatory-budgeting.png" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/participatory-budgeting/">Participatory Budgeting</a></h2>
+						<p>An introduction to the concept of participatory budgeting, including an overview of the opportunities and challenges of implementing a participatory budgeting model.</p>
+					</div>
+				</div>
+			
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+			
+			
+				<div class="ref" data-ref="rt-av" id="en-rt-av">
+					<div class="four columns">
+						<a href="/rainforest-tech-audio-video/"><img src="/media/index/audio.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/rainforest-tech-audio-video/">Audio and Video</a></h2>
+						<p>An introduction to using audio and video in rainforest-related projects to simply present short advocacy messages, collect visual evidence of human rights violations, publish participatory films by community members, or document deforestation over time.<p>Part of the <a href="/rainforest-tech">Rainforest Technology</a> report.</p></p>
+					</div>
+				</div>
+			
+			<!-- </div> -->
+			
+		
+	
+		
+			
+			
+			<!-- </div> -->
+			
+				<div class="ref" data-ref="rt-da" id="en-rt-da">
+					<div class="four columns">
+						<a href="/rainforest-tech-diy-aerial/"><img src="/media/index/drone.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/rainforest-tech-diy-aerial/">DIY Aerial Photography</a></h2>
+						<p>An introduction to using do-it-yourself aerial photography (such as drones) for making maps or 3D models to monitor wildlife, record land claims and document climate change impacts. This can produce images that are more detailed than satellite data, and that can be updated in real time.<p>Part of the <a href="/rainforest-tech">Rainforest Technology</a> report.</p></p>
+					</div>
+				</div>
+			
+		
+	
+		
+			
+			
+				<div class="ref" data-ref="rt-mp" id="en-rt-mp">
+					<div class="four columns">
+						<a href="/rainforest-tech-mobile-phones/"><img src="/media/index/mobile.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/rainforest-tech-mobile-phones/">Mobile Phone Applications</a></h2>
+						<p>An introduction to using mobile (cell) phone applications to collect and record data in rainforest-related projects for purposes including recording illegal mining or logging; biodiversity surveys; helping communities to map their own land; or validating government maps.<p>Part of the <a href="/rainforest-tech">Rainforest Technology</a> report.</p></p>
+					</div>
+				</div>
+			
+			<!-- </div> -->
+			
+		
+	
+		
+			
+			
+			<!-- </div> -->
+			
+				<div class="ref" data-ref="rt-om" id="en-rt-om">
+					<div class="four columns">
+						<a href="/rainforest-tech-online-maps/"><img src="/media/index/online.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/rainforest-tech-online-maps/">Online Maps</a></h2>
+						<p>An introduction to using online maps that combine different types of data in rainforest-related projects, for purposes including real-time monitoring (showing the places where most incidents happen), campaigning (such as showing where forest cover is being dramatically reduced) or analysis (gaining new insights by overlaying different types of data on the same map).<p>Part of the <a href="/rainforest-tech">Rainforest Technology</a> report.</p></p>
+					</div>
+				</div>
+			
+		
+	
+		
+			
+			
+				<div class="ref" data-ref="rt-pm" id="en-rt-pm">
+					<div class="four columns">
+						<a href="/rainforest-tech-participatory-mapping/"><img src="/media/index/participatory.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/rainforest-tech-participatory-mapping/">Participatory and GPS Mapping</a></h2>
+						<p>An introduction to producing maps together with communities (participatory mapping), to show how an area is actually being used, compare this with “official” maps, and use the information to claim communities’ rights to land.<p>Part of the <a href="/rainforest-tech">Rainforest Technology</a> report.</p></p>
+					</div>
+				</div>
+			
+			<!-- </div> -->
+			
+		
+	
+		
+			
+			
+			<!-- </div> -->
+			
+				<div class="ref" data-ref="rt-si" id="en-rt-si">
+					<div class="four columns">
+						<a href="/rainforest-tech-satellite-imagery/"><img src="/media/index/satellite.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/rainforest-tech-satellite-imagery/">Satellite Imagery</a></h2>
+						<p>An introduction to using satellite imagery in rainforest-related projects for analysing change over time in a forest area, or generating evidence of deforestation, trends like increased commercial activity, or visible results of forest degradation.<p>Part of the <a href="/rainforest-tech">Rainforest Technology</a> report.</p></p>
+					</div>
+				</div>
+			
+		
+	
+		
+			
+			
+				<div class="ref" data-ref="rt" id="en-rt">
+					<div class="four columns">
+						<a href="/rainforest-tech/"><img src="/media/index/rainforest.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/rainforest-tech/">Rainforest Technology</a></h2>
+						<p>An introduction (or 'primer') for using technology to monitor and share information on rainforest issues, land rights and indigenous rights. It is designed as a starting point for organisations and activists that are thinking about adding technology to improve their advocacy work.</p>
+					</div>
+				</div>
+			
+			<!-- </div> -->
+			
+		
+	
+		
+	
 </div>
 
 <div class="container lang-box lang-hidden" lang="fr" id="books">
-	{% for book in site.books %}
-		{% if book.lang == 'fr' %}
+	
 		
-			{% capture ufr %}{% cycle 'odd', 'even' %}{% endcapture %}
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
 			
-			{% if ufr == 'odd' or forloop.first %}
+			
+			
 			<!-- <div class="row"> -->
-			{% endif %}
 			
-				<div class="ref" data-ref="{{book.ref}}" id="fr-{{book.ref}}">
+			
+				<div class="ref" data-ref="rt-av" id="fr-rt-av">
 					<div class="four columns">
-						<a href="{{book.url}}"><img src="{{ book.image }}" width="100px"></a>
+						<a href="/fr/rainforest-tech-audio-video/"><img src="/media/index/audio.svg" width="100px"></a>
 					</div>
 					<div class="eight columns">
-						<h2><a href="{{book.url}}">{{ book.title }}</a></h2>
-						<p>{{ book.description }}</p>
+						<h2><a href="/fr/rainforest-tech-audio-video/">Audio et vidéo</a></h2>
+						<p>Introduction à l’utilisation d’enregistrements audio et vidéo dans des projets liés à la forêt tropicale, pour faire passer de courts messages de plaidoyer, consigner des preuves visuelles de violations des droits de l’homme, diffuser des films participatifs réalisés par les communautés, ou retracer l’évolution de la déforestation.<p>Extrait du rapport sur <a href="/fr/rainforest-tech">la Technologie pour les Forêts Tropicales</a>.</p></p>
 					</div>
 				</div>
 				
-			{% if ufr == 'even' or forloop.last %}
-			<!-- </div> -->
-			{% endif %}
 			
-		{% endif %}
+			
 		
-	{% endfor %}
+		
+	
+		
+		
+			
+			
+			
+			
+				<div class="ref" data-ref="rt-da" id="fr-rt-da">
+					<div class="four columns">
+						<a href="/fr/rainforest-tech-diy-aerial/"><img src="/media/index/drone.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/fr/rainforest-tech-diy-aerial/">La photographies aériennes indépendantes</a></h2>
+						<p>Introduction à l’utilisation de photographies aérienne indépendantes (par exemple à l’aide de drones) pour élaborer des cartes ou des modèles en 3D de surveillance de la faune, enregistrer des revendications territoriales ou rassembler des preuves de l’effet des changements climatiques . Cette technique permet d’obtenir des images plus détaillées que les données satellite, pouvant aussi être mises à jour en temps réel. <p>Extrait du rapport sur <a href="/fr/rainforest-tech">la Technologie pour les Forêts Tropicales</a>.</p></p>
+					</div>
+				</div>
+				
+			
+			<!-- </div> -->
+			
+			
+		
+		
+	
+		
+		
+			
+			
+			
+			<!-- <div class="row"> -->
+			
+			
+				<div class="ref" data-ref="rt-mp" id="fr-rt-mp">
+					<div class="four columns">
+						<a href="/fr/rainforest-tech-mobile-phones/"><img src="/media/index/mobile.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/fr/rainforest-tech-mobile-phones/">Applications pour téléphones mobiles</a></h2>
+						<p>Introduction à l’utilisation d’applications pour téléphones mobiles (cellulaires) pour collecter et rapporter des données pour des projets liés aux forêts tropicales, afin d’apporter des preuves d’exploitation illégale de mines ou de bois; effectuer des relevés de la biodiversité; aider les communautés à cartographier leurs terres; ou valider les cartes établies par le gouvernement. <p>Extrait du rapport sur <a href="/fr/rainforest-tech">la Technologie pour les Forêts Tropicales</a>.</p></p>
+					</div>
+				</div>
+				
+			
+			
+		
+		
+	
+		
+		
+			
+			
+			
+			
+				<div class="ref" data-ref="rt-om" id="fr-rt-om">
+					<div class="four columns">
+						<a href="/fr/rainforest-tech-online-maps/"><img src="/media/index/online.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/fr/rainforest-tech-online-maps/">Cartes en ligne</a></h2>
+						<p>Introduction à l’utilisation de cartes en ligne combinant différents types de données pour des projets liés à la forêt tropicale, afin d’effectuer une surveillance en temps réel (en montrant les endroits où se produisent le plus grand nombre d’incidents), de mener des campagnes (ex. en montrant les endroits les plus affectés par la réduction du couvert forestier), ou d’analyser (approfondir ses connaissances en superposant plusieurs types de données sur une carte) . <p>Extrait du rapport sur <a href="/fr/rainforest-tech">la Technologie pour les Forêts Tropicales</a>.</p></p>
+					</div>
+				</div>
+				
+			
+			<!-- </div> -->
+			
+			
+		
+		
+	
+		
+		
+			
+			
+			
+			<!-- <div class="row"> -->
+			
+			
+				<div class="ref" data-ref="rt-pm" id="fr-rt-pm">
+					<div class="four columns">
+						<a href="/fr/rainforest-tech-participatory-mapping/"><img src="/media/index/participatory.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/fr/rainforest-tech-participatory-mapping/">Cartographie participative et GPS</a></h2>
+						<p>Introduction à la production conjointe de cartes avec les communautés (cartographie participative), afin de révéler l’utilisation réelle des terres, différente de celle figurant aux cartes « officielles », et d’utiliser ces informations pour revendiquer les droits à la terre des communautés.<p>Extrait du rapport sur <a href="/fr/rainforest-tech">la Technologie pour les Forêts Tropicales</a>.</p></p>
+					</div>
+				</div>
+				
+			
+			
+		
+		
+	
+		
+		
+			
+			
+			
+			
+				<div class="ref" data-ref="rt-si" id="fr-rt-si">
+					<div class="four columns">
+						<a href="/fr/rainforest-tech-satellite-imagery/"><img src="/media/index/satellite.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/fr/rainforest-tech-satellite-imagery/">Imagerie Satellite</a></h2>
+						<p>Introduction à l’utilisation d’images satellite dans les projets liés à la forêt tropicale afin d’analyser les changements intervenus dans une zone au fil du temps, ou établir des preuves de déforestation, de tendances telles que l’augmentation des activités commerciales, ou de montrer les effets visibles de la dégradation forestière. <p>Extrait du rapport sur <a href="/fr/rainforest-tech">la Technologie pour les Forêts Tropicales</a>.</p></p>
+					</div>
+				</div>
+				
+			
+			<!-- </div> -->
+			
+			
+		
+		
+	
+		
+		
+			
+			
+			
+			<!-- <div class="row"> -->
+			
+			
+				<div class="ref" data-ref="rt" id="fr-rt">
+					<div class="four columns">
+						<a href="/fr/rainforest-tech/"><img src="/media/index/rainforest.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/fr/rainforest-tech/">La Technologie pour les Forêts Tropicales</a></h2>
+						<p>Guide introductif à l’utilisation de la technologie pour surveiller l’évolution et partager des informations sur les forêts tropicales, les droits fonciers et les droits des communautés locales. Il vise à fournir une base de travail aux activistes souhaitant améliorer leur plaidoyer à l’aide de la technologie.</p>
+					</div>
+				</div>
+				
+			
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
 	<!-- This closing tag is forced in here to break out of the loop --></div>
 	<div class="row fr-last-row"></div>
 </div>
 
 <div class="container lang-box lang-hidden" lang="id" id="books">
-	{% for book in site.books %}
-		{% if book.lang == 'id' %}
+	
 		
-			{% capture uid %}{% cycle 'odd', 'even' %}{% endcapture %}
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
 			
-			{% if uid == 'odd' or forloop.first %}
-			<!-- <div class="row"> -->
-			{% endif %}
 			
-				<div class="ref" data-ref="{{book.ref}}" id="id-{{book.ref}}">
+			
+			
+				<div class="ref" data-ref="rt-av" id="id-rt-av">
 					<div class="four columns">
-						<a href="{{book.url}}"><img src="{{ book.image }}" width="100px"></a>
+						<a href="/id/rainforest-tech-audio-video/"><img src="/media/index/audio.svg" width="100px"></a>
 					</div>
 					<div class="eight columns">
-						<h2><a href="{{book.url}}">{{ book.title }}</a></h2>
-						<p>{{ book.description }}</p>
+						<h2><a href="/id/rainforest-tech-audio-video/">Audio dan video</a></h2>
+						<p>Pengantar penggunaan audio dan video untuk proyek yang berhubungan dengan hutan hujan menyajikan pesan-pesan advokasi yang singkat, mengumpulkan bukti visual pelanggaran HAM, mempublikasikan film partisipatif dari anggota masyarakat, atau mendokumentasikan deforestasi dari waktu ke waktu. <p>Bagian laporan <a href="/id/rainforest-tech">Teknologi Hutan Hujan</a>.</p></p>
 					</div>
 				</div>
 				
-			{% if uid == 'even' or forloop.last %}
-			<!-- </div> -->
-			{% endif %}
 			
-		{% endif %}
+			<!-- </div> -->
+			
+			
 		
-	{% endfor %}
+		
+	
+		
+		
+			
+			
+			
+			<!-- <div class="row"> -->
+			
+			
+				<div class="ref" data-ref="rt-da" id="id-rt-da">
+					<div class="four columns">
+						<a href="/id/rainforest-tech-diy-aerial/"><img src="/media/index/drone.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/id/rainforest-tech-diy-aerial/">Foto udara - lakukan sendiri</a></h2>
+						<p>Pengantar penggunaan aerial photography - lakukan sendiri (seperti drone) untuk membuat peta atau model 3D guna memonitor satwa liar, mencatat klaim tanah dan mendokumentasikan dampak perubahan iklim. Cara ini dapat menghasilkan gambar yang lebih detil dibandingkan dengan data satelit, dan dapat diperbarui seketika. <p>Bagian laporan <a href="/id/rainforest-tech">Teknologi Hutan Hujan</a>.</p></p>
+					</div>
+				</div>
+				
+			
+			
+		
+		
+	
+		
+		
+			
+			
+			
+			
+				<div class="ref" data-ref="rt-mp" id="id-rt-mp">
+					<div class="four columns">
+						<a href="/id/rainforest-tech-mobile-phones/"><img src="/media/index/mobile.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/id/rainforest-tech-mobile-phones/">Aplikasi telepon seluler</a></h2>
+						<p>Pengantar penggunaan aplikasi ponsel untuk mengumpulkan dan mencatat data dalam proyek yang terkait    hutan hujan yang bertujuan untuk merekam penambangan atau penebangan ilegal; survey keanekaragaman hayati; membantu masyarakat memetakan tanah mereka; atau memvalidasi peta pemerintah. <p>Bagian laporan <a href="/id/rainforest-tech">Teknologi Hutan Hujan</a>.</p></p>
+					</div>
+				</div>
+				
+			
+			<!-- </div> -->
+			
+			
+		
+		
+	
+		
+		
+			
+			
+			
+			<!-- <div class="row"> -->
+			
+			
+				<div class="ref" data-ref="rt-om" id="id-rt-om">
+					<div class="four columns">
+						<a href="/id/rainforest-tech-online-maps/"><img src="/media/index/online.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/id/rainforest-tech-online-maps/">Peta online</a></h2>
+						<p>Pengantar penggunaan peta online yang menggabungkan berbagai jenis data yang berbeda dari proyek-proyek hutan hujan, diantaranya untuk tujuan monitoring seketika (menunjukkan tempat-tempat yang memiliki insiden lebih banyak), kampanye (seperti menunjukkan tutupan hutan yang berkurang secara dramatis) atau analisa (mendapatkan pemahaman baru dengan membentangkan (overlay) beberapa jenis data yang berbeda pada satu peta). <p>Bagian laporan <a href="/id/rainforest-tech">Teknologi Hutan Hujan</a>.</p></p>
+					</div>
+				</div>
+				
+			
+			
+		
+		
+	
+		
+		
+			
+			
+			
+			
+				<div class="ref" data-ref="rt-pm" id="id-rt-pm">
+					<div class="four columns">
+						<a href="/id/rainforest-tech-participatory-mapping/"><img src="/media/index/participatory.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/id/rainforest-tech-participatory-mapping/">Pemetaan partisipatif dan GPS</a></h2>
+						<p>Pengantar tentang membuat peta bersama-sama dengan masyarakat (pemetaan partisipatif), untuk menunjukkan bagaimana sebuah area dimanfaatkan, membandingkannya dengan peta “resmi”, dan menggunakan informasi ini untuk mengklaim hak masyarakat atas tanah. <p>Bagian laporan <a href=/id/rainforest-tech>Teknologi Hutan Hujan</a>.</p></p>
+					</div>
+				</div>
+				
+			
+			<!-- </div> -->
+			
+			
+		
+		
+	
+		
+		
+			
+			
+			
+			<!-- <div class="row"> -->
+			
+			
+				<div class="ref" data-ref="rt-si" id="id-rt-si">
+					<div class="four columns">
+						<a href="/id/rainforest-tech-satellite-imagery/"><img src="/media/index/satellite.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/id/rainforest-tech-satellite-imagery/">Citra satelit</a></h2>
+						<p>Pengantar penggunaan citra satelit dalam proyek yang berhubungan dengan hutan hujan guna menganalisa perubahan dari waktu ke waktu di satu area hutan, atau mendapatkan bukti deforestasi, tren seperti peningkatan kegiatan komersil, atau hasil-hasil yang tampak dari degradasi hutan. <p> Bagian laporan <a href="/id/rainforest-tech">Teknologi Hutan Hujan</a>.</p></p>
+					</div>
+				</div>
+				
+			
+			
+		
+		
+	
+		
+		
+			
+			
+			
+			
+				<div class="ref" data-ref="rt" id="id-rt">
+					<div class="four columns">
+						<a href="/id/rainforest-tech/"><img src="/media/index/rainforest.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/id/rainforest-tech/">Hutan hujan teknologi</a></h2>
+						<p>Panduan penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu-isu hutan hujan, hak atas tanah dan hak-hak adat. Pengantar ini didisain sebagai titik awal bagi organisasi dan aktivis yang berkeinginan untuk memanfaatkan teknologi guna meningkatkan kerja-kerja advokasi mereka.</p>
+					</div>
+				</div>
+				
+			
+			<!-- </div> -->
+			
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
 	<!-- This closing tag is forced in here to break out of the loop --></div>
 	<div class="row id-last-row"></div>
 </div>
 
 <div class="container lang-box lang-hidden" lang="pt" id="books">
-	{% for book in site.books %}
-		{% if book.lang == 'pt' %}
-			{% capture upt %}{% cycle 'odd', 'even' %}{% endcapture %}
-			{% if upt == 'odd' or forloop.first %}
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+			
+			
 			<!-- <div class="row"> -->
-			{% endif %}
-				<div class="ref" data-ref="{{book.ref}}" id="pt-{{book.ref}}">
+			
+				<div class="ref" data-ref="rt-av" id="pt-rt-av">
 					<div class="four columns">
-						<a href="{{book.url}}"><img src="{{ book.image }}" width="100px"></a>
+						<a href="/pt/rainforest-tech-audio-video/"><img src="/media/index/audio.svg" width="100px"></a>
 					</div>
 					<div class="eight columns">
-						<h2><a href="{{book.url}}">{{ book.title }}</a></h2>
-						<p>{{ book.description }}</p>
+						<h2><a href="/pt/rainforest-tech-audio-video/">Áudio e vídeo</a></h2>
+						<p>Uma introdução ao uso de áudio e vídeo em projetos relacionados a florestas tropicais para apresentar, de forma simples, mensagens curtas de defesa da causa, coletar evidências visuais de violações de direitos humanos, publicar filmes com a participação de membros da comunidade, ou documentar o desflorestamento ao longo do tempo. Parte do relatório <a href="/pt/rainforest-tech/">Tecnologia Rainforest</a>.</p>
 					</div>
 				</div>
-			{% if upt == 'even' or forloop.last %}
+			
+		
+	
+		
+			
+			
+				<div class="ref" data-ref="rt-da" id="pt-rt-da">
+					<div class="four columns">
+						<a href="/pt/rainforest-tech-diy-aerial/"><img src="/media/index/drone.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/pt/rainforest-tech-diy-aerial/">Fotografia aérea faça você mesmo</a></h2>
+						<p>Uma introdução à fotografia aérea faça você mesmo (tais como drones) para criação de mapas ou modelos 3D para monitoramento de vida selvagem, registro de reclamações de terras e documentação de impactos de mudanças climáticas. Podem produzir imagens mais detalhadas do que dados de satélite e podem ser atualizadas em tempo real. Parte do relatório <a href="/pt/rainforest-tech/">Tecnologia Rainforest</a></p>
+					</div>
+				</div>
+			
 			<!-- </div> -->
-			{% endif %}
-		{% endif %}
-	{% endfor %}
+			
+		
+	
+		
+			
+			
+			<!-- <div class="row"> -->
+			
+				<div class="ref" data-ref="rt-pa" id="pt-rt-pa">
+					<div class="four columns">
+						<a href="/pt/rainforest-tech-mobile-phones/"><img src="/media/index/mobile.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/pt/rainforest-tech-mobile-phones/">Aplicativos para celular</a></h2>
+						<p>Uma introdução ao uso de aplicativos móveis para telefones (celulares) para coletar e registrar dados em projetos relacionados a florestas tropicais, registrar mineração ou exploração ilegal, fazer pesquisa de biodiversidade, ajudar as comunidades a mapear sua própria terra, ou validar mapas do governo. Parte do relatório <a href="/pt/rainforest-tech/">Tecnologia Rainforest</a></p>
+					</div>
+				</div>
+			
+		
+	
+		
+			
+			
+				<div class="ref" data-ref="rt-om" id="pt-rt-om">
+					<div class="four columns">
+						<a href="/pt/rainforest-tech-online-mapping/"><img src="/media/index/online.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/pt/rainforest-tech-online-mapping/">Mapas online</a></h2>
+						<p>Uma introdução ao uso de mapas online que combinam diferentes tipos de dados em projetos relacionados a florestas tropicais, para fins como monitoramento em tempo real (mostrando os lugares onde ocorrem a maioria dos incidentes), campanha (mostrando que a cobertura florestal está sendo reduzida dramaticamente) ou análise (ganhando novas perspectivas com a sobreposição de diferentes tipos de dados no mesmo mapa). Parte do relatório <a href="/pt/rainforest-tech/">Tecnologia Rainforest</a>.</p>
+					</div>
+				</div>
+			
+			<!-- </div> -->
+			
+		
+	
+		
+			
+			
+			<!-- <div class="row"> -->
+			
+				<div class="ref" data-ref="rt-pm" id="pt-rt-pm">
+					<div class="four columns">
+						<a href="/pt/rainforest-tech-participatory-mapping/"><img src="/media/index/participatory.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/pt/rainforest-tech-participatory-mapping/">Mapeamento participativo e por GPS</a></h2>
+						<p>Uma introdução à produção de mapas em conjunto com a comunidade (mapeamento participativo) para mostrar como uma área está realmente sendo usada, comparar com os mapas oficiais e usar as informações para reclamar os direitos das comunidades à terra. Parte do relatório <a href="/pt/rainforest-tech/">Tecnologia Rainforest</a>.</p>
+					</div>
+				</div>
+			
+		
+	
+		
+			
+			
+				<div class="ref" data-ref="rt-si" id="pt-rt-si">
+					<div class="four columns">
+						<a href="/pt/rainforest-tech-satellite-imagery/"><img src="/media/index/satellite.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/pt/rainforest-tech-satellite-imagery/">Imagens de satélite</a></h2>
+						<p>Uma introdução ao uso de imagens de satélite em projetos relacionados a florestas tropicais para analisar a mudança ao longo do tempo em uma área florestal, ou gerar evidência de desflorestamento, tendências como aumento de atividade comercial ou resultados visíveis de degradação florestal. Parte do relatório <a href="/pt/rainforest-tech/">Tecnologia Rainforest</a>.</p>
+					</div>
+				</div>
+			
+			<!-- </div> -->
+			
+		
+	
+		
+			
+			
+			<!-- <div class="row"> -->
+			
+				<div class="ref" data-ref="rt" id="pt-rt">
+					<div class="four columns">
+						<a href="/pt/rainforest-tech/"><img src="/media/index/rainforest.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/pt/rainforest-tech/">Florestas tropicais tecnologia</a></h2>
+						<p>Uma introdução (ou 'cartilha') ao uso da tecnologia para monitorar e compartilhar informações sobre problemas das florestas tropicais, direito à terra e direito dos indígenas . Foi criada como um ponto de partida para organizações e ativistas que estão pensando em utilizar tecnologia para realizar melhor seu trabalho de defesa.</p>
+					</div>
+				</div>
+			
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
 	
 	<div class="row pt-last-row"></div>
 </div>
 
 <div class="container lang-box lang-hidden" lang="es" id="books">
-	{% for book in site.books %}
-		{% if book.lang == 'es' %}
-			{% capture ues %}{% cycle 'odd', 'even' %}{% endcapture %}
-			{% if ues == 'odd' or forloop.first %}
-			<!-- <div class="row"> -->
-			{% endif %}
-				<div class="ref" data-ref="{{book.ref}}" id="es-{{book.ref}}">
+	
+		
+	
+		
+			
+			
+				<div class="ref" data-ref="rt-av" id="es-rt-av">
 					<div class="four columns">
-						<a href="{{book.url}}"><img src="{{ book.image }}" width="100px"></a>
+						<a href="/es/rainforest-tech-audio-video/"><img src="/media/index/audio.svg" width="100px"></a>
 					</div>
 					<div class="eight columns">
-						<h2><a href="{{book.url}}">{{ book.title }}</a></h2>
-						<p>{{ book.description }}</p>
+						<h2><a href="/es/rainforest-tech-audio-video/">Audio y video</a></h2>
+						<p>Una introducción al uso de audio y video en proyectos relacionados a los bosques tropicales para maneras sencillas de presentar mensajes de defensa, recopilar pruebas visuales sobre violaciones de derechos humanos, publicar películas participativas creadas por miembros de la comunidad o documentar deforestación durante un período determinado. <p>Parte del informe <a href="/es/rainforest-tech">Tecnología para bosques tropicales</a>.</p></p>
 					</div>
 				</div>
-			{% if ues == 'even' or forloop.last %}
+			
 			<!-- </div> -->
-			{% endif %}
-		{% endif %}
-	{% endfor %}
+			
+		
+	
+		
+			
+			
+			<!-- <div class="row"> -->
+			
+				<div class="ref" data-ref="rt-da" id="es-rt-da">
+					<div class="four columns">
+						<a href="/es/rainforest-tech-diy-aerial/"><img src="/media/index/drone.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/es/rainforest-tech-diy-aerial/">Fotografía aérea creada por usuarios</a></h2>
+						<p>Una introducción a maneras de producir fotografías aéreas usted mismo (por ejemplo, utilizando drones) para elaborar mapas o modelos en 3D para monitorear la vida silvestre, registrar reclamaciones de tierras y documentar impacto de cambio climático. De esta manera se pueden producir imágenes más detalladas que aquellas obtenidas de datos satelitales, y actualizables en tiempo real. <p>Parte del informe <a href="/es/rainforest-tech">Tecnología para bosques tropicales</a>.</p></p>
+					</div>
+				</div>
+			
+		
+	
+		
+			
+			
+				<div class="ref" data-ref="rt-mp" id="es-rt-mp">
+					<div class="four columns">
+						<a href="/es/rainforest-tech-mobile-phones/"><img src="/media/index/mobile.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/es/rainforest-tech-mobile-phones/">Aplicaciones para teléfonos móviles</a></h2>
+						<p>Una introducción al uso de aplicaciones para teléfonos móviles (celulares) para recopilar y grabar datos en proyectos relacionados a bosques tropicales a fin de registrar minería o talas ilegales, llevar a cabo encuestas sobre biodiversidad, ayudar a las comunidades a crear mapas de sus propias tierras o validar mapas del gobierno. <p>Parte del informe <a href="/es/rainforest-tech">Tecnología para bosques tropicales</a>.</p></p>
+					</div>
+				</div>
+			
+			<!-- </div> -->
+			
+		
+	
+		
+			
+			
+			<!-- <div class="row"> -->
+			
+				<div class="ref" data-ref="rt-om" id="es-rt-om">
+					<div class="four columns">
+						<a href="/es/rainforest-tech-online-maps/"><img src="/media/index/online.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/es/rainforest-tech-online-maps/">Mapas en línea</a></h2>
+						<p>Una introducción al uso de mapas en línea que combinan diferentes tipos de datos en proyectos relacionados a bosques tropicales a fin de incluir monitoreo en tiempo real (mostrar los lugares donde ocurre la mayoría de los incidentes), llevar a cabo campañas (por ejemplo, mostrar la ubicación de reducciones drásticas de la cubierta forestal) o realizar análisis (obtener nuevas perspectivas al superponer diferentes tipos de datos sobre el mismo mapa). <p>Parte del informe <a href="/es/rainforest-tech">Tecnología para bosques tropicales</a>.</p></p>
+					</div>
+				</div>
+			
+		
+	
+		
+			
+			
+				<div class="ref" data-ref="rt-pm" id="es-rt-pm">
+					<div class="four columns">
+						<a href="/es/rainforest-tech-participatory-mapping/"><img src="/media/index/participatory.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/es/rainforest-tech-participatory-mapping/">Mapeo participativo y con GPS</a></h2>
+						<p>Una introducción a la producción de mapas en colaboración con las comunidades (mapeo participativo) a fin de mostrar el uso real de un área, comparar un área con mapas “oficiales” y usar dicha información en reclamaciones comunitarias de derechos territoriales. <p>Parte del informe <a href="/es/rainforest-tech">Tecnología para bosques tropicales</a>.</p></p>
+					</div>
+				</div>
+			
+			<!-- </div> -->
+			
+		
+	
+		
+			
+			
+			<!-- <div class="row"> -->
+			
+				<div class="ref" data-ref="rt-si" id="es-rt-si">
+					<div class="four columns">
+						<a href="/es/rainforest-tech-satellite-imagery/"><img src="/media/index/satellite.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/es/rainforest-tech-satellite-imagery/">Imágenes satelitales</a></h2>
+						<p>Una introducción al uso de imágenes satelitales en proyectos relacionados a bosques tropicales para analizar cambios ocurridos en un área forestal durante un período determinado, o generar pruebas de deforestación, tendencias tales como aumentos en actividad comercial o resultados visibles de la degradación forestal. <p>Parte del informe <a href="/es/rainforest-tech">Tecnología para bosques tropicales</a>.</p></p>
+					</div>
+				</div>
+			
+		
+	
+		
+			
+			
+				<div class="ref" data-ref="rt" id="es-rt">
+					<div class="four columns">
+						<a href="/es/rainforest-tech/"><img src="/media/index/rainforest.svg" width="100px"></a>
+					</div>
+					<div class="eight columns">
+						<h2><a href="/es/rainforest-tech/">Tecnología para bosques tropicales</a></h2>
+						<p>Una introducción (o guía) al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques tropicales, los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar avances tecnológicos en la mejora de sus esfuerzos de defensa.</p>
+					</div>
+				</div>
+			
+			<!-- </div> -->
+			
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
 	
 	<div class="row es-last-row"></div>
 </div>
+
+</div>
+
+
+
+    
+    <!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.library.theengineroom.org"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//www.theengineroom.org/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 6]);
+    var d=document, g=d.createElement('script'),
+s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true;
+g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//www.theengineroom.org/piwik/piwik.php?idsite=6"
+style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+  </body>
+</html>

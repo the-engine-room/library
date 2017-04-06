@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta property="og:image" content="/images/logos/engineroom.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://library.theengineroom.org/" />
+    <meta property="og:title" content="" />
+
+    <link href="/images/icons/favicon.png" rel="shortcut icon" type="image/png" />
+    <link rel="stylesheet" href="/styles/main.css?v=1491469866" />
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+    <script src="/scripts/scrollspy.js"></script>
+    <script src="/scripts/site.js"></script>
+
+    <title>Microtasking</title>
+    
+  </head>
+
+
+
+
+  <body class="row ">
+    
+    <nav class="three columns">
+      <div class="logo">
+        <a href="/"><img src="/images/logos/library-light.png" alt="Engine Room" /></a>
+      </div>
+      <h1>Microtasking</h1>
+      <a id="toggle" href="#">&#8801;</a>
+<ul class="nav">
+  
+    
+    
+    <li>
+      <a href="#definition">
+        Definition
+      </a>
+    </li>
+  
+    
+    
+    <li>
+      <a href="#examples">
+        Examples
+      </a>
+    </li>
+  
+    
+    
+    <li>
+      <a href="#tools-and-platforms">
+        Tools and Platforms
+      </a>
+    </li>
+  
+    
+    
+    <li>
+      <a href="#pros-and-cons">
+        Pros and Cons
+      </a>
+    </li>
+  
+    
+    
+    <li>
+      <a href="#planning">
+        Planning
+      </a>
+    </li>
+  
+    
+    
+    <li>
+      <a href="#implementation">
+        Implementation
+      </a>
+    </li>
+  
+    
+    
+    <li>
+      <a href="#about">
+        About
+      </a>
+    </li>
+  
+</ul>
+
+    </nav>
+    
+
+    <div class="content nine columns offset-by-three">
+	<article class="page">
+
+	  <section class="content">
+	    <h1 id="microtasking">Microtasking</h1>
+
+<h2 id="definition">Definition</h2>
+
+<p>Microtasking is the process of splitting a large job into small tasks that can be distributed, over the Internet, to many people. Machines and algorithms are very efficient at certain functions, such as identifying patterns in an image or performing advanced calculations, but other tasks, including identifying the contents of an image or recognizing obscure text, are still best performed by humans.</p>
+
+<p>Microtasking platforms provide a way for anyone sitting at their computer to contribute to important tasks - they can get involved in noticing changes in forestry, or in noticing blemishes on an image that might indicate attacks on a certain area. For an organisation, microtasking brings benefits like distributing the workload, but it also requires a lot of thought and strategic planning.  The content of this site is based on a series of interviews with people who have worked on microtasking platforms, and outlines the work that goes into running a successful microtasking platform.</p>
+
+<p><img src="../media/microtasking/microtasking.png" alt="Microtasking" /></p>
+
+<hr />
+
+<h2 id="examples">Examples</h2>
+
+<p>This process has been used for over ten years in the commercial sector. Microtasking workplaces like <a href="//www.mturk.com">Mechanical Turk</a> or <a href="//www.clickworker.com/">ClickWorker</a> connect businesses with people around the world to outsource small tasks for pay. Example tasks include tagging photos from social media, typing out business card information from a photo, and digitising receipts and invoices.</p>
+
+<p>Increasingly, this technology is being used by the not for profit sector. The following initiatives have successfully applied microtasking for humanitarian or social purposes, and their staff were interviewed for the creation of this report. They represent projects with a wide range of sophistication and volunteer engagement, from tens to tens of thousands. Some were large organizations with dedicated communications teams, while others recruited a volunteer developer to build their platform.</p>
+
+<ul>
+  <li><a href="//irevolution.net/2014/06/03/zoomanitarians/">Planetary Response Network</a>. Tagging satellite/aerial imagery to accelerate disaster damage assessments, using Zooniverse.</li>
+  <li><a href="//geotagx.org/">GeoTag-X</a>. Extracting data from images of disasters, using Pybossa.</li>
+  <li><a href="//greenpeace.org.ar/guardianes/index-EN.php">Greenpeace Guardianes</a>. Identifying deforestation/forest degradation from Landsat satellite imagery. Previously used Silverlight, currently building a new version.</li>
+  <li><a href="//fires.globalforestwatch.org">Global Forest Watch Fires</a>. Identifying fires and haze from satellite imagery, using Tomnod.</li>
+  <li><a href="//www.fair-play.sk/">Fairplay Alliance</a>. Pulling out data from contracts, using a system built independently.</li>
+  <li><a href="//blogs.lanacion.com.ar/projects/data/vozdata/">Vozdata</a>. Transcribing information on expenses from PDFs, using Crowdata.</li>
+  <li><a href="http://micromappers.org/">Micromappers</a>. Combining the extraction of data from images and social media with machine learning, using Pybossa.</li>
+</ul>
+
+<hr />
+
+<h2 id="tools-and-platforms">Tools and Platforms</h2>
+
+<p>Several existing tools allow organizations to create and launch their own microtasking project. The table below compares key functional differences between the platforms used by the example initiatives above.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Platform</th>
+      <th><a href="//www.tomnod.com">Tomnod</a></th>
+      <th><a href="//www.zooniverse.org">Zooniverse</a></th>
+      <th><a href="//checkdesk.org">Checkdesk</a></th>
+      <th><a href="//crowdcrafting.org">Crowdcrafting + Pybossa</a></th>
+      <th><a href="//pybossa.com">Pybossa</a></th>
+      <th><a href="//crowdata.github.com">Crowdata</a></th>
+      <th><a href="//github.com/micromappers">Micromappers</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Colorado, USA</td>
+      <td>Chicago, USA and Oxford, England</td>
+      <td>San Francisco, USA</td>
+      <td>Unknown</td>
+      <td>Madrid, Spain</td>
+      <td>Buenos Aires, Argentina</td>
+      <td>Doha, Qatar</td>
+    </tr>
+    <tr>
+      <td><strong>Created</strong></td>
+      <td>2011</td>
+      <td>2009</td>
+      <td>2011</td>
+      <td>2011</td>
+      <td>2011</td>
+      <td>2013</td>
+      <td>2013</td>
+    </tr>
+    <tr>
+      <td><strong>Allowed Data Formats</strong></td>
+      <td>Visual</td>
+      <td>Visual, Audio</td>
+      <td>Visual and Text</td>
+      <td>Visual, Text, Audio</td>
+      <td>Visual, Text, Audio</td>
+      <td>Text</td>
+      <td>Visual, Text, Audio</td>
+    </tr>
+    <tr>
+      <td><strong>Allowed Microtasks</strong></td>
+      <td>Discovery</td>
+      <td>Discovery, Verification</td>
+      <td>Verification</td>
+      <td>Discovery, Verification</td>
+      <td>Varies</td>
+      <td>Verification, Data Release</td>
+      <td>Discovery, Verification</td>
+    </tr>
+    <tr>
+      <td><strong>Allows Custom Data Fields</strong></td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td><strong>Allows Anonymous Users</strong></td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td><strong>Allows Private Projects</strong></td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Forthcoming</td>
+    </tr>
+    <tr>
+      <td><strong>Allows Gamification</strong></td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>No</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td><strong>Data Hosting</strong></td>
+      <td>Amazon Web Services</td>
+      <td>Zooniverse Server</td>
+      <td>Project’s own server</td>
+      <td>Crowdcrafting Server</td>
+      <td>Project’s own server</td>
+      <td>Project’s own server</td>
+      <td>Project’s own server</td>
+    </tr>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>English</td>
+      <td>English, German, Polish</td>
+      <td>English, Arabic</td>
+      <td>English, Spanish</td>
+      <td>English, Spanish, Italian, French, German, Greek, Japanese</td>
+      <td>English, Spanish</td>
+      <td>English (links with Translators without Borders</td>
+    </tr>
+    <tr>
+      <td><strong>Mobile Compatible</strong></td>
+      <td>No</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>No</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td><strong>License</strong></td>
+      <td>Property of Digital Globe</td>
+      <td>Apache 2 License</td>
+      <td>GNU General Public License</td>
+      <td>GNU Affero General Public License</td>
+      <td>GNU Affero General Public License</td>
+      <td>MIT License</td>
+      <td>GNU Affero General Public License</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="pros-and-cons">Pros and Cons</h2>
+
+<h3 id="advantages">Advantages</h3>
+
+<p>Microtasking has two principal benefits.</p>
+
+<ul>
+  <li><strong>Getting data that would otherwise be time-consuming to process or impossible to access.</strong> Any problem that can be broken into small tasks can potentially be crowdsourced to volunteers. Popular microtasking mechanisms include answering questions, transcribing information, identifying points, drawing shapes, and comparing two pieces of data.</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Data types</strong></th>
+      <th><strong>Volunteer engagement</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Documents</td>
+      <td>Transcribing, verifying</td>
+    </tr>
+    <tr>
+      <td>Satellite imagery</td>
+      <td>Identifying features</td>
+    </tr>
+    <tr>
+      <td>Video</td>
+      <td>Counting, describing</td>
+    </tr>
+    <tr>
+      <td>Photography</td>
+      <td>Comparing, identifying</td>
+    </tr>
+    <tr>
+      <td>Social media posts</td>
+      <td>Classifying, prioritising</td>
+    </tr>
+    <tr>
+      <td>SMS</td>
+      <td>Transcribing, translating, classifying</td>
+    </tr>
+    <tr>
+      <td>Maps</td>
+      <td>Digitising, contributing</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li><strong>Engaging volunteers actively in an issue.</strong> A major challenge for many member-driven organizations is turning web-based support into real world action. Beyond sharing information or providing financial support (often derided as “clicktivism”), microtasking offers volunteers the opportunity to be actively involved, learn more about an issue, and make a meaningful contribution.</li>
+</ul>
+
+<h3 id="disadvantages">Disadvantages</h3>
+
+<p>Microtasking won’t be an effective solution for some organizations or projects.</p>
+
+<ul>
+  <li><strong>Stretching resource-constrained organizations.</strong> Significant staff time may be required to engage volunteers, monitor the quality of their work, and keep them motivated. Resource-constrained organizations may not be able to undertake microtasking easily.</li>
+  <li><strong>Skewing results for nefarious or benign reasons.</strong> Microtasking creates the potential that a small number of contributors could skew the data produced by the platform. This could be for political and commercial reasons, or because users were not using the platform in that way that was intended.</li>
+  <li><strong>Dividing opinions on data reliability.</strong> Because microtasking is a radical departure from existing research methods, it will draw doubt. Some will question the quality of data submitted by volunteers. Others may view it as an unnecessary disruption to existing workflows from untrusted individuals.</li>
+</ul>
+
+<h4 id="responsible-data-issues">Responsible Data Issues</h4>
+
+<p>Interviewees also noted the following more general risks.</p>
+
+<ul>
+  <li>Microtasking contributions are inherently unpredictable – both in terms of quantity and quality. Setting up an advocacy campaign dependent on microtasking data before having the data to back up the claims involves a leap of faith.</li>
+  <li>Allowing the public to contribute their own content necessarily involves giving up some control over what is communicated on the platform.</li>
+  <li>Volunteers contributing to humanitarian response may be exposed to sensitive and sometimes highly graphic content, so the opening of this information to the broader public poses ethical challenges. Organizations must take serious steps to ensure that no harm comes to those who choose to engage in their work.</li>
+  <li>Even well-intended volunteers may also accidentally use the platform in a way that was not intended.</li>
+</ul>
+
+<hr />
+
+<h2 id="planning">Planning</h2>
+
+<p>Our interviewees represented projects and platforms that varied widely in terms of size, subject matter and levels of volunteer engagement. For some, planning and launching a microtasking project was a multi-year process involving many incremental improvements and iterations, while others built and launched their project in relatively short time.</p>
+
+<h3 id="managing-expectations">Managing Expectations</h3>
+
+<p>Microtasking isn’t magic. Recognizing its limitations early in the planning process can allow an initiative to use it as effectively as possible.</p>
+
+<ul>
+  <li><strong>Most volunteers will contribute for a maximum of 5-10 minutes per week, with a minority contributing more than that.</strong> However, this minority typically contributes most of the data that microtasking platforms receive. For example, Greenpeace Guardianes said that about 10% of its 30,000 users make 90% of the total contributions to the site.</li>
+</ul>
+
+<p><img src="../media/microtasking/superusers.png" alt="Superusers" /></p>
+
+<ul>
+  <li><strong>Volunteers are most likely to complete tasks that are comprehensible in a short space of time.</strong> Interviewees said that projects often struggled with simplifying tasks down into the base unit of analysis. As the founder of Pybossa put it: “‘simple’ doesn’t mean ‘not complex,’ but volunteers shouldn’t need to spend a lot of time trying to understand the task.”</li>
+  <li><strong>‘Divide and conquer’: volunteers should only be asked to complete one type of task at a time.</strong> Zooniverse’s co-founder noted: “research teams tend to want to milk everything possible out of a task sequence, but experience has demonstrated that it’s always possible to go back and ask questions later on.” Pybossa’s founder added that some organisations were now successfully running 3-5 projects in parallel, with sets of volunteers each conducting a discrete, separate task to collect data that contributed to the project’s overall goal.</li>
+  <li><strong>Volunteers are likely to contribute more effectively when they can access information about the context of a task.</strong> Tomnod started by giving volunteers access to a small, 400-pixel satellite image, but found that they contributed much more effectively when they could see the wider region of which that image was a part (using satellite imagery from Digital Globe, which runs Tomnod). As the project lead of the Planetary Response Network said: “any project will have complete beginners and near-experts. The idea is to train people so they can become experts [by providing the right guidance].”</li>
+  <li><strong>There is a natural limit to the length of time that most volunteers will contribute.</strong> As Fairplay Alliance found: “Most of the volunteers were really active for 4-6 weeks – we could sustain it a bit longer with gamification (encouraging competition between users), but not much longer.”</li>
+  <li><strong>Acceptable data formats.</strong> Microtasking can work well when applied to the division and distribution tasks related to imagery (such as maps or photos), audio, or text.</li>
+</ul>
+
+<p><img src="../media/microtasking/data_formats.png" alt="Data Formats" /></p>
+
+<h3 id="requirements">Requirements</h3>
+
+<p>These are the most commonly cited responsibilities for a successful microtasking team, with the most frequently mentioned at the top. Note that some of these roles may be shared by more than one individual.</p>
+
+<ul>
+  <li>Someone responsible for <strong>attracting new volunteers</strong> and building momentum around a campaign.</li>
+  <li>Someone responsible for <strong>retaining and coordinating volunteers</strong>, including answering queries with basic information about how the platform worked.</li>
+  <li>Someone who <strong>understands the subject matter</strong> and the end use to which the data will be applied. This person should be able to communicate with non-expert users.</li>
+  <li>Someone with <strong>web development skills</strong>, with specifics varying depending on the project. For example, working with Micromappers’ machine learning capabilities requires someone who has experience with Java.</li>
+  <li>Someone with <strong>skills in accessing and processing data</strong> in the relevant formats for that project – both for designing the platform and monitoring the inputs. For example, several projects using satellite imagery noted that having someone who understands remote sensing and the tasks required to process satellite data was useful.</li>
+  <li>Someone with <strong>statistical analysis skills</strong> for projects that involve dealing with large quantities of data.</li>
+  <li>Someone who <strong>understands user experience (UX) design</strong> to optimize the workflow for maintained and effective engagement.</li>
+</ul>
+
+<h3 id="minimizing-risk">Minimizing Risk</h3>
+
+<p>Projects collect limited data about their users’ profile and identity. Most platforms or projects allow users to contribute in three ways.</p>
+
+<ul>
+  <li><strong>Anonymously.</strong> Many sites collect no personal data about the volunteer user.</li>
+  <li><strong>As a registered user.</strong> If any information is collected, it is typically an email address. The next most collected piece of information is the user’s name. When collected, names are often optional, likely to prevent users from being discouraged by having to answer too many invasive questions.</li>
+  <li><strong>By IP address.</strong> Some sites (such as Zooniverse) track users’ IP addresses and their interaction with the platform, but do not collect detailed profile information.</li>
+</ul>
+
+<h3 id="maximizing-data-integrity">Maximizing Data Integrity</h3>
+
+<p>Interviewees revealed two strategies to improve the integrity of microtasked data.</p>
+
+<h4 id="training-volunteers">Training Volunteers</h4>
+
+<p>Every project recognized the need to get volunteers up to speed on the task, and reported different approaches to doing so.</p>
+
+<ul>
+  <li>Most organisations agreed that instructions on using a platform worked best when they were integrated into the task itself. Several interviewees who had developed platforms had modified their user interface so that users were given a task immediately after starting to use the tool, combined with instructions on how to complete it. Depending on the sensitivity of the information, this training task could be presented using synthetic (or test) data, while others used real project data from the outset.</li>
+  <li>Several organisations found that tutorials presented as a separate manual were rarely used.</li>
+  <li>In-person meetings were successful, but might be impractical for projects that aim to engage large numbers. For example, Fairplay Alliance, working with groups of around 30 volunteers, invited them to a two-hour meeting where they were trained to use the tool and asked to sign a volunteer contract and non-disclosure agreement.</li>
+</ul>
+
+<h4 id="verification-by-design">Verification by Design</h4>
+
+<p>All projects agreed that verifying and validating data was a crucial part of a successful project, whether that be verifying it before making it public, or before using it internally.</p>
+
+<ul>
+  <li><strong>Build verification into project design.</strong> These can range from detailed statistical procedures to a consensus model, where a pre-set number of people who need to agree before a report can be accepted.
+    <ul>
+      <li>Greenpeace Guardianes requires 30 confirmations for each hexagon (unit of analysis).</li>
+      <li>Pybossa allows for the number of confirmations to be preset within each instance: for example, a classification might not be added to a project’s database until 10 other users have entered the same classification.</li>
+      <li>Micromappers requires each piece of content to be reviewed by a minimum of three people, and considers it validated if 80% of participants agree with the classification.</li>
+      <li>Tomnod uses ‘Crowdrank’: a method in which a volunteer’s reputation increases as they develop a track record of contributions that a majority of other users agree with. The higher their reputation, the greater weight Tomnod gives to their data.</li>
+      <li>CheckDesk (explicitly a platform for verifying social media reports) adopts a highly transparent verification process in which volunteers use a free-text field to describe their reasons for judging a piece of data to be false (in the style of a comment thread).</li>
+    </ul>
+  </li>
+  <li><strong>Reduce ambiguity.</strong> The more structure is given to volunteers, the less cleaning of the data is likely be required. Fairplay discovered through their pilot stage that providing structured fields rather than free text was a better way to collect useful data.</li>
+  <li><strong>Add intermediary checks.</strong> Anybody can make mistakes, and in some cases the tasks might not be as easy to complete correctly as envisioned. Additional manual verification by staff can counter this, though some interviewees warned that it can create bottlenecks when large amounts of data are involved.
+    <ul>
+      <li>After a data point receives the required 30 confirmations, a Greenpeace Guardianes campaigner has the opportunity to review it.</li>
+      <li>Vozdata gives some more trusted users (mainly people from peer NGOs) special permissions to review content submitted by others.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="tool-selection">Tool Selection</h3>
+
+<p>Organisations made project planning decisions for reasons related to their own specific organisational needs. These included the following.</p>
+
+<ul>
+  <li><strong>Minimising time spent on development.</strong> Global Forest Watch Fires and GeoTag-X chose Tomnod and Pybossa, respectively, because they were looking for platforms that were already developed and had features that met their needs. As GeoTag-X’s manager put it: “We needed something already ready to go because we had no developer at the time.”</li>
+  <li><strong>Project timelines.</strong> Fairplay Alliance’s project manager said that they put less time into the design of the app in advance; their main focus was getting the platform working quickly and cheaply because they didn’t have the time and money to fine-tune it.</li>
+  <li><strong>Need for specialist information.</strong> Global Forest Watch Fires chose to work with Tomnod partly because it gave them access to high-quality cloud-free satellite imagery (something that they had previously found hard to access) provided by Digital Globe.</li>
+</ul>
+
+<p>For more on tool selection, read about the engine room’s own experience <a href="//www.theengineroom.org/behind-the-scenes-how-we-helped-kick-start-a-microtasking-site/">selecting a microtasking platform</a>.</p>
+
+<h3 id="special-considerations">Special Considerations</h3>
+
+<p>Interviewees held differing opinions on whether gamification was useful or appropriate in microtasking.</p>
+
+<h4 id="gamification">Gamification</h4>
+
+<p>When designing an activity that is intended to encourage repeated participation, designers can add elements more typical of game play (keeping score, creating competition, animations and other friendly interactions). This is called “gamification,” and it can encourage further engagement with a product or service.</p>
+
+<p><img src="../media/microtasking/gamification.png" alt="Gamification" /></p>
+
+<p>Arguments for gamification included:</p>
+
+<ul>
+  <li><strong>Gamification can make the activity more engaging.</strong> For platforms where the tasks were repetitive, gamification was seen as a way to “make the activity more entertaining”, to quote Greenpeace Guardianes. These organizations did not actually attempt to create real games, but used gaming mechanisms to make the activity more engaging and fun. For one project, Zooniverse made their classification work more engaging by adding elements of play that didn’t interfere with core tasks: when their Galaxy Zoo volunteers identified galaxies that looked like letters, the platform pulled these out and created an ‘alphabet’ that allowed volunteers to write messages to others.</li>
+  <li><strong>Gamification can create opportunities to reward or praise volunteers for their contributions.</strong> Some projects used information on how volunteers were contributing to give them physical rewards (which included 3D-printed items, shopping coupons, t-shirts, books and exclusive access to comedy gigs). Others focused on public recognition: a member of the Vozdata team said: “sometimes we mention volunteers on twitter if we know their username.” One smaller project was able to mitigate the risk of favouritism by finding a way to praise each of their 120 volunteers for some element of their contribution.</li>
+  <li><strong>Competition can be a motivating factor</strong> for some projects that aim to find a small number of very effective contributors, like <a href="//fold.it/portal/info/about">FoldIt</a>, an initiative where contributors fold proteins to generate evidence that humans can contribute to predicting their structure more effectively than computers.</li>
+</ul>
+
+<p>Arguments against gamification included:</p>
+
+<ul>
+  <li><strong>Singling out individuals as ‘successful’ could discourage broader participation.</strong> projects that collect multiple independent classifications need to motivate as many people to participate as possible. In these cases, interviewees suggested that gamification could dissuade contributors ranked as ‘less successful’ from taking part. Zooniverse chooses not to build gamification into their project design, finding that people respond better to cooperative challenges than competitive ones. As a developer at Zooniverse said: “it’s not about finding the one person, but finding multiple users”.</li>
+  <li><strong>Emphasising the game aspect can mean losing focus on the task itself.</strong> Recognising that volunteers were involved in the microtasking activity for motivation that centred around the task itself, some didn’t want to detract from that task without being absolutely sure that assigning points would bring added value to the task in hand.</li>
+  <li><strong>Gamification can increase stress among volunteers.</strong> Interviewees cited <a href="//dl.acm.org/citation.cfm?doid=2583008.2583019">research</a> on the topic that has found that volunteers can feel pressurised to stay at the top of a leaderboard, or leave immediately upon reaching the top. At the other end of the spectrum, new volunteers reported feeling daunted by the difficulty of reaching the top of a leaderboard.</li>
+  <li><strong>The subject matter of a platform may be inappropriate for competition.</strong> As one initiative put it: “Our projects often have a crisis focus…and our thought has been: is it fun to reward people for tagging traumatic things?”</li>
+  <li><strong>Changing the incentives for contribution could decrease the validity of the data.</strong> One gamified initiative reported problems with cheating – they encouraged people to share public denouncements on social media in exchange for points, but found that volunteers were exploiting a loophole that allowed them to gain points without actually posting anything. “Cheating is something you have to deal with if you’re doing gamification,” they said.</li>
+</ul>
+
+<hr />
+
+<h2 id="implementation">Implementation</h2>
+
+<h3 id="attracting-volunteers">Attracting Volunteers</h3>
+
+<p>Positioning a project early to attract volunteers will increase the quantity and quality of work that can ultimately be microtasked.</p>
+
+<ul>
+  <li><strong>Altruistic motivations.</strong> Interviewees said that most volunteers were mainly motivated by the idea of helping or making an authentic contribution to an organisation’s work. Interestingly, Tomnod said that they had found the quality of data submitted by volunteers was “far superior” to the data from paid contributions (from the digital labour service Mechanical Turk): “People who are engaged are doing it because they want to. We find again and again that they’re much more motivated.”</li>
+  <li><strong>Communicate how the data will be used.</strong> Almost all projects said that it is essential to make it clear who the end user of the data is, and how they will use the volunteers’ data in their work. “The biggest thing that drives engagement is knowing that there is somebody at the end of the tunnel – and not too far from the end – who really wants that data.”</li>
+  <li><strong>Supporting the volunteer community.</strong> Interviewees suggested that those end users need to play a prominent, active role in any online community that the project creates. Whether that is newsletters, blogs, social media or online forums. Key elements of this role were making themselves available for questions from volunteers and providing feedback on how the data would be used to help them.</li>
+  <li><strong>Early involvement.</strong> Volunteer engagement can be particularly important in the early stages of a project. When the community is starting up, Zooniverse noted that some projects had found it helpful to have people on hand “almost 24/7” to answer questions and encourage new users. Several projects highlighted the importance of meeting people where they already were - for example, Fairplay Alliance answered questions about the platform on a private Facebook group because it was the most widely used format in Slovakia.</li>
+  <li><strong>High-profile users.</strong> Volunteer engagement can increase when joined by a recognisable or senior figure in the field. For example, crowdsourcing verification platform CheckDesk suggested that the involvement of prominent citizen journalists such as Eliot Higgins on specific tasks bolstered volunteers’ sense that they were contributing to a high-quality endeavour.</li>
+  <li><strong>Keeping the platform consistent</strong>: Greenpeace’s Innovation Lab noticed that far fewer people registered for the second version of their Guardianes platform when it re-launched. They suggested that this could be because the Chrome browser (which a large proportion of their users used) no longer supported the Silverlight plugin on which Guardianes was built. Although Guardianes still worked on other browsers, few users were willing to switch to another one in order to continue their microtasking.</li>
+  <li><strong>Social capital.</strong> A member of the Vozdata team (at the Argentinian paper La Nacion) said that they were able to attract recruits by using their strong national reputation: “[people] feel that if we are saying and asking for this, it has to be for something good.” She also described ways in which she had responded to students who asked her questions on other topics: “I say, go liberate some documents on Vozdata first, and then I will answer one question.”</li>
+  <li><strong>Timing.</strong> Several projects found that participation was particularly high when media coverage gave greater prominence to a project’s subject matter. Tomnod recorded 8 million visits in the space of two weeks in 2014, as users searched satellite imagery for evidence of the disappeared Malaysian Airlines plane MH370, while – on a smaller scale – Vozdata typically times its campaigns around specific political events. Other examples include:
+    <ul>
+      <li>Global Forest Watch Fires bases its campaigns around the fire season in south-east Asia.</li>
+      <li>GeoTag-X and Micromappers organise activities focused on particular humanitarian crises.</li>
+      <li>Vozdata bases its campaigns around specific political events, such as the release of politicians’ expense records.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="retaining-volunteers">Retaining Volunteers</h3>
+
+<p>Once a microtasking project has launched, there is a natural limit to the length of time that most volunteers will contribute. The following tactics can extend that volunteer engagement period.</p>
+
+<ul>
+  <li><strong>Keeping up momentum.</strong> Several interviewees found that excitement and pressure were key motivators for encouraging people to keep engaging. Some Zooniverse projects recorded significant spikes in activity after sending out a newsletter asking their community to reach 1 million classifications in a week. Another project noticed that when their communications “went into autopilot” and failed to communicate urgency, volunteer participation dropped off. Greenpeace’s Innovation Lab found that participation was highest when their communications around the Guardianes platform were well integrated with the organisation’s broader forests campaign plan and communications outputs.</li>
+  <li><strong>Constant contact.</strong> The team working on Tomnod realised that “you can’t over-communicate” with volunteers. They use multiple channels to reach their audience, including Twitter, Facebook, a discussion forum and their primary tool: email. Micromappers set up a chatroom each time their tool was used, and found that volunteers would often enjoy interacting with each other - even on issues that had nothing to do with microtasking or the disaster in question.</li>
+  <li><strong>In-person contact.</strong> Fairplay Alliance began publishing lists of most successful volunteers, giving extra praise to those processed most contracts over which time period. They thought carefully about how to praise and recognise the work of each volunteer, as they found out that this was very valued; in effect, being part of a community seemed to really matter to the volunteers. Over time, Fairplay started organising events for them, inviting them to their office, then (for bigger groups of 30-40 people) providing drinks and organising discussions. “These are the real things that really matter to the people; that they’re taking part with the sense of contributing to something bigger, that you show them what you’re able to do with their help.”</li>
+  <li><strong>Linking volunteer effort to results.</strong> Some organisations, such as Fairplay, focused a lot of energy on launching the results of their platform publicly. Before they did the public launch of their data, they had a big event where all volunteers were invited, with semi-famous people present, as well as a local comic with private show. They awarded the most active volunteers, with gifts and printed diplomas showing how many contracts they processed. Micromappers highlights top contributors in emails to their mailing list.</li>
+</ul>
+
+<hr />
+
+<h2 id="about">About</h2>
+<p>This site was created by The Engine Room and Amnesty International to understand the ins and outs of micro-tasking, to support Amnesty’s Alt Click project. Comments or questions? Contact <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#112;&#111;&#115;&#116;&#064;&#116;&#104;&#101;&#101;&#110;&#103;&#105;&#110;&#101;&#114;&#111;&#111;&#109;&#046;&#111;&#114;&#103;">&#112;&#111;&#115;&#116;&#064;&#116;&#104;&#101;&#101;&#110;&#103;&#105;&#110;&#101;&#114;&#111;&#111;&#109;&#046;&#111;&#114;&#103;</a>.</p>
+
+<p>Alt Click is a two-year project funded by the <a href="//www.postkodlotteriet.se">Swedish Postcode Lottery</a> that aims to inspire a new generation of tech savvy human rights activists to take part in documenting, verifying and collating evidence of human rights abuse. In this context, Amnesty is planning to use micro-tasking to invite people to analyse satellite images, verify video footage and classify large amounts of social media data.</p>
+
+<h3 id="contributors">Contributors</h3>
+
+<p><strong>Milena Marin</strong> is the Senior Innovations Campaigner at Amnesty International and project manager of Alt Click. Get in touch to know more about Amnesty’s efforts to use microtasking <a href="//twitter.com/milena_iul">@milena_iul</a>.</p>
+
+<p><strong><a href="//theengineroom.org">The Engine Room</a></strong> is an international organisation that helps activists, organisations, and other social change agents make the most of data and technology to increase their impact.</p>
+
+<p>From the Engine Room team, on this project <a href="https://www.theengineroom.org/our_team/danna-ingleton/">Danna Ingleton</a>, Responsible Data Program Manager, was involved in project conception and set up. <a href="https://www.theengineroom.org/our_team/zara-rahman/">Zara Rahman</a> managed the project and came up with the idea of topic-specific microsites like the one you see here. <a href="https://www.theengineroom.org/our_team/tom-walker/">Tom Walker</a> carried out the research, including all interviews and the write up of the bulk of the content. <a href="https://www.theengineroom.org/our_team/maya-richman/">Maya Richman</a> contributed the tools functionalities table, and <a href="https://www.theengineroom.org/our_team/tin-geber/">Tin Geber</a> and <a href="https://www.theengineroom.org/our_team/alix-dunn/">Alix Dunn</a> provided useful feedback and guidance to the design. The site sourcecode is available on <a href="https://github.com/the-engine-room/library/">Github</a>.</p>
+
+	  </section>
+
+	  <section class="return-to-main">
+
+	      <a href="/"  title="Library Home">Return to Library Home</a>
+
+	  </section>
+
+	</article>
+</div>
+
+    
+    <footer class="twelve columns row">
+      <div class="nine columns offset-by-three u-flex-center">
+        <div class="logos four columns u-flex-center">
+            <div class="logo half-width"><a href="https://theengineroom.org"><img src="/images/logos/engineroom.png" alt="The Engine Room" /></a></div>
+            
+            <div class="logo half-width"><a href="//www.amnestyusa.org"><img src="/images/logos/amnesty.png" alt="Amnesty International" /></a></div>
+            
+          </div>
+          <div class="text six columns">
+            <p>
+              This page was created by The Engine Room and Amnesty International.
+              
+            </p>
+          </div>
+          <div class="logo license one column">
+            <a href="https://creativecommons.org/licenses/by-nc/4.0/legalcode">
+              <img src="/images/license.png"/>
+            </a>
+          </div>
+      </div>
+    </footer>
+    
+    <!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.library.theengineroom.org"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//www.theengineroom.org/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 6]);
+    var d=document, g=d.createElement('script'),
+s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true;
+g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//www.theengineroom.org/piwik/piwik.php?idsite=6"
+style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+  </body>
+</html>
