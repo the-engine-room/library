@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    
+
     //duplicate and fill in translations with en when missing
     /**
      * Books Object
@@ -11,7 +11,9 @@ $(document).ready(function() {
         BookLists: {
             en: $('#books[lang="en"]').find('.ref'),
             fr: $('#books[lang="fr"]').find('.ref'),
-            id: $('#books[lang="id"]').find('.ref')
+            id: $('#books[lang="id"]').find('.ref'),
+            pt: $('#books[lang="pt"]').find('.ref'),
+            es: $('#books[lang="es"]').find('.ref')
         },
         BookIndexes: [],
         BookIndexer: function() {
@@ -26,40 +28,48 @@ $(document).ready(function() {
             this.BookIndexes = indexer;
         }
     };
-    
+
     Books.BookIndexer();
     console.log(Books.BookIndexes);
-    
-    // cycle over BookIndexes.en 
+
+    // cycle over BookIndexes.en
     $.each(Books.BookIndexes.en, function(i, ref){
         // check if ref exists in fr/id
         if(Books.BookIndexes.fr.indexOf(ref) < 0) {
             // if not, clone from en
             $('#en-' + ref).clone().appendTo('#books[lang="fr"] div.fr-last-row').addClass('greyed');
         }
-        console.log(Books.BookIndexes.id.indexOf(ref));
+        //console.log(Books.BookIndexes.id.indexOf(ref));
         if(Books.BookIndexes.id.indexOf(ref) < 0) {
             // if not, clone from en
             $('#en-' + ref).clone().appendTo('#books[lang="id"] div.id-last-row').addClass('greyed');
         }
+        if(Books.BookIndexes.pt.indexOf(ref) < 0) {
+            // if not, clone from en
+            $('#en-' + ref).clone().appendTo('#books[lang="pt"] div.id-last-row').addClass('greyed');
+        }
+        if(Books.BookIndexes.es.indexOf(ref) < 0) {
+            // if not, clone from en
+            $('#en-' + ref).clone().appendTo('#books[lang="es"] div.id-last-row').addClass('greyed');
+        }
         // else do nothing
     // end
     });
-    
-    
+
+
     // translation toggles
     $('nav.lang-nav > ul > li > a').click(function(e){
         e.preventDefault();
         var targetLang = $(this).data('lang-target');
-        
+
         $('nav.lang-nav > ul > li > a').removeClass('active');
         $(this).addClass('active');
-        
+
         $('div.lang-box.lang-show').removeClass('lang-show').addClass('lang-hidden');
         $('div.lang-box[lang="' + targetLang + '"]').removeClass('lang-hidden').addClass('lang-show');
     });
-    
-    
+
+
     // nav toggle
     $('nav a#toggle').on('click', function() {
         $('nav ul.nav').slideToggle(function complete() {
