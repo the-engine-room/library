@@ -4,6 +4,7 @@
 bundle exec jekyll build
 
 # initialize new repo from newly built _site folder
+echo "--- INITIALISING NEW REPO ---"
 cd /home/travis/build/the-engine-room/library/_site
 git init
 git config user.email "mayarichman@gmail.com"
@@ -14,6 +15,9 @@ git reset upstream/gh-pages
 touch .nojekyll
 
 # add, commit and push changes to master
+echo "--- ADDING ALL... ---"
 git add -A .
+echo "--- COMMITTING NOW... ---"
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
+echo "--- PUSH EVERYTHING! ALL THE THINGS, PUSH THEM! ---"
 git push --force "https://mayarichman:${GH_TOKEN}@github.com/the-engine-room/library.git" master:master > /dev/null 2>&1
