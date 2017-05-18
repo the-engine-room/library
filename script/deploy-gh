@@ -20,4 +20,4 @@ git add -A .
 echo "--- COMMITTING NOW... ---"
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
 echo "--- PUSH EVERYTHING! ALL THE THINGS, PUSH THEM! ---"
-git push --force "https://mayarichman:${GH_TOKEN}@github.com/the-engine-room/library.git" master:master > /dev/null 2>&1
+git push --force -v "https://mayarichman:${GH_TOKEN}@github.com/the-engine-room/library.git" master:master > /dev/null 2>&1
