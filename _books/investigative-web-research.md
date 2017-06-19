@@ -16,7 +16,7 @@ navigation:
   - Implementation
   - Resources
   - Acknowledgements
-ref: messaging-apps
+ref: investigative-web-research
 lang: en
 categories:
   - en
