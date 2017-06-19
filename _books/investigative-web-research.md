@@ -26,9 +26,13 @@ categories:
 
 ## Introduction
 
-This resource aims to be a practical and straightforward guide to investigative web research (IWR). The guide functions as a toolkit, pointing readers to the right resources while at the same time providing the necessary context for readers to assess the various tools.
+(Last updated: June 2017).
 
-This guide is meant for researchers, activists, journalists and social good actors who are collecting online information about persons, entities or events for the purposes of investigative research. If you are, for example, tracking corporate ownership and corruption, web page activity, or mapping political influence, this guide is for you. To start with, all you will need is a computer with an internet connection - you can then progressively learn how to find and use many more tools and resources.
+This is a practical, straightforward introduction to investigative web research (IWR). 
+
+It is designed for researchers, activists, journalists and social good actors who are collecting online information about persons, entities or events for investigative research. If you are tracking corporate ownership and corruption, web page activity, or mapping political influence, this guide is for you. 
+
+The guide is a toolkit that points you to the resources while giving the context you need to assess the tools. To start with, all you will need is a computer with an internet connection - you can then progressively learn how to find and use many more tools and resources.
 
 The key areas of focus are:
 
@@ -288,11 +292,11 @@ Collecting, using and publishing data can have very serious consequences if not 
 
 
 ## About
-This site was created by The Engine Room to understand the ins and outs of investigative web research. Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org).
+This site was created by The Engine Room to introduce the ins and outs of investigative web research. Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org).
 
 ### Contributors
 [The Engine Room](https://theengineroom.org) is an international organisation that helps activists, organisations, and other social change agents make the most of data and technology to increase their impact.
 
-From the Engine Room team, [Tin Geber](https://www.theengineroom.org/people/tin-geber/), Design and Tech Lead, was involved in project conception and set up, while [Tom Parker](https://twitter.com/TomParker254) researched and wrote the content.
+[Tom Parker](https://twitter.com/TomParker254) researched and wrote the content, while [Tin Geber](https://tin.fyi/about/) designed and managed the project. 
 
-This report was first published in June 2017. The site sourcecode is available on [Github](https://github.com/the-engine-room/library).
+The site source code is available on [Github](https://github.com/the-engine-room/library).
