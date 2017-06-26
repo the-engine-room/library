@@ -15,6 +15,7 @@ git reset upstream/gh-pages
 touch .nojekyll
 
 # add, commit and push changes to master
+# maybe it's going to work now
 echo "{$GH_USERNAME}"
 echo "--- ADDING ALL... ---"
 git add -A .
