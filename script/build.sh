@@ -6,7 +6,7 @@ function init {
 	mkdir _site
 	cd _site
 	git init
-	git remote add deploy "webmaster@engnroom.org@ftp.greenhost.nl:/domains/theengineroom.org/travis_test_bare"
+	git remote add deploy "webmaster@engnroom.org@ftp.greenhost.nl:/domains/theengineroom.org/travis_test_bare/"
 	git config user.name "Travis CI"
 	git config user.email "mayarichman@gmail.com"
 	echo "Fetching from remote"
