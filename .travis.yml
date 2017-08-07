@@ -3,7 +3,9 @@ cache: bundler
 rvm:
 - 2.1
 addons:
-  ssh_known_hosts: engnroom.org
+  ssh_known_hosts:
+  - engnroom.org
+  - ftp.greenhost.nl
 before_install:
 - openssl aes-256-cbc -K $encrypted_5abeaa89f416_key -iv $encrypted_5abeaa89f416_iv
   -in deploy-key-library.enc -out deploy-key-library -d
@@ -12,6 +14,8 @@ before_install:
 - mv deploy-key-library ~/.ssh/id_rsa
 - rm deploy-key-library.enc
 - echo -e "Host engnroom.org" >> ~/.ssh/config
+- echo -e "IdentityFile ~/.ssh/id_rsa" >> ~/.ssh/config
+- echo -e "Host ftp.greenhost.nl" >> ~/.ssh/config
 - echo -e "IdentityFile ~/.ssh/id_rsa" >> ~/.ssh/config
 before_script:
 - bash script/install.sh
