@@ -13,14 +13,12 @@ before_install:
 - rm deploy-key-library.enc
 - echo -e "Host engnroom.org" >> ~/.ssh/config
 - echo -e "IdentityFile ~/.ssh/id_rsa" >> ~/.ssh/config
-- cat ~/.ssh/id_rsa
-- cat ~/.ssh/known_hosts
 before_script:
-- bash scripts/install.sh
+- bash script/install.sh
 script:
-- bash scripts/build.sh
+- bash script/build.sh
 after_success:
-- bash scripts/deploy.sh
+- bash script/deploy.sh
 branches:
   only:
   - gh-pages
