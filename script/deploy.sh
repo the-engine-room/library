@@ -5,7 +5,7 @@ if [ $TRAVIS_BRANCH == 'gh-pages' ] ; then
 	cd _site
   git status
   git branch
-  git push -f deploy gh-pages
+  git push -f deploy master
 else
 	echo "Not deploying, since this branch isn't gh-pages."
 fi
