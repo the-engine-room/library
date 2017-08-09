@@ -292,7 +292,7 @@ Collecting, using and publishing data can have very serious consequences if not 
 
 
 ## About
-This site was created by The Engine Room to introduce the ins and outs of investigative web research. Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org).
+This site was created by [The Engine Room](https://theengineroom.org) to introduce the ins and outs of investigative web research. Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org).
 
 ### Contributors
 [The Engine Room](https://theengineroom.org) is an international organisation that helps activists, organisations, and other social change agents make the most of data and technology to increase their impact.
