@@ -7,7 +7,7 @@ addons:
   - engnroom.org
   - ftp.greenhost.nl
 before_install:
-- openssl aes-256-cbc -K $encrypted_5abeaa89f416_key -iv $encrypted_5abeaa89f416_iv
+- openssl aes-256-cbc -K $encrypted_7be9133180c7_key -iv $encrypted_7be9133180c7_iv
   -in deploy-key-library.enc -out deploy-key-library -d
 - chmod 600 ~/.ssh/config
 - chmod 600 deploy-key-library
