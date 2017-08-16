@@ -69,11 +69,11 @@ section.content {
 
     &#about:before, &#tentang:before, &#sobre:before, &#sobre:before, &#propos:before, &#acerca-de-este-sitio:before { background-image: url('../images/icons/about.svg'); }
     &#definition:before, &#objectives:before { background-image: url('../images/icons/definition.svg'); }
-    &#examples:before { background-image: url('../images/icons/examples.svg'); }
-    &#tools-and-platforms:before, &#tools-and-applications:before { background-image: url('../images/icons/tools.svg'); }
-    &#implementation:before { background-image: url('../images/icons/implementation.svg'); }
+    &#examples:before, &#exemplos:before, &#ejemplos:before { background-image: url('../images/icons/examples.svg'); }
+    &#tools-and-platforms:before, &#tools-and-applications:before, &#tools-and-techniques:before { background-image: url('../images/icons/tools.svg'); }
+    &#implementation:before, &#implementação:before, &#implementación:before { background-image: url('../images/icons/implementation.svg'); }
     &#planning:before { background-image: url('../images/icons/planning.svg'); }
-    &#pros-and-cons:before { background-image: url('../images/icons/procon.svg'); }
+    &#pros-and-cons:before, &#pros:before, &#cons:before, &#pros-y-contras:before, &#prós-e-contras:before { background-image: url('../images/icons/procon.svg'); }
 
     &#participatory-and-gps-mapping:before, &#pemetaan-partisipatif-dan-gps:before, &#mapeamento-participativo-e-por-GPS:before, &#mapeo-participativo-y-con-GPS:before, &#cartographie-participative-et-GPS:before, { background-image: url('../media/rainforest/participatory.svg'); }
     &#mobile-phone-applications:before, &#aplikasi-telepon-seluler:before, &#aplicaciones-para-telfonos-mviles:before, &#applications-mobiles:before { background-image: url('../media/rainforest/mobile.svg'); }
@@ -87,15 +87,15 @@ section.content {
     &#tools:before, &#alat-dan-perangkat:before, &#ferramentas:before, &#herramientas:before, &#outils:before { background-image: url('../images/icons/tools.svg'); }
     &#strategy:before, &#strategi:before, &#planejamento:before, &#estratgia:before, &#estrategia:before, &#planificacin:before, &#planification:before { background-image: url('../images/icons/planning.svg'); }
     &#matching-objectives-with-tools:before, &#memadankan-tujuan-anda-dengan-perangkat:before, &#combinando-seus-objetivos-com-as-ferramentas:before, &#adaptar-las-herramientas-a-los-objetivos:before, &#les-bons-outils-pour-les-bons-objectifs:before { background-image: url('../images/icons/objectives.svg'); }
-    &#further-resources:before, &#sumber-lain:before, &#outros-recursos:before, &#otros-recursos:before, &#ressources-complmentaires-1:before { background-image: url('../images/icons/further.svg'); }
-    &#conclusion:before { background-image: url('../images/icons/conclusion.svg'); }
+    &#further-resources:before, &#resources:before, &#sumber-lain:before, &#outros-recursos:before, &#otros-recursos:before, &#ressources-complmentaires-1:before { background-image: url('../images/icons/further.svg'); }
+    &#conclusion:before, &#conclusión:before, &#conclusão:before { background-image: url('../images/icons/conclusion.svg'); }
 
     &#summary:before { background-image: url('../images/icons/foreward.svg'); }
-    &#overview:before, &#context:before { background-image: url('../images/icons/overview.svg'); }
+    &#overview:before, &#context:before, &#visión-general:before, &#visão-geral:before { background-image: url('../images/icons/overview.svg'); }
     &#challenges:before { background-image: url('../images/icons/challenge.svg'); }
     &#tensions:before { background-image: url('../images/icons/tension.svg'); }
     &#best-practices:before { background-image: url('../images/icons/examples.svg'); }
-    &#acknowledgements:before { background-image: url('../images/icons/about.svg'); }
+    &#acknowledgements:before, &#reconocimientos:before, &#acerca-do-relatório:before { background-image: url('../images/icons/about.svg'); }
 
   }
 
