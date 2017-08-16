@@ -30,7 +30,7 @@ categories:
 
 This is a practical, straightforward introduction to investigative web research (IWR). 
 
-It is designed for researchers, activists, journalists and social good actors who are collecting online information about persons, entities or events for investigative research. If you are tracking corporate ownership and corruption, web page activity, or mapping political influence, this guide is for you. 
+It is designed for researchers, activists, journalists and social good actors who are collecting online information about persons, entities or events for investigative research. If you are tracking corporate ownership and corruption, web page activity, or mapping political influence, this guide is for you.
 
 The guide is a toolkit that points you to the resources while giving the context you need to assess the tools. To start with, all you will need is a computer with an internet connection - you can then progressively learn how to find and use many more tools and resources.
 
@@ -297,6 +297,6 @@ This site was created by [The Engine Room](https://theengineroom.org) to introdu
 ### Contributors
 [The Engine Room](https://theengineroom.org) is an international organisation that helps activists, organisations, and other social change agents make the most of data and technology to increase their impact.
 
-[Tom Parker](https://twitter.com/TomParker254) researched and wrote the content, while [Tin Geber](https://tin.fyi/about/) designed and managed the project. 
+[Tom Parker](https://twitter.com/TomParker254) researched and wrote the content, while [Tin Geber](https://tin.fyi/about/) designed and managed the project.
 
 The site source code is available on [Github](https://github.com/the-engine-room/library).
