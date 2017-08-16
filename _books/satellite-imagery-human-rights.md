@@ -93,25 +93,25 @@ Many human rights organisations are also using satellite imagery to actively mon
     <td>Data sources </td>
   </tr>
   <tr>
-    <td>[Google Earth](https://www.google.co.uk/intl/en_uk/earth/)</td>
+    <td>Google Earth</td>
     <td>All recognized languages </td>
     <td>Free</td>
-    <td>Google purchases and licences imagery and other satellite data [from a number of different providers](https://www.gearthblog.com/blog/archives/2014/04/google-earth-imagery.html), although satellite Imagery is primarily provided by [Landsat 8](https://landsat.usgs.gov/landsat-8). Google Earth also hosts [historical imagery data](https://www.gearthblog.com/blog/archives/2009/02/google_earth_5_historical_imagery.html).</td>
+    <td>Google purchases and licences imagery and other satellite data from a number of different providers, although satellite Imagery is primarily provided by Landsat 8. Google Earth also hosts historical imagery data.</td>
   </tr>
   <tr>
-    <td>[Google Earth Pro](https://www.google.com/earth/download/gep/agree.html)</td>
+    <td>Google Earth Pro</td>
     <td>All recognized languages</td>
     <td>Previously $399 USD, now free online </td>
     <td>Google Earth Pro uses the same data sources as Google Earth, however, images can be downloaded at a higher resolution. </td>
   </tr>
   <tr>
-    <td>[DigitalGlobe Image Finder Tool](https://browse.digitalglobe.com/imagefinder/main.jsp?)</td>
+    <td>DigitalGlobe Image Finder Tool</td>
     <td>English </td>
     <td>Free search portal, with access to free and paid-for satellite imagery data</td>
     <td>All DigitalGlobe owned and operated satellites: WorldView-1, WorldView-2, WorldView-3, WorldView-4, IKONOS, GeoEye -1, Quickbird</td>
   </tr>
   <tr>
-    <td>[Airbus Browse and Order Imagery Tool](http://www.intelligence-airbusds.com/en/4871-browse-and-order)</td>
+    <td>Airbus Browse and Order Imagery Tool</td>
     <td>English
 French
 Spanish
@@ -121,28 +121,28 @@ Dutch </td>
  </td>
   </tr>
   <tr>
-    <td>[LandInfo](http://search.landinfo.com/)</td>
+    <td>LandInfo</td>
     <td>English </td>
     <td>Free search portal, with access to free and paid-for satellite imagery data</td>
     <td>A search portal combining imagery from a number of high-resolution imagery satellites: GeoEye-1, IKONOS, KOMPSAT 2/3/3A, Pléiades - 1A/1B, Quickbird - 2, Spot 1- 7, TripleSat, WorldView 1/2/3/3s</td>
   </tr>
   <tr>
-    <td>[Land Viewer](https://lv.eosda.com/)</td>
+    <td>Land Viewer</td>
     <td>English</td>
     <td>Free search portal, with access to free and paid-for satellite imagery data</td>
     <td>Landsat - 7, Landsat - 8, Modis
 Sentinel - 2</td>
   </tr>
   <tr>
-    <td>[EarthImages](http://geocento.com/earthimages-satellite-imagery-search-tool/)</td>
+    <td>EarthImage</td>
     <td>English
 Spanish</td>
     <td>Free search portal, with access to free and paid-for satellite imagery data. </td>
-    <td>Satellite images are licensed from [a number of satellite imagery suppliers](http://geocento.com/satellite-imagery-provider/)</td>
+    <td>Satellite images are licensed from a number of satellite imagery suppliers</td>
   </tr>
 </table>
 
-For more information on other free satellite imagery search portals, [check out this list produced by GISGeography](http://gisgeography.com/free-satellite-imagery-data-list/).
+For more information on other free satellite imagery search portals, check out this list produced by GISGeography.
 
 
 
@@ -156,33 +156,33 @@ For more information on other free satellite imagery search portals, [check out 
     <td>Cost </td>
   </tr>
   <tr>
-    <td>[Quantum GIS](http://qgis.org/en/site/forusers/index.html)</td>
+    <td>Quantum GIS</td>
     <td>Most recognized languages </td>
     <td>Latest version, 2.18 Las Palmas, released in 2017</td>
     <td>Free </td>
   </tr>
   <tr>
-    <td>[ArcGIS Pro](http://www.esri.com/en/arcgis/products/arcgis-pro/overview)</td>
-    <td>Must purchase and install an [additional language pack](http://pro.arcgis.com/en/pro-app/get-started/set-the-display-language.htm#ESRI_SECTION1_573BF9F431FF44D5A90719FAA735201C) to view interface in a non-English languages. Most recognized languages available for purchase. </td>
+    <td>ArcGIS Pro</td>
+    <td>Must purchase and install an additional language pack to view interface in a non-English languages. Most recognized languages available for purchase. </td>
     <td>Latest version, ArcGis 10.5, released in 2016. </td>
     <td>$1500 - $7000 + dependent on licensing agreement and package. </td>
   </tr>
   <tr>
-    <td>[eCognition](https://www.gim.be/en/products-services/gis-software/ecognition)</td>
+    <td>eCognition</td>
     <td>English
 </td>
     <td>Latest version, Suite 9.2.1,  released in 2016.</td>
-    <td>Prices vary depending on licensing agreement and package, [inquiries can be directed here](http://www.ecognition.com/buy). </td>
+    <td>Prices vary depending on licensing agreement and package, inquiries can be directed here.</td>
   </tr>
   <tr>
-    <td>[Planet](https://www.planet.com/products/platform/) - a combined imagery search portal and processing software tool </td>
+    <td>Planet - a combined imagery search portal and processing software tool </td>
     <td>English</td>
     <td>Released in 2017</td>
     <td>Free</td>
   </tr>
 </table>
 
-For more information on other free satellite imagery processing and analysis softwares, [check out this list produced by GISGeography](http://gisgeography.com/open-source-remote-sensing-software-packages/).
+For more information on other free satellite imagery processing and analysis softwares, check out this list produced by GISGeography.
 
 
 ## Pros
