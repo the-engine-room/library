@@ -28,7 +28,7 @@ categories:
 
 (Last updated: June 2017).
 
-This is a practical, straightforward introduction to investigative web research (IWR). 
+This is a practical, straightforward introduction to investigative web research (IWR).
 
 It is designed for researchers, activists, journalists and social good actors who are collecting online information about persons, entities or events for investigative research. If you are tracking corporate ownership and corruption, web page activity, or mapping political influence, this guide is for you.
 
