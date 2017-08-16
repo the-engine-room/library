@@ -250,7 +250,9 @@ Given the challenges of sourcing, processing and interpreting satellite imagery 
 
 * **Confidentiality when relying on a third party**. Information must be provided to a satellite analyst for them to carry out an effective analysis, or even source images of the correct location. Researchers must be willing to provide enough information to help an analyst without jeopardising their work’s confidentiality. Trusting a third party – particularly a third party that may have competing client interests – can be a challenge. For example, DigitalGlobe (arguably the world’s leading provider of satellite imagery, who also [provide expert imagery analysis services](https://www.digitalglobe.com/industries/defense-and-intelligence)) also provide imagery and analysis for oil companies, the US Department of Defense, and other paying clients. Competing client interests and a commercial company's bottom line could jeopardise the confidentiality of an investigation.
 
-* **Lack of internal peer review and cross-referencing**: People make mistakes and have inherent biases, and misinterpretations of satellite images are possible. Organisations needing to outsource imagery analysis are likely to also lack the capacity to conduct a thorough peer review or cross-reference the imagery analysis reports they receive from third-party analysts.Some expert analysts have shared their concerns over the lack of peer review in the sector, and the level of trust organisations place in third-party analysts. Some third-party imagery analysts, such as UNOSAT and the AAAS, do conduct internal peer reviews before sharing any satellite imagery reports with clients. When negotiating a contract with external analysts, Human rights organisations should request the imagery analysis reports they commission go through a peer review process before being completed and shared with them, and that the details of the peer review process are also shared.  
+* **Lack of internal peer review and cross-referencing**: People make mistakes and have inherent biases, and misinterpretations of satellite images are possible. Organisations needing to outsource imagery analysis are likely to also lack the capacity to conduct a thorough peer review or cross-reference the imagery analysis reports they receive from third-party analysts.
+
+Some expert analysts have shared their concerns over the lack of peer review in the sector, and the level of trust organisations place in third-party analysts. Some third-party imagery analysts, such as UNOSAT and the AAAS, do conduct internal peer reviews before sharing any satellite imagery reports with clients. When negotiating a contract with external analysts, Human rights organisations should request the imagery analysis reports they commission go through a peer review process before being completed and shared with them, and that the details of the peer review process are also shared.  
 
 ## Planning
 
@@ -273,9 +275,15 @@ Researchers should be able to answer yes to all of these questions before moving
 The next step is to think about the type of images needed. This will help when working with an analyst or sourcing the images independently.
 
 
-#### New images, old images, or both?First, a researcher needs to determine if their investigation requires tasking a satellite to collect a new image, or if they can rely on existing satellite imagery archives. If the event they are tracking took place in the past, they may be able to rely on archived images. If they are conducting ongoing monitoring or require a very recent photo to compare to an older one, it is likely they will need to task a satellite.Researchers should determine their ideal dates (months and years) for when they hope the images were captured. However, they should also prepare to make some compromises; satellites have not captured every inch of the earth every day since 1999.
+#### New images, old images, or both?
 
-#### ResolutionImaging satellites have varied capabilities and capture different kinds of image data at different times, affecting the type of image that can be produced. Satellites collect four types of resolution: [Spatial, Temporal, Spectral, and Radiometric](http://www.edc.uri.edu/nrs/classes/NRS409/RS/Lectures/HowRemoteSensonWork.pdf).
+First, a researcher needs to determine if their investigation requires tasking a satellite to collect a new image, or if they can rely on existing satellite imagery archives. If the event they are tracking took place in the past, they may be able to rely on archived images. If they are conducting ongoing monitoring or require a very recent photo to compare to an older one, it is likely they will need to task a satellite.
+
+Researchers should determine their ideal dates (months and years) for when they hope the images were captured. However, they should also prepare to make some compromises; satellites have not captured every inch of the earth every day since 1999.
+
+#### Resolution
+
+Imaging satellites have varied capabilities and capture different kinds of image data at different times, affecting the type of image that can be produced. Satellites collect four types of resolution: [Spatial, Temporal, Spectral, and Radiometric](http://www.edc.uri.edu/nrs/classes/NRS409/RS/Lectures/HowRemoteSensonWork.pdf).
 
 * [Spatial resolution](http://www.seos-project.eu/modules/remotesensing/remotesensing-c03-p02.html) refers to how close to the earth a satellite can image. Generally, there are three categories of spatial resolution: low resolution images (anything larger than 30 metres is visible), medium resolution (anything from 2-30 metres is visible) and high resolution (objects under two metres in size are visible).
 
@@ -337,9 +345,23 @@ More[ training programmes](https://www.nrsc.gov.in/training) are also becoming a
 
 ### Working with an analyst to source, process and interpret satellite images
 
-#### Before and during the investigationPrior to launching an investigation, an analyst needs coordinates for the location under investigation, or, at minimum, a rough idea of the location. Tools like Google Earth can help identify a location and narrow the search area. [The AAAS has written a detailed manual ](https://www.aaas.org/page/high-resolution-satellite-imagery-ordering-and-analysis-handbook)on how to procure and order satellite images, which includes guidelines on how to identify locations using Google Earth. If exact coordinates are not possible, [a KML file ](https://support.google.com/earth/answer/7365595?co=GENIE.Platform%3DDesktop&hl=en)of the search area exported from Google Earth can be provided to the analyst.To support analysts, researchers should plan out what data they can provide in advance. The more information that can be provided to an analyst throughout an investigation, the better.Cultural practices in the location being searched can also be relevant, such as if people in the region are nomadic or live in certain kinds of structures. This kind of information can help an analyst who has never been to a region better understand what normal patterns look like. This information also does not need to jeopardize confidentiality.
+#### Before and during the investigation
 
-#### After the investigationIn most cases an analyst will provide a final report with their findings, including images marked with areas of interest. Researchers can then reference the report in their research work, or publish components of it alongside their own research findings, depending on the agreement made with the analyst.When groups like the AAAS produce third party satellite imagery analysis reports for trials or non-profits, they also produce reports outlining each step they took during the imagery processing stage, detailing exactly which manipulations or tools were applied to the image (such as zooming, sharpening, adding filters etc). This provides a clear chain of custody and evidence that images were not altered in a way that changed the nature of the content. Groups seeking a third party analyst should request similar reports alongside the imagery analysis report to better understand the various changes made to an image during the interpretation process.Before releasing satellite images or coordinates alongside satellite images, it’s important to consider if the information could be dangerous or cause harm to any individuals. Special consideration of the ‘do no harm’ principle should be applied as it would be with other images or evidence being released to the public.Satellite imagery should always be paired with other evidence in order to claim or prove violations of human rights or international humanitarian law, they cannot stand alone as evidence.
+Prior to launching an investigation, an analyst needs coordinates for the location under investigation, or, at minimum, a rough idea of the location. Tools like Google Earth can help identify a location and narrow the search area. [The AAAS has written a detailed manual ](https://www.aaas.org/page/high-resolution-satellite-imagery-ordering-and-analysis-handbook)on how to procure and order satellite images, which includes guidelines on how to identify locations using Google Earth. If exact coordinates are not possible, [a KML file ](https://support.google.com/earth/answer/7365595?co=GENIE.Platform%3DDesktop&hl=en)of the search area exported from Google Earth can be provided to the analyst.
+
+To support analysts, researchers should plan out what data they can provide in advance. The more information that can be provided to an analyst throughout an investigation, the better.
+
+Cultural practices in the location being searched can also be relevant, such as if people in the region are nomadic or live in certain kinds of structures. This kind of information can help an analyst who has never been to a region better understand what normal patterns look like. This information also does not need to jeopardize confidentiality.
+
+#### After the investigation
+
+In most cases an analyst will provide a final report with their findings, including images marked with areas of interest. Researchers can then reference the report in their research work, or publish components of it alongside their own research findings, depending on the agreement made with the analyst.
+
+When groups like the AAAS produce third party satellite imagery analysis reports for trials or non-profits, they also produce reports outlining each step they took during the imagery processing stage, detailing exactly which manipulations or tools were applied to the image (such as zooming, sharpening, adding filters etc). This provides a clear chain of custody and evidence that images were not altered in a way that changed the nature of the content. Groups seeking a third party analyst should request similar reports alongside the imagery analysis report to better understand the various changes made to an image during the interpretation process.
+
+Before releasing satellite images or coordinates alongside satellite images, it’s important to consider if the information could be dangerous or cause harm to any individuals. Special consideration of the ‘do no harm’ principle should be applied as it would be with other images or evidence being released to the public.
+
+Satellite imagery should always be paired with other evidence in order to claim or prove violations of human rights or international humanitarian law, they cannot stand alone as evidence.
 
 ## About
 
@@ -347,8 +369,11 @@ This site was created to introduce human rights researchers to the ins and outs 
 
 It was written and researched by [Robin Pierro](https://twitter.com/nomadjourno).
 
-It is based on Robin’s MA thesis at the European Inter-University Centre for Human Rights and Democratisation on the opportunities and implications of using new ICT tools for human rights fact-finding, which included a survey with 66 human rights researchers and over 30 interviews with technology and fact-finding experts.
+
+It is based on Robin’s MA thesis at the European Inter-University Centre for Human Rights and Democratisation on the opportunities and implications of using new ICT tools for human rights fact-finding, which included a survey with 66 human rights researchers and over 30 interviews with technology and fact-finding experts.
 
 ### Contributors
 
 Robin Pierro works at the intersection of human rights, technology and journalism. She was previously Senior Programme Manager with Journalists for Human Rights (JHR), overseeing programmes across sub-Saharan Africa and in remote Indigenous communities throughout Canada. This work helped build the capacity of local journalists and activists to highlight pressing human rights issues, and created a more enabling environment for documenting and reporting on rights issues. Robin now works with the Fund for Global Human Rights, mobilising resources and technical assistance to support local human rights organisations bring power to account.
+
+Icon by [Ben Davis](https://thenounproject.com/smashicons), Creative Commons. 
