@@ -260,7 +260,7 @@ This section is designed to help those new to using satellite imagery for human 
 
 The first steps in planning are to: determine if satellite images are really needed, decide what types of images are needed, decide if external satellite imagery analysis expertise is necessary, and, if so, find an analyst to work with.
 
-### Determine if if an investigation is possible or needed
+### Determine if an investigation is possible or needed
 
 Satellite imagery investigations take time and resources, and do not always produce results. Many human rights investigations also do not actually require satellite imagery. It’s important to determine if remote sensing is possible or if it is worth it for an organisation. [The AAAS suggests asking the following questions](https://www.aaas.org/page/high-resolution-satellite-imagery-ordering-and-analysis-handbook) before deciding to move forward:
 * Did the event in question involve significant changes to buildings, roads, vegetation cover, vehicles or other features larger than 2-3 square metres?
