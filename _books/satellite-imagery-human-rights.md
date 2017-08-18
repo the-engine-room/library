@@ -23,7 +23,7 @@ categories:
   - en
 ---
 
-# Satellite imagery for Human Rights Monitoring
+# Satellite Imagery for Human Rights Monitoring
 
 ## Introduction
 
