@@ -22,7 +22,7 @@ categories:
   - en
 ---
 
-# Investigative web research
+# Investigative Web Research
 
 ## Introduction
 
