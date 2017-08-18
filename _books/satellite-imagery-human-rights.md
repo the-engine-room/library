@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Satellite imagery for human rights monitoring
+title: Satellite Imagery for Human Rights Monitoring
 description: This guide focuses on the use of satellite imagery to monitor and investigate human rights abuses and violations of international humanitarian law. It is designed for human rights organisations that are starting to think about using satellite imagery in their work.
 image: /media/index/satellite-imagery-human-rights.png
 funder_logo:
@@ -23,7 +23,7 @@ categories:
   - en
 ---
 
-# Satellite imagery for human rights monitoring
+# Satellite imagery for Human Rights Monitoring
 
 ## Introduction
 
