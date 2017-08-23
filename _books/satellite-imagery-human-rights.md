@@ -142,7 +142,7 @@ Spanish</td>
   </tr>
 </table>
 
-For more information on other free satellite imagery search portals, check out this list produced by GISGeography.
+For more information on other free satellite imagery search portals, check out [this list produced by GISGeography](http://gisgeography.com/free-satellite-imagery-data-list/).
 
 
 
@@ -182,7 +182,7 @@ For more information on other free satellite imagery search portals, check out t
   </tr>
 </table>
 
-For more information on other free satellite imagery processing and analysis softwares, check out this list produced by GISGeography.
+For more information on other free satellite imagery processing and analysis softwares, check out [this list produced by GISGeography](http://gisgeography.com/open-source-remote-sensing-software-packages/).
 
 
 ## Pros
@@ -376,4 +376,4 @@ It is based on Robin’s MA thesis at the European Inter-University Centre for H
 
 Robin Pierro works at the intersection of human rights, technology and journalism. She was previously Senior Programme Manager with Journalists for Human Rights (JHR), overseeing programmes across sub-Saharan Africa and in remote Indigenous communities throughout Canada. This work helped build the capacity of local journalists and activists to highlight pressing human rights issues, and created a more enabling environment for documenting and reporting on rights issues. Robin now works with the Fund for Global Human Rights, mobilising resources and technical assistance to support local human rights organisations bring power to account.
 
-Icon by [Ben Davis](https://thenounproject.com/smashicons), Creative Commons. 
+Icon by [Ben Davis](https://thenounproject.com/smashicons), Creative Commons.
