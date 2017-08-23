@@ -28,6 +28,8 @@ categories:
 
 Este artigo visa introduzir o conceito de orçamento participativo, além de fornecer uma visão geral das oportunidades e desafios que a implementação de um tal modelo pode proporcionar. Este documento também apresenta exemplos de governos que realizaram processos de orçamento participativo com êxito e inclui exemplos das ferramentas e plataformas utilizadas.
 
+Este guia também está disponível em [inglês](http://library.theengineroom.org/participatory-budgeting/) e [espanhol](http://library.theengineroom.org/es/participatory-budgeting/).
+
 ## **Visão Geral**
 
 ### **Histórico**

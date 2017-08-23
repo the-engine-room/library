@@ -29,6 +29,8 @@ categories:
 
 This piece aims to introduce the concept of participatory budgeting, as well as provide an overview of the opportunities and challenges that the implementation of such a model can bring. This document also presents examples of governments that have conducted participatory budgeting processes successfully, and includes examples of tools and platforms that they have used.  
 
+This Library entry is also available in [Spanish](http://library.theengineroom.org/es/participatory-budgeting/) and [Portuguese](http://library.theengineroom.org/pt/participatory-budgeting/). 
+
 ## Overview
 
 ### History
@@ -238,7 +240,7 @@ Since the Porto Alegre government first engaged in participatory budgeting in 19
 
 ## About
 
-This report was written by [Ruth Miller](https://ruthmiller.net) and managed by [Anca Matioc](https://www.theengineroom.org/people/anca-matioc/). We would like to recognise Jorge Llaguno and Gala Garrido of the Municipality of Zarate, Argentina who sparked this work by reaching out for light touch support; and Daniely Votto of [WRI Brasil Cidades Sustentaveis](http://www.WRIcidades.org). Special thanks to the work of the following people and organisations for their contributions to this space. 
+This report was written by [Ruth Miller](https://ruthmiller.net) and managed by [Anca Matioc](https://www.theengineroom.org/people/anca-matioc/). We would like to recognise Jorge Llaguno and Gala Garrido of the Municipality of Zarate, Argentina who sparked this work by reaching out for light touch support; and Daniely Votto of [WRI Brasil Cidades Sustentaveis](http://www.WRIcidades.org). Special thanks to the work of the following people and organisations for their contributions to this space.
 
 * [Tiago Peixoto](https://twitter.com/participatory?lang=en), Senior Public Sector Specialist at the World Bank's Governance Global Practice
 * [David Cabo](https://twitter.com/dcabo?lang=en), Director at the Fundación Ciudadana Civio

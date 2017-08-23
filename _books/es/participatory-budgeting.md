@@ -29,6 +29,8 @@ El [presupuesto participativo](http://siteresources.worldbank.org/PSGLP/Resource
 
 Este artículo tiene el objetivo de presentar el concepto de presupuesto participativo, así como de proporcionar una visión general de las oportunidades y desafíos que la implementación de tal modelo puede aportar. Este documento también presenta ejemplos de gobiernos que han llevado a cabo procesos de presupuesto participativo con éxito, e incluye ejemplos de herramientas y plataformas que han utilizado.
 
+Esta guía también está disponible en [inglés](http://library.theengineroom.org/participatory-budgeting/) y [portugués](http://library.theengineroom.org/pt/participatory-budgeting/). 
+
 ## Visión general
 
 ### Historia
