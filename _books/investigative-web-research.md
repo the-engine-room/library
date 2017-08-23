@@ -289,6 +289,7 @@ Collecting, using and publishing data can have very serious consequences if not 
 * [School of ](http://schoolofdata.org/handbook/)[Da](http://schoolofdata.org/handbook/)[ta](http://schoolofdata.org/handbook/)[ Handbook](http://schoolofdata.org/handbook/)
 * [An introduction to c](http://lethain.com/an-introduction-to-compassionate-screenscraping/)[ompassionate scraping](http://lethain.com/an-introduction-to-compassionate-screenscraping/)
 * [Wayback Machine paper](https://blogs.city.ac.uk/ludiprice/files/2015/03/Internet-Archiving-The-Wayback-Machine-v0rykw.pdf)
+* [Bellingcat's Digital Forensics Tools](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit)
 
 
 ## About
