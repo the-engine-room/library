@@ -36,6 +36,8 @@ Resultou de uma parceria entre a Fundação [Rainforest da Noruega](http://www.
 
 _[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online._
 
+[Lire en français](http://library.theengineroom.org/fr/rainforest-tech-participatory-mapping/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-participatory-mapping/) | [Read it in English](http://library.theengineroom.org/en/rainforest-tech-participatory-mapping/) | [Baca ini dalam bahasa Indonesia](http://library.theengineroom.org/id/rainforest-tech-participatory-mapping/)
+
 ### O que é
 
 * No mapeamento participativo (ou mapeamento da comunidade) são coletadas informações de habitantes de uma área sobre como a área é usada, e as práticas da comunidade local.  

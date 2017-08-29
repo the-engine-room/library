@@ -37,6 +37,8 @@ Resultou de uma parceria entre a Fundação [Rainforest da Noruega](http://www.
 
 [Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online.
 
+[Lire en français](http://library.theengineroom.org/fr/rainforest-tech-satellite-imagery/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-satellite-imagery/) | [Read it in English](http://library.theengineroom.org/en/rainforest-tech-satellite-imagery/) | [Baca ini dalam bahasa Indonesia](http://library.theengineroom.org/id/rainforest-tech-satellite-imagery/)
+
 ### **O que é**
 
 * Satélites em órbita ao redor do globo tiram fotos da superfície terrestre, incluindo imagens de florestas ou terras de comunidades.

@@ -34,6 +34,8 @@ Cette introduction est issue du [*Guide introductif à l’utilisation de la tec
 
 Téléchargez [le guide introductif complet (1,6 MB pdf)](media/rainforest/technologie-pour-les-forêts-tropicales.pdf), ou consultez le en ligne ci-dessous.
 
+[Read it in English](http://library.theengineroom.org/en/rainforest-tech-participatory-mapping/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-participatory-mapping/) | [Leia isso em português](http://library.theengineroom.org/pt/rainforest-tech-participatory-mapping/) | [Baca ini dalam bahasa Indonesia](http://library.theengineroom.org/id/rainforest-tech-participatory-mapping/)
+
 ### Qu’est-ce que la cartographie participative ?
 
 * La cartographie participative (ou cartographie communautaire) recueille des informations  auprès des habitants d’une région sur l’utilisation des terres et les pratiques des communautés locales.

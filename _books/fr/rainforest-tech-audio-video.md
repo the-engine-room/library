@@ -37,6 +37,8 @@ Cette introduction est issue du [Guide introductif à l’utilisation de la tech
 
 [Téléchargez le guide introductif complet (1,6 MB pdf)](media/rainforest/technologie-pour-les-forêts-tropicales.pdf), ou consultez le en ligne ci-dessous.
 
+[Read it in English](http://library.theengineroom.org/en/rainforest-tech-audio-video/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-audio-video/) | [Leia isso em português](http://library.theengineroom.org/pt/rainforest-tech-audio-video/) | [Baca ini dalam bahasa Indonesia](http://library.theengineroom.org/id/rainforest-tech-audio-video/)
+
 ### Que sont les techniques audio et vidéo ?
 * Les enregistrements vidéo ou audio peuvent être réalisés avec des téléphones ou des appareils spéciaux comme des appareils photo numériques, des dictaphones ou des caméras vidéo.
 * Les vidéos [permettent faire](http://www.managingforimpact.org/sites/default/files/resource/insights_into_participatory_video_a_handbook_for_the_field.pdf) passer un message de plaidoyer, de recueillir des preuves visuelles de violations des droits de l’Homme, de disséminer des films produits de manière participative par les communautés, ou encore de suivre l’évolution de la déforestation. Les enregistrements audio peuvent remplir les mêmes fonctions.

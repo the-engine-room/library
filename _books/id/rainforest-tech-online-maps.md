@@ -34,6 +34,8 @@ Pengantar ini adalah bagian dari [Panduan tentang penggunaan teknologi untuk mem
 
 [Download Panduan di sini (1.6MB pdf)](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) atau baca online di bawah ini.
 
+[Lire en français](http://library.theengineroom.org/fr/rainforest-tech-online-maps/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-online-maps/) | [Leia isso em português](http://library.theengineroom.org/pt/rainforest-tech-online-maps/) | [Read it in English](http://library.theengineroom.org/en/rainforest-tech-online-maps/)
+
 ### Apakah ini
 
 * Cara yang sangat kuat, secara visual, dalam menyajikan informasi yang telah Anda kumpulkan terkait isu-isu yang menjadi fokus Anda (seperti melalui pemetaan partisipatif, atau pengumpulan data secara mobile).Peta dapat menjadi: **statis**, seperti gambar dan ilustrasi; **animasi**, misalnya menunjukkan perubahan dari waktu ke waktu; atau **interaktif**, dimana pengguna dapat memperbesar atau memperkecil (zoom in atau zoom out), meng-klik area di peta untuk mendapatkan lebih banyak informasi, atau menambahkan informasi mereka sendiri (*crowdsourcing*).

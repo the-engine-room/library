@@ -37,6 +37,8 @@ Pengantar ini adalah bagian dari [Panduan tentang penggunaan teknologi untuk mem
 
 [Download Panduan di sini (1.6MB pdf)](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) atau baca online di bawah ini.
 
+[Lire en français](http://library.theengineroom.org/fr/rainforest-tech-audio-video/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-audio-video/) | [Leia isso em português](http://library.theengineroom.org/pt/rainforest-tech-audio-video/) | [Read it in English](http://library.theengineroom.org/en/rainforest-tech-audio-video/)
+
 ### Apakah ini
 - Film atau rekaman audio dapat disimpan di ponsel, atau perangkat khusus seperti kamera digital, dictaphones atau kamera video.
 - [Video dapat menyajikan pesan-pesan advokasi singkat](http://www.managingforimpact.org/sites/default/files/resource/insights_into_participatory_video_a_handbook_for_the_field.pdf), mengumpulkan bukti pelanggaran HAM, mempublikasikan film-film partisipasi dari anggota masyarakat, atau mendokumentasikan deforestasi dari waktu ke waktu. Rekaman audio juga dapat melakukan fungsi-fungsi yang sama.

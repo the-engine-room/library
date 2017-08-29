@@ -32,6 +32,8 @@ La presente introducción es parte de una [Guía para el uso de la tecnología e
 
 _Descargar [la guía completa](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) (1.6MB pdf) o leerla en línea (a continuación)._
 
+[Lire en français](http://library.theengineroom.org/fr/rainforest-tech-satellite-imagery/) | [Read it in English](http://library.theengineroom.org/en/rainforest-tech-satellite-imagery/) | [Leia isso em português](http://library.theengineroom.org/pt/rainforest-tech-satellite-imagery/) | [Baca ini dalam bahasa Indonesia](http://library.theengineroom.org/id/rainforest-tech-satellite-imagery/)
+
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
 ### **¿En qué consiste?**

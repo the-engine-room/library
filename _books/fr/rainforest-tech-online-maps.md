@@ -34,6 +34,8 @@ Cette introduction est issue du [Guide introductif à l’utilisation de la tech
 
 [Téléchargez le guide introductif complet (1,6 MB pdf)](media/rainforest/technologie-pour-les-forêts-tropicales.pdf), ou consultez le en ligne ci-dessous.
 
+[Read it in English](http://library.theengineroom.org/en/rainforest-tech-online-maps/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-online-maps/) | [Leia isso em português](http://library.theengineroom.org/pt/rainforest-tech-online-maps/) | [Baca ini dalam bahasa Indonesia](http://library.theengineroom.org/id/rainforest-tech-online-maps/)
+
 ### Que sont les cartes en ligne ?
 * Elles représentent une manière efficace et visuellement attrayante de présenter les informations recueillies sur le sujet de vos travaux (par exemple à travers la cartographie participative ou la collecte mobile de données). Ces cartes peuvent être **statiques**, sous forme d’images ou d’illustrations ; **animées**, pour montrer un changement au cours du temps ; ou **interactives**, permettant aux utilisateurs de zoomer ou dézoomer, de cliquer sur des endroits de la carte pour obtenir plus d’informations, ou d’entrer leurs propres informations (production participative aussi appelée «crowdsourcing»).
 * Les cartes peuvent être créées de A à Z et mises en ligne sur internet, ou les informations peuvent être ajoutées à des cartes en ligne existantes comme [OpenStreetMap](http://www.openstreetmap.org), [Google Maps](https://www.google.com/maps/) ou [Crowdmap](https://crowdmap.com/).

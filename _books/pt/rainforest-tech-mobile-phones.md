@@ -36,6 +36,8 @@ Esta introdução faz parte de uma [Cartilha de uso da tecnologia para monitora
 
 *[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) ou leia abaixo online.*
 
+[Lire en français](http://library.theengineroom.org/fr/rainforest-tech-mobile-phones/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-mobile-phones/) | [Read it in English](http://library.theengineroom.org/en/rainforest-tech-mobile-phones/) | [Baca ini dalam bahasa Indonesia](http://library.theengineroom.org/id/rainforest-tech-mobile-phones/)
+
 ### **O que é**
 
 * Aplicativos móveis (ou ‘apps’) são programas de software que funcionam em dispositivos móveis como telefones ou tablets. Em projetos relacionados a florestas tropicais, eles são usados principalmente para coletar dados no campo e transmiti-los diretamente para uma organização.

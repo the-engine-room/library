@@ -34,6 +34,8 @@ Resultou de uma parceria entre a Fundação [Rainforest da Noruega](http://www.
 
 *[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642)* ou leia abaixo online.
 
+[Lire en français](http://library.theengineroom.org/fr/rainforest-tech-online-maps/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-online-maps/) | [Read it in English](http://library.theengineroom.org/en/rainforest-tech-online-maps/) | [Baca ini dalam bahasa Indonesia](http://library.theengineroom.org/id/rainforest-tech-online-maps/)
+
 ### **O que é**
 
 * Uma forma poderosa, visualmente envolvente de apresentar as informações que você coletou sobre o seu principal problema (tais como através de mapeamento participativo, ou coleta de dados móveis). Os mapas podem ser: *estáticos*, como imagens e ilustrações; *animados*, por exemplo, mostrando uma mudança ao longo do tempo; ou *interativos*, em que os usuários podem fazer zoom in ou out, clicar em áreas do mapa para ver mais informações, ou fornecer suas próprias informações (*crowdsourcing*)

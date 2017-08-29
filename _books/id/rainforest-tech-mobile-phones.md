@@ -36,6 +36,8 @@ Pengantar ini adalah bagian dari [Panduan tentang penggunaan teknologi untuk mem
 
 [Download Panduan di sini (1.6MB pdf)](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) atau baca online di bawah ini.
 
+[Lire en français](http://library.theengineroom.org/fr/rainforest-tech-mobile-phones/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-mobile-phones/) | [Leia isso em português](http://library.theengineroom.org/pt/rainforest-tech-mobile-phones/) | [Read it in English](http://library.theengineroom.org/en/rainforest-tech-mobile-phones/)
+
 ### Apakah ini
 
 * Aplikasi mobile (atau ‘apps’) adalah program software yang bekerja di perangkat mobile seperti telepon atau tablet.Pada proyek yang berhubungan dengan hutan hujan, apps terutama digunakan untuk mengumpulkan data di lapangan dan langsung mengirimnya ke suatu organisasi.

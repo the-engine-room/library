@@ -36,6 +36,8 @@ Cette introduction est issue du [Guide introductif à l’utilisation de la tech
 
 Téléchargez [le guide introductif complet (1,6 MB pdf)](media/rainforest/technologie-pour-les-forêts-tropicales.pdf), ou consultez le en ligne ci-dessous.
 
+[Read it in English](http://library.theengineroom.org/en/rainforest-tech-diy-aerial/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-diy-aerial/) | [Leia isso em português](http://library.theengineroom.org/pt/rainforest-tech-diy-aerial/) | [Baca ini dalam bahasa Indonesia](http://library.theengineroom.org/id/rainforest-tech-diy-aerial/)
+
 ### Qu’est-ce que la photographie aériennes indépendantes ?
 * Les photos aériennes peuvent être prises par des drones (véhicules volants sans pilote), des aérostats ou des cerfs-volants équipés d’appareils photo qui enregistrent des images tout au long du vol.
 * Un logiciel informatique assemble (ou « coud ») ces photos en cartes ou en modèles 3D, qui peuvent êtres utilisés pour étudier la faune, déposer des demandes relatives au droit à la terre ou démontrer les effets des changements climatiques.

@@ -35,6 +35,8 @@ Esta introdução faz parte de uma [Cartilha de uso da tecnologia para monitora
 
 *[Baixe a cartilha completa (1.6MB pdf).](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642)* ou leia abaixo online.
 
+[Lire en français](http://library.theengineroom.org/fr/rainforest-tech-diy-aerial/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-diy-aerial/) | [Read it in English](http://library.theengineroom.org/en/rainforest-tech-diy-aerial/) | [Baca ini dalam bahasa Indonesia](http://library.theengineroom.org/id/rainforest-tech-diy-aerial/)
+
 ### **O que é**
 
 * Fotografias aéreas podem ser produzidas por drones (veículos voadores sem piloto), balões ou pipas conectadas a uma câmera digital que tira fotos durante o voo.

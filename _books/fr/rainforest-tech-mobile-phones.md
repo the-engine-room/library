@@ -36,6 +36,8 @@ Cette introduction est issue du [Guide introductif à l’utilisation de la tech
 
 Téléchargez [le guide introductif complet (1,6 MB pdf)](media/rainforest/technologie-pour-les-forêts-tropicales.pdf), ou consultez le en ligne ci-dessous.
 
+[Read it in English](http://library.theengineroom.org/en/rainforest-tech-mobile-phones/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-mobile-phones/) | [Leia isso em português](http://library.theengineroom.org/pt/rainforest-tech-mobile-phones/) | [Baca ini dalam bahasa Indonesia](http://library.theengineroom.org/id/rainforest-tech-mobile-phones/)
+
 ### Que sont les techniques audio et vidéo ?
 
 * Les applications (ou «applis») mobiles sont des logiciels de programme fonctionnant sur des appareils mobiles tels que les téléphones et les tablettes tactiles. Dans les projets liés à la forêt tropicale, elles sont principalement utilisées pour collecter des données sur le terrain et les transmettre directement à une organisation.  

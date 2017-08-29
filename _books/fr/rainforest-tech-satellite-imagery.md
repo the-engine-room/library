@@ -35,6 +35,8 @@ Cette introduction est issue du [Guide introductif à l’utilisation de la tech
 
 Téléchargez [le guide introductif complet (1,6 MB pdf)](media/rainforest/technologie-pour-les-forêts-tropicales.pdf), ou consultez le en ligne ci-dessous.
 
+[Read it in English](http://library.theengineroom.org/en/rainforest-tech-satellite-imagery/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-satellite-imagery/) | [Leia isso em português](http://library.theengineroom.org/pt/rainforest-tech-satellite-imagery/) | [Baca ini dalam bahasa Indonesia](http://library.theengineroom.org/id/rainforest-tech-satellite-imagery/)
+
 ### Qu’est-ce que l’imagerie satellite ?
 
 * Les satellites en orbite autour de la Terre prennent des photographies de la surface de la planète depuis l’espace, notamment des forêts et des territoires des communautés.  

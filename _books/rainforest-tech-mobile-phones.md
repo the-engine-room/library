@@ -34,6 +34,8 @@ This introduction to mobile phone applications is part of a [Primer for using te
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
+[Lire en français](http://library.theengineroom.org/fr/rainforest-tech-mobile-phones/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-mobile-phones/) | [Leia isso em português](http://library.theengineroom.org/pt/rainforest-tech-mobile-phones/) | [Baca ini dalam bahasa Indonesia](http://library.theengineroom.org/id/rainforest-tech-mobile-phones/)
+
 
 ### What is it
 

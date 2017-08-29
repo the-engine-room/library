@@ -30,6 +30,8 @@ categories:
 
 This introduction to participatory mapping is part of a [Primer for using technology to monitor and share information on rainforest issues, land rights and indigenous rights](/rainforest-tech). It is designed as a starting point for organisations and activists interested in adding technology to improve their advocacy work, and is the product of a partnership between [Rainforest Foundation Norway](http://www.regnskog.no/en/) and [The Engine Room](https://theengineroom.org).
 
+[Lire en français](http://library.theengineroom.org/fr/rainforest-tech-participatory-mapping/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-participatory-mapping/) | [Leia isso em português](http://library.theengineroom.org/pt/rainforest-tech-participatory-mapping/) | [Baca ini dalam bahasa Indonesia](http://library.theengineroom.org/id/rainforest-tech-participatory-mapping/)
+
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
 ### What is it

@@ -36,6 +36,8 @@ Pengantar ini adalah bagian dari [Panduan tentang penggunaan teknologi untuk mem
 
 [Download Panduan di sini (1.6MB pdf)](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) atau baca online di bawah ini.
 
+[Lire en français](http://library.theengineroom.org/fr/rainforest-tech-diy-aerial/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-diy-aerial/) | [Leia isso em português](http://library.theengineroom.org/pt/rainforest-tech-diy-aerial/) | [Read it in English](http://library.theengineroom.org/en/rainforest-tech-diy-aerial/)
+
 ### Apakah ini
 
 * Foto udara dapat dibuat dengan drone (alat yang terbang tanpa pilot manusia), balon atau layang-layang yang tersambung dengan sebuah kamera digital yang mengambil gambar sepanjang ia terbang.
