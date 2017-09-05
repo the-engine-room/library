@@ -372,8 +372,12 @@ It was written and researched by [Robin Pierro](https://twitter.com/nomadjourno)
 
 It is based on Robin’s MA thesis at the European Inter-University Centre for Human Rights and Democratisation on the opportunities and implications of using new ICT tools for human rights fact-finding, which included a survey with 66 human rights researchers and over 30 interviews with technology and fact-finding experts.
 
+This version of the guide was commissioned and edited by Tom Walker from [The Engine Room](https://www.theengineroom.org/), an international organisation that helps activists, organisations and social change agents to use data and technology to increase their impact.
+
 ### Contributors
 
 Robin Pierro works at the intersection of human rights, technology and journalism. She was previously Senior Programme Manager with Journalists for Human Rights (JHR), overseeing programmes across sub-Saharan Africa and in remote Indigenous communities throughout Canada. This work helped build the capacity of local journalists and activists to highlight pressing human rights issues, and created a more enabling environment for documenting and reporting on rights issues. Robin now works with the Fund for Global Human Rights, mobilising resources and technical assistance to support local human rights organisations bring power to account.
+
+[Tom Walker](https://twitter.com/thomwithoutanh) is Research Lead at The Engine Room.
 
 Icon by [Ben Davis](https://thenounproject.com/smashicons), Creative Commons.
