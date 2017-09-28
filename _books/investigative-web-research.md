@@ -26,7 +26,7 @@ categories:
 
 ## Introduction
 
-(Last updated: June 2017).
+(Last updated: September 2017).
 
 This is a practical, straightforward introduction to investigative web research (IWR).
 
@@ -135,6 +135,7 @@ However, sometimes the data will not be available for download, difficult to fin
     * A good place to start is [Google Chrome’s Scraper extension](http://schoolofdata.org/handbook/recipes/scraper-extension-for-chrome/) and [Google Spreadsheets](http://schoolofdata.org/handbook/recipes/liberating-html-tables/).
     * For more complex data, or scraping across multiple web pages, you can use [Import.io](https://www.import.io/).
     * If you are regularly scraping large amounts of complex data, it is worth learning the basic coding needed to write your own scrapers. The tutorials by [Bradley Boehmke](http://bradleyboehmke.github.io/2015/12/scraping-html-text.html), [Will Larson](http://lethain.com/an-introduction-to-compassionate-screenscraping/) and [Nael Shiab](http://naelshiab.com/members-parliament-web-scraping/) are a good starting point.
+School of Data has created a '[Gentle introduction to scraping](https://advocacyassembly.org/en/courses/19/?mc_cid=bc01dff5c0&mc_eid=84059b99fb#/chapter/1/lesson/1)' course on the Advocacy Assembly platform.
 
 
 * **Extracting data from PDFs.** Although harder than scraping a website, there are also ways to scrape PDFs. [Adobe Acrobat](https://acrobat.adobe.com/uk/en/acrobat.html) does a very good job of extracting data from PDFs and can convert the PDF to Word, Excel or Powerpoint format (but isn’t free). Some of the alternatives are [Tabula](http://tabula.technology/), [PDFTables](https://pdftables.com/) or [Cometdocs](https://www.cometdocs.com/). [Abbyy Fine Reader](https://www.abbyy.com/en-us/) is particularly good at OCR (Optical Character Recognition).
