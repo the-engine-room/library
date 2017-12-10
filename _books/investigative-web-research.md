@@ -155,7 +155,7 @@ Some key investigative databases include:
 * [LittleSis](https://littlesis.org/) and [OpenInterests](http://openinterests.eu/), for tracking political and financial influence .
 * [OpenOil’s](http://repository.openoil.net/wiki/Main_Page), [Aleph](https://aleph.openoil.net/), and [NRGI](http://www.resourcegovernance.org/topics/data-tools), for the extractives industry, lets you search a wealth of information about licenses, ownership, financial statements, and transactions within the global extractive licences ecosystem.
 * [World Bank](http://data.worldbank.org/) and [International Aid Transparency Initiative](https://www.iatiregistry.org/), for development and aid data.
-* [Global Open Data Index](http://index.okfn.org/dataset/) and [OpenSpending](https://openspending.org/datasets), for government spending and procurement.
+* [Global Open Data Index](http://index.okfn.org/dataset/) and [OpenSpending](https://openspending.org/), for government spending and procurement.
 
 ### Advanced searching
 
