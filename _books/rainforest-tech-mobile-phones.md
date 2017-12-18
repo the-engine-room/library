@@ -65,6 +65,9 @@ To give you a taste of the options available, here are two examples from opposit
 #### Free and open source, but technically challenging - Open Data Kit
 [Open Data Kit (ODK)](https://opendatakit.org/) is a collection of open source tools for mobile data collection that has been used successfully in a range of rainforest-related projects. It is free, can be modified for you, and has an [active community](https://groups.google.com/forum/#!forum/opendatakit) of developers providing technical and strategic support. The downside is that it is not perfect software: built by layers of volunteers, you can expect things to go wrong. You will probably need to budget for a software developer to modify, and make sure you can get technical support for when things go wrong. See [Forest Compass](http://forestcompass.org/how/digital-technologies/open-data-kit) for more on ODK.
 
+#### Free and user-friendly, but with some limitations - Forest Watcher
+[Forest Watcher](http://forestwatcher.globalforestwatch.org) is a free mobile application for forest monitoring and field data collection available on Android and Apple devices. The app integrates remotely-sensed deforestation and fire data from [Global Forest Watch](http://globalforestwatch.org), letting you navigate to alerts and report on them even when you’re offline. You can design your own surveys and add custom contextual data layers using a complementary desktop website. The app is built to be accessible for non-technical users, but that also means that it has some limitations in integrating with outside GIS software and doesn’t track as many data points as more complex apps.
+
 #### Highly capable, but not cheap - Collector for ArcGIS
 The [ArcGIS suite of applications](www.esri.com/nonprofit/) is a premium GIS product that offers powerful options for producing and analysing map data. A basic user licence currently costs around USD 1,500 per year, which includes some technical support online and by telephone (though a limited free version is available for non-profits). To make the most of it, you will need to pay for its full suite: an Android app, a programme that manages the collected data on your server, and a programme to publish the maps online. The advantage of using premium paid software is that it will have more features, and you can rely on it to function as it supposed to. The downside is that it is expensive, and because the code is closed, you cannot hire a developer to change it to match your project better.
 
@@ -92,6 +95,15 @@ The Pro-Indian Commission of Acre (Comissão Pró-Indio do Acre, or CPI-AC) trai
 
 * The information that the indigenous people gathered was then used to make maps that highlighted the problem and presented evidence of where the situation was worst.
 * One of these invasion maps was presented to the country’s former Minister of the Environment, prompting a multi-sectoral action from the federal government against invasions.
+
+#### A mobile app for forest monitoring in the field
+In 2017, Global Forest Watch launched the [Forest Watcher mobile app](http://bit.ly/2wO4S2X), designed to bring forest change data directly into the hands of people monitoring forests on the ground - even in areas without internet connectivity. Developed in partnership with the Jane Goodall Institute and Vizzuality, Forest Watcher allows users to monitor deforestation and fire alerts and submit custom reports from the field. The app is available for free on the [Apple Store](http://apple.co/2w4LV9i) and [Google Play Store](http://bit.ly/2wSqhsK).
+
+**How did it help?**
+
+* Forest rangers in Uganda’s National Parks used the app to investigate deforestation alerts and discover an illegal logging site. They used the data they collected to prosecute the illegal loggers.
+* Reports submitted through the app get fed into a [desktop site](http://forestwatcher.globalforestwatch.org/), where users can log in to download the data, collaborate with teams, design custom reports and add custom data layers.
+
 
 
 #### Using participatory mapping with online maps for advocacy in the Congo Basin

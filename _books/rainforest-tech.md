@@ -233,8 +233,7 @@ Always include user development, testing, maintenance and support.  Budget to re
 
 #### Where you can find the data?
 
-If good data already exists, don’t waste time and money collecting it again. Think creatively: do international datasets include your country? Has another organisation created a database on the same issue? You can find publicly available datasets in the [Open Access Directory’s data repository list](http://oad.simmons.edu/oadwiki/Data_repositories), [Data Portals](http://dataportals.org/) or the [Open Knowledge Foundation’s DataHub site](http://datahub.io/about). If you can’t access map data on a topic, can you use information published by a company instead? For example, the Environmental Justice Atlas is a global map of [environmental conflicts](https://ejatlas.org/), while the [GDELT](http://www.gdeltproject.org/) project provides free, structured data of media reports of violent incidents and protests.
- If the data has been collected but is not publicly available, check whether Freedom of Information laws can help push governments to publish it. [The Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/getting_data_1.html) has more information on how to make Freedom of Information Requests (in Brazil, you can use the [Queremos Saber](http://queremossaber.org.br/)).
+If good data already exists, don’t waste time and money collecting it again. Think creatively: do international datasets include your country? Has another organisation created a database on the same issue? You can find publicly available datasets in the [Open Access Directory’s data repository list](http://oad.simmons.edu/oadwiki/Data_repositories), [Data Portals](http://dataportals.org/) or the [Open Knowledge Foundation’s DataHub site](http://datahub.io/about). If you can’t access map data on a topic, can you use information published by a company instead? For example, the Environmental Justice Atlas is a global map of [environmental conflicts](https://ejatlas.org/), while the [GDELT](http://www.gdeltproject.org/) project provides free, structured data of media reports of violent incidents and protests. Many non-profits work to provide free access to environmental data, like the [Open Data Portal](http://data.globalforestwatch.org/) on Global Forest Watch, which offers downloads of over 100 data sets on forest change, land cover and land use from all over the world. If the data has been collected but is not publicly available, check whether Freedom of Information laws can help push governments to publish it. [The Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/getting_data_1.html) has more information on how to make Freedom of Information Requests (in Brazil, you can use the [Queremos Saber](http://queremossaber.org.br/)).
 
 <blockquote>
 	<h5>Case study: Sharing data from different sources</h5>
@@ -507,6 +506,7 @@ Remember, the best tool for different objectives will be different in every situ
 ### Getting data
 
 * [The Open Knowledge Foundation’s DataHub site](http://datahub.io/) provides openly available data on a range of issues
+* The [Open Data Portal](http://data.globalforestwatch.org/) on Global Forest Watch provides over 100 data sets on forest change, land cover and land use
 * [Data Portals](http://dataportals.org/) is a comprehensive list of governments’ sites presenting open data
 * The [Open Access Directory](http://oad.simmons.edu/oadwiki/Data_repositories)’s list of datasets on specific issues, including on environmental issues
 * The [Environmental Justice Atlas](https://ejatlas.org/) is a global map of environmental conflicts
@@ -545,6 +545,7 @@ Remember, the best tool for different objectives will be different in every situ
 
 ### Mobile phone applications
 
+* [Forest Watcher](http://bit.ly/2wO4S2X) is a mobile application for forest monitoring and data collection using remotely-sensed data from Global Forest Watch
 * [Forest Compass](http://forestcompass.org/how/resources) collects resources for community-based forest monitoring
 * [The Engine Room](http://www.scribd.com/doc/232305600/WeGov-Engineroom-Mobiles-Development)’s Mobiles in Development report gives an overview of mobile usage in development, including more information on how mobile data collection works
 * [NetHope](http://solutionscenter.nethope.org/) and [Humanitarian Nomad](http://humanitarian-nomad.org/online-selection-tool/) both offer sets of questions to help you choose a mobile tool
