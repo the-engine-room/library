@@ -92,18 +92,16 @@ Below is a summary of tools built specifically for human rights defenders but as
   <tr>
     <td>Project owner</td>
     <td>HURIDOCS</td>
-    <td>Benetech</td>
+    <td>Formerly Benetech</td>
     <td>HURIDOCS/Ketse</td>
     <td>Palantir Technologies</td>
-    <td> </td>
   </tr>
   <tr>
     <td>Location</td>
     <td>Geneva, Switzerland</td>
-    <td>CA, US</td>
+    <td>N/a</td>
     <td>Geneva, Switzerland</td>
     <td>CA, US</td>
-    <td> </td>
   </tr>
   <tr>
     <td>Created</td>
@@ -111,7 +109,6 @@ Below is a summary of tools built specifically for human rights defenders but as
     <td>2003</td>
     <td>2011</td>
     <td>2004</td>
-    <td> </td>
   </tr>
   <tr>
     <td>Support provided?</td>
@@ -119,7 +116,6 @@ Below is a summary of tools built specifically for human rights defenders but as
     <td>Yes</td>
     <td>No</td>
     <td>Yes</td>
-    <td> </td>
   </tr>
   <tr>
     <td>Primary aim</td>
@@ -127,7 +123,6 @@ Below is a summary of tools built specifically for human rights defenders but as
     <td>Information management + collection</td>
     <td>Information management</td>
     <td>Information management</td>
-    <td> </td>
   </tr>
   <tr>
     <td>Customisation?</td>
@@ -140,7 +135,6 @@ Below is a summary of tools built specifically for human rights defenders but as
   <tr>
     <td>Hosting?</td>
     <td>Through HURIDOCS (for a fee) or self-hosted</td>
-    <td>Through eQualit.ie (for a fee) or self-hosted</td>
     <td>Self-hosted</td>
     <td>Through HURIDOCS or self-hosted</td>
     <td>Needs to use cloud technology</td>
@@ -160,7 +154,6 @@ Below is a summary of tools built specifically for human rights defenders but as
     <td>Arabic, English, Chinese, French, Khmer, Burmese, Farsi, Russian, Spanish, Thai, Vietnamese, Nepali, Armenian.</td>
     <td>Arabic, English, French and Russian.</td>
     <td>"All languages including Elvish"</td>
-    <td> </td>
   </tr>
   <tr>
     <td>Training options</td>
@@ -168,7 +161,6 @@ Below is a summary of tools built specifically for human rights defenders but as
     <td>No</td>
     <td>Provided by HURIDOCS</td>
     <td>No</td>
-    <td> </td>
   </tr>
   <tr>
     <td>Security considerations</td>
@@ -176,7 +168,6 @@ Below is a summary of tools built specifically for human rights defenders but as
     <td>Audited code</td>
     <td>Audited code</td>
     <td>From CIA-funded start up</td>
-    <td> </td>
   </tr>
 </table>
 
