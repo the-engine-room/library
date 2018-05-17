@@ -84,17 +84,15 @@ Below is a summary of tools built specifically for human rights defenders but as
   <tr>
     <td>Project name</td>
     <td>OpenEvsys</td>
-    <td>RightsCase</td>
     <td>Martus</td>
     <td>CaseBox</td>
-    <td>Palantir (Gothamd & Metropolis)</td>
+    <td>Palantir (Gotham & Metropolis)</td>
     <td> </td>
   </tr>
   <tr>
     <td>Project owner</td>
     <td>HURIDOCS</td>
-    <td>E.qualitie</td>
-    <td>No longer actively maintained</td>
+    <td>Benetech</td>
     <td>HURIDOCS/Ketse</td>
     <td>Palantir Technologies</td>
     <td> </td>
@@ -102,7 +100,6 @@ Below is a summary of tools built specifically for human rights defenders but as
   <tr>
     <td>Location</td>
     <td>Geneva, Switzerland</td>
-    <td>Montreal, Los Angeles, Dublin</td>
     <td>CA, US</td>
     <td>Geneva, Switzerland</td>
     <td>CA, US</td>
@@ -110,7 +107,6 @@ Below is a summary of tools built specifically for human rights defenders but as
   </tr>
   <tr>
     <td>Created</td>
-    <td>2009</td>
     <td>2009</td>
     <td>2003</td>
     <td>2011</td>
@@ -123,13 +119,11 @@ Below is a summary of tools built specifically for human rights defenders but as
     <td>Yes</td>
     <td>No</td>
     <td>Yes</td>
-    <td>Yes</td>
     <td> </td>
   </tr>
   <tr>
     <td>Primary aim</td>
     <td>Database application</td>
-    <td>Case management system</td>
     <td>Information management + collection</td>
     <td>Information management</td>
     <td>Information management</td>
@@ -137,7 +131,6 @@ Below is a summary of tools built specifically for human rights defenders but as
   </tr>
   <tr>
     <td>Customisation?</td>
-    <td>Yes</td>
     <td>Yes</td>
     <td>Yes</td>
     <td>Yes</td>
@@ -158,14 +151,12 @@ Below is a summary of tools built specifically for human rights defenders but as
     <td>Yes: source code</td>
     <td>Yes: source code</td>
     <td>Yes: source code</td>
-    <td>Yes: source code</td>
     <td>No</td>
     <td> </td>
   </tr>
   <tr>
     <td>Languages</td>
     <td>Arabic, Bahasa Indonesia, Chinese, English, Estonian, French, Georgian, German, Hungarian, Italian, Khmer, Russian, Serbian, Spanish and Turkish.</td>
-    <td> </td>
     <td>Arabic, English, Chinese, French, Khmer, Burmese, Farsi, Russian, Spanish, Thai, Vietnamese, Nepali, Armenian.</td>
     <td>Arabic, English, French and Russian.</td>
     <td>"All languages including Elvish"</td>
@@ -174,15 +165,13 @@ Below is a summary of tools built specifically for human rights defenders but as
   <tr>
     <td>Training options</td>
     <td>Provided by HURIDOCS</td>
-    <td>Provided by eQualit.ie</td>
-    <td>None</td>
+    <td>No</td>
     <td>Provided by HURIDOCS</td>
     <td>No</td>
     <td> </td>
   </tr>
   <tr>
     <td>Security considerations</td>
-    <td>Audited code</td>
     <td>Audited code</td>
     <td>Audited code</td>
     <td>Audited code</td>

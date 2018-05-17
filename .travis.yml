@@ -17,8 +17,6 @@ before_install:
 - echo -e "IdentityFile ~/.ssh/id_rsa" >> ~/.ssh/config
 - echo -e "Host ftp.greenhost.nl" >> ~/.ssh/config
 - echo -e "IdentityFile ~/.ssh/id_rsa" >> ~/.ssh/config
-before_script:
-- bash script/install.sh
 script:
 - bash script/build.sh
 after_success:
