@@ -94,7 +94,7 @@ Below is a summary of tools built specifically for human rights defenders but as
     <td>Project owner</td>
     <td>HURIDOCS</td>
     <td>E.qualitie</td>
-    <td>Benetech</td>
+    <td>No longer actively maintained</td>
     <td>HURIDOCS/Ketse</td>
     <td>Palantir Technologies</td>
     <td> </td>
@@ -121,7 +121,7 @@ Below is a summary of tools built specifically for human rights defenders but as
     <td>Support provided?</td>
     <td>Yes</td>
     <td>Yes</td>
-    <td>Yes</td>
+    <td>No</td>
     <td>Yes</td>
     <td>Yes</td>
     <td> </td>
@@ -148,7 +148,7 @@ Below is a summary of tools built specifically for human rights defenders but as
     <td>Hosting?</td>
     <td>Through HURIDOCS (for a fee) or self-hosted</td>
     <td>Through eQualit.ie (for a fee) or self-hosted</td>
-    <td>Through Benetech or self-hosted</td>
+    <td>Self-hosted</td>
     <td>Through HURIDOCS or self-hosted</td>
     <td>Needs to use cloud technology</td>
     <td> </td>
@@ -175,7 +175,7 @@ Below is a summary of tools built specifically for human rights defenders but as
     <td>Training options</td>
     <td>Provided by HURIDOCS</td>
     <td>Provided by eQualit.ie</td>
-    <td>Provided by Benetech</td>
+    <td>None</td>
     <td>Provided by HURIDOCS</td>
     <td>No</td>
     <td> </td>
