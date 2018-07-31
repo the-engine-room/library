@@ -92,7 +92,7 @@ Below is a summary of tools built specifically for human rights defenders but as
   <tr>
     <td>Project owner</td>
     <td>HURIDOCS</td>
-    <td>Formerly Benetech</td>
+    <td>Developed by Benetech, however, Martus will no longer be supported after 2018</td>
     <td>HURIDOCS/Ketse</td>
     <td>Palantir Technologies</td>
   </tr>
@@ -299,7 +299,7 @@ Veronica Vidal, who works on women’s rights with the Association for Women’s
 
 **Sharing information**
 
-Digitising documents is helping human rights defenders share information with other stakeholders, too: in Bangladesh, engaging with digital case management is a relatively recent decision, and Ishita Dutta from the Bangladesh Legal Aid and Services Trust says this will make sharing data with researchers easier to do, theoretically allowing for more coordinated advocacy efforts among different stakeholders. In Burma, the data gathered through the National Documentation Network’s Martus database is shared with international advocacy groups and individual researchers so that they can help spread word of the human rights situation in Burma. On the other side, though, one intermediary we spoke to mentioned that HRDs he supports often want to share "subsets" of information with others, and find this difficult to do in terms of technical permissions.
+Digitising documents is helping human rights defenders share information with other stakeholders, too: in Bangladesh, engaging with digital case management is a relatively recent decision, and Ishita Dutta from the Bangladesh Legal Aid and Services Trust says this will make sharing data with researchers easier to do, theoretically allowing for more coordinated advocacy efforts among different stakeholders. In Burma, the data gathered through the National Documentation Network’s Martus database was shared with international advocacy groups and individual researchers so that they can help spread word of the human rights situation in Burma. On the other side, though, one intermediary we spoke to mentioned that HRDs he supports often want to share "subsets" of information with others, and find this difficult to do in terms of technical permissions.
 
 **Managing large amounts of data**
 
@@ -376,7 +376,7 @@ Planning for ongoing support seems to pay off, too: Ludmila Polshikova, who work
 
 #### **Technical realities**
 
-In Zimbabwe, a lack of regular internet access in remote areas means that using tools like Martus, which would ideally synchronise with a main server, is difficult. After piloting Martus, one organisation ended up reverting back to their usual setup of using Excel and then manipulating the data in other software programs. In this case and others, the need to be conscious of connectivity in areas where the tool will be used was highlighted multiple times. In Nicaragua, Valeria Umaña said: "for people in the countryside, the more apps they have, the more problems they can have because they often don’t know how to use them" - so, they try to focus on the minimum technology necessary, rather than training on more complex tools or applications, sometimes relying on non-internet technologies, such as community radio.
+In Zimbabwe, until Martus was active, a lack of regular internet access in remote areas means that using tools like Martus, which would ideally synchronise with a main server, is difficult. After piloting Martus, one organisation ended up reverting back to their usual setup of using Excel and then manipulating the data in other software programs. In this case and others, the need to be conscious of connectivity in areas where the tool will be used was highlighted multiple times. In Nicaragua, Valeria Umaña said: "for people in the countryside, the more apps they have, the more problems they can have because they often don’t know how to use them" - so, they try to focus on the minimum technology necessary, rather than training on more complex tools or applications, sometimes relying on non-internet technologies, such as community radio.
 
 *"For people in the countryside, the more apps they have, the more problems they can have because they often don’t know how to use them," says Valeria Umaña in Nicaragua.*
 
