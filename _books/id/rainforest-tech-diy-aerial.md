@@ -120,7 +120,7 @@ The Engine Room adalah organisasi internasional yang membantu para aktivis, orga
 
 #### Kontributor
 
-[Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) dan [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) meriset dan menulis narasi utama, sementara [Ruth Miller](http://ruthmiller.net/) memimpin disain dan kreasi visual. Vemund Olsen dan Christopher Wilson memberikan input berharga dan mengedit. Sourcecode situs ini tersedia di [Github](https://github.com/the-engine-room/library/). Komentar atau pertanyaan? Kontak [post@theengineroom.org](mailto:post@theengineroom.org) atau [rainforest@rainforest.no](mailto:rainforest@rainforest.no).
+[Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) dan [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) meriset dan menulis narasi utama, sementara [Ruth Miller](http://ruthmiller.net/) memimpin disain dan kreasi visual. Vemund Olsen dan Christopher Wilson memberikan input berharga dan mengedit. Sourcecode situs ini tersedia di [Github](https://github.com/the-engine-room/library/). Komentar atau pertanyaan? Kontak [hello@theengineroom.org](mailto:hello@theengineroom.org) atau [rainforest@rainforest.no](mailto:rainforest@rainforest.no).
 
 ---
 

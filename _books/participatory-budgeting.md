@@ -29,7 +29,7 @@ categories:
 
 This piece aims to introduce the concept of participatory budgeting, as well as provide an overview of the opportunities and challenges that the implementation of such a model can bring. This document also presents examples of governments that have conducted participatory budgeting processes successfully, and includes examples of tools and platforms that they have used.  
 
-This Library entry is also available in [Spanish](http://library.theengineroom.org/es/participatory-budgeting/) and [Portuguese](http://library.theengineroom.org/pt/participatory-budgeting/). 
+This Library entry is also available in [Spanish](http://library.theengineroom.org/es/participatory-budgeting/) and [Portuguese](http://library.theengineroom.org/pt/participatory-budgeting/).
 
 ## Overview
 
@@ -250,4 +250,4 @@ This report was written by [Ruth Miller](https://ruthmiller.net) and managed by 
 
 First published in April 2017.
 
-Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org).  
+Comments or questions? Contact [hello@theengineroom.org](mailto:hello@theengineroom.org).  

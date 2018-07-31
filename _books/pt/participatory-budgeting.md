@@ -215,4 +215,4 @@ Este relatório foi escrito por[ Ruth Miller](https://ruthmiller.net/). Nossos a
 
 Publicado pela primeira vez em abril de 2017.
 
-Comentários ou perguntas? Fale conosco: post@theengineroom.org
+Comentários ou perguntas? Fale conosco: [hello@theengineroom.org](mailto:hello@theengineroom.org)</kbd>

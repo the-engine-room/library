@@ -103,7 +103,7 @@ Em 2014, ConservationDrones e o Sumatran Orangutan Conservation Programme (SOCP)
 
 Este site foi criado pela [Fundação Rainforest da Noruega](http://regnskog.no/en/) e [The Engine Room](https://theengineroom.org/) como uma introdução ao uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direito à terra e direitos dos indígenas. [Baixe a cartilha completa aqui.](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642)
 
-Comentários ou perguntas? Entre em contato [post@theengineroom.org](mailto:post@theengineroom.org) ou [rainforest@rainforest.no](mailto:rainforest@rainforest.no).
+Comentários ou perguntas? Entre em contato [hello@theengineroom.org](mailto:hello@theengineroom.org) ou [rainforest@rainforest.no](mailto:rainforest@rainforest.no).
 
 A Fundação Rainforest da Noruega (RFN) é uma das organizações líderes mundiais de proteção das florestas tropicais com base em direitos. Sua missão é apoiar as iniciativas dos povos indígenas e populações tradicionais das florestas tropicais do mundo de proteção ao seu meio ambiente e garantia de seus direitos, auxiliando-os a:
 
