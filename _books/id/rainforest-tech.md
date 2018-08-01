@@ -29,11 +29,11 @@ categories:
 ## Pengantar
 
 Panduan penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu-isu hutan hujan, hak atas tanah dan hak-hak adat.
-Pengantar ini adalah produk kemitraan antara Rainforest Foundation Norway dan The Engine Room.
+Pengantar ini adalah produk kemitraan antara Rainforest Foundation Norway dan The Engine Room. Panduan ini diterbitkan untuk pertama kalinya pada bulan Juli 2016. Pembaruan terakhir pada bulan Juli 2016.
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
-[Read it in English](https://library.theengineroom.org/rainforest-tech/) | [Lire en français](https://library.theengineroom.org/fr/rainforest-tech/) | [Léelo en español](https://library.theengineroom.org/es/rainforest-tech/) | [Leia isso em português](https://library.theengineroom.org/pt/rainforest-tech/) | 
+[Read it in English](https://library.theengineroom.org/rainforest-tech/) | [Lire en français](https://library.theengineroom.org/fr/rainforest-tech/) | [Léelo en español](https://library.theengineroom.org/es/rainforest-tech/) | [Leia isso em português](https://library.theengineroom.org/pt/rainforest-tech/) |
 
 La dirancang sebagai titik awal bagi organisasi atau para aktivis yang tertarik menggunakan teknologi untuk meningkatkan kerja advokasi mereka, namun ia juga bermanfaat bagi organisasi yang telah memiliki pengalaman menggunakan teknologi dan ingin tahu bagaimana meningkatkan dampak dari pekerjaan mereka.
 
@@ -600,7 +600,7 @@ Sumber-sumber di bawah ini tersedia dalam bahasa tertentu, dan biasanya juga mem
 
 ## Tentang
 
-Situs ini dibuat oleh [Rainforest Foundation Norway](http://regnskog.no/en/) dan [The Engine Room](https://theengineroom.org/) sebagai pengantar penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu hutan hujan, hak tanah dan hak masyarakat adat. [Download Panduan di sini](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
+Situs ini dibuat oleh [Rainforest Foundation Norway](http://regnskog.no/en/) dan [The Engine Room](https://theengineroom.org/) sebagai pengantar penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu hutan hujan, hak tanah dan hak masyarakat adat. [Download Panduan di sini](https://github.com/the-engine-room/library/blob/gh-pages/media/rainforest/hutan-hujan-teknologi.pdf).
 
 Rainforest Foundation Norway (RFN) adalah salah satu organisasi utama di dunia di bidang perlindungan hutan hujan berbasis hak-hak. Misinya adalah mendukung masyarakat adat dan masyarakat tradisional di hutan hujan dunia dalam upaya mereka melindungi lingkungannya dan memenuhi hak-hak mereka dengan membantu dalam hal:
 

@@ -30,11 +30,11 @@ categories:
 > * Mendukung masyarakat dengan menyajikan dan memberikan pengetahuan
 > * Memberikan bukti konkret kepada pemerintah guna mendorong mereka mengakui tanah adat.
 
-Pengantar ini adalah bagian dari [Panduan tentang penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu hutan hujan, hak tanah dan hak masyarakat adat](https://library.theengineroom.org/rainforest-tech). Panduan ini didisain sebagai titik awal bagi organisasi dan aktivis yang tertarik untuk menggunakan teknologi demi meningkatkan kerja advokasi, dan merupakan hasil kemitraan antara [Rainforest Foundation Norway](http://www.regnskog.no/en/) dan [The Engine Room](https://theengineroom.org/).
+Pengantar ini adalah bagian dari [Panduan tentang penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu hutan hujan, hak tanah dan hak masyarakat adat](https://library.theengineroom.org/rainforest-tech). Panduan ini didisain sebagai titik awal bagi organisasi dan aktivis yang tertarik untuk menggunakan teknologi demi meningkatkan kerja advokasi, dan merupakan hasil kemitraan antara [Rainforest Foundation Norway](http://www.regnskog.no/en/) dan [The Engine Room](https://theengineroom.org/). Panduan ini diterbitkan untuk pertama kalinya pada bulan Juli 2016. Pembaruan terakhir pada bulan Juli 2016.
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
-[Download Panduan di sini (1.6MB pdf)](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) atau baca online di bawah ini.
+[Download Panduan di sini (1.6MB pdf)](https://github.com/the-engine-room/library/blob/gh-pages/media/rainforest/hutan-hujan-teknologi.pdf) atau baca online di bawah ini.
 
 [Lire en français](http://library.theengineroom.org/fr/rainforest-tech-diy-aerial/) | [Léelo en español](http://library.theengineroom.org/es/rainforest-tech-diy-aerial/) | [Leia isso em português](http://library.theengineroom.org/pt/rainforest-tech-diy-aerial/) | [Read it in English](http://library.theengineroom.org/en/rainforest-tech-diy-aerial/)
 
@@ -107,7 +107,7 @@ Tahun 2014, [ConservationDrones](http://conservationdrones.org) dan [Sumatran Or
 
 ### Tentang
 
-Situs ini dibuat oleh [Rainforest Foundation Norway](http://regnskog.no/en/) dan [The Engine Room](https://theengineroom.org/) sebagai pengantar penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu hutan hujan, hak tanah dan hak masyarakat adat. [Download Panduan di sini](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
+Situs ini dibuat oleh [Rainforest Foundation Norway](http://regnskog.no/en/) dan [The Engine Room](https://theengineroom.org/) sebagai pengantar penggunaan teknologi untuk memonitor dan berbagi informasi mengenai isu hutan hujan, hak tanah dan hak masyarakat adat. [Download Panduan di sini](https://github.com/the-engine-room/library/blob/gh-pages/media/rainforest/hutan-hujan-teknologi.pdf).
 
 Rainforest Foundation Norway (RFN) adalah salah satu organisasi utama di dunia di bidang perlindungan hutan hujan berbasis hak-hak. Misinya adalah mendukung masyarakat adat dan masyarakat tradisional di hutan hujan dunia dalam upaya mereka melindungi lingkungannya dan memenuhi hak-hak mereka dengan membantu dalam hal:
 
