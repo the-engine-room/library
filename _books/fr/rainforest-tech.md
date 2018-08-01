@@ -32,7 +32,8 @@ Il est le produit d'un partenariat entre [Rainforest Foundation Norway](http://w
 
 [Read it in English](https://library.theengineroom.org/rainforest-tech/) | [Léelo en español](https://library.theengineroom.org/es/rainforest-tech/) | [Leia isso em português](https://library.theengineroom.org/pt/rainforest-tech/) | [Baca ini dalam bahasa Indonesia](https://library.theengineroom.org/id/rainforest-tech/)
 
-Il vise à fournir une base de départ pour les organisations et les activistes souhaitant améliorer leurs activités de plaidoyer grâce à la technologie, mais peut aussi être utile aux organisations en ayant déjà fait l’expérience, fournissant des indications sur la manière de renforcer l’impact de leurs activités. *[Téléchargez le guide introductif complet (1,6 MB pdf)](/media/rainforest/technologie-pour-les-forets-tropicales.pdf), ou consultez le en ligne ci-dessous.*
+Il vise à fournir une base de départ pour les organisations et les activistes souhaitant améliorer leurs activités de plaidoyer grâce à la technologie, mais peut aussi être utile aux organisations en ayant déjà fait l’expérience, fournissant des indications sur la manière de renforcer l’impact de leurs activités. *[Téléchargez le guide introductif complet (1,6 MB pdf)](https://github.com/the-engine-room/library/blob/gh-pages/media/rainforest/technologie-pour-les-forets-tropicales.pdf), ou consultez-le en ligne ci-dessous.*
+Ce guide a été publié pour la première fois en juillet 2016. Dernière mise à jour en juillet 2016.
 
 Cet ouvrage élémentaire:
 

@@ -86,7 +86,8 @@ En 2014, [ConservationDrones](http://conservationdrones.org) et le [Programme de
 
 ### À propos
 
-Ce site a été créé par la __[Rainforest Foundation Norway](http://regnskog.no/en/)__ et __[The Engine Room](https://theengineroom.org/)__ comme introduction à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale, le droit à la terre et les droits des peuples forestiers. [*Téléchargez le guide introductif complet ici*](media/rainforest/technologie-pour-les-forêts-tropicales.pdf).
+Ce site a été créé par la __[Rainforest Foundation Norway](http://regnskog.no/en/)__ et __[The Engine Room](https://theengineroom.org/)__ comme introduction à l’utilisation de la technologie pour suivre l’évolution et partager des informations sur la forêt tropicale, le droit à la terre et les droits des peuples forestiers. [*Téléchargez le guide introductif complet ici*](https://github.com/the-engine-room/library/blob/gh-pages/media/rainforest/technologie-pour-les-forets-tropicales.pdf).
+Ce guide a été publié pour la première fois en juillet 2016. Dernière mise à jour en juillet 2016.
 
 Rainforest Foundation Norway (RFN) est une organisation phare au niveau mondial dans protection des forêts tropicales basée sur les droits. Elle a pour mission de soutenir les peuples autochtones et les communautés traditionnelles vivant dans les forêts tropicales à travers le monde dans la protection de leur environnement, et d’assurer le respect de leurs droits en les aidant à:
 
