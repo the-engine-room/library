@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: Responsible Data in Agriculture 
+title: Responsible Data in Agriculture
 description: The agriculture sector is creating increasing amounts of data, from many different sources. The most well resourced actors are able to delve into new technologies and make the most of those insights, whereas others are unable to take such risks or divert their limited resources.  
 image: /media/index/agriculture.png
 funder_name: GODAN
@@ -84,7 +84,7 @@ Data ownership
 
 With increasing amounts of data being created about farming and by farmers, one key issue is around ownership of data. Ownership of open data is addressed in a complementary piece by GODAN, but issues around ownership of data generated through new areas of agriculture technology remain relatively unexplored.
 
-The ownership of data becomes [“murky”][17] once it is aggregated with other farmers’ data - in many cases, this is then considered to be in the ownership of the company responsible, as outlined in more detail by Neal Rasmussen in [“From Precision Agriculture to Market Manipulation”][18]. 
+The ownership of data becomes [“murky”][17] once it is aggregated with other farmers’ data - in many cases, this is then considered to be in the ownership of the company responsible, as outlined in more detail by Neal Rasmussen in [“From Precision Agriculture to Market Manipulation”][18].
 
 ![Watching](../media/agriculture/watching.png)
 
@@ -162,7 +162,7 @@ One interviewee mentioned concerns that farmers, local NGOs/CSOs and farmers coo
 
 Through our interviews and desk research, there were a number of best practices suggested as ways to mitigate the responsible data challenges mentioned above. Many of these are not unique to the agriculture sector, but rather speak to broad responsible data best practices writ large.
 
-### Education and awareness 
+### Education and awareness
 
 One of the biggest differences between people we spoke to was how they perceived the effects of publishing data. Broadly speaking, those coming from the **open data** perspective were keen to publish everything apart from personally identifiable information. Others, especially those working with smallholder farmers, or indigenous populations, were much more aware that publishing data would benefit only the better-resourced actors in the agriculture sector, and expressed serious concerns about the potential unintended consequences of publishing data about, for example, indigenous populations.  
 
@@ -198,7 +198,7 @@ Within the sector, vulnerable communities are most at risk of being put at a fur
 	<p>eGranary is an initiative from farmers in Eastern Africa to “empower themselves in both input and output markets.” Through the project, information is collated about farmers and their harvests via mobile phones, and shared back only with other member farmers in the network. This model is being replicated in other regional of Africa, and PAFO are looking at collating these regional projects to create a continental database, once the regional ones are set up.</p>
 </blockquote>
 
-### Prioritising contextual considerations 
+### Prioritising contextual considerations
 
 In many of the responsible data challenges and tensions outlined above, the importance of **context** in making appropriate and responsible decisions cannot be underestimated. Even when a certain dataset is deemed publishable in one context, the same information in another context might have very different consequences.
 
@@ -224,26 +224,28 @@ Content by Lindsay Ferris and Zara Rahman for [The Engine Room](https://theengin
 
 First published September 2016. The full report is available for download as a [PDF](http://www.godan.info/file/46934/download?token=Co5JuSLO).
 
+Last updated in September 2016.
 
-[1]: https://responsibledata.io 
-[2]: https://en.wikipedia.org/wiki/Precision_agriculture 
-[3]: http://www.precisionag.com/technology/guidance/15-precision-agriculture-companies-to-watch-in-2016-opinion/ 
-[4]: https://opendefinition.org 
-[7]: http://www.cgiar.org/ 
-[9]: http://scholarship.law.umn.edu/cgi/viewcontent.cgi?article=1008&context=mjlst 
-[10]: http://blogs.edf.org/growingreturns/2015/02/11/a-farmers-perspective-4-reasons-why-collecting-data-is-important/ 
-[11]: http://www.fao.org/home/en/ 
-[12]: http://api.data.fao.org/1.0/ 
-[13]: http://library.cgiar.org/ 
-[14]: https://www.soilassociation.org/ 
+
+[1]: https://responsibledata.io
+[2]: https://en.wikipedia.org/wiki/Precision_agriculture
+[3]: http://www.precisionag.com/technology/guidance/15-precision-agriculture-companies-to-watch-in-2016-opinion/
+[4]: https://opendefinition.org
+[7]: http://www.cgiar.org/
+[9]: http://scholarship.law.umn.edu/cgi/viewcontent.cgi?article=1008&context=mjlst
+[10]: http://blogs.edf.org/growingreturns/2015/02/11/a-farmers-perspective-4-reasons-why-collecting-data-is-important/
+[11]: http://www.fao.org/home/en/
+[12]: http://api.data.fao.org/1.0/
+[13]: http://library.cgiar.org/
+[14]: https://www.soilassociation.org/
 [15]: http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
-[16]: http://www.iwmi.cgiar.org/ 
-[17]: http://scholarship.law.umn.edu/cgi/viewcontent.cgi?article=1008&context=mjlst 
-[18]: http://scholarship.law.umn.edu/cgi/viewcontent.cgi?article=1008&context=mjlst 
+[16]: http://www.iwmi.cgiar.org/
+[17]: http://scholarship.law.umn.edu/cgi/viewcontent.cgi?article=1008&context=mjlst
+[18]: http://scholarship.law.umn.edu/cgi/viewcontent.cgi?article=1008&context=mjlst
 [22]: https://wiki.p2pfoundation.net/Data_Cooperatives
-[23]: http://www.scidev.net/global/bioprospecting/news/farmers-rights-at-stake-in-chile-s-monsanto-law-bill.html 
-[24]: https://epic.org/privacy/profiling/ 
-[25]: http://www.planttreaty.org/content/article-xiv 
-[28]: http://www.icarda.org/sites/default/files/CGIAR%20OA%20Policy%20-%20October%202%202013%20-%20Approved%20by%20Consortium%20Board.pdf 
-[29]: http://policy-practice.oxfam.org.uk/blog/2015/08/a-rights-based-approach-to-treating-data-responsibly 
-[30]: http://www.gfar.net/sites/default/files/files/Rights%20of%20Farmers%20for%20Data%20Information%20and%20Knowledge.pdf 
+[23]: http://www.scidev.net/global/bioprospecting/news/farmers-rights-at-stake-in-chile-s-monsanto-law-bill.html
+[24]: https://epic.org/privacy/profiling/
+[25]: http://www.planttreaty.org/content/article-xiv
+[28]: http://www.icarda.org/sites/default/files/CGIAR%20OA%20Policy%20-%20October%202%202013%20-%20Approved%20by%20Consortium%20Board.pdf
+[29]: http://policy-practice.oxfam.org.uk/blog/2015/08/a-rights-based-approach-to-treating-data-responsibly
+[30]: http://www.gfar.net/sites/default/files/files/Rights%20of%20Farmers%20for%20Data%20Information%20and%20Knowledge.pdf

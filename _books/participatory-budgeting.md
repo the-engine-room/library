@@ -248,6 +248,6 @@ This report was written by [Ruth Miller](https://ruthmiller.net) and managed by 
 * [Diego de la Mora](http://fundar.org.mx/equipo_fundar/diego-de-la-mora-maurer/page/3/?ID), Budgets and Public Policy Researcher at Fundar
 * [Anna Alberts](https://twitter.com/anna_alberts?lang=en), Project Manager at Open Knowledge Foundation Germany
 
-First published in April 2017.
+First published in April 2017. Last updated in April 2017.
 
 Comments or questions? Contact [hello@theengineroom.org](mailto:hello@theengineroom.org).  

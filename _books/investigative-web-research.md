@@ -26,7 +26,7 @@ categories:
 
 ## Introduction
 
-(Last updated: September 2017).
+Last updated in September 2017.
 
 This is a practical, straightforward introduction to investigative web research (IWR).
 

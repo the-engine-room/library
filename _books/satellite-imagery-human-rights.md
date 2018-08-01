@@ -369,10 +369,9 @@ This site was created to introduce human rights researchers to the ins and outs 
 
 It was written and researched by [Robin Pierro](https://twitter.com/nomadjourno).
 
-
 It is based on Robin’s MA thesis at the European Inter-University Centre for Human Rights and Democratisation on the opportunities and implications of using new ICT tools for human rights fact-finding, which included a survey with 66 human rights researchers and over 30 interviews with technology and fact-finding experts.
 
-This version of the guide was commissioned and edited by Tom Walker from [The Engine Room](https://www.theengineroom.org/), an international organisation that helps activists, organisations and social change agents to use data and technology to increase their impact.
+This version of the guide was commissioned and edited by Tom Walker from [The Engine Room](https://www.theengineroom.org/), an international organisation that helps activists, organisations and social change agents to use data and technology to increase their impact. First published in August 2017. Last updated in August 2017.
 
 ### Contributors
 

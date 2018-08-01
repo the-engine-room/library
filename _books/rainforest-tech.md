@@ -640,6 +640,7 @@ The resources below are available in the language described, and typically also 
 ## About
 
 This site was created by [Rainforest Foundation Norway](http://regnskog.no/en/) and [The Engine Room](//theengineroom.org)  as an introduction to using technology to monitor and share information on rainforest issues, land rights and indigenous rights. [*Download the whole primer here.*](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642)
+It was first published in July 2016. Last updated in July 2016.
 
 Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org) or [rainforest@rainforest.no](mailto:rainforest@rainforest.no).
 
