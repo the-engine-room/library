@@ -31,8 +31,9 @@ categories:
 > * Presentar pruebas de infracciones cometidas contra individuos o comunidades
 
 La presente introducción es parte de una [Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques tropicales](https://library.theengineroom.org/rainforest-tech/), los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org).
+Esta guía se publicó por primera vez en julio del 2016. Última actualización en julio del 2016.
 
-_Descargar [la guía completa](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642) (1.6MB pdf) o leerla en línea (a continuación)._
+_Descargar [la guía completa](https://github.com/the-engine-room/library/blob/gh-pages/media/rainforest/tecnolog%C3%ADa-para-bosques-tropicales.pdf) (1.6MB pdf) o leerla en línea (a continuación)._
 
 [Lire en français](http://library.theengineroom.org/fr/rainforest-tech-audio-video/) | [Read it in English](http://library.theengineroom.org/en/rainforest-tech-audio-video/) | [Leia isso em português](http://library.theengineroom.org/pt/rainforest-tech-audio-video/) | [Baca ini dalam bahasa Indonesia](http://library.theengineroom.org/id/rainforest-tech-audio-video/)
 
@@ -97,7 +98,7 @@ En respuesta a campañas de apoyo, la compañía papelera indonesia APP firmó u
 * **Audacity** ofrece funcionalidades gratuitas para edición de audio: [http://audacity.sourceforge.net/](http://audacity.sourceforge.net/); la versión **Lightworks Free** sirve para tareas sencillas de edición de video: [http://www.lwks.com/](http://www.lwks.com/)
 
 ### Acerca de este sitio
-Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques tropicales, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642).
+Este sitio fue creado por la [Fundación Rainforest Noruega](www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org) a manera de introducción al uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques tropicales, los derechos territoriales y los derechos indígenas. Bajar [la guía completa aquí](https://github.com/the-engine-room/library/blob/gh-pages/media/rainforest/tecnolog%C3%ADa-para-bosques-tropicales.pdf).
 
 La Fundación Rainforest Noruega (RFN) es una de las organizaciones líderes en el campo de la protección de bosques tropicales basada en los derechos humanos. Su misión es brindar apoyo a los pueblos indígenas y a las poblaciones tradicionales de los bosques tropicales del mundo en sus esfuerzos de protección medioambiental y lograr el pleno uso de sus derechos brindándoles asistencia en:
 

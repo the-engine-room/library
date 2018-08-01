@@ -29,14 +29,14 @@ categories:
 
 ## Introducción
 
-La presente introducción es parte de una Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques tropicales, los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org).
+La presente introducción es parte de una Guía para el uso de la tecnología en el monitoreo e intercambio de información sobre asuntos relacionados a los bosques tropicales, los derechos territoriales y los derechos de los pueblos indígenas. Está diseñada como punto de partida para organizaciones y activistas interesados en incorporar la tecnología en la mejora de sus esfuerzos de defensa; es producto de una colaboración entre la [Fundación Rainforest Noruega](http://www.regnskog.no/en/) y [The Engine Room](https://theengineroom.org). Esta guía se publicó por primera vez en julio del 2016. Última actualización en julio del 2016.
 
 ![Rainforest Foundation Norway](/images/logos/rfn-dark.svg) ![The Engine Room](/images/logos/engineroom-dark.png)
 
 [Read it in English](https://library.theengineroom.org/rainforest-tech/) | [Lire en français](https://library.theengineroom.org/fr/rainforest-tech/) | | [Leia isso em português](https://library.theengineroom.org/pt/rainforest-tech/) | [Baca ini dalam bahasa Indonesia](https://library.theengineroom.org/id/rainforest-tech/)
 
 La estructura de la guía permite una consulta parcial y explorar secciones relevantes por separado si se desea obtener pautas más detalladas.
-[Descargar la guía completa (1.6MB pdf)](/media/rainforest/tecnología-para-bosques-tropicales.pdf) o leerla en línea (a continuación).
+[Descargar la guía completa (1.6MB pdf)](https://github.com/the-engine-room/library/blob/gh-pages/media/rainforest/tecnolog%C3%ADa-para-bosques-tropicales.pdf) o leerla en línea (a continuación).
 
 La guía:
 
