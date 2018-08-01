@@ -89,7 +89,8 @@ Em resposta a campanhas de defesa, a empresa de papel indonésia APP assinou um 
 
 ### Sobre
 
-Este site foi criado pela [Fundação Rainforest da Noruega](http://regnskog.no/en/) e [The Engine Room](https://theengineroom.org/) como uma introdução ao uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direito à terra e direitos dos indígenas. [Baixe a cartilha completa aqui.](http://d5i6is0eze552.cloudfront.net/documents/Publikasjoner/Andre-rapporter/Rainforest-tech-primer.pdf?mtime=20160704134642)
+Este site foi criado pela [Fundação Rainforest da Noruega](http://regnskog.no/en/) e [The Engine Room](https://theengineroom.org/) como uma introdução ao uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direito à terra e direitos dos indígenas. [Baixe a cartilha completa aqui.](https://github.com/the-engine-room/library/blob/gh-pages/media/rainforest/florestas-tropicais-tecnologia.pdf)
+Publicado pela primeira vez em julho de 2016. Última atualização em julho de 2016.
 
 Comentários ou perguntas? Entre em contato [post@theengineroom.org](mailto:post@theengineroom.org) ou [rainforest@rainforest.no](mailto:rainforest@rainforest.no).
 

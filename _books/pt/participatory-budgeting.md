@@ -213,6 +213,6 @@ Este relatório foi escrito por[ Ruth Miller](https://ruthmiller.net/). Nossos a
 *	[Diego de la Mora](http://fundar.org.mx/equipo_fundar/diego-de-la-mora-maurer/page/3/?ID), Pesquisador de Políticas Públicas e Orçamentos da Fundar
 * [ Anna Alberts](https://twitter.com/anna_alberts?lang=en), Gerente de Projetos da Fundação Open Knowledge, na Alemanha
 
-Publicado pela primeira vez em abril de 2017.
+Publicado pela primeira vez em abril de 2017. Última atualização em abril de 2017.
 
 Comentários ou perguntas? Fale conosco: [hello@theengineroom.org](mailto:hello@theengineroom.org)</kbd>

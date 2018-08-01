@@ -114,7 +114,8 @@ Povos indígenas no Acre foram treinados pela Comissão Pró-Índio do Acre, (CP
 ***
 
 ### **Sobre**
-Este site foi criado pela [Fundação Rainforest da Noruega](www.regnskog.no/en/) e [The Engine Room](//theengineroom.org) como uma introdução ao uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direito à terra e direitos dos indígenas. Baixe a cartilha completa aqui.
+Este site foi criado pela [Fundação Rainforest da Noruega](www.regnskog.no/en/) e [The Engine Room](//theengineroom.org) como uma introdução ao uso da tecnologia para monitoramento e compartilhamento de informações sobre questões das florestas tropicais, direito à terra e direitos dos indígenas.[Baixe a cartilha completa aqui.](https://github.com/the-engine-room/library/blob/gh-pages/media/rainforest/florestas-tropicais-tecnologia.pdf)
+Publicado pela primeira vez em julho de 2016. Última atualização em julho de 2016.
 
 Comentários ou perguntas? Entre em contato [post@theengineroom.org](mailto:post@theengineroom.org) ou [rainforest@rainforest.no](rainforest@rainforest.no).
 
