@@ -51,6 +51,7 @@ generation of user-friendly online legal services. Virginia Journal of Law & Tec
 Legal information presented in a way that ordinary people can understand, through readily accessible channels, has the potential to level the playing field between legal professionals and others and thus reduce inequities in access to justice.
 
 This report demonstrates that, around the world, initiatives are already using technology to:
+
 * Help people diagnose legal problems themselves
 * Help people assess their entitlement to benefits or legal assistance
 * Provide people with legal information that is easier to understand and access
@@ -128,6 +129,7 @@ It is common for teams to house diverse sets of skills, for example, having a la
 
 ### **Idea generation and definition**
 Ideas for a public-facing legal empowerment technology tool can be generated in a wide variety of ways. Researchers asked the founders of initiatives about the source of their idea to create an initiative. In the cases of the surveyed initiatives, this took the following forms:
+
 * A founder’s personal experience of justice issues.
 * A founder’s professional experience of justice issues, typically gained while working in the private legal sector.
 * An existing legal empowerment-focused organisation’s perception there is potential to make its activities more effective.
@@ -157,6 +159,7 @@ User research can encompass reviews of existing research on technology, connecti
 The majority of interviewees said that their target audiences found the text of laws difficult to understand and that **it was crucial to rewrite content in more accessible language.** Detailed legal language is important to resolving legal issues effectively, but as a public entry point for non-lawyers trying to understand the law, it can obscure more than it illuminates.
 
 The importance of using plain language for online content is now widely understood in the legal empowerment field. However, initiatives frequently said that writing legal information in an easily comprehensible way was not straightforward. Interviewees highlighted **several key practices that helped them make their writing more accessible**:
+
 * Starting with the conclusion–giving the user the most important information first.
 * Writing in short sentences and paragraphs, allowing them to skim content.
 * Using simple words and phrases whenever possible.
@@ -181,6 +184,7 @@ Project budgets that include funds to make alterations as the project progresses
 Information on legal problems may not only be privileged but also highly sensitive, particularly when the problem is experienced by a member of a marginalised group or a person in a vulnerable situation. **Technology-based initiatives that collect data to provide a legal service face a duty to <span class="tooltip">manage the data in a responsible way.<span class="tooltiptext">Check out the Responsible Data community for more guidance on the topic: https://responsibledata.io</span></span>** This is a challenge, not just because of the need to comply with regulatory privacy frameworks, but because users describe privacy as an important issue for them.
 
 **It is impossible to eliminate all risks associated with data collection. Approaches to ensuring data security therefore involve tradeoffs between benefits to users of certain types of data collection and the extent to which risks are minimised.** The [Responsible Data community](https://responsibledata.io) has identified guiding principles and several good data security practices that are emerging within digital technology initiatives in a range of sectors. These include:
+
 * Carrying out regular data audits, mapping what data are held, where and why.
 * Collecting and storing only the minimum data necessary to avoid leakage or subpoena of data by third parties.
 * Limiting data retention – only holding data collected for as long as needed, including user IP addresses and other identifying data.
