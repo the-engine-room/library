@@ -18,7 +18,7 @@
 
     /* Position the tooltip text */
     position: absolute;
-    z-index: 1;
+    z-index: 99999;
     bottom: 110%;
     left: 50%;
     margin-left: -90px;
@@ -45,4 +45,11 @@
 .tooltip:hover .tooltiptext {
     visibility: visible;
     opacity: 1;
+    z-index: 99999;
+}
+
+
+/* special tooltips */
+#static-tooltip .tooltiptext{
+  margin-left: -70px;
 }
