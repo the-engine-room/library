@@ -4,7 +4,7 @@ title: Technology for Legal Empowerment
 description: Legal empowerment actors worldwide are using technology to give people information about the law, connect them with legal advice and provide them with legal services.
 image: /media/index/legal-empowerment.png
 funder_name: Open Society Justice Initiative
-funder_logo: /images/logos/osji.png
+funder_logo: /images/logos/osji.jpg
 funder_link: https://www.opensocietyfoundations.org/about/programs/open-society-justice-initiative
 published: true
 navigation:
@@ -67,49 +67,49 @@ This section describes the eight of the most common ways in which initiatives ar
 
 <table>
   <tr>
-    <td>**Name**</td>
-    <td>**What are they?**</td>
-    <td>**Examples**</td>
+    <td><b>Name</b></td>
+    <td><b>What are they?</b></td>
+    <td><b>Examples</b></td>
   </tr>
   <tr>
     <td><span class="tooltip" id="static-tooltip">Static sites <span class="tooltiptext">A web page that is delivered to the user exactly as stored.</span></span></td>
     <td>Online information sources, targeted at non-lawyers, which display legal information in a ‘static’ form that is not tailored to the needs of a specific user.</td>
-    <td>[LawStrive](https://www.lawstrive.com/) (Nigeria), [Singapore Legal Advice](https://singaporelegaladvice.com/about/) (Singapore), [Baobaw.law](http://baobab.law/) (South Africa)</td>
+    <td><a href="https://www.lawstrive.com/">LawStrive</a> (Nigeria), <a href="https://singaporelegaladvice.com/about/">Singapore Legal Advice</a> (Singapore), <a href="http://baobab.law/">Baobaw.law</a> (South Africa)</td>
   </tr>
   <tr>
     <td>Guided pathways to legal information</td>
     <td>These ask users a series of questions that help them refine, define or select the legal issue they are facing, and then provide them with information that is tailored to their needs.</td>
-    <td>[Illinois Legal Aid Online](https://www.illinoislegalaid.org/) (US), [Confident Commuter](http://www.confidentcommuter.org.au/) (Australia), [Represent](https://ctlawhelp.org/en/home) (US)</td>
+    <td><a href="https://www.illinoislegalaid.org/">Illinois Legal Aid Online</a> (US), <a href="http://www.confidentcommuter.org.au/">Confident Commuter</a> (Australia), <a href="https://ctlawhelp.org/en/home">Represent</a> (US)</td>
   </tr>
   <tr>
     <td>Guided pathways to specialised legal advisers</td>
     <td>These services ask users to define their problem before presenting them with information on organisations or individuals such as pro bono lawyers, non-profit organisations or lawyers who can provide further support. In some cases, this is combined with legal information in the way described in ‘Guided pathways to legal information’.</td>
-    <td>[Pakistani Lawyer](https://pakistanlawyer.com/) (Pakistan), [Justice Connect](https://justiceconnect.org.au/) (Australia), [CitizenshipWorks](https://www.citizenshipworks.org/) (US)</td>
+    <td><a href="https://pakistanlawyer.com/">Pakistani Lawyer</a> (Pakistan), <a href="https://justiceconnect.org.au/">Justice Connect</a> (Australia), <a href="https://www.citizenshipworks.org/">CitizenshipWorks</a> (US)</td>
   </tr>
   <tr>
     <td>'Live chat' features</td>
     <td>Live chat features involve a human adviser function in the same way as a telephone helpline, allowing users to chat directly to a person who can give them guidance or connect them with relevant support. A small number of initiatives allow individuals to ask questions directly to an adviser with legal training, who responds in real time, via online, real-time chat.</td>
-    <td>[Citizens Advice](https://www.citizensadvice.org.uk/) (UK), [LawHelpNY](https://www.lawhelpny.org/what-is-livehelp) (US)</td>
+    <td><a href="https://www.citizensadvice.org.uk/">Citizens Advice</a> (UK), <a href="https://www.lawhelpny.org/what-is-livehelp">LawHelpNY</a> (US)</td>
   </tr>
   <tr>
     <td>Document assembly</td>
     <td>Document assembly tools are designed to automate the creation of legal documents, such as wills or consumer complaints. Document assembly-focused initiatives primarily aim to increase the efficiency of legal processes that require a document to be created. In many jurisdictions, such documents are only otherwise available when prepared by a legal professional.</td>
-    <td>[Dear Landlord](https://applications-au.neotalogic.com/a/dearlandlord) (Australia), [c-App](http://c-app.org.uk/) (UK)</td>
+    <td><a href="https://applications-au.neotalogic.com/a/dearlandlord">Dear Landlord</a> (Australia), <a href="http://c-app.org.uk/">c-App</a> (UK)</td>
   </tr>
   <tr>
     <td>Online dispute resolution (ODR)</td>
     <td>They provide an online interface that facilitates the resolution of disputes, typically in consumer disputes or civil law matters such as divorce. They can support negotiation and mediation, or a combination of the two.</td>
-    <td>[Civil Resolution Tribunal](http://www.civilresolutionbc.ca/) (Canada), [e-Court](http://www.e-court.nl/) (Netherlands), [PreSolv](https://www.presolv360.com/) (India)</td>
+    <td><a href= "http://www.civilresolutionbc.ca/">Civil Resolution Tribunal</a> (Canada), <a href="http://www.e-court.nl/">e-Court</a> (Netherlands), <a href="https://www.presolv360.com/">PreSolv</a> (India)</td>
   </tr>
   <tr>
     <td>Structured data collection for use in legal cases</td>
     <td>These initiatives help users collect data about a legal problem in a structured way, which they can use as evidence in the justice system. This collection process typically requires users to follow a defined process when entering data into the tool.</td>
-    <td>[Callisto Campus](https://www.projectcallisto.org/) (US), [HeatSeek](https://heatseek.org/how-it-works-2) (US), [PLP 2.0](https://juntas.geledes.org.br/) (Brazil)</td>
+    <td><a href="https://www.projectcallisto.org/">Callisto Campus</a> (US), <a href="https://heatseek.org/how-it-works-2">HeatSeek</a> (US), <a href="https://juntas.geledes.org.br/">PLP 2.0</a> (Brazil)</td>
   </tr>
   <tr>
     <td>Chatbots</td>
     <td>Chatbots provide virtual information in the style of a direct-messaging chat interface, with an automated flow of questions and answers determined by conditional logic.</td>
-    <td>[LawPadi](https://lawpadi.com/) (Nigeria), [DoNotPay](http://donotpay.com) (UK/US), [LawGuide Singapore](https://www.lawguidesingapore.com/) (Singapore)</td>
+    <td><a href="https://lawpadi.com/">LawPadi</a> (Nigeria), <a href="http://donotpay.com">DoNotPay</a> (UK/US), <a href="https://www.lawguidesingapore.com/">LawGuide Singapore</a> (Singapore)</td>
   </tr>
 </table>
 
@@ -206,5 +206,3 @@ This report was last updated in January 2019.
 Commissioning editor: Matthew Burnett (Open Society Justice Initiative). Lead researcher: Tom Walker (The Engine Room). Authors: Tom Walker and Paola Verhaert (The Engine Room). Additional research and content: Ed Rekosh ([Rights CoLab](https://rightscolab.org/)) and Swati Mehta. Web version prepared by Paola Verhaert.
 
 [The Engine Room](https://theengineroom.org) is an international organisation that helps activists, organisations, and other social change agents make the most of data and technology to increase their impact.
-
-[Return to Library Home](https://library.theengineroom.org)
