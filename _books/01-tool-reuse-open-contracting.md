@@ -41,8 +41,8 @@ In 2019, in collaboration with the [Open Contracting Partnership](https://www.op
 <br>
 <br>
 <ul>
-<li><a href = "https://www.open-contracting.org/what-is-open-contracting/" target = "_blank">What is Open Contracting</a> (Open Contracting Partnership) - an introduction to open contracting</li>
-<li><a href = "https://oc-hub.org/" target = "_blank">Open Contracting Hub</a> (Transparency International) - online learning resources around open contracting</li></ul>
+<li><a href = "https://www.open-contracting.org/what-is-open-contracting/" target = "_blank">What is Open Contracting?</a> (Open Contracting Partnership) - an introduction to open contracting</li>
+<li><a href = "https://oc-hub.org/" target = "_blank">Open Contracting Hub</a> (Transparency International) - online learning resources</li></ul>
 
 </blockquote>
 <br>
