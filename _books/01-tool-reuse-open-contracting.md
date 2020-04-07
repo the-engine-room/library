@@ -60,11 +60,11 @@ From our interviews, it became clear that the following types of support play a 
 
 1. **<u>Direct help and troubleshooting from the original tool author, or others who have in-depth understanding of the original tool</u>**
 <br>
-Ideally, support will be local, and available in person. In almost every case of success we documented, whether in open contracting or in civic tech more generally, direct support played a crucial role -- particularly where support was provided under contract and with dedicated funding.
+Ideally, support will be local and available in person. In almost every case of success we documented, whether in open contracting or in civic tech more generally, direct support played a crucial role -- particularly where support was provided under contract and with dedicated funding.
 
 2. **<u>Thorough and clear tool documentation</u>**
 <br>
-Detailed, comprehensive and accessible documentation ensures that a tool can be implemented in a new context smoothly, without unexpected gaps or hidden surprises. In cases where documentation is inadequate, this can lead at best to frustration and struggle, at worst to the abandonment of a project halfway through. (For tips on writing good documentation, see our **[GUIDELINES FOR TOOLS AUTHORS AND SUPPORT PROVIDERS](https://www.theengineroom.org/wp-content/uploads/2019/12/11.19-The-Engine-Room-OC-Primer-GUIDANCE-FOR-TOOL-AUTHORS.pdf)**)
+Detailed, comprehensive and accessible documentation ensures that a tool can be implemented in a new context smoothly, without unexpected gaps or hidden surprises. In cases where documentation is inadequate, this can lead at best to frustration and struggle, at worst to the abandonment of a project halfway through. (For tips on writing good documentation, see our **[GUIDELINES FOR TOOLS AUTHORS AND SUPPORT PROVIDERS](https://www.theengineroom.org/wp-content/uploads/2019/12/11.19-The-Engine-Room-OC-Primer-GUIDANCE-FOR-TOOL-AUTHORS.pdf)**.)
 
 3. **<u>Community</u>**
 <br>
@@ -72,7 +72,7 @@ One of the key draws of re-use cited in our interviews was the opportunity to be
 
 4. **<u>Good learning resources</u>**
 <br>
-There are already some good resources out there available for new implementers, but our interviews showed that more are needed, particularly on a relatively ‘intermediate’ level – i.e. pitched at those who are not necessarily programmers, but who would still like to get into more detail than provided by more ‘overview-level’ resources.
+There are already some good resources out there available for new implementers, but our interviews showed that more are needed, particularly on a relatively ‘intermediate’ level – i.e. pitched at those who are not necessarily programmers, but who would still like to get into more detail than provided by more ‘overview’ level resources.
 
 5. **<u>Sufficient financing</u>**
 <br>
@@ -88,10 +88,10 @@ For a tool to be successfully re-used in a new context, a degree of adaptation i
 Open contracting systems often need to be used by a cross-section of users with differing technical abilities. In our interviews, technical complexity came up repeatedly as a barrier to successful re-use, and a need was expressed for tools that are easier for a wider range of people to use (e.g. web-based tools).
 
 ### Recognition of differences in context
-1. Differences between the context the tool was originally designed for and the new context can be substantial, and can determine whether a re-use project is successful or not (Differences in technological infrastructure, for example, were cited surprisingly frequently in our interviews as a barrier to success).
+1. Differences between the context the tool was originally designed for and the new context can be substantial, and can determine whether a re-use project is successful or not. (Differences in technological infrastructure, for example, were cited surprisingly frequently in our interviews as a barrier to success.)
 2. For practitioners interested in re-using a specific tool, this means looking at the context for which that tool was originally designed, mapping it carefully against their own, and adapting where necessary.
 
-### Adequate access to data, quality of data, and government buy-in
+### Adequate access to data, quality of data and government buy-in
 Though not specific to re-use projects, the importance of quality data and political buy-in came up so often in our interviews that they deserve a mention. Lack of access to data and lack of quality data in particular were highlighted as major challenges.
 <br>
 <br>
